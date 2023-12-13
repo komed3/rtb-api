@@ -21,6 +21,7 @@
     "rtb_update": "node index.js"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "fs": "^0.0.1-security"
   }
 }
