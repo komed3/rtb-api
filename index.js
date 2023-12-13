@@ -58,8 +58,10 @@ async function run() {
             profile.assets = data.financialAssets || null;
 
             /**
-             * update list data
+             * update live data
              */
+
+            let last = profile.worth || 0;
 
             profile.rank = data.rank || null;
             profile.worth = parseFloat(
@@ -67,6 +69,20 @@ async function run() {
                 data.archivedWorth ||
                 0
             );
+
+            /* update net worth change */
+
+            if( last > 0 ) {
+
+                let cng = profile.worth - last;
+
+                profile.change = {
+                    date: new Date( data.timestamp || 'now' ),
+                    value: cng,
+                    pct: cng / profile.worth * 100
+                };
+
+            }
 
             /**
              * save profile
