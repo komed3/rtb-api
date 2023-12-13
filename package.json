@@ -1,0 +1,26 @@
+{
+  "name": "rtb-api",
+  "version": "1.0.0",
+  "description": "real time billionaires API",
+  "author": {
+    "name": "komed3 (Paul Köhler)",
+    "email": "webmaster@komed3.de",
+    "url": "https://komed3.de"
+  },
+  "homepage": "https://github.com/komed3/rtb-api",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komed3/rtb-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/komed3/rtb-api/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "rtb_update": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
