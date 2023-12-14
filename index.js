@@ -18,6 +18,8 @@ async function run() {
         response.data.personList.personsLists
     ) {
 
+        let list = [];
+
         response.data.personList.personsLists.forEach( ( data ) => {
 
             let path = __dirname + '/profile/' + data.uri + '/',
@@ -38,20 +40,22 @@ async function run() {
              * save profile info
              */
 
+            let info = {
+                name: data.person.name || data.personName || null,
+                gender: data.gender.toLowerCase() || null,
+                birthDate: data.birthDate
+                    ? new Date( data.birthDate )
+                    : null,
+                citizenship: data.countryOfCitizenship || null,
+                state: data.state || null,
+                city: data.city || null,
+                source: data.source || null,
+                industries: data.industries || null
+            };
+
             fs.writeFileSync(
                 path + 'info.json',
-                JSON.stringify( {
-                    name: data.person.name || data.personName || null,
-                    gender: data.gender.toLowerCase() || null,
-                    birthDate: data.birthDate
-                        ? new Date( data.birthDate )
-                        : null,
-                    citizenship: data.countryOfCitizenship || null,
-                    state: data.state || null,
-                    city: data.city || null,
-                    source: data.source || null,
-                    industries: data.industries || null
-                } || null, null, 2 ),
+                JSON.stringify( info, null, 2 ),
                 { flag: 'w' }
             );
 
@@ -79,11 +83,7 @@ async function run() {
              * update net worth data
              */
 
-            let networth = parseFloat(
-                data.finalWorth ||
-                data.archivedWorth ||
-                0
-            );
+            let networth = parseFloat( data.finalWorth || 0 );
 
             let latest = null,
                 change = null;
@@ -149,6 +149,29 @@ async function run() {
             }
 
             /**
+             * add list entry
+             */
+
+            if( networth >= 1000 ) {
+
+                list.push( {
+                    rank: data.rank,
+                    uri: data.uri,
+                    name: info.name,
+                    gender: info.gender,
+                    age: info.birthDate ? new Date(
+                        new Date() - new Date( info.birthDate )
+                    ).getFullYear() - 1970 : null,
+                    country: info.citizenship,
+                    industries: info.industries,
+                    source: info.source,
+                    networth: networth,
+                    change: change
+                } );
+
+            }
+
+            /**
              * save last touched timestamp
              */
 
@@ -159,6 +182,28 @@ async function run() {
             );
 
         } );
+
+        /**
+         * save daily list
+         */
+
+        let ts = new Date(),
+            today = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate(),
+            stream = JSON.stringify( {
+                date: today,
+                count: list.length,
+                list: list
+            }, null, 2 );
+
+        fs.writeFileSync(
+            __dirname + '/list/' + today + '.json',
+            stream, { flag: 'w' }
+        );
+
+        fs.writeFileSync(
+            __dirname + '/list/latest.json',
+            stream, { flag: 'w' }
+        );
 
     }
 
