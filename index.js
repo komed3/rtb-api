@@ -24,8 +24,8 @@ async function run() {
             woman = 0;
 
         let stats = {
-            countries: {},
-            industries: {}
+            country: {},
+            industry: {}
         };
 
         let movers = {
@@ -195,17 +195,17 @@ async function run() {
 
                     info.industries.forEach( ( i ) => {
 
-                        if( !( i in stats.industries ) ) {
+                        if( !( i in stats.industry ) ) {
 
-                            stats.industries[ i ] = {
+                            stats.industry[ i ] = {
                                 value: 0,
                                 count: 0
                             };
 
                         }
 
-                        stats.industries[ i ].value += change.pct;
-                        stats.industries[ i ].count++;
+                        stats.industry[ i ].value += change.pct;
+                        stats.industry[ i ].count++;
 
                     } );
 
@@ -213,17 +213,17 @@ async function run() {
 
                 if( info.citizenship ) {
 
-                    if( !( info.citizenship in stats.countries ) ) {
+                    if( !( info.citizenship in stats.country ) ) {
 
-                        stats.countries[ info.citizenship ] = {
+                        stats.country[ info.citizenship ] = {
                             value: 0,
                             count: 0
                         };
 
                     }
 
-                    stats.countries[ info.citizenship ].value += change.pct;
-                    stats.countries[ info.citizenship ].count++;
+                    stats.country[ info.citizenship ].value += change.pct;
+                    stats.country[ info.citizenship ].count++;
 
                 }
 
@@ -291,26 +291,22 @@ async function run() {
 
         for( const [ key, entries ] of Object.entries( stats ) ) {
 
-            let _stats = {};
-
             for( const [ k, v ] of Object.entries( entries ) ) {
 
-                _stats[ k
-                    .toLowerCase()
-                    .replace( /[^a-z0-9-]/g, '-' )
-                    .replace( /-{1,}/g, '-' )
-                    .trim()
-                ] = Number(
-                    ( v.value / v.count ).toFixed( 3 )
+                fs.appendFileSync(
+                    __dirname + 'stats/' + key + '/' + ( k
+                        .toLowerCase()
+                        .replace( /[^a-z0-9-]/g, '-' )
+                        .replace( /-{1,}/g, '-' )
+                        .trim()
+                    ) + '.csv',
+                    today + ' ' + (
+                        v.value / v.count
+                    ).toFixed( 3 ) + '\r\n',
+                    { flag: 'a' }
                 );
 
             }
-
-            fs.writeFileSync(
-                __dirname + '/stats/' + key + '.json',
-                JSON.stringify( _stats, null, 2 ),
-                { flag: 'w' }
-            );
 
         }
 
