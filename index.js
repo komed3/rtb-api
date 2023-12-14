@@ -20,7 +20,9 @@ async function run() {
 
         response.data.personList.personsLists.forEach( ( data ) => {
 
-            let path = __dirname + '/profile/' + data.uri + '/';
+            let path = __dirname + '/profile/' + data.uri + '/',
+                ts = new Date( data.timestamp ),
+                date = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate();
 
             /**
              * create new folder if not exists
@@ -72,6 +74,74 @@ async function run() {
                 JSON.stringify( data.financialAssets || null, null, 2 ),
                 { flag: 'w' }
             );
+
+            /**
+             * update net worth data
+             */
+
+            let networth = parseFloat(
+                data.finalWorth ||
+                data.archivedWorth ||
+                0
+            );
+
+            let change = null;
+
+            if( fs.existsSync( path + 'networth.json' ) ) {
+
+                let latest = JSON.parse( fs.readFileSync( path + 'networth.json' ) );
+
+                if( latest.value && networth != latest.value ) {
+
+                    let cng = networth - latest.value;
+
+                    change = {
+                        value: cng,
+                        pct: cng / networth * 100,
+                        date: date
+                    };
+
+                }
+
+            }
+
+            fs.writeFileSync(
+                path + 'networth.json',
+                JSON.stringify( {
+                    value: networth,
+                    change: change,
+                    private: parseFloat( data.privateAssetsWorth || 0 ),
+                    archived: parseFloat( data.archivedWorth || 0 )
+                } || null, null, 2 ),
+                { flag: 'w' }
+            );
+
+            /**
+             * update net worth history (chart data)
+             */
+
+            fs.appendFileSync(
+                path + 'history',
+                date + ' ' + networth + '\r\n',
+                { flag: 'a' }
+            );
+
+            /**
+             * save rank if net worth > 0
+             */
+
+            if( networth > 0 ) {
+
+                fs.writeFileSync(
+                    path + 'rank.json',
+                    JSON.stringify( {
+                        rank: data.rank,
+                        date: date
+                    } || null, null, 2 ),
+                    { flag: 'w' }
+                );
+
+            }
 
             /**
              * save last touched timestamp
