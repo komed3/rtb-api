@@ -6,6 +6,25 @@ const fs = require( 'fs' );
 async function run() {
 
     /**
+     * create folders (if not exists)
+     */
+
+    [
+        '/profile',
+        '/list',
+        '/stats/country',
+        '/stats/industry',
+        '/movers'
+    ].forEach( ( dir ) => {
+
+        fs.mkdirSync(
+            __dirname + dir,
+            { recursive: true }
+        );
+
+    } );
+
+    /**
      * fetch data
      */
 
