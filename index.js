@@ -20,6 +20,14 @@ async function run() {
 
         let list = [];
 
+        let total = 0,
+            woman = 0;
+
+        let stats = {
+            countries: {},
+            industries: {}
+        };
+
         response.data.personList.personsLists.forEach( ( data ) => {
 
             let path = __dirname + '/profile/' + data.uri + '/',
@@ -83,7 +91,7 @@ async function run() {
              * update net worth data
              */
 
-            let networth = parseFloat( data.finalWorth || 0 );
+            let networth = Number( parseFloat( data.finalWorth || 0 ).toFixed( 3 ) );
 
             let latest = null,
                 change = null;
@@ -97,8 +105,8 @@ async function run() {
                     let cng = networth - latest.value;
 
                     change = {
-                        value: cng,
-                        pct: cng / networth * 100,
+                        value: Number( cng.toFixed( 3 ) ),
+                        pct: Number( ( cng / networth * 100 ).toFixed( 3 ) ),
                         date: date
                     };
 
@@ -169,6 +177,62 @@ async function run() {
                     change: change
                 } );
 
+                /**
+                 * stats
+                 */
+
+                total += networth;
+
+                if( info.gender == 'f' ) {
+
+                    woman++;
+
+                }
+
+                if( change != null ) {
+
+                    if( info.industries && info.industries.length > 0 ) {
+
+                        info.industries.forEach( ( _i ) => {
+
+                            let i = _i.toLowerCase();
+
+                            if( !( i in stats.industries ) ) {
+
+                                stats.industries[ i ] = {
+                                    value: 0,
+                                    count: 0
+                                };
+
+                            }
+
+                            stats.industries[ i ].value += change.pct;
+                            stats.industries[ i ].count++;
+
+                        } );
+
+                    }
+
+                    if( info.citizenship ) {
+
+                        let c = info.citizenship.toLowerCase();
+
+                        if( !( c in stats.countries ) ) {
+
+                            stats.countries[ c ] = {
+                                value: 0,
+                                count: 0
+                            };
+
+                        }
+
+                        stats.countries[ c ].value += change.pct;
+                        stats.countries[ c ].count++;
+
+                    }
+
+                }
+
             }
 
             /**
@@ -188,12 +252,15 @@ async function run() {
          */
 
         let ts = new Date(),
-            today = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate(),
-            stream = JSON.stringify( {
-                date: today,
-                count: list.length,
-                list: list
-            }, null, 2 );
+            today = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate();
+
+        let stream = JSON.stringify( {
+            date: today,
+            count: list.length,
+            woman: woman,
+            total: Number( total.toFixed( 3 ) ),
+            list: list
+        }, null, 2 );
 
         fs.writeFileSync(
             __dirname + '/list/' + today + '.json',
@@ -203,6 +270,25 @@ async function run() {
         fs.writeFileSync(
             __dirname + '/list/latest.json',
             stream, { flag: 'w' }
+        );
+
+        /**
+         * save stats
+         */
+
+        fs.writeFileSync(
+            __dirname + '/stats/count',
+            list.length.toString(), { flag: 'w' }
+        );
+
+        fs.writeFileSync(
+            __dirname + '/stats/woman',
+            woman.toString(), { flag: 'w' }
+        );
+
+        fs.writeFileSync(
+            __dirname + '/stats/total',
+            total.toFixed( 3 ), { flag: 'w' }
         );
 
     }
