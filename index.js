@@ -28,6 +28,11 @@ async function run() {
             industries: {}
         };
 
+        let movers = {
+            value: {},
+            pct: {}
+        };
+
         response.data.personList.personsLists.forEach( ( data ) => {
 
             let path = __dirname + '/profile/' + data.uri + '/',
@@ -181,7 +186,7 @@ async function run() {
             }
 
             /**
-             * calculate stats
+             * calculate stats & daily movers
              */
 
             if( change != null ) {
@@ -222,6 +227,9 @@ async function run() {
 
                 }
 
+                movers.value[ data.uri ] = change.value;
+                movers.pct[ data.uri ] = change.pct;
+
             }
 
             /**
@@ -241,9 +249,10 @@ async function run() {
          */
 
         let ts = new Date(),
-            today = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate();
+            today = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate(),
+            stream = '';
 
-        let stream = JSON.stringify( {
+        stream = JSON.stringify( {
             date: today,
             count: list.length,
             woman: woman,
@@ -304,6 +313,69 @@ async function run() {
             );
 
         }
+
+        /**
+         * calculate daily movers
+         */
+
+        let _movers = {
+            value: {
+                winner: {},
+                loser: {}
+            },
+            pct: {
+                winner: {},
+                loser: {}
+            }
+        };
+
+        if( Object.keys( movers.value ).length ) {
+
+            _movers.value.winner = Object.entries( movers.value ).filter(
+                ( [ ,a ] ) => a > 0
+            ).sort(
+                ( [ ,a ], [ ,b ] ) => b - a
+            ).slice( 0, 5 );
+
+            _movers.value.loser = Object.entries( movers.value ).filter(
+                ( [ ,a ] ) => a < 0
+            ).sort(
+                ( [ ,a ], [ ,b ] ) => a - b
+            ).slice( 0, 5 );
+
+        }
+
+        if( Object.keys( movers.pct ).length ) {
+
+            _movers.pct.winner = Object.entries( movers.pct ).filter(
+                ( [ ,a ] ) => a > 0
+            ).sort(
+                ( [ ,a ], [ ,b ] ) => b - a
+            ).slice( 0, 5 );
+
+            _movers.pct.loser = Object.entries( movers.pct ).filter(
+                ( [ ,a ] ) => a < 0
+            ).sort(
+                ( [ ,a ], [ ,b ] ) => a - b
+            ).slice( 0, 5 );
+
+        }
+
+        /**
+         * save daily movers
+         */
+
+        stream = JSON.stringify( _movers, null, 2 );
+
+        fs.writeFileSync(
+            __dirname + '/movers/' + today + '.json',
+            stream, { flag: 'w' }
+        );
+
+        fs.writeFileSync(
+            __dirname + '/movers/latest.json',
+            stream, { flag: 'w' }
+        );
 
     }
 
