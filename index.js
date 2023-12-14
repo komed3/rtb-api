@@ -335,13 +335,13 @@ async function run() {
                 ( [ ,a ] ) => a > 0
             ).sort(
                 ( [ ,a ], [ ,b ] ) => b - a
-            ).slice( 0, 5 );
+            ).slice( 0, 10 );
 
             _movers.value.loser = Object.entries( movers.value ).filter(
                 ( [ ,a ] ) => a < 0
             ).sort(
                 ( [ ,a ], [ ,b ] ) => a - b
-            ).slice( 0, 5 );
+            ).slice( 0, 10 );
 
         }
 
@@ -351,13 +351,13 @@ async function run() {
                 ( [ ,a ] ) => a > 0
             ).sort(
                 ( [ ,a ], [ ,b ] ) => b - a
-            ).slice( 0, 5 );
+            ).slice( 0, 10 );
 
             _movers.pct.loser = Object.entries( movers.pct ).filter(
                 ( [ ,a ] ) => a < 0
             ).sort(
                 ( [ ,a ], [ ,b ] ) => a - b
-            ).slice( 0, 5 );
+            ).slice( 0, 10 );
 
         }
 
