@@ -85,11 +85,12 @@ async function run() {
                 0
             );
 
-            let change = null;
+            let latest = null,
+                change = null;
 
             if( fs.existsSync( path + 'networth.json' ) ) {
 
-                let latest = JSON.parse( fs.readFileSync( path + 'networth.json' ) );
+                latest = JSON.parse( fs.readFileSync( path + 'networth.json' ) );
 
                 if( latest.value && networth != latest.value ) {
 
@@ -120,11 +121,15 @@ async function run() {
              * update net worth history (chart data)
              */
 
-            fs.appendFileSync(
-                path + 'history.csv',
-                date + ' ' + networth + '\r\n',
-                { flag: 'a' }
-            );
+            if( change != null || latest == null ) {
+
+                fs.appendFileSync(
+                    path + 'history.csv',
+                    date + ' ' + networth + '\r\n',
+                    { flag: 'a' }
+                );
+
+            }
 
             /**
              * save rank if net worth > 0
