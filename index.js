@@ -29,7 +29,7 @@ async function run() {
      */
 
     const response = await axios.get(
-        'https://web.archive.org/web/20200207052442/https://www.forbes.com/forbesapi/person/rtb/0/position/true.json'
+        'https://www.forbes.com/forbesapi/person/rtb/0/position/true.json'
     );
 
     if(
@@ -56,7 +56,9 @@ async function run() {
 
             let path = __dirname + '/profile/' + data.uri + '/',
                 ts = new Date( data.timestamp ),
-                date = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate();
+                date = ts.getFullYear() + '-' +
+                    ( ts.getMonth() + 1 ).toString().padStart( 2, '0' ) + '-' +
+                    ( ts.getDate() ).toString().padStart( 2, '0' );
 
             /**
              * create new folder if not exists
@@ -207,46 +209,50 @@ async function run() {
             }
 
             /**
-             * calculate stats & daily movers
+             * calculate worth changes (countries & industries)
              */
 
-            if( change != null ) {
+            if( info.industries && info.industries.length > 0 ) {
 
-                if( info.industries && info.industries.length > 0 ) {
+                info.industries.forEach( ( i ) => {
 
-                    info.industries.forEach( ( i ) => {
+                    if( !( i in stats.industry ) ) {
 
-                        if( !( i in stats.industry ) ) {
-
-                            stats.industry[ i ] = {
-                                value: 0,
-                                count: 0
-                            };
-
-                        }
-
-                        stats.industry[ i ].value += change.pct;
-                        stats.industry[ i ].count++;
-
-                    } );
-
-                }
-
-                if( info.citizenship ) {
-
-                    if( !( info.citizenship in stats.country ) ) {
-
-                        stats.country[ info.citizenship ] = {
+                        stats.industry[ i ] = {
                             value: 0,
                             count: 0
                         };
 
                     }
 
-                    stats.country[ info.citizenship ].value += change.pct;
-                    stats.country[ info.citizenship ].count++;
+                    stats.industry[ i ].value += change != null ? change.pct : 0;
+                    stats.industry[ i ].count++;
+
+                } );
+
+            }
+
+            if( info.citizenship ) {
+
+                if( !( info.citizenship in stats.country ) ) {
+
+                    stats.country[ info.citizenship ] = {
+                        value: 0,
+                        count: 0
+                    };
 
                 }
+
+                stats.country[ info.citizenship ].value += change != null ? change.pct : null;
+                stats.country[ info.citizenship ].count++;
+
+            }
+
+            /**
+             * daily movers
+             */
+
+            if( change != null ) {
 
                 movers.value[ data.uri ] = change.value;
                 movers.pct[ data.uri ] = change.pct;
@@ -270,7 +276,9 @@ async function run() {
          */
 
         let ts = new Date(),
-            today = ts.getFullYear() + '-' + ( ts.getMonth() + 1 ) + '-' + ts.getDate(),
+            today = ts.getFullYear() + '-' +
+                ( ts.getMonth() + 1 ).toString().padStart( 2, '0' ) + '-' +
+                ( ts.getDate() ).toString().padStart( 2, '0' ),
             stream = '';
 
         stream = JSON.stringify( {
@@ -322,7 +330,7 @@ async function run() {
             for( const [ k, v ] of Object.entries( entries ) ) {
 
                 fs.appendFileSync(
-                    __dirname + 'stats/' + key + '/' + ( k
+                    __dirname + '/stats/' + key + '/' + ( k
                         .toLowerCase()
                         .replace( /[^a-z0-9-]/g, '-' )
                         .replace( /-{1,}/g, '-' )
