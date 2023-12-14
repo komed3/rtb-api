@@ -5,6 +5,10 @@ const fs = require( 'fs' );
 
 async function run() {
 
+    /**
+     * fetch data
+     */
+
     const response = await axios.get(
         'https://www.forbes.com/forbesapi/person/rtb/0/position/true.json'
     );
@@ -16,83 +20,66 @@ async function run() {
 
         response.data.personList.personsLists.forEach( ( data ) => {
 
-            let path = __dirname + '/profile/' + data.uri + '.json',
-                profile = {};
+            let path = __dirname + '/profile/' + data.uri + '/';
 
             /**
-             * load profile if available
+             * create new folder if not exists
              */
 
-            if( fs.existsSync( path ) ) {
+            if( !fs.existsSync( path ) ) {
 
-                profile = JSON.parse(
-                    fs.readFileSync( path ) || '{}'
-                );
+                fs.mkdirSync( path, { recursive: true } );
 
             }
 
             /**
-             * profile info and bio
+             * save profile info
              */
-
-            profile.profile = {};
-
-            profile.profile.name = data.person.name || data.personName || null;
-            profile.profile.gender = data.gender.toLowerCase() || null;
-            profile.profile.birthDate = data.birthDate
-                ? new Date( data.birthDate )
-                : null;
-
-            profile.profile.citizenship = data.countryOfCitizenship || null;
-            profile.profile.state = data.state || null;
-            profile.profile.city = data.city || null;
-
-            profile.bio = data.bios || null;
-
-            /**
-             * net worth data
-             */
-
-            profile.source = data.source || null;
-            profile.industries = data.industries || null;
-            profile.assets = data.financialAssets || null;
-
-            /**
-             * update live data
-             */
-
-            let last = profile.worth || 0;
-
-            profile.rank = data.rank || null;
-            profile.worth = parseFloat(
-                data.finalWorth ||
-                data.archivedWorth ||
-                0
-            );
-
-            /* update net worth change */
-
-            if( last > 0 ) {
-
-                let cng = profile.worth - last;
-
-                profile.change = {
-                    date: new Date( data.timestamp || 'now' ),
-                    value: cng,
-                    pct: cng / profile.worth * 100
-                };
-
-            }
-
-            /**
-             * save profile
-             */
-
-            profile.touched = new Date();
 
             fs.writeFileSync(
-                path,
-                JSON.stringify( profile, null, 4 ),
+                path + 'info.json',
+                JSON.stringify( {
+                    name: data.person.name || data.personName || null,
+                    gender: data.gender.toLowerCase() || null,
+                    birthDate: data.birthDate
+                        ? new Date( data.birthDate )
+                        : null,
+                    citizenship: data.countryOfCitizenship || null,
+                    state: data.state || null,
+                    city: data.city || null,
+                    source: data.source || null,
+                    industries: data.industries || null
+                } || null, null, 2 ),
+                { flag: 'w' }
+            );
+
+            /**
+             * save bios
+             */
+
+            fs.writeFileSync(
+                path + 'bio.json',
+                JSON.stringify( data.bios || null, null, 2 ),
+                { flag: 'w' }
+            );
+
+            /**
+             * save financial assets
+             */
+
+            fs.writeFileSync(
+                path + 'assets.json',
+                JSON.stringify( data.financialAssets || null, null, 2 ),
+                { flag: 'w' }
+            );
+
+            /**
+             * save last touched timestamp
+             */
+
+            fs.writeFileSync(
+                path + 'timestamp',
+                ( new Date( data.timestamp ) ).toISOString(),
                 { flag: 'w' }
             );
 
