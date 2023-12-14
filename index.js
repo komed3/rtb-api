@@ -121,7 +121,7 @@ async function run() {
              */
 
             fs.appendFileSync(
-                path + 'history',
+                path + 'history.csv',
                 date + ' ' + networth + '\r\n',
                 { flag: 'a' }
             );
