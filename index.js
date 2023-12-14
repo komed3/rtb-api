@@ -286,7 +286,12 @@ async function run() {
 
             for( const [ k, v ] of Object.entries( entries ) ) {
 
-                _stats[ k.replace( /[^a-z0-9áéíóúñü \.,_-]/gim, '' ).trim() ] = Number(
+                _stats[ k
+                    .toLowerCase()
+                    .replace( /[^a-z0-9-]/g, '-' )
+                    .replace( /-{1,}/g, '-' )
+                    .trim()
+                ] = Number(
                     ( v.value / v.count ).toFixed( 3 )
                 );
 
