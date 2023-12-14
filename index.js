@@ -292,6 +292,10 @@ async function run() {
             { flag: 'a' }
         );
 
+        /**
+         * track worth changes
+         */
+
         for( const [ key, entries ] of Object.entries( stats ) ) {
 
             for( const [ k, v ] of Object.entries( entries ) ) {
