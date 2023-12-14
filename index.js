@@ -274,19 +274,22 @@ async function run() {
          * save stats
          */
 
-        fs.writeFileSync(
-            __dirname + '/stats/count',
-            list.length.toString(), { flag: 'w' }
+        fs.appendFileSync(
+            __dirname + '/stats/count.csv',
+            today + ' ' + list.length + '\r\n',
+            { flag: 'a' }
         );
 
-        fs.writeFileSync(
-            __dirname + '/stats/woman',
-            woman.toString(), { flag: 'w' }
+        fs.appendFileSync(
+            __dirname + '/stats/woman.csv',
+            today + ' ' + woman + '\r\n',
+            { flag: 'a' }
         );
 
-        fs.writeFileSync(
-            __dirname + '/stats/total',
-            total.toFixed( 3 ), { flag: 'w' }
+        fs.appendFileSync(
+            __dirname + '/stats/total.csv',
+            today + ' ' + total.toFixed( 3 ) + '\r\n',
+            { flag: 'a' }
         );
 
         for( const [ key, entries ] of Object.entries( stats ) ) {
