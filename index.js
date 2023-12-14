@@ -29,7 +29,7 @@ async function run() {
      */
 
     const response = await axios.get(
-        'https://www.forbes.com/forbesapi/person/rtb/0/position/true.json'
+        'https://web.archive.org/web/20200207052442/https://www.forbes.com/forbesapi/person/rtb/0/position/true.json'
     );
 
     if(
@@ -74,7 +74,9 @@ async function run() {
 
             let info = {
                 name: data.person.name || data.personName || null,
-                gender: data.gender.toLowerCase() || null,
+                gender: data.gender
+                    ? data.gender.toLowerCase()
+                    : null,
                 birthDate: data.birthDate
                     ? new Date( data.birthDate )
                     : null,
