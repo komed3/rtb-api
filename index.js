@@ -140,10 +140,11 @@ async function run() {
             }
 
             /**
-             * save rank if net worth > 0
+             * save rank and list data
+             * requires net worth > $1B
              */
 
-            if( networth > 0 ) {
+            if( data.rank && networth >= 1000 ) {
 
                 fs.writeFileSync(
                     path + 'rank.json',
@@ -153,14 +154,6 @@ async function run() {
                     } || null, null, 2 ),
                     { flag: 'w' }
                 );
-
-            }
-
-            /**
-             * add list entry
-             */
-
-            if( networth >= 1000 ) {
 
                 list.push( {
                     rank: data.rank,
@@ -177,10 +170,6 @@ async function run() {
                     change: change
                 } );
 
-                /**
-                 * stats
-                 */
-
                 total += networth;
 
                 if( info.gender == 'f' ) {
@@ -189,47 +178,47 @@ async function run() {
 
                 }
 
-                if( change != null ) {
+            }
 
-                    if( info.industries && info.industries.length > 0 ) {
+            /**
+             * calculate stats
+             */
 
-                        info.industries.forEach( ( _i ) => {
+            if( change != null ) {
 
-                            let i = _i.toLowerCase();
+                if( info.industries && info.industries.length > 0 ) {
 
-                            if( !( i in stats.industries ) ) {
+                    info.industries.forEach( ( i ) => {
 
-                                stats.industries[ i ] = {
-                                    value: 0,
-                                    count: 0
-                                };
+                        if( !( i in stats.industries ) ) {
 
-                            }
-
-                            stats.industries[ i ].value += change.pct;
-                            stats.industries[ i ].count++;
-
-                        } );
-
-                    }
-
-                    if( info.citizenship ) {
-
-                        let c = info.citizenship.toLowerCase();
-
-                        if( !( c in stats.countries ) ) {
-
-                            stats.countries[ c ] = {
+                            stats.industries[ i ] = {
                                 value: 0,
                                 count: 0
                             };
 
                         }
 
-                        stats.countries[ c ].value += change.pct;
-                        stats.countries[ c ].count++;
+                        stats.industries[ i ].value += change.pct;
+                        stats.industries[ i ].count++;
+
+                    } );
+
+                }
+
+                if( info.citizenship ) {
+
+                    if( !( info.citizenship in stats.countries ) ) {
+
+                        stats.countries[ info.citizenship ] = {
+                            value: 0,
+                            count: 0
+                        };
 
                     }
+
+                    stats.countries[ info.citizenship ].value += change.pct;
+                    stats.countries[ info.citizenship ].count++;
 
                 }
 
@@ -290,6 +279,26 @@ async function run() {
             __dirname + '/stats/total',
             total.toFixed( 3 ), { flag: 'w' }
         );
+
+        for( const [ key, entries ] of Object.entries( stats ) ) {
+
+            let _stats = {};
+
+            for( const [ k, v ] of Object.entries( entries ) ) {
+
+                _stats[ k.replace( /[^a-z0-9áéíóúñü \.,_-]/gim, '' ).trim() ] = Number(
+                    ( v.value / v.count ).toFixed( 3 )
+                );
+
+            }
+
+            fs.writeFileSync(
+                __dirname + '/stats/' + key + '.json',
+                JSON.stringify( _stats, null, 2 ),
+                { flag: 'w' }
+            );
+
+        }
 
     }
 
