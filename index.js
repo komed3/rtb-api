@@ -215,6 +215,54 @@ async function run() {
             }
 
             /**
+             * extended stats
+             */
+
+            let cng_pct = change != null ? change.pct : 0;
+
+            if( info.industries && info.industries.length ) {
+
+                info.industries.forEach( ( industry ) => {
+
+                    if( !( industry in stats.industry ) ) {
+
+                        stats.industry[ industry ] = {
+                            count: 0,
+                            total: 0,
+                            value: 0
+                        };
+
+                    }
+
+                    stats.industry[ industry ].count++;
+
+                    stats.industry[ industry ].total += networth;
+                    stats.industry[ industry ].value += cng_pct;
+
+                } );
+
+            }
+
+            if( info.citizenship ) {
+
+                if( !( info.citizenship in stats.country ) ) {
+
+                    stats.country[ info.citizenship ] = {
+                        count: 0,
+                        total: 0,
+                        value: 0
+                    };
+
+                }
+
+                stats.country[ info.citizenship ].count++;
+
+                stats.country[ info.citizenship ].total += networth;
+                stats.country[ info.citizenship ].value += cng_pct;
+
+            }
+
+            /**
              * append history
              */
 
@@ -277,6 +325,31 @@ async function run() {
             today + ' ' + stats.woman + '\r\n',
             { flag: 'a' }
         );
+
+        for( const [ key, value ] of Object.entries( stats ) ) {
+
+            if( typeof value == 'object' ) {
+
+                for( const [ k, v ] of Object.entries( value ) ) {
+
+                    fs.appendFileSync(
+                        dir + 'stats/' + key + '/' + ( k
+                            .toLowerCase()
+                            .replace( /[^a-z0-9-]/g, '-' )
+                            .replace( /-{1,}/g, '-' )
+                            .trim()
+                        ),
+                        today + ' ' + v.count + ' ' + v.total.toFixed( 3 ) + ' ' + (
+                            v.value / v.count
+                        ).toFixed( 3 ) + '\r\n',
+                        { flag: 'a' }
+                    );
+
+                }
+
+            }
+
+        }
 
     }
 
