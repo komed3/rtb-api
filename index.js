@@ -33,8 +33,8 @@ async function run() {
      */
 
     if(
-        fs.existsSync( dir + 'updated' ) &&
-        fs.readFileSync( dir + 'updated' ).toString().split( 'T' )[0] == today
+        fs.existsSync( dir + 'latest' ) &&
+        fs.readFileSync( dir + 'latest' ).toString().split( 'T' )[0] == today
     ) {
 
         process.exit(1);
@@ -468,8 +468,13 @@ async function run() {
     } );
 
     /**
-     * updated timestamp
+     * update timestamp
      */
+
+    fs.writeFileSync(
+        dir + 'latest',
+        today, { flag: 'w' }
+    );
 
     fs.writeFileSync(
         dir + 'updated',
