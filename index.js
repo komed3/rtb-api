@@ -263,6 +263,17 @@ async function run() {
             }
 
             /**
+             * daily movers
+             */
+
+            if( change != null ) {
+
+                movers.value[ uri ] = change.value;
+                movers.pct[ uri ] = change.pct;
+
+            }
+
+            /**
              * append history
              */
 
@@ -346,6 +357,64 @@ async function run() {
                     );
 
                 }
+
+            }
+
+        }
+
+        /**
+         * daily movers
+         */
+
+        for( const [ type, entries ] of Object.entries( movers ) ) {
+
+            if( Object.keys( entries ).length ) {
+
+                /**
+                 * winners
+                 */
+
+                stream = JSON.stringify(
+                    Object.entries( entries ).filter(
+                        ( [ ,a ] ) => a > 0
+                    ).sort(
+                        ( [ ,a ], [ ,b ] ) => b - a
+                    ).slice( 0, 10 ),
+                    null, 2
+                );
+
+                fs.writeFileSync(
+                    dir + 'movers/' + type + '/winner/' + today,
+                    stream, { flag: 'w' }
+                );
+
+                fs.writeFileSync(
+                    dir + 'movers/' + type + '/winner/latest',
+                    stream, { flag: 'w' }
+                );
+
+                /**
+                 * losers
+                 */
+
+                stream = JSON.stringify(
+                    Object.entries( entries ).filter(
+                        ( [ ,a ] ) => a < 0
+                    ).sort(
+                        ( [ ,a ], [ ,b ] ) => a - b
+                    ).slice( 0, 10 ),
+                    null, 2
+                );
+
+                fs.writeFileSync(
+                    dir + 'movers/' + type + '/loser/' + today,
+                    stream, { flag: 'w' }
+                );
+
+                fs.writeFileSync(
+                    dir + 'movers/' + type + '/loser/latest',
+                    stream, { flag: 'w' }
+                );
 
             }
 
