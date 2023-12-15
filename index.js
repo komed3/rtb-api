@@ -1,5 +1,6 @@
 'use strict';
 
+const dir = __dirname + '/api/';
 const api = 'https://www.forbes.com/forbesapi/person/rtb/0/position/true.json';
 const today = ( new Date() ).toISOString().split( 'T' )[0];
 
@@ -13,17 +14,17 @@ async function run() {
      */
 
     [
-        '/list/rtb/',
-        '/movers/pct/winner/',
-        '/movers/pct/loser/',
-        '/movers/value/winner/',
-        '/movers/value/loser/',
-        '/profile/',
-        '/stats/country/',
-        '/stats/industry/'
-    ].forEach( ( dir ) => {
+        'list/rtb/',
+        'movers/pct/winner/',
+        'movers/pct/loser/',
+        'movers/value/winner/',
+        'movers/value/loser/',
+        'profile/',
+        'stats/country/',
+        'stats/industry/'
+    ].forEach( ( d ) => {
 
-        fs.mkdirSync( __dirname + dir, { recursive: true } );
+        fs.mkdirSync( dir + d, { recursive: true } );
 
     } );
 
@@ -37,6 +38,8 @@ async function run() {
         response.data && response.data.personList &&
         response.data.personList.personsLists
     ) {
+
+        let stream = '';
 
         let list = [];
 
@@ -61,7 +64,7 @@ async function run() {
 
             let uri = profile.uri.trim(),
                 ts = ( new Date( profile.timestamp ) ).toISOString().split( 'T' )[0],
-                path = __dirname + '/profile/' + uri + '/';
+                path = dir + 'profile/' + uri + '/';
 
             /**
              * create new folder if not exists
@@ -179,6 +182,36 @@ async function run() {
                     { flag: 'w' }
                 );
 
+                /**
+                 * add list entry
+                 */
+
+                list.push( {
+                    rank: profile.rank,
+                    uri: uri,
+                    name: info.name,
+                    gender: info.gender,
+                    age: info.age,
+                    country: info.citizenship,
+                    industries: info.industries,
+                    source: info.source,
+                    networth: networth,
+                    change: change
+                } );
+
+                /**
+                 * stats
+                 */
+
+                stats.total += networth;
+                stats.count++;
+
+                if( info.gender == 'f' ) {
+
+                    stats.woman++;
+
+                }
+
             }
 
             /**
@@ -195,19 +228,33 @@ async function run() {
 
             }
 
-            /**
-             * stats
-             */
-
-            if( info.gender == 'f' ) {
-
-                stats.woman++;
-
-            }
-
-            process.exit(1);
-
         } );
+
+        /**
+         * daily (rtb) list
+         */
+
+        if( list && list.length ) {
+
+            stream = JSON.stringify( {
+                date: today,
+                total: Number( stats.total.toFixed( 3 ) ),
+                count: stats.count,
+                woman: stats.woman,
+                list: list
+            }, null, 2 );
+
+            fs.writeFileSync(
+                dir + 'list/rtb/' + today,
+                stream, { flag: 'w' }
+            );
+
+            fs.writeFileSync(
+                dir + 'list/rtb/latest',
+                stream, { flag: 'w' }
+            );
+
+        }
 
     }
 
@@ -215,13 +262,13 @@ async function run() {
      * create profiles list
      */
 
-    fs.readdir( __dirname + '/profile/', ( err, files ) => {
+    fs.readdir( dir + 'profile/', ( err, files ) => {
 
         let list = [];
 
         files.forEach( ( file ) => {
 
-            if( fs.lstatSync( __dirname + '/profile/' + file ).isDirectory() ) {
+            if( fs.lstatSync( dir + 'profile/' + file ).isDirectory() ) {
 
                 list.push( file );
 
@@ -230,12 +277,22 @@ async function run() {
         } );
 
         fs.writeFileSync(
-            __dirname + '/profile/list',
+            dir + 'profile/list',
             JSON.stringify( list, null, 2 ),
             { flag: 'w' }
         );
 
     } );
+
+    /**
+     * updated timestamp
+     */
+
+    fs.writeFileSync(
+        dir + 'updated',
+        ( new Date() ).toISOString(),
+        { flag: 'w' }
+    );
 
 }
 
