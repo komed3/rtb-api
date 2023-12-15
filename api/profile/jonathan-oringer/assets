@@ -3,8 +3,19 @@
     "exchange": "NYSE",
     "ticker": "SSTK-US",
     "companyName": "Shutterstock Inc.",
-    "numberOfShares": 16256000,
-    "sharePrice": 57.79,
+    "numberOfShares": 13720000,
+    "sharePrice": 65.45,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SSTK-US",
+    "companyName": "Shutterstock Inc.",
+    "numberOfShares": 197800,
+    "exerciseOptionPrice": 32.95,
+    "sharePrice": 65.45,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

@@ -20,11 +20,31 @@
     "interactive": false
   },
   {
+    "exchange": "HONG KONG",
+    "ticker": "3690-HK",
+    "companyName": "Meituan Dianping",
+    "numberOfShares": 41670000,
+    "sharePrice": 37.163599788520806,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7549,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PDD-US",
+    "companyName": "Pinduoduo",
+    "numberOfShares": 8000000,
+    "sharePrice": 89.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "TCOM-US",
     "companyName": "Trip.com Group Ltd. Sponsored ADR",
     "numberOfShares": 0,
-    "sharePrice": 31.27,
+    "sharePrice": 28.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
