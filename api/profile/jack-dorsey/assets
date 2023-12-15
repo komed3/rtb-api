@@ -3,8 +3,18 @@
     "exchange": "NYSE",
     "ticker": "SQ-US",
     "companyName": "Square",
-    "numberOfShares": 51544000,
-    "sharePrice": 65.77,
+    "numberOfShares": 39464000,
+    "sharePrice": 81.08,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SQ-US",
+    "companyName": "Square",
+    "numberOfShares": 11404000,
+    "sharePrice": 81.08,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +23,8 @@
     "exchange": "NYSE",
     "ticker": "TWTR-US",
     "companyName": "Twitter, Inc.",
-    "numberOfShares": 16042000.000000002,
-    "sharePrice": 31.09,
+    "numberOfShares": 13704000,
+    "sharePrice": 30.97,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,7 +35,7 @@
     "companyName": "Twitter, Inc.",
     "numberOfShares": 2000000,
     "exerciseOptionPrice": 3.115,
-    "sharePrice": 31.09,
+    "sharePrice": 30.97,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -35,7 +45,7 @@
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
     "numberOfShares": 10000,
-    "sharePrice": 112.25,
+    "sharePrice": 117.3,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
