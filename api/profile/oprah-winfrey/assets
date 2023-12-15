@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "DISCA-US",
+    "companyName": "Discovery Communications A",
+    "numberOfShares": 670477,
+    "sharePrice": 29.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "WW-US",
     "companyName": "Weight Watchers Intl",
     "numberOfShares": 4800000,
-    "sharePrice": 29.92,
+    "sharePrice": 25.045,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -15,7 +25,7 @@
     "companyName": "Weight Watchers Intl",
     "numberOfShares": 1800000,
     "exerciseOptionPrice": 6.97,
-    "sharePrice": 29.92,
+    "sharePrice": 25.045,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -26,7 +36,7 @@
     "companyName": "Weight Watchers Intl",
     "numberOfShares": 3276000,
     "exerciseOptionPrice": 38.84,
-    "sharePrice": 29.92,
+    "sharePrice": 25.045,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

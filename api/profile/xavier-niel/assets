@@ -1,12 +1,22 @@
 [
   {
     "exchange": "EURONEXT PARIS",
+    "ticker": "2MX-FR",
+    "companyName": "2MX Organic",
+    "numberOfShares": 2083333,
+    "sharePrice": 13.330873308733088,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.813,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
     "ticker": "ATEME-FR",
     "companyName": "Ateme",
     "numberOfShares": 575000,
-    "sharePrice": 19.66782172302545,
+    "sharePrice": 20.541205412054122,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8369,
+    "exchangeRate": 0.813,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "ILD-FR",
     "companyName": "Iliad",
     "numberOfShares": 42077000,
-    "sharePrice": 207.43219022583344,
+    "sharePrice": 207.38007380073802,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8369,
+    "exchangeRate": 0.813,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "MDW-FR",
     "companyName": "Mediawan",
     "numberOfShares": 2093000,
-    "sharePrice": 13.741187716573068,
+    "sharePrice": 14.145141451414515,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8369,
+    "exchangeRate": 0.813,
     "interactive": false
   }
 ]
