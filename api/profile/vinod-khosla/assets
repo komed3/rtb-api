@@ -4,7 +4,7 @@
     "ticker": "AMRS-US",
     "companyName": "Amyris Inc.",
     "numberOfShares": 82415,
-    "sharePrice": 4.18,
+    "sharePrice": 4.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,17 @@
     "ticker": "GEVO-US",
     "companyName": "Gevo Inc.",
     "numberOfShares": 522,
-    "sharePrice": 0.99,
+    "sharePrice": 0.569,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GH-US",
+    "companyName": "Guardant Health",
+    "numberOfShares": 280000,
+    "sharePrice": 84.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "JNPR-US",
     "companyName": "Juniper Networks Inc.",
     "numberOfShares": 2435400,
-    "sharePrice": 22.55,
+    "sharePrice": 24.99,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +44,7 @@
     "ticker": "OKTA-US",
     "companyName": "Okta,  Inc",
     "numberOfShares": 323000,
-    "sharePrice": 199.84,
+    "sharePrice": 210.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +54,7 @@
     "ticker": "RNG-US",
     "companyName": "RingCentral",
     "numberOfShares": 1032000,
-    "sharePrice": 270.96,
+    "sharePrice": 283.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,9 +64,9 @@
     "ticker": "533228-IN",
     "companyName": "SKS Microfinance Ltd.",
     "numberOfShares": 3815100,
-    "sharePrice": 11.883514567294272,
+    "sharePrice": 12.008021390374333,
     "currencyCode": "INR",
-    "exchangeRate": 75.5837,
+    "exchangeRate": 74.8,
     "interactive": false
   },
   {
@@ -64,7 +74,7 @@
     "ticker": "SQ-US",
     "companyName": "Square",
     "numberOfShares": 2570000,
-    "sharePrice": 103.68,
+    "sharePrice": 128.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
