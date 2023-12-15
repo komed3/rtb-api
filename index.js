@@ -1,5 +1,8 @@
 'use strict';
 
+const api = 'https://www.forbes.com/forbesapi/person/rtb/0/position/true.json';
+const today = ( new Date() ).toISOString().split( 'T' )[0];
+
 const axios = require( 'axios' );
 const fs = require( 'fs' );
 
@@ -20,10 +23,7 @@ async function run() {
         '/stats/industry/'
     ].forEach( ( dir ) => {
 
-        fs.mkdirSync(
-            __dirname + dir,
-            { recursive: true }
-        );
+        fs.mkdirSync( __dirname + dir, { recursive: true } );
 
     } );
 
@@ -31,7 +31,7 @@ async function run() {
      * fetch data
      */
 
-    const response = await axios.get( 'https://www.forbes.com/forbesapi/person/rtb/0/position/true.json' );
+    const response = await axios.get( api );
 
     if(
         response.data && response.data.personList &&
@@ -60,6 +60,7 @@ async function run() {
         response.data.personList.personsLists.forEach( ( profile ) => {
 
             let uri = profile.uri.trim(),
+                ts = ( new Date( profile.timestamp ) ).toISOString().split( 'T' )[0],
                 path = __dirname + '/profile/' + uri + '/';
 
             /**
@@ -120,6 +121,91 @@ async function run() {
                 JSON.stringify( [].concat( profile.financialAssets || [] ), null, 2 ),
                 { flag: 'w' }
             );
+
+            /**
+             * net worth
+             */
+
+            let networth = Number( parseFloat( profile.finalWorth || 0 ).toFixed( 3 ) );
+
+            let latest = null,
+                change = null;
+
+            if( fs.existsSync( path + 'networth' ) ) {
+
+                latest = JSON.parse( fs.readFileSync( path + 'networth' ) );
+
+                if( latest.value && networth != latest.value ) {
+
+                    let cng = networth - latest.value;
+
+                    change = {
+                        value: Number( cng.toFixed( 3 ) ),
+                        pct: Number( ( cng / networth * 100 ).toFixed( 3 ) ),
+                        date: ts
+                    };
+
+                }
+
+            }
+
+            fs.writeFileSync(
+                path + 'networth',
+                JSON.stringify( {
+                    date: ts,
+                    value: networth,
+                    change: change,
+                    private: parseFloat( profile.privateAssetsWorth || 0 ),
+                    archived: parseFloat( profile.archivedWorth || 0 )
+                }, null, 2 ),
+                { flag: 'w' }
+            );
+
+            /**
+             * rank and list data
+             * requires net worth > $1B
+             */
+
+            if( profile.rank && networth >= 1000 ) {
+
+                fs.writeFileSync(
+                    path + 'rank',
+                    JSON.stringify( {
+                        rtb: {
+                            date: ts,
+                            rank: profile.rank
+                        }
+                    } || null, null, 2 ),
+                    { flag: 'w' }
+                );
+
+            }
+
+            /**
+             * append history
+             */
+
+            if( latest == null || latest.date != ts ) {
+
+                fs.appendFileSync(
+                    path + 'history',
+                    ts + ' ' + ( profile.rank || '' ) + ' ' + networth + '\r\n',
+                    { flag: 'a' }
+                );
+
+            }
+
+            /**
+             * stats
+             */
+
+            if( info.gender == 'f' ) {
+
+                stats.woman++;
+
+            }
+
+            process.exit(1);
 
         } );
 
