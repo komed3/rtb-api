@@ -29,6 +29,19 @@ async function run() {
     } );
 
     /**
+     * check update
+     */
+
+    if(
+        fs.existsSync( dir + 'updated' ) &&
+        fs.readFileSync( dir + 'updated' ).toString().split( 'T' )[0] == today
+    ) {
+
+        process.exit(1);
+
+    }
+
+    /**
      * fetch data
      */
 
