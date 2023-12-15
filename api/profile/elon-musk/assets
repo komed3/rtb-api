@@ -1,0 +1,49 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 30655000,
+    "sharePrice": 502.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": true,
+    "currentPrice": 502.13
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 4572410,
+    "exerciseOptionPrice": 31.17,
+    "sharePrice": 502.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 502.13
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 350,
+    "exerciseOptionPrice": 100.05,
+    "sharePrice": 502.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 502.13
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 350,
+    "exerciseOptionPrice": 41.83,
+    "sharePrice": 502.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 502.13
+  }
+]

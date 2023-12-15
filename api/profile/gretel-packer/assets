@@ -1,0 +1,32 @@
+[
+  {
+    "exchange": "ASX",
+    "ticker": "CWN-AU",
+    "companyName": "Crown Ltd",
+    "numberOfShares": 8620689,
+    "sharePrice": 4.431587369975996,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.6247,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZG-US",
+    "companyName": "Zillow Class A",
+    "numberOfShares": 1200000,
+    "sharePrice": 34.71,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "Z-US",
+    "companyName": "Zillow Class C",
+    "numberOfShares": 2100000,
+    "sharePrice": 37.06,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FB-US",
+    "companyName": "Facebook",
+    "numberOfShares": 551000,
+    "sharePrice": 165.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "INTC-US",
+    "companyName": "Intel Corp.",
+    "numberOfShares": 7000,
+    "sharePrice": 55.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LNKD-US",
+    "companyName": "LinkedIn Corp",
+    "numberOfShares": 0,
+    "sharePrice": 195.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WDAY-US",
+    "companyName": "Workday, Inc.",
+    "numberOfShares": 653000,
+    "exerciseOptionPrice": 1.3,
+    "sharePrice": 137.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WDAY-US",
+    "companyName": "Workday, Inc.",
+    "numberOfShares": 8495116,
+    "sharePrice": 137.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]
