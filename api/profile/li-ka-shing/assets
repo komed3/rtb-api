@@ -4,9 +4,9 @@
     "ticker": "1113-HK",
     "companyName": "CK Asset Holdings",
     "numberOfShares": 1194000000,
-    "sharePrice": 5.248903791591437,
+    "sharePrice": 6.322172763047545,
     "currencyCode": "HKD",
-    "exchangeRate": 7.754,
+    "exchangeRate": 7.7505,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "1-HK",
     "companyName": "CK Hutchison",
     "numberOfShares": 1160603000,
-    "sharePrice": 6.635285014186227,
+    "sharePrice": 7.40597380814141,
     "currencyCode": "HKD",
-    "exchangeRate": 7.754,
+    "exchangeRate": 7.7505,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "1038-HK",
     "companyName": "CK Infrastructure Holdings",
     "numberOfShares": 5428000,
-    "sharePrice": 5.113489811710085,
+    "sharePrice": 5.960905748016257,
     "currencyCode": "HKD",
-    "exchangeRate": 7.754,
+    "exchangeRate": 7.7505,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "HSE-CA",
     "companyName": "Husky Energy Inc.",
     "numberOfShares": 294703000,
-    "sharePrice": 2.2661489587010233,
+    "sharePrice": 2.943710511200459,
     "currencyCode": "CAD",
-    "exchangeRate": 1.4165,
+    "exchangeRate": 1.3928,
     "interactive": false
   },
   {
@@ -44,9 +44,19 @@
     "ticker": "215-HK",
     "companyName": "Hutchison Telecommunications Hong Kong Holdings Ltd.",
     "numberOfShares": 53359000,
-    "sharePrice": 0.16249677585762187,
+    "sharePrice": 0.17289207147925942,
     "currencyCode": "HKD",
-    "exchangeRate": 7.754,
+    "exchangeRate": 7.7505,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZM-US",
+    "companyName": "Zoom Video Communications",
+    "numberOfShares": 14558398,
+    "sharePrice": 146.48,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
