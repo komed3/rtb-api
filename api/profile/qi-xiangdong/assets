@@ -4,9 +4,9 @@
     "ticker": "688561-CN",
     "companyName": "Qi An Xin Technology Group",
     "numberOfShares": 174972500,
-    "sharePrice": 17.14310204431492,
+    "sharePrice": 14.419085626065046,
     "currencyCode": "CNY",
-    "exchangeRate": 6.9999,
+    "exchangeRate": 6.8659,
     "interactive": false
   },
   {
@@ -23,10 +23,20 @@
     "exchange": "SHANGHAI",
     "ticker": "601360-CN",
     "companyName": "SJEC Corporation",
-    "numberOfShares": 116909000,
-    "sharePrice": 2.805754367919542,
+    "numberOfShares": 99529300,
+    "sharePrice": 2.717779169518927,
     "currencyCode": "CNY",
-    "exchangeRate": 6.9999,
+    "exchangeRate": 6.8659,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "601360-CN",
+    "companyName": "SJEC Corporation",
+    "numberOfShares": -44369000,
+    "sharePrice": 2.717779169518927,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8659,
     "interactive": false
   }
 ]

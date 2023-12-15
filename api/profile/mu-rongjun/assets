@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "SHENZHEN",
+    "ticker": "300251-CN",
+    "companyName": "BEIJING ENLIGHT MEDIA CO LTD",
+    "numberOfShares": 8800000,
+    "sharePrice": 2.331813746194964,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8659,
+    "interactive": false
+  },
+  {
     "exchange": "HONG KONG",
     "ticker": "3690-HK",
     "companyName": "Meituan Dianping",
     "numberOfShares": 125980000,
-    "sharePrice": 24.902904478651887,
+    "sharePrice": 34.218030269796,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7501,
+    "exchangeRate": 7.7503,
     "interactive": false
   }
 ]
