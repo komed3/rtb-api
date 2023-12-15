@@ -256,6 +256,28 @@ async function run() {
 
         }
 
+        /**
+         * stats
+         */
+
+        fs.appendFileSync(
+            dir + 'stats/total',
+            today + ' ' + stats.total.toFixed( 3 ) + '\r\n',
+            { flag: 'a' }
+        );
+
+        fs.appendFileSync(
+            dir + 'stats/count',
+            today + ' ' + stats.count + '\r\n',
+            { flag: 'a' }
+        );
+
+        fs.appendFileSync(
+            dir + 'stats/woman',
+            today + ' ' + stats.woman + '\r\n',
+            { flag: 'a' }
+        );
+
     }
 
     /**
