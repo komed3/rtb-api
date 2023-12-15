@@ -1,32 +1,22 @@
 [
   {
-    "exchange": "NASDAQ",
-    "ticker": "NYNY-US",
-    "companyName": "Empire Resorts",
-    "numberOfShares": 0,
-    "sharePrice": 9.75,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "MALAYSIA",
     "ticker": "3182-MY",
     "companyName": "Genting Bhd",
-    "numberOfShares": 1717900000,
-    "sharePrice": 1.1221203864255636,
+    "numberOfShares": 1586500000,
+    "sharePrice": 1.1389746757257566,
     "currencyCode": "MYR",
-    "exchangeRate": 4.037,
+    "exchangeRate": 4.0475,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "678-HK",
     "companyName": "Genting Hong Kong Ltd.",
-    "numberOfShares": 4091000000,
-    "sharePrice": 0.03482837351495685,
+    "numberOfShares": 3406700000,
+    "sharePrice": 0.06574452451239478,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -34,9 +24,9 @@
     "ticker": "678-HK",
     "companyName": "Genting Hong Kong Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.03482837351495685,
+    "sharePrice": 0.06574452451239478,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -44,9 +34,9 @@
     "ticker": "4715-MY",
     "companyName": "Genting Malaysia Bhd",
     "numberOfShares": 14562000,
-    "sharePrice": 0.6762447361902403,
+    "sharePrice": 0.7140210006176652,
     "currencyCode": "MYR",
-    "exchangeRate": 4.037,
+    "exchangeRate": 4.0475,
     "interactive": false
   },
   {
@@ -54,9 +44,9 @@
     "ticker": "G13-SG",
     "companyName": "Genting Singapore PLC",
     "numberOfShares": 14195000,
-    "sharePrice": 0.6464050805171241,
+    "sharePrice": 0.6430021809430698,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3227,
+    "exchangeRate": 1.3297,
     "interactive": false
   }
 ]

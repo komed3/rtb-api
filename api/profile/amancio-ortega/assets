@@ -1,12 +1,22 @@
 [
   {
     "exchange": "MADRID",
+    "ticker": "ENG-ES",
+    "companyName": "Enagas",
+    "numberOfShares": 13099504,
+    "sharePrice": 21.076586964437432,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8239,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
     "ticker": "ITX-ES",
     "companyName": "Industria de Diseno Textil S.A.",
     "numberOfShares": 1848000000,
-    "sharePrice": 32.46002460024601,
+    "sharePrice": 33.14722660517053,
     "currencyCode": "EUR",
-    "exchangeRate": 0.813,
+    "exchangeRate": 0.8239,
     "interactive": false
   }
 ]

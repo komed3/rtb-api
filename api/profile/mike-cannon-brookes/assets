@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "TEAM-US",
     "companyName": "Atlassian Corp",
-    "numberOfShares": 61742279,
-    "sharePrice": 234.04,
+    "numberOfShares": 59299340,
+    "sharePrice": 237.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,9 +14,19 @@
     "ticker": "RBL-AU",
     "companyName": "Redbubble",
     "numberOfShares": 8404907,
-    "sharePrice": 4.3114048570550265,
+    "sharePrice": 3.9560269412402262,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3012,
+    "exchangeRate": 1.2917,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "TYR-AU",
+    "companyName": "Tyro Payments",
+    "numberOfShares": 63296843,
+    "sharePrice": 2.330262444840133,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.2917,
     "interactive": false
   }
 ]

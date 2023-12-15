@@ -3,10 +3,10 @@
     "exchange": "HONG KONG",
     "ticker": "331-HK",
     "companyName": "FSE Engineering Holdings",
-    "numberOfShares": 46997000,
-    "sharePrice": 0.46050849425331836,
+    "numberOfShares": 60750000,
+    "sharePrice": 0.5104868962138889,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -14,10 +14,10 @@
     "ticker": "480-HK",
     "companyName": "HKR International",
     "numberOfShares": 1210000,
-    "exerciseOptionPrice": 0.5456445184009907,
-    "sharePrice": 0.4127807231402294,
+    "exerciseOptionPrice": 0.5452928209557449,
+    "sharePrice": 0.4382968300826318,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -25,19 +25,9 @@
     "ticker": "276-HK",
     "companyName": "Mongolia Energy Corp. Ltd.",
     "numberOfShares": 9866700,
-    "sharePrice": 0.1444732530990803,
+    "sharePrice": 0.15469299885269358,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "17-HK",
-    "companyName": "New World Development Co. Ltd.",
-    "numberOfShares": 3168750,
-    "sharePrice": 4.682481328121976,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -45,20 +35,31 @@
     "ticker": "17-HK",
     "companyName": "New World Development Co. Ltd.",
     "numberOfShares": 500000,
-    "exerciseOptionPrice": 1.2945835429485442,
-    "sharePrice": 4.682481328121976,
+    "exerciseOptionPrice": 1.2937491137380275,
+    "sharePrice": 5.085532337282302,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
-    "ticker": "659-HK",
-    "companyName": "NWS Holdings Ltd.",
-    "numberOfShares": 30349571,
-    "sharePrice": 0.9261767475458895,
+    "ticker": "17-HK",
+    "companyName": "New World Development Co. Ltd.",
+    "numberOfShares": 10675637,
+    "exerciseOptionPrice": 0.9719876761244247,
+    "sharePrice": 5.085532337282302,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "17-HK",
+    "companyName": "New World Development Co. Ltd.",
+    "numberOfShares": 3169000,
+    "sharePrice": 5.085532337282302,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -66,20 +67,20 @@
     "ticker": "659-HK",
     "companyName": "NWS Holdings Ltd.",
     "numberOfShares": 7420739,
-    "exerciseOptionPrice": 1.821394940856262,
-    "sharePrice": 0.9261767475458895,
+    "exerciseOptionPrice": 1.8202209531666946,
+    "sharePrice": 1.1305479999484356,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
-    "ticker": "880-HK",
-    "companyName": "SJM Holdings Limited",
-    "numberOfShares": 306205900,
-    "sharePrice": 1.1222475910374985,
+    "ticker": "659-HK",
+    "companyName": "NWS Holdings Ltd.",
+    "numberOfShares": 30349571,
+    "sharePrice": 1.1305479999484356,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -87,10 +88,20 @@
     "ticker": "880-HK",
     "companyName": "SJM Holdings Limited",
     "numberOfShares": 6000000,
-    "exerciseOptionPrice": 1.2674948079924668,
-    "sharePrice": 1.1222475910374985,
+    "exerciseOptionPrice": 1.266677838938806,
+    "sharePrice": 1.3922369896742424,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7523,
+    "exchangeRate": 7.7573,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "880-HK",
+    "companyName": "SJM Holdings Limited",
+    "numberOfShares": 306205900,
+    "sharePrice": 1.3922369896742424,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7573,
     "interactive": false
   }
 ]
