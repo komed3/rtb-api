@@ -313,6 +313,12 @@ async function run() {
                 stream, { flag: 'w' }
             );
 
+            fs.appendFileSync(
+                dir + 'availableDays',
+                today + '\r\n',
+                { flag: 'a' }
+            );
+
         }
 
         /**
