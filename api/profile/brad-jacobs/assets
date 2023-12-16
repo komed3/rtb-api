@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "GXO-US",
+    "companyName": "GXO Logistics",
+    "numberOfShares": 15520617,
+    "sharePrice": 84.93,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "XPO-US",
     "companyName": "XPO Logistics",
-    "numberOfShares": 19101435,
-    "sharePrice": 138.69,
+    "numberOfShares": 15520617,
+    "sharePrice": 87.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

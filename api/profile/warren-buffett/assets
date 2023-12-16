@@ -4,65 +4,54 @@
     "ticker": "BRK.A-US",
     "companyName": "Berkshire Hathaway Inc. (Cl A)",
     "numberOfShares": 238624,
-    "sharePrice": 418900,
+    "sharePrice": 429720,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 418900
+    "currentPrice": 429900
   },
   {
     "exchange": "NYSE",
     "ticker": "BRK.B-US",
     "companyName": "Berkshire Hathaway Inc. (Cl B)",
     "numberOfShares": 2412,
-    "sharePrice": 278.29,
+    "sharePrice": 285.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 278.29
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "IBM-US",
-    "companyName": "International Business Machines Corp",
-    "numberOfShares": 9000,
-    "sharePrice": 140.96,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 140.96
+    "currentPrice": 285.77
   },
   {
     "exchange": "NYSE",
     "ticker": "SRG-US",
     "companyName": "Seritage Growth Properties",
     "numberOfShares": 2000000,
-    "sharePrice": 15.87,
+    "sharePrice": 15.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 15.87
+    "currentPrice": 16.17
   },
   {
     "exchange": "NYSE",
     "ticker": "USB-US",
     "companyName": "U.S. Bancorp",
-    "numberOfShares": 884000,
-    "sharePrice": 55.54,
+    "numberOfShares": 684000,
+    "sharePrice": 57.08,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 55.54
+    "currentPrice": 57.39
   },
   {
     "exchange": "NYSE",
     "ticker": "WFC-US",
     "companyName": "Wells Fargo",
-    "numberOfShares": 1916000,
-    "sharePrice": 45.94,
+    "numberOfShares": 0,
+    "sharePrice": 48.41,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 45.94
+    "currentPrice": 45.7
   }
 ]

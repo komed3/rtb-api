@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "CZOO-US",
+    "companyName": "Cazoo Group",
+    "numberOfShares": 1500000,
+    "sharePrice": 9.09,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "SQ-US",
     "companyName": "Square",
-    "numberOfShares": 14002000,
-    "sharePrice": 247.26,
+    "numberOfShares": 13011000,
+    "sharePrice": 271.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

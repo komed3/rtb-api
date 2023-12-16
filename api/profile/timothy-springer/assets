@@ -4,7 +4,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 13035000,
-    "sharePrice": 353.6,
+    "sharePrice": 370.69,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,8 @@
     "exchange": "NASDAQ",
     "ticker": "MORF-US",
     "companyName": "Morphic Holding",
-    "numberOfShares": 5343378,
-    "sharePrice": 57.62,
+    "numberOfShares": 5445378,
+    "sharePrice": 61.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "SRRK-US",
     "companyName": "Scholar Rock Holding Corp",
     "numberOfShares": 312951,
-    "sharePrice": 31.25,
+    "sharePrice": 38.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -33,8 +33,19 @@
     "exchange": "NASDAQ",
     "ticker": "SELB-US",
     "companyName": "Selecta Biosciences",
-    "numberOfShares": 23936974,
-    "sharePrice": 3.46,
+    "numberOfShares": 26580880,
+    "sharePrice": 4.31,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SELB-US",
+    "companyName": "Selecta Biosciences",
+    "numberOfShares": 2049573,
+    "exerciseOptionPrice": 0.125,
+    "sharePrice": 4.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

@@ -4,7 +4,7 @@
     "ticker": "CFX-US",
     "companyName": "Colfax Corp",
     "numberOfShares": 8410679,
-    "sharePrice": 45.88,
+    "sharePrice": 48.3,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,8 @@
     "exchange": "NYSE",
     "ticker": "DHR-US",
     "companyName": "Danaher",
-    "numberOfShares": 21559000,
-    "sharePrice": 297.49,
+    "numberOfShares": 21559256,
+    "sharePrice": 327.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +23,18 @@
     "exchange": "NYSE",
     "ticker": "FTV-US",
     "companyName": "Fortive",
-    "numberOfShares": 4452297,
-    "sharePrice": 72.66,
+    "numberOfShares": 4472000,
+    "sharePrice": 74.12,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VNT-US",
+    "companyName": "Vontier Corp",
+    "numberOfShares": 3204962,
+    "sharePrice": 36.41,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

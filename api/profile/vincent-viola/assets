@@ -4,7 +4,7 @@
     "ticker": "IBTX-US",
     "companyName": "Independent Bank Group",
     "numberOfShares": 4444000,
-    "sharePrice": 69.7,
+    "sharePrice": 69.85,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,8 @@
     "exchange": "NASDAQ",
     "ticker": "VIRT-US",
     "companyName": "Virtu Financial",
-    "numberOfShares": 60091740,
-    "sharePrice": 25.74,
+    "numberOfShares": 60308420,
+    "sharePrice": 25.03,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,7 +25,18 @@
     "companyName": "Virtu Financial",
     "numberOfShares": 693800,
     "exerciseOptionPrice": 19,
-    "sharePrice": 25.74,
+    "sharePrice": 25.03,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VIRT-US",
+    "companyName": "Virtu Financial",
+    "numberOfShares": 3000000,
+    "exerciseOptionPrice": 22.98,
+    "sharePrice": 25.03,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
