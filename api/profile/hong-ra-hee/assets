@@ -1,12 +1,32 @@
 [
   {
     "exchange": "KOREA",
+    "ticker": "028260-KR",
+    "companyName": "Cheil Industries",
+    "numberOfShares": 1808577,
+    "sharePrice": 121.39471002613975,
+    "currencyCode": "KRW",
+    "exchangeRate": 1128.55,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
     "ticker": "005930-KR",
     "companyName": "Samsung Electronics Co. Ltd.",
-    "numberOfShares": 54150000,
-    "sharePrice": 73.71982855853824,
+    "numberOfShares": 137244666,
+    "sharePrice": 71.77351468698772,
     "currencyCode": "KRW",
-    "exchangeRate": 1108.25,
+    "exchangeRate": 1128.55,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "018260-KR",
+    "companyName": "Samsung SDS",
+    "numberOfShares": 3000,
+    "sharePrice": 164.37020956094105,
+    "currencyCode": "KRW",
+    "exchangeRate": 1128.55,
     "interactive": false
   }
 ]

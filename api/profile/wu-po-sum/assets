@@ -1,12 +1,22 @@
 [
   {
     "exchange": "HONG KONG",
+    "ticker": "9982-HK",
+    "companyName": "Central China Management Company Limited",
+    "numberOfShares": 2067148000.0000002,
+    "sharePrice": 0.2962466833251758,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7638,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
     "ticker": "9983-HK",
     "companyName": "Central China New Life",
     "numberOfShares": 847440000,
-    "sharePrice": 0.8823567297412183,
+    "sharePrice": 1.0188309848270178,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7633,
+    "exchangeRate": 7.7638,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "832-HK",
     "companyName": "Central China Real Estate Ltd.",
     "numberOfShares": 2044432000,
-    "sharePrice": 0.5500238300722631,
+    "sharePrice": 0.25760581158710943,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7633,
+    "exchangeRate": 7.7638,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "726-HK",
     "companyName": "DIT Group Limited",
     "numberOfShares": 1780442500,
-    "sharePrice": 0.12108252933675112,
+    "sharePrice": 0.11334655709832814,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7633,
+    "exchangeRate": 7.7638,
     "interactive": false
   }
 ]
