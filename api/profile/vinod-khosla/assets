@@ -4,7 +4,17 @@
     "ticker": "AFRM-US",
     "companyName": "Affirm Holdings",
     "numberOfShares": 3140000,
-    "sharePrice": 99.59,
+    "sharePrice": 103.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOGL-US",
+    "companyName": "Alphabet",
+    "numberOfShares": 760000,
+    "sharePrice": 2924.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "AMRS-US",
     "companyName": "Amyris Inc.",
     "numberOfShares": 82415,
-    "sharePrice": 15.16,
+    "sharePrice": 5.44,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "BGRY-US",
     "companyName": "Berkshire Grey",
     "numberOfShares": 23110000,
-    "sharePrice": 8.63,
+    "sharePrice": 5.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +44,7 @@
     "ticker": "DASH-US",
     "companyName": "DoorDash, Inc",
     "numberOfShares": 3260000,
-    "sharePrice": 192.7,
+    "sharePrice": 152.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +54,17 @@
     "ticker": "GEVO-US",
     "companyName": "Gevo Inc.",
     "numberOfShares": 522,
-    "sharePrice": 6.08,
+    "sharePrice": 4.42,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOG-US",
+    "companyName": "Google Inc. (Cl C)",
+    "numberOfShares": 542000,
+    "sharePrice": 2920.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,7 +74,7 @@
     "ticker": "GH-US",
     "companyName": "Guardant Health",
     "numberOfShares": 280000,
-    "sharePrice": 126.2,
+    "sharePrice": 100.23,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +84,7 @@
     "ticker": "JNPR-US",
     "companyName": "Juniper Networks Inc.",
     "numberOfShares": 2435400,
-    "sharePrice": 29.44,
+    "sharePrice": 35.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +94,7 @@
     "ticker": "KVSA-US",
     "companyName": "Khosla Ventures Acquisition",
     "numberOfShares": 1904000,
-    "sharePrice": 9.86,
+    "sharePrice": 9.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +104,7 @@
     "ticker": "OKTA-US",
     "companyName": "Okta,  Inc",
     "numberOfShares": 323000,
-    "sharePrice": 264.98,
+    "sharePrice": 225.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -104,7 +124,7 @@
     "ticker": "QS-US",
     "companyName": "QuantumScape",
     "numberOfShares": 8860000,
-    "sharePrice": 21.4,
+    "sharePrice": 23.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -114,7 +134,7 @@
     "ticker": "RNG-US",
     "companyName": "RingCentral",
     "numberOfShares": 1032000,
-    "sharePrice": 256.2,
+    "sharePrice": 194.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -124,9 +144,9 @@
     "ticker": "533228-IN",
     "companyName": "SKS Microfinance Ltd.",
     "numberOfShares": 3815100,
-    "sharePrice": 12.257614609788352,
+    "sharePrice": 12.06893076690517,
     "currencyCode": "INR",
-    "exchangeRate": 73.2769,
+    "exchangeRate": 74.4225,
     "interactive": false
   },
   {
@@ -134,7 +154,7 @@
     "ticker": "SQ-US",
     "companyName": "Square",
     "numberOfShares": 2570000,
-    "sharePrice": 271.92,
+    "sharePrice": 165.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

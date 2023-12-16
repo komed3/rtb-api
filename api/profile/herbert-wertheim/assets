@@ -4,7 +4,7 @@
     "ticker": "AAPL-US",
     "companyName": "Apple",
     "numberOfShares": 5000000,
-    "sharePrice": 153.12,
+    "sharePrice": 178.2,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,17 @@
     "ticker": "BAC-US",
     "companyName": "Bank of America Corp.",
     "numberOfShares": 1750000,
-    "sharePrice": 41.66,
+    "sharePrice": 44.53,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "BBXIA-US",
+    "companyName": "BBX Capital",
+    "numberOfShares": 877000,
+    "sharePrice": 10.12,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +33,8 @@
     "exchange": "NYSE",
     "ticker": "BVH-US",
     "companyName": "Bluegreen Vacations",
-    "numberOfShares": 1072000,
-    "sharePrice": 21.91,
+    "numberOfShares": 877000,
+    "sharePrice": 34.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,9 +44,9 @@
     "ticker": "BP-GB",
     "companyName": "BP",
     "numberOfShares": 1100000,
-    "sharePrice": 4.1615077727335255,
+    "sharePrice": 4.494533675259819,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7269,
+    "exchangeRate": 0.7409,
     "interactive": false
   },
   {
@@ -51,8 +61,8 @@
     "exchange": "NYSE",
     "ticker": "HEI-US",
     "companyName": "Heico",
-    "numberOfShares": 4110000.0000000005,
-    "sharePrice": 125.76,
+    "numberOfShares": 4019999.9999999995,
+    "sharePrice": 144.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -61,8 +71,8 @@
     "exchange": "NYSE",
     "ticker": "HEI.A-US",
     "companyName": "Heico Corporation Class A",
-    "numberOfShares": 6524000,
-    "sharePrice": 114.92,
+    "numberOfShares": 5880000,
+    "sharePrice": 129.14,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -72,7 +82,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 1300000,
-    "sharePrice": 303.59,
+    "sharePrice": 339.32,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

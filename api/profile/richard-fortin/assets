@@ -1,22 +1,12 @@
 [
   {
     "exchange": "TORONTO",
-    "ticker": "ATD.A-CA",
+    "ticker": "ATD-CA",
     "companyName": "Alimentation Couche Tard Inc. Cl A",
-    "numberOfShares": 32787999.999999996,
-    "sharePrice": 41.52831837318294,
+    "numberOfShares": 30999000,
+    "sharePrice": 41.82045667813575,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2589,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ATD.B-CA",
-    "companyName": "Alimentation Couche Tard Inc. Cl B",
-    "numberOfShares": 638000,
-    "sharePrice": 41.2105806656605,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.2589,
+    "exchangeRate": 1.2788,
     "interactive": false
   },
   {
@@ -24,9 +14,9 @@
     "ticker": "NA-CA",
     "companyName": "National Bank of Canada",
     "numberOfShares": 151000,
-    "sharePrice": 79.19612359996823,
+    "sharePrice": 75.79762277134814,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2589,
+    "exchangeRate": 1.2788,
     "interactive": false
   },
   {
@@ -34,9 +24,9 @@
     "ticker": "TCL.A-CA",
     "companyName": "Transcontinental Inc",
     "numberOfShares": 89000,
-    "sharePrice": 19.564699340694258,
+    "sharePrice": 15.85079762277135,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2589,
+    "exchangeRate": 1.2788,
     "interactive": false
   }
 ]
