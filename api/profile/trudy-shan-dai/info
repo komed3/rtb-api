@@ -2,12 +2,14 @@
   "uri": "trudy-shan-dai",
   "name": "Trudy Shan Dai",
   "gender": "f",
-  "birthDate": null,
-  "age": null,
+  "birthDate": "1976-01-01T05:00:00.000Z",
+  "age": 47,
   "citizenship": "China",
   "state": "Zhejiang",
   "city": "Hangzhou",
-  "industries": [],
+  "industries": [
+    "Technology"
+  ],
   "source": [
     "e-commerce"
   ]

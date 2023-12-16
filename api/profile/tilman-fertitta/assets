@@ -4,7 +4,28 @@
     "ticker": "GNOG-US",
     "companyName": "Golden Nugget Online Gaming",
     "numberOfShares": 4091000,
-    "sharePrice": 14.27,
+    "sharePrice": 14.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GNOG-US",
+    "companyName": "Golden Nugget Online Gaming",
+    "numberOfShares": 2941000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 14.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LCY-US",
+    "companyName": "Lancadia Holdings III",
+    "numberOfShares": 6462000,
+    "sharePrice": 11.32,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +35,7 @@
     "ticker": "WTRH-US",
     "companyName": "Waitr Holdings",
     "numberOfShares": 5030000,
-    "sharePrice": 3.18,
+    "sharePrice": 2.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

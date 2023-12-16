@@ -1,0 +1,55 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CELH-US",
+    "companyName": "Celsius Holdings",
+    "numberOfShares": 22079152,
+    "sharePrice": 56.77,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "INBP-US",
+    "companyName": "Integrated BioPharma",
+    "numberOfShares": 12766982,
+    "sharePrice": 1.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "INBP-US",
+    "companyName": "Integrated BioPharma",
+    "numberOfShares": 50000,
+    "exerciseOptionPrice": 0.1,
+    "sharePrice": 1.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "INBP-US",
+    "companyName": "Integrated BioPharma",
+    "numberOfShares": 50000,
+    "exerciseOptionPrice": 0.25,
+    "sharePrice": 1.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "INBP-US",
+    "companyName": "Integrated BioPharma",
+    "numberOfShares": 150000,
+    "exerciseOptionPrice": 0.23,
+    "sharePrice": 1.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

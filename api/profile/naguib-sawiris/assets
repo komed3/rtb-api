@@ -4,9 +4,9 @@
     "ticker": "EDV-CA",
     "companyName": "Endeavour Mining",
     "numberOfShares": 0,
-    "sharePrice": 19.360189573459717,
+    "sharePrice": 21.238002277533756,
     "currencyCode": "CAD",
-    "exchangeRate": 1.266,
+    "exchangeRate": 1.2294,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "EVN-AU",
     "companyName": "Evolution Mining",
     "numberOfShares": 0,
-    "sharePrice": 3.2515289928001856,
+    "sharePrice": 3.6812674743709226,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2917,
+    "exchangeRate": 1.2876,
     "interactive": false
   },
   {
@@ -24,7 +24,7 @@
     "ticker": "GSS-US",
     "companyName": "Golden Star Resources",
     "numberOfShares": 0,
-    "sharePrice": 3.14,
+    "sharePrice": 3.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,19 +34,9 @@
     "ticker": "IOL-IT",
     "companyName": "Italiaonline",
     "numberOfShares": 0,
-    "sharePrice": 3.5246995994659547,
+    "sharePrice": 3.5174418604651163,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8239,
-    "interactive": false
-  },
-  {
-    "exchange": "EGYPT",
-    "ticker": "OIH-EG",
-    "companyName": "Orascom Investment Holding SAE",
-    "numberOfShares": 0,
-    "sharePrice": 0.01573248407643312,
-    "currencyCode": "EGP",
-    "exchangeRate": 15.7,
+    "exchangeRate": 0.8256,
     "interactive": false
   },
   {
@@ -54,9 +44,19 @@
     "ticker": "OIH-EG",
     "companyName": "Orascom Investment Holding SAE",
     "numberOfShares": 1700000000,
-    "sharePrice": 0.01573248407643312,
+    "sharePrice": 0.0173690932311622,
     "currencyCode": "EGP",
-    "exchangeRate": 15.7,
+    "exchangeRate": 15.66,
+    "interactive": false
+  },
+  {
+    "exchange": "EGYPT",
+    "ticker": "OIH-EG",
+    "companyName": "Orascom Investment Holding SAE",
+    "numberOfShares": 0,
+    "sharePrice": 0.0173690932311622,
+    "currencyCode": "EGP",
+    "exchangeRate": 15.66,
     "interactive": false
   },
   {
@@ -64,7 +64,7 @@
     "ticker": "VEON-US",
     "companyName": "VEON Ltd. ADR",
     "numberOfShares": 0,
-    "sharePrice": 1.78,
+    "sharePrice": 1.73,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

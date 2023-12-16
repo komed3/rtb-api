@@ -10,11 +10,21 @@
     "interactive": false
   },
   {
+    "exchange": "NYSE AMERICAN",
+    "ticker": "ASXC-US",
+    "companyName": "Asensus Surgical Inc",
+    "numberOfShares": 2700000,
+    "sharePrice": 2.14,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "BCDA-US",
     "companyName": "BioCardia",
     "numberOfShares": 1541702,
-    "sharePrice": 3.88,
+    "sharePrice": 3.54,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "CDZI-US",
     "companyName": "Cadiz Inc.",
     "numberOfShares": 0,
-    "sharePrice": 10.87,
+    "sharePrice": 11.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +54,7 @@
     "ticker": "CDXC-US",
     "companyName": "ChromaDex Corporation",
     "numberOfShares": 1321979,
-    "sharePrice": 13.93,
+    "sharePrice": 8.74,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,7 +64,7 @@
     "ticker": "COCP-US",
     "companyName": "Cocrystal Pharma",
     "numberOfShares": 3707556,
-    "sharePrice": 1.57,
+    "sharePrice": 1.22,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -65,7 +75,7 @@
     "companyName": "Cocrystal Pharma",
     "numberOfShares": 50000,
     "exerciseOptionPrice": 2.78,
-    "sharePrice": 1.57,
+    "sharePrice": 1.22,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -75,7 +85,7 @@
     "ticker": "COMS-US",
     "companyName": "Drone Aviation",
     "numberOfShares": 4550384,
-    "sharePrice": 3.3,
+    "sharePrice": 2.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -93,7 +103,17 @@
     "ticker": "FLNT-US",
     "companyName": "Fluent",
     "numberOfShares": 18785000,
-    "sharePrice": 6.33,
+    "sharePrice": 3.855,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IGNYU-US",
+    "companyName": "Ignyte Acquisition Corp",
+    "numberOfShares": 450000,
+    "sharePrice": 10.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -113,7 +133,7 @@
     "ticker": "MSLP-US",
     "companyName": "MusclePharm",
     "numberOfShares": 0,
-    "sharePrice": 0.65,
+    "sharePrice": 1.1,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -123,7 +143,7 @@
     "ticker": "NVCN-US",
     "companyName": "Neovasc Inc.",
     "numberOfShares": 117000,
-    "sharePrice": 1.42,
+    "sharePrice": 0.969,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -133,7 +153,17 @@
     "ticker": "NIMU-US",
     "companyName": "Non-Invasive Monitoring Systems Inc.",
     "numberOfShares": 54690325,
-    "sharePrice": 0.033,
+    "sharePrice": 0.04,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "OPK-US",
+    "companyName": "Opko Health",
+    "numberOfShares": 225068000,
+    "sharePrice": 4.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -144,7 +174,7 @@
     "companyName": "Opko Health",
     "numberOfShares": 250000,
     "exerciseOptionPrice": 7.61,
-    "sharePrice": 4.5,
+    "sharePrice": 4.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -155,7 +185,7 @@
     "companyName": "Opko Health",
     "numberOfShares": 200000,
     "exerciseOptionPrice": 8.37,
-    "sharePrice": 4.5,
+    "sharePrice": 4.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -166,7 +196,7 @@
     "companyName": "Opko Health",
     "numberOfShares": 250000,
     "exerciseOptionPrice": 14.42,
-    "sharePrice": 4.5,
+    "sharePrice": 4.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -177,17 +207,7 @@
     "companyName": "Opko Health",
     "numberOfShares": 125000,
     "exerciseOptionPrice": 10.41,
-    "sharePrice": 4.5,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "OPK-US",
-    "companyName": "Opko Health",
-    "numberOfShares": 223417822,
-    "sharePrice": 4.5,
+    "sharePrice": 4.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -207,7 +227,7 @@
     "ticker": "PFE-US",
     "companyName": "Pfizer Inc.",
     "numberOfShares": 810000,
-    "sharePrice": 33.49,
+    "sharePrice": 38.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -217,7 +237,7 @@
     "ticker": "PXHI-US",
     "companyName": "PhoneX Holdings",
     "numberOfShares": 1000000,
-    "sharePrice": 0.34,
+    "sharePrice": 0.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -227,7 +247,7 @@
     "ticker": "COOL-US",
     "companyName": "PolarityTE, Inc.",
     "numberOfShares": 432900,
-    "sharePrice": 10.03,
+    "sharePrice": 9.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -246,8 +266,8 @@
     "exchange": "NASDAQ",
     "ticker": "RDVT-US",
     "companyName": "Red Violet",
-    "numberOfShares": 2504648,
-    "sharePrice": 23.2,
+    "numberOfShares": 6666,
+    "sharePrice": 20.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -257,9 +277,9 @@
     "ticker": "6808-HK",
     "companyName": "Sun Art Retail Group Limited",
     "numberOfShares": 4500000,
-    "sharePrice": 0.8637025769275393,
+    "sharePrice": 0.9338812103100486,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -267,7 +287,7 @@
     "ticker": "TGEN-US",
     "companyName": "Tecogen",
     "numberOfShares": 217800,
-    "sharePrice": 2,
+    "sharePrice": 1.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -277,17 +297,7 @@
     "ticker": "TEVA-US",
     "companyName": "Teva Pharmaceutical Industries Ltd.",
     "numberOfShares": 13500000,
-    "sharePrice": 10.76,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE AMERICAN",
-    "ticker": "TRXC-US",
-    "companyName": "Transenterix, Inc",
-    "numberOfShares": 2700000,
-    "sharePrice": 3.72,
+    "sharePrice": 10.64,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -297,7 +307,7 @@
     "ticker": "VBIV-US",
     "companyName": "VBI Vaccines",
     "numberOfShares": 294000,
-    "sharePrice": 3.37,
+    "sharePrice": 3.2,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -307,7 +317,7 @@
     "ticker": "VGR-US",
     "companyName": "Vector Group Ltd.",
     "numberOfShares": 14763520,
-    "sharePrice": 13.65,
+    "sharePrice": 12.98,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

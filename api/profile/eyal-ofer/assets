@@ -4,9 +4,9 @@
     "ticker": "MLSR-IL",
     "companyName": "Melisron Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 52.82699912458116,
+    "sharePrice": 60.50906404850574,
     "currencyCode": "ILS",
-    "exchangeRate": 3.3127,
+    "exchangeRate": 3.2491,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "MZTF-IL",
     "companyName": "Mizrahi Tefahot Bank Ltd.",
     "numberOfShares": 54486000,
-    "sharePrice": 23.95628943158149,
+    "sharePrice": 28.161644763165185,
     "currencyCode": "ILS",
-    "exchangeRate": 3.3127,
+    "exchangeRate": 3.2491,
+    "interactive": false
+  },
+  {
+    "exchange": "NEW ZEALAND",
+    "ticker": "NZO-NZ",
+    "companyName": "New Zealand Oil & Gas",
+    "numberOfShares": 114876000,
+    "sharePrice": 0.3184252424374005,
+    "currencyCode": "NZD",
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -24,7 +34,7 @@
     "ticker": "RCL-US",
     "companyName": "Royal Caribbean Cruises Ltd",
     "numberOfShares": 11300000,
-    "sharePrice": 93.27,
+    "sharePrice": 84.9,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

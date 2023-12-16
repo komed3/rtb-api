@@ -4,7 +4,27 @@
     "ticker": "FB-US",
     "companyName": "Facebook",
     "numberOfShares": 0,
-    "sharePrice": 257.62,
+    "sharePrice": 329.51,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RTP-US",
+    "companyName": "Reinvent Technology Partners",
+    "numberOfShares": 6852000,
+    "sharePrice": 9.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RTPZ-US",
+    "companyName": "Reinvent Technology Partners Z",
+    "numberOfShares": 2252000,
+    "sharePrice": 9.96,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +33,8 @@
     "exchange": "NASDAQ",
     "ticker": "ZNGA-US",
     "companyName": "Zynga",
-    "numberOfShares": 64105999.99999999,
-    "sharePrice": 11.15,
+    "numberOfShares": 62494000,
+    "sharePrice": 11.12,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,7 +45,7 @@
     "companyName": "Zynga",
     "numberOfShares": 0,
     "exerciseOptionPrice": 0.12815,
-    "sharePrice": 11.15,
+    "sharePrice": 11.12,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -36,7 +56,7 @@
     "companyName": "Zynga",
     "numberOfShares": 0,
     "exerciseOptionPrice": 0.17065,
-    "sharePrice": 11.15,
+    "sharePrice": 11.12,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

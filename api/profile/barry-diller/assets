@@ -3,9 +3,8 @@
     "exchange": "NYSE",
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
-    "numberOfShares": 2000000,
-    "exerciseOptionPrice": 35,
-    "sharePrice": 48.99,
+    "numberOfShares": 4000000,
+    "sharePrice": 54.26,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,41 +13,9 @@
     "exchange": "NYSE",
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
-    "numberOfShares": 4000000,
-    "sharePrice": 48.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "EXPE-US",
-    "companyName": "Expedia",
-    "numberOfShares": 150000,
-    "exerciseOptionPrice": 91.75,
-    "sharePrice": 161,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "EXPE-US",
-    "companyName": "Expedia",
-    "numberOfShares": 150000,
-    "exerciseOptionPrice": 105.13,
-    "sharePrice": 161,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "EXPE-US",
-    "companyName": "Expedia",
-    "numberOfShares": 113000,
-    "exerciseOptionPrice": 119.04,
-    "sharePrice": 161,
+    "numberOfShares": 2000000,
+    "exerciseOptionPrice": 35,
+    "sharePrice": 54.26,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -58,7 +25,7 @@
     "ticker": "EXPE-US",
     "companyName": "Expedia",
     "numberOfShares": 5094000,
-    "sharePrice": 161,
+    "sharePrice": 177.87,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -69,7 +36,50 @@
     "companyName": "Expedia",
     "numberOfShares": 100000,
     "exerciseOptionPrice": 66.76,
-    "sharePrice": 161,
+    "sharePrice": 177.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "EXPE-US",
+    "companyName": "Expedia",
+    "numberOfShares": 150000,
+    "exerciseOptionPrice": 91.75,
+    "sharePrice": 177.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "EXPE-US",
+    "companyName": "Expedia",
+    "numberOfShares": 150000,
+    "exerciseOptionPrice": 105.13,
+    "sharePrice": 177.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "EXPE-US",
+    "companyName": "Expedia",
+    "numberOfShares": 113000,
+    "exerciseOptionPrice": 119.04,
+    "sharePrice": 177.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IAC-US",
+    "companyName": "IAC/InterActiveCorp.",
+    "numberOfShares": 5932000,
+    "sharePrice": 254.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -80,7 +90,7 @@
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 300000,
     "exerciseOptionPrice": 31.89,
-    "sharePrice": 244.83,
+    "sharePrice": 254.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -91,7 +101,7 @@
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 500000,
     "exerciseOptionPrice": 67.45,
-    "sharePrice": 244.83,
+    "sharePrice": 254.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -102,17 +112,7 @@
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 500000,
     "exerciseOptionPrice": 84.21,
-    "sharePrice": 244.83,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "IAC-US",
-    "companyName": "IAC/InterActiveCorp.",
-    "numberOfShares": 5932000,
-    "sharePrice": 244.83,
+    "sharePrice": 254.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -122,7 +122,7 @@
     "ticker": "MTCH-US",
     "companyName": "Match Group Inc (MTCH)",
     "numberOfShares": 6539000,
-    "sharePrice": 152.85,
+    "sharePrice": 156.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -133,7 +133,7 @@
     "companyName": "Match Group Inc (MTCH)",
     "numberOfShares": 648000,
     "exerciseOptionPrice": 10.2603,
-    "sharePrice": 152.85,
+    "sharePrice": 156.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -144,7 +144,7 @@
     "companyName": "Match Group Inc (MTCH)",
     "numberOfShares": 1079000,
     "exerciseOptionPrice": 21.7014,
-    "sharePrice": 152.85,
+    "sharePrice": 156.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -155,7 +155,7 @@
     "companyName": "Match Group Inc (MTCH)",
     "numberOfShares": 1072000,
     "exerciseOptionPrice": 27.1259,
-    "sharePrice": 152.85,
+    "sharePrice": 156.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -165,7 +165,7 @@
     "ticker": "TRIP-US",
     "companyName": "TripAdvisor",
     "numberOfShares": 465000,
-    "sharePrice": 49.62,
+    "sharePrice": 47.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

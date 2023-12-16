@@ -2,12 +2,14 @@
   "uri": "xu-jinfu",
   "name": "Xu Jinfu",
   "gender": "m",
-  "birthDate": "1964-01-01T00:00:00.000Z",
+  "birthDate": "1964-01-01T05:00:00.000Z",
   "age": 59,
   "citizenship": "China",
   "state": "Guangdong",
   "city": "Guangzhou",
-  "industries": [],
+  "industries": [
+    "Manufacturing"
+  ],
   "source": [
     "chemicals"
   ]

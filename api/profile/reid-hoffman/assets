@@ -4,7 +4,7 @@
     "ticker": "FB-US",
     "companyName": "Facebook",
     "numberOfShares": 2080000,
-    "sharePrice": 257.62,
+    "sharePrice": 329.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,27 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 16000,
-    "sharePrice": 232.38,
+    "sharePrice": 252.51,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RTP-US",
+    "companyName": "Reinvent Technology Partners",
+    "numberOfShares": 6852000,
+    "sharePrice": 9.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RTPZ-US",
+    "companyName": "Reinvent Technology Partners Z",
+    "numberOfShares": 2252000,
+    "sharePrice": 9.96,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

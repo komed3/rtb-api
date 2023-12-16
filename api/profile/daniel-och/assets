@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "AJAX-US",
+    "companyName": "Ajax I",
+    "numberOfShares": 8333333,
+    "sharePrice": 9.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "SCU-US",
     "companyName": "Sculptor Capital Management",
     "numberOfShares": 7825000,
-    "sharePrice": 20.64,
+    "sharePrice": 22.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

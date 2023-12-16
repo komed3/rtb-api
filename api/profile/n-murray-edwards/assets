@@ -3,52 +3,8 @@
     "exchange": "NYSE",
     "ticker": "CNQ-US",
     "companyName": "Canadian Natural Resources Ltd.",
-    "numberOfShares": 200000,
-    "exerciseOptionPrice": 35.64,
-    "sharePrice": 27.29,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CNQ-US",
-    "companyName": "Canadian Natural Resources Ltd.",
-    "numberOfShares": 300000,
-    "exerciseOptionPrice": 35.97,
-    "sharePrice": 27.29,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CNQ-US",
-    "companyName": "Canadian Natural Resources Ltd.",
-    "numberOfShares": 300000,
-    "exerciseOptionPrice": 28.85,
-    "sharePrice": 27.29,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CNQ-US",
-    "companyName": "Canadian Natural Resources Ltd.",
-    "numberOfShares": 300000,
-    "exerciseOptionPrice": 22.9,
-    "sharePrice": 27.29,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CNQ-US",
-    "companyName": "Canadian Natural Resources Ltd.",
-    "numberOfShares": 21894000,
-    "sharePrice": 27.29,
+    "numberOfShares": 21939000,
+    "sharePrice": 30.74,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -59,19 +15,128 @@
     "companyName": "Canadian Natural Resources Ltd.",
     "numberOfShares": 200000,
     "exerciseOptionPrice": 34.96,
-    "sharePrice": 27.29,
+    "sharePrice": 30.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CNQ-US",
+    "companyName": "Canadian Natural Resources Ltd.",
+    "numberOfShares": 200000,
+    "exerciseOptionPrice": 35.64,
+    "sharePrice": 30.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CNQ-US",
+    "companyName": "Canadian Natural Resources Ltd.",
+    "numberOfShares": 300000,
+    "exerciseOptionPrice": 35.97,
+    "sharePrice": 30.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CNQ-US",
+    "companyName": "Canadian Natural Resources Ltd.",
+    "numberOfShares": 300000,
+    "exerciseOptionPrice": 28.85,
+    "sharePrice": 30.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CNQ-US",
+    "companyName": "Canadian Natural Resources Ltd.",
+    "numberOfShares": 300000,
+    "exerciseOptionPrice": 22.9,
+    "sharePrice": 30.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CNQ-US",
+    "companyName": "Canadian Natural Resources Ltd.",
+    "numberOfShares": 225000,
+    "exerciseOptionPrice": 38.71,
+    "sharePrice": 30.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CNQ-US",
+    "companyName": "Canadian Natural Resources Ltd.",
+    "numberOfShares": 400000,
+    "exerciseOptionPrice": 29.32,
+    "sharePrice": 30.74,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
+    "ticker": "CJ-CA",
+    "companyName": "Cardinal Energy",
+    "numberOfShares": 17287000,
+    "sharePrice": 2.1067187245810963,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2294,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
     "ticker": "ESI-CA",
     "companyName": "Ensign Energy Services Inc.",
-    "numberOfShares": 29582000,
-    "sharePrice": 0.9320695102685623,
+    "numberOfShares": 31582000,
+    "sharePrice": 0.9191475516512119,
     "currencyCode": "CAD",
-    "exchangeRate": 1.266,
+    "exchangeRate": 1.2294,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ESI-CA",
+    "companyName": "Ensign Energy Services Inc.",
+    "numberOfShares": 150000,
+    "exerciseOptionPrice": 6.466569058077111,
+    "sharePrice": 0.9191475516512119,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2294,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ESI-CA",
+    "companyName": "Ensign Energy Services Inc.",
+    "numberOfShares": 130000,
+    "exerciseOptionPrice": 4.555067512607776,
+    "sharePrice": 0.9191475516512119,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2294,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ESI-CA",
+    "companyName": "Ensign Energy Services Inc.",
+    "numberOfShares": 95000,
+    "exerciseOptionPrice": 4.628273954774687,
+    "sharePrice": 0.9191475516512119,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2294,
     "interactive": false
   },
   {
@@ -79,9 +144,9 @@
     "ticker": "III-CA",
     "companyName": "Imperial Metals Corp.",
     "numberOfShares": 46439000,
-    "sharePrice": 3.704581358609795,
+    "sharePrice": 4.132096957865626,
     "currencyCode": "CAD",
-    "exchangeRate": 1.266,
+    "exchangeRate": 1.2294,
     "interactive": false
   },
   {
@@ -89,9 +154,9 @@
     "ticker": "MAL-CA",
     "companyName": "Magellan Aerospace Corp.",
     "numberOfShares": 43057000,
-    "sharePrice": 7.709320695102686,
+    "sharePrice": 8.695298519603057,
     "currencyCode": "CAD",
-    "exchangeRate": 1.266,
+    "exchangeRate": 1.2294,
     "interactive": false
   }
 ]

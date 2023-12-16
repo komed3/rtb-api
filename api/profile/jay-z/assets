@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "SQ-US",
+    "companyName": "Square",
+    "numberOfShares": 324576,
+    "sharePrice": 247.76,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UBER-US",
+    "companyName": "Uber Technologies",
+    "numberOfShares": 1680000,
+    "sharePrice": 54.93,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

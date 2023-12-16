@@ -4,9 +4,9 @@
     "ticker": "331-HK",
     "companyName": "FSE Engineering Holdings",
     "numberOfShares": 60750000,
-    "sharePrice": 0.5104868962138889,
+    "sharePrice": 0.6646657993379105,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -14,10 +14,10 @@
     "ticker": "480-HK",
     "companyName": "HKR International",
     "numberOfShares": 1210000,
-    "exerciseOptionPrice": 0.5452928209557449,
-    "sharePrice": 0.4382968300826318,
+    "exerciseOptionPrice": 0.5448713820153801,
+    "sharePrice": 0.42765318872129116,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -25,31 +25,9 @@
     "ticker": "276-HK",
     "companyName": "Mongolia Energy Corp. Ltd.",
     "numberOfShares": 9866700,
-    "sharePrice": 0.15469299885269358,
+    "sharePrice": 0.13267553746473792,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "17-HK",
-    "companyName": "New World Development Co. Ltd.",
-    "numberOfShares": 500000,
-    "exerciseOptionPrice": 1.2937491137380275,
-    "sharePrice": 5.085532337282302,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "17-HK",
-    "companyName": "New World Development Co. Ltd.",
-    "numberOfShares": 10675637,
-    "exerciseOptionPrice": 0.9719876761244247,
-    "sharePrice": 5.085532337282302,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -57,20 +35,31 @@
     "ticker": "17-HK",
     "companyName": "New World Development Co. Ltd.",
     "numberOfShares": 3169000,
-    "sharePrice": 5.085532337282302,
+    "sharePrice": 5.39718933958497,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
-    "ticker": "659-HK",
-    "companyName": "NWS Holdings Ltd.",
-    "numberOfShares": 7420739,
-    "exerciseOptionPrice": 1.8202209531666946,
-    "sharePrice": 1.1305479999484356,
+    "ticker": "17-HK",
+    "companyName": "New World Development Co. Ltd.",
+    "numberOfShares": 500000,
+    "exerciseOptionPrice": 1.2927492174719513,
+    "sharePrice": 5.39718933958497,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "17-HK",
+    "companyName": "New World Development Co. Ltd.",
+    "numberOfShares": 10675637,
+    "exerciseOptionPrice": 0.9712364587224505,
+    "sharePrice": 5.39718933958497,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -78,20 +67,20 @@
     "ticker": "659-HK",
     "companyName": "NWS Holdings Ltd.",
     "numberOfShares": 30349571,
-    "sharePrice": 1.1305479999484356,
+    "sharePrice": 1.1077763322298506,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
-    "ticker": "880-HK",
-    "companyName": "SJM Holdings Limited",
-    "numberOfShares": 6000000,
-    "exerciseOptionPrice": 1.266677838938806,
-    "sharePrice": 1.3922369896742424,
+    "ticker": "659-HK",
+    "companyName": "NWS Holdings Ltd.",
+    "numberOfShares": 7420739,
+    "exerciseOptionPrice": 1.8188141640797082,
+    "sharePrice": 1.1077763322298506,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -99,9 +88,20 @@
     "ticker": "880-HK",
     "companyName": "SJM Holdings Limited",
     "numberOfShares": 306205900,
-    "sharePrice": 1.3922369896742424,
+    "sharePrice": 1.3241791506189378,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "880-HK",
+    "companyName": "SJM Holdings Limited",
+    "numberOfShares": 6000000,
+    "exerciseOptionPrice": 1.2656988651733154,
+    "sharePrice": 1.3241791506189378,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7633,
     "interactive": false
   }
 ]

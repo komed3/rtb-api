@@ -4,9 +4,9 @@
     "ticker": "6863-HK",
     "companyName": "China Huishan Dairy Holdings Co. Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.05414254959844276,
+    "sharePrice": 0.05410070459727177,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7573,
+    "exchangeRate": 7.7633,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "002304-CN",
     "companyName": "Jiangsu Yanghe Brewery Joint-Stock Co Ltd",
     "numberOfShares": 0,
-    "sharePrice": 29.256965944272444,
+    "sharePrice": 29.600074232161084,
     "currencyCode": "CNY",
-    "exchangeRate": 6.46,
+    "exchangeRate": 6.4662,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "600770-CN",
     "companyName": "Jiangsu Zongyi Co. Ltd.",
     "numberOfShares": 436470000,
-    "sharePrice": 0.8003095975232198,
+    "sharePrice": 0.7949027249389131,
     "currencyCode": "CNY",
-    "exchangeRate": 6.46,
+    "exchangeRate": 6.4662,
     "interactive": false
   },
   {
@@ -34,19 +34,9 @@
     "ticker": "600770-CN",
     "companyName": "Jiangsu Zongyi Co. Ltd.",
     "numberOfShares": -41101000,
-    "sharePrice": 0.8003095975232198,
+    "sharePrice": 0.7949027249389131,
     "currencyCode": "CNY",
-    "exchangeRate": 6.46,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002349-CN",
-    "companyName": "Nantong Jinghua Pharmaceutical Co Ltd",
-    "numberOfShares": -9800000,
-    "sharePrice": 0.6888544891640868,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.46,
+    "exchangeRate": 6.4662,
     "interactive": false
   },
   {
@@ -54,9 +44,19 @@
     "ticker": "002349-CN",
     "companyName": "Nantong Jinghua Pharmaceutical Co Ltd",
     "numberOfShares": 156994000,
-    "sharePrice": 0.6888544891640868,
+    "sharePrice": 0.7299495839905973,
     "currencyCode": "CNY",
-    "exchangeRate": 6.46,
+    "exchangeRate": 6.4662,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002349-CN",
+    "companyName": "Nantong Jinghua Pharmaceutical Co Ltd",
+    "numberOfShares": -9800000,
+    "sharePrice": 0.7299495839905973,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.4662,
     "interactive": false
   }
 ]

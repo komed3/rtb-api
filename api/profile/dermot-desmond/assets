@@ -4,19 +4,29 @@
     "ticker": "CCP-GB",
     "companyName": "Celtic PLC",
     "numberOfShares": 32772000,
-    "sharePrice": 1.467915559904935,
+    "sharePrice": 1.7431320596848419,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7153,
+    "exchangeRate": 0.7171,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT DUBLIN",
+    "ticker": "DLE-IE",
+    "companyName": "Datalex PLC",
+    "numberOfShares": 24503000,
+    "sharePrice": 0.6298449612403101,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8256,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "MPVD-CA",
     "companyName": "Mountain Province Diamonds",
-    "numberOfShares": 63045000,
-    "sharePrice": 0.608214849921011,
+    "numberOfShares": 68115000,
+    "sharePrice": 0.4636408003904343,
     "currencyCode": "CAD",
-    "exchangeRate": 1.266,
+    "exchangeRate": 1.2294,
     "interactive": false
   }
 ]

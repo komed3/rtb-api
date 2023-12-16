@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "COIN-US",
+    "companyName": "Coinbase Global",
+    "numberOfShares": 35149000,
+    "sharePrice": 294.77,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "COIN-US",
+    "companyName": "Coinbase Global",
+    "numberOfShares": 1261000,
+    "exerciseOptionPrice": 18.71,
+    "sharePrice": 294.77,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

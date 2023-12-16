@@ -2,12 +2,14 @@
   "uri": "shao-xiaofeng",
   "name": "Shao Xiaofeng",
   "gender": "m",
-  "birthDate": null,
-  "age": null,
+  "birthDate": "1966-01-01T05:00:00.000Z",
+  "age": 57,
   "citizenship": "China",
-  "state": null,
+  "state": "Zhejiang",
   "city": "Hangzhou",
-  "industries": [],
+  "industries": [
+    "Technology"
+  ],
   "source": [
     "e-commerce"
   ]

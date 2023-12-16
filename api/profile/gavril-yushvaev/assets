@@ -4,9 +4,19 @@
     "ticker": "DHER-DE",
     "companyName": "Delivery Hero",
     "numberOfShares": 3770000,
-    "sharePrice": 128.29226847918437,
+    "sharePrice": 164.42587209302326,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8239,
+    "exchangeRate": 0.8256,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LYFT-US",
+    "companyName": "Lyft, Inc.",
+    "numberOfShares": 8223269,
+    "sharePrice": 57.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
