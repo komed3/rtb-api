@@ -110,6 +110,7 @@ async function run() {
                           new Date() - new Date( birthDate )
                       ).getFullYear() - 1970
                     : null,
+                image: profile.squareImage || null,
                 citizenship: profile.countryOfCitizenship || null,
                 state: profile.state || null,
                 city: profile.city || null,
