@@ -100,6 +100,7 @@ async function run() {
             let info = {
                 uri: uri,
                 name: ( profile.person.name || profile.personName || '' ).trim(),
+                family: !!( profile.family || false ),
                 gender: profile.gender
                     ? profile.gender.toLowerCase()
                     : null,
