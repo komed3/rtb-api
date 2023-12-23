@@ -219,7 +219,7 @@ async function run() {
      */
 
     nextStep(
-        '[2/8] fetching real-time data',
+        '[2/8] fetching real-time data for ' + colors.yellow( today ),
         1, 'files'
     );
 
