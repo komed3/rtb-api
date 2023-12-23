@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "SCHW-US",
+    "companyName": "Charles Schwab Corp.",
+    "numberOfShares": 50458000,
+    "sharePrice": 41.11,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "AMTD-US",
     "companyName": "TD Ameritrade Holding Corp.",
-    "numberOfShares": 46561000,
-    "sharePrice": 38.74,
+    "numberOfShares": 0,
+    "sharePrice": 39.97,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

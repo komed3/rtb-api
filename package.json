@@ -5,7 +5,8 @@
   "description": "real time billionaires API",
   "license": "MIT",
   "scripts": {
-    "update": "node update.js"
+    "update": "node update.js --supress-filter",
+    "update-filter": "node update.js"
   },
   "dependencies": {
     "ansi-colors": "^4.1.3",

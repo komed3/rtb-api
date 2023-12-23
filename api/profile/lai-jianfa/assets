@@ -4,7 +4,17 @@
     "ticker": "ZTO-US",
     "companyName": "ZTO Express",
     "numberOfShares": 66580000,
-    "sharePrice": 29.59,
+    "sharePrice": 28.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ZTO-US",
+    "companyName": "ZTO Express",
+    "numberOfShares": -1500000,
+    "sharePrice": 28.98,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

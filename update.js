@@ -781,125 +781,137 @@ async function run() {
      * create filter
      */
 
-    nextStep(
-        '[7/8] create filter',
-        Object.keys( list ).length + 5,
-        'steps'
-    );
+    if( process.argv.includes( '--supress-filter' ) ) {
 
-    let filter = {
-        country: {},
-        industry: {},
-        young: [],
-        old: [],
-        woman: []
-    }
+        finishStep();
 
-    Object.keys( list ).forEach( ( uri ) => {
+        console.log( '[7/8] create filter' );
+        console.log( colors.yellow( 'step 7 skipped' ) );
+        console.log( '' );
 
-        let path = dir + 'profile/' + uri + '/info';
+    } else {
 
-        if( fs.existsSync( path ) ) {
+        nextStep(
+            '[7/8] create filter',
+            Object.keys( list ).length + 5,
+            'steps'
+        );
 
-            let info = JSON.parse( fs.readFileSync( path ) ),
-                age = getAge( info.birthDate );
-
-            if( info.gender == 'f' ) {
-
-                filter.woman.push( uri );
-
-            }
-
-            if( age < 50 ) {
-
-                filter.young.push( uri );
-
-            } else if( age > 80 ) {
-
-                filter.old.push( uri );
-
-            }
-
-            if( info.citizenship ) {
-
-                if( !( info.citizenship in filter.country ) ) {
-
-                    filter.country[ info.citizenship ] = [];
-
-                }
-
-                filter.country[ info.citizenship ].push( uri );
-
-            }
-
-            info.industry.forEach( ( industry ) => {
-
-                if( !( industry in filter.industry ) ) {
-
-                    filter.industry[ industry ] = [];
-
-                }
-
-                filter.industry[ industry ].push( uri );
-
-            } );
-
+        let filter = {
+            country: {},
+            industry: {},
+            young: [],
+            old: [],
+            woman: []
         }
 
-        updateStep();
+        Object.keys( list ).forEach( ( uri ) => {
 
-    } );
+            let path = dir + 'profile/' + uri + '/info';
 
-    /**
-     * process (and save) filter
-     */
+            if( fs.existsSync( path ) ) {
 
-    for( const [ key, value ] of Object.entries( filter ) ) {
+                let info = JSON.parse( fs.readFileSync( path ) ),
+                    age = getAge( info.birthDate );
 
-        if( Array.isArray( value ) ) {
+                if( info.gender == 'f' ) {
 
-            fs.writeFileSync(
-                dir + 'filter/' + key,
-                JSON.stringify( value.sort(), null, 2 ),
-                { flag: 'w' }
-            );
+                    filter.woman.push( uri );
 
-        } else {
+                }
 
-            let path = dir + 'filter/' + key + '/',
-                l = {};
+                if( age < 50 ) {
 
-            if( fs.existsSync( path + '_list' ) ) {
+                    filter.young.push( uri );
 
-                l = JSON.parse( fs.readFileSync( path + '_list' ) );
+                } else if( age > 80 ) {
+
+                    filter.old.push( uri );
+
+                }
+
+                if( info.citizenship ) {
+
+                    if( !( info.citizenship in filter.country ) ) {
+
+                        filter.country[ info.citizenship ] = [];
+
+                    }
+
+                    filter.country[ info.citizenship ].push( uri );
+
+                }
+
+                info.industry.forEach( ( industry ) => {
+
+                    if( !( industry in filter.industry ) ) {
+
+                        filter.industry[ industry ] = [];
+
+                    }
+
+                    filter.industry[ industry ].push( uri );
+
+                } );
 
             }
 
-            for( const [ k, v ] of Object.entries( value ) ) {
+            updateStep();
 
-                let _k = sanitize( k );
+        } );
 
-                l[ _k ] = key == 'country' ? countryName( k ) : k;
+        /**
+         * process (and save) filter
+         */
+
+        for( const [ key, value ] of Object.entries( filter ) ) {
+
+            if( Array.isArray( value ) ) {
 
                 fs.writeFileSync(
-                    path + _k,
-                    JSON.stringify( v.sort(), null, 2 ),
+                    dir + 'filter/' + key,
+                    JSON.stringify( value.sort(), null, 2 ),
+                    { flag: 'w' }
+                );
+
+            } else {
+
+                let path = dir + 'filter/' + key + '/',
+                    l = {};
+
+                if( fs.existsSync( path + '_list' ) ) {
+
+                    l = JSON.parse( fs.readFileSync( path + '_list' ) );
+
+                }
+
+                for( const [ k, v ] of Object.entries( value ) ) {
+
+                    let _k = sanitize( k );
+
+                    l[ _k ] = key == 'country' ? countryName( k ) : k;
+
+                    fs.writeFileSync(
+                        path + _k,
+                        JSON.stringify( v.sort(), null, 2 ),
+                        { flag: 'w' }
+                    );
+
+                }
+
+                fs.writeFileSync(
+                    path + '_list',
+                    JSON.stringify( Object.keys( l ).sort().reduce( ( a, b ) => ( {
+                        ...a, [ b ]: l[ b ]
+                    } ), {} ), null, 2 ),
                     { flag: 'w' }
                 );
 
             }
 
-            fs.writeFileSync(
-                path + '_list',
-                JSON.stringify( Object.keys( l ).sort().reduce( ( a, b ) => ( {
-                    ...a, [ b ]: l[ b ]
-                } ), {} ), null, 2 ),
-                { flag: 'w' }
-            );
+            updateStep();
 
         }
-
-        updateStep();
 
     }
 
