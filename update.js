@@ -94,7 +94,6 @@ var countryName = ( country ) => {
 async function run() {
 
     console.log( 'Real-time billionaires' );
-    console.log( colors.yellow( 'update data as of ' + today ) );
     console.log( '' );
 
     /**
