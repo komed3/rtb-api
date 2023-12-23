@@ -3,8 +3,19 @@
     "exchange": "NASDAQ",
     "ticker": "TWNK-US",
     "companyName": "Hostess Brands, Inc",
-    "numberOfShares": 693589,
-    "sharePrice": 12.25,
+    "numberOfShares": 694000,
+    "sharePrice": 12.65,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TWNK-US",
+    "companyName": "Hostess Brands, Inc",
+    "numberOfShares": 2995000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 12.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

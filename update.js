@@ -144,7 +144,7 @@ async function run() {
 
     const available = await axios.get(
         'https://archive.org/wayback/available?url=https%3A%2F%2Fwww.forbes.com%2Fforbesapi%2Fperson%2Frtb%2F0%2Fposition%2Ftrue.json&timestamp=' +
-        today.replaceAll( '-', '' ) + '150000'
+        today.replaceAll( '-', '' ) + '140000'
     );
 
     updateStep();
