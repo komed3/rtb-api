@@ -14,7 +14,7 @@
     "ticker": "LYB-US",
     "companyName": "LyondellBasell",
     "numberOfShares": 69712000,
-    "sharePrice": 107.9,
+    "sharePrice": 105.03,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -30,13 +30,23 @@
     "interactive": false
   },
   {
+    "exchange": "NASDAQ",
+    "ticker": "OPEN-US",
+    "companyName": "Opendoor Technologies",
+    "numberOfShares": 31175500,
+    "sharePrice": 20.52,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "HAMBURG",
     "ticker": "RKET-DE",
     "companyName": "Rocket Internet AG",
     "numberOfShares": 0,
-    "sharePrice": 28.781664656212303,
+    "sharePrice": 27.72370118447285,
     "currencyCode": "EUR",
-    "exchangeRate": 0.829,
+    "exchangeRate": 0.8527,
     "interactive": false
   },
   {
@@ -44,7 +54,7 @@
     "ticker": "SQ-US",
     "companyName": "Square",
     "numberOfShares": 3990000,
-    "sharePrice": 252.2,
+    "sharePrice": 212.83,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,17 +64,17 @@
     "ticker": "486-HK",
     "companyName": "United Co. RUSAL Plc",
     "numberOfShares": 1600000000,
-    "sharePrice": 0.5413487316972572,
+    "sharePrice": 0.6302899333693499,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7584,
+    "exchangeRate": 7.7742,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WMG-US",
     "companyName": "Warner Music Group",
-    "numberOfShares": 417988000,
-    "sharePrice": 37.04,
+    "numberOfShares": 413233500,
+    "sharePrice": 32.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

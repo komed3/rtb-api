@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SIX SWISS",
+    "ticker": "BBN-CH",
+    "companyName": "Bellevue Group",
+    "numberOfShares": 1300000,
+    "sharePrice": 40.18235793044953,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9432,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
     "ticker": "MOLN-CH",
     "companyName": "Molecular Partners",
     "numberOfShares": 2041000,
-    "sharePrice": 25.297781663206205,
+    "sharePrice": 24.38507209499576,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9151,
+    "exchangeRate": 0.9432,
     "interactive": false
   },
   {
@@ -14,7 +24,7 @@
     "ticker": "NVCR-US",
     "companyName": "Novocure",
     "numberOfShares": 8141000,
-    "sharePrice": 153.09,
+    "sharePrice": 125.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

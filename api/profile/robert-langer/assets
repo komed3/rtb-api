@@ -4,7 +4,7 @@
     "ticker": "FREQ-US",
     "companyName": "Frequency Therapeutics",
     "numberOfShares": 470059,
-    "sharePrice": 47.2,
+    "sharePrice": 8.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "LYRA-US",
     "companyName": "Lyra Therapeutics",
     "numberOfShares": 15167,
-    "sharePrice": 15.03,
+    "sharePrice": 11.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11720433,
-    "sharePrice": 146.81,
+    "sharePrice": 118.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -35,7 +35,7 @@
     "companyName": "Moderna, Inc.",
     "numberOfShares": 18720,
     "exerciseOptionPrice": 46.37,
-    "sharePrice": 146.81,
+    "sharePrice": 118.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,8 +44,8 @@
     "exchange": "NASDAQ",
     "ticker": "SEER-US",
     "companyName": "Seer",
-    "numberOfShares": 365357,
-    "sharePrice": 51.44,
+    "numberOfShares": 692459,
+    "sharePrice": 43.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +56,7 @@
     "companyName": "Seer",
     "numberOfShares": 65030.00000000001,
     "exerciseOptionPrice": 0.05,
-    "sharePrice": 51.44,
+    "sharePrice": 43.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -67,7 +67,7 @@
     "companyName": "Seer",
     "numberOfShares": 25472,
     "exerciseOptionPrice": 2.7,
-    "sharePrice": 51.44,
+    "sharePrice": 43.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -78,7 +78,7 @@
     "companyName": "Seer",
     "numberOfShares": 15195,
     "exerciseOptionPrice": 3.47,
-    "sharePrice": 51.44,
+    "sharePrice": 43.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -89,7 +89,17 @@
     "companyName": "Seer",
     "numberOfShares": 1038,
     "exerciseOptionPrice": 19,
-    "sharePrice": 51.44,
+    "sharePrice": 43.24,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SGTX-US",
+    "companyName": "Sigilon Therapeutics",
+    "numberOfShares": 2222222,
+    "sharePrice": 18.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -99,7 +109,7 @@
     "ticker": "SQZ-US",
     "companyName": "SQZ Biotechnologies",
     "numberOfShares": 244000,
-    "sharePrice": 15.22,
+    "sharePrice": 12.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

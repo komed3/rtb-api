@@ -1,50 +1,60 @@
 [
   {
+    "exchange": "TEL AVIV",
+    "ticker": "CLIS-IL",
+    "companyName": "Clal Insurance Enterprises Holdings",
+    "numberOfShares": 4611000,
+    "sharePrice": 16.748074675616554,
+    "currencyCode": "ILS",
+    "exchangeRate": 3.3371,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
-    "ticker": "ACRS-US",
-    "companyName": "Aclaris Therapeutics Inc (ACRS)",
-    "numberOfShares": 1433000,
-    "sharePrice": 23.25,
+    "ticker": "KROS-US",
+    "companyName": "Keros Therapeutics",
+    "numberOfShares": 2013000,
+    "sharePrice": 57.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "TEL AVIV",
-    "ticker": "CLIS-IL",
-    "companyName": "Clal Insurance Enterprises Holdings",
-    "numberOfShares": 4611000,
-    "sharePrice": 16.404330816122282,
-    "currencyCode": "ILS",
-    "exchangeRate": 3.2973,
-    "interactive": false
-  },
-  {
-    "exchange": "TEL AVIV",
-    "ticker": "EXEN-IL",
-    "companyName": "Exalenz Bioscience",
-    "numberOfShares": 20258000,
-    "sharePrice": 1.808146058896673,
-    "currencyCode": "ILS",
-    "exchangeRate": 3.2973,
-    "interactive": false
-  },
-  {
-    "exchange": "TEL AVIV",
     "ticker": "NVLG-IL",
     "companyName": "Novolog",
-    "numberOfShares": 52307000,
-    "sharePrice": 0.9037697510084008,
+    "numberOfShares": 42307000,
+    "sharePrice": 0.8783075125108627,
     "currencyCode": "ILS",
-    "exchangeRate": 3.2973,
+    "exchangeRate": 3.3371,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ONCR-US",
+    "companyName": "Oncorus",
+    "numberOfShares": 1067000,
+    "sharePrice": 12.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "SCTC-US",
+    "companyName": "ScoutCam",
+    "numberOfShares": 4131999.9999999995,
+    "sharePrice": 0.925,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SLGL-US",
     "companyName": "Sol-Gel Technologies",
-    "numberOfShares": 13699936,
-    "sharePrice": 9.6,
+    "numberOfShares": 14154000,
+    "sharePrice": 11.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,8 +63,8 @@
     "exchange": "NASDAQ",
     "ticker": "URGN-US",
     "companyName": "UroGen Pharma",
-    "numberOfShares": 1369315,
-    "sharePrice": 19.73,
+    "numberOfShares": 1369000,
+    "sharePrice": 18.52,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

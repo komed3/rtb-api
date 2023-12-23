@@ -1,16 +1,18 @@
 {
   "uri": "shao-xiaofeng",
   "name": "Shao Xiaofeng",
-  "birthDate": null,
+  "birthDate": "1966-01-01",
   "family": false,
   "gender": "m",
   "citizenship": "CN",
   "residence": {
     "city": "Hangzhou",
-    "state": null
+    "state": "Zhejiang"
   },
   "image": null,
-  "industry": [],
+  "industry": [
+    "Technology"
+  ],
   "source": [
     "e-commerce"
   ]

@@ -1,7 +1,7 @@
 {
   "uri": "wu-eddie-yongming",
   "name": "Wu Eddie Yongming",
-  "birthDate": null,
+  "birthDate": "1975-01-01",
   "family": false,
   "gender": "m",
   "citizenship": "CN",
@@ -10,7 +10,9 @@
     "state": "Zhejiang"
   },
   "image": null,
-  "industry": [],
+  "industry": [
+    "Technology"
+  ],
   "source": [
     "e-commerce"
   ]

@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "MILE-US",
+    "companyName": "Metromile",
+    "numberOfShares": 4671000,
+    "sharePrice": 11.23,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NYSE",
     "ticker": "UBER-US",
     "companyName": "Uber Technologies",
-    "numberOfShares": 14900000,
-    "sharePrice": 54.65,
+    "numberOfShares": 13410000,
+    "sharePrice": 53.46,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
