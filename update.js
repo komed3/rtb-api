@@ -313,7 +313,9 @@ async function run() {
                 ).getFullYear() - 1970
                 : null;
 
-            let image = profile.squareImage || null;
+            let image = profile.squareImage
+                ? profile.squareImage.replace( /\/\/web\.archive\.org\/web\/([^\/]+?)\//gui, '' )
+                : null;
 
             let industries = [].concat( profile.industries || [] ).map(
                 a => a.replaceAll( ' and ', ' & ' ).trim()
