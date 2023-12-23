@@ -3,20 +3,30 @@
     "exchange": "BSE INDIA",
     "ticker": "500084-IN",
     "companyName": "CESC",
-    "numberOfShares": 63200000,
-    "sharePrice": 8.515036031702994,
+    "numberOfShares": 61400000,
+    "sharePrice": 8.352570828961175,
     "currencyCode": "INR",
-    "exchangeRate": 73.3937,
+    "exchangeRate": 73.8575,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
+    "ticker": "542333-IN",
+    "companyName": "CESC Ventures",
+    "numberOfShares": 12150000,
+    "sharePrice": 3.1730020647869206,
+    "currencyCode": "INR",
+    "exchangeRate": 73.8575,
     "interactive": false
   },
   {
     "exchange": "BSE INDIA",
     "ticker": "506590-IN",
     "companyName": "Phillips Carbon Black",
-    "numberOfShares": 92300000,
-    "sharePrice": 1.6588617279139763,
+    "numberOfShares": 91970000,
+    "sharePrice": 1.7703009173069761,
     "currencyCode": "INR",
-    "exchangeRate": 73.3937,
+    "exchangeRate": 73.8575,
     "interactive": false
   },
   {
@@ -24,9 +34,19 @@
     "ticker": "532163-IN",
     "companyName": "Saregama India",
     "numberOfShares": 10300000,
-    "sharePrice": 7.343954590107871,
+    "sharePrice": 7.582168364756456,
     "currencyCode": "INR",
-    "exchangeRate": 73.3937,
+    "exchangeRate": 73.8575,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
+    "ticker": "542337-IN",
+    "companyName": "Spencers Retail",
+    "numberOfShares": 40630000,
+    "sharePrice": 1.045933046745422,
+    "currencyCode": "INR",
+    "exchangeRate": 73.8575,
     "interactive": false
   }
 ]

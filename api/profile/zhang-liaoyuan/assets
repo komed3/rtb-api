@@ -3,10 +3,20 @@
     "exchange": "SHENZHEN",
     "ticker": "300783-CN",
     "companyName": "Three Squirrels",
-    "numberOfShares": 171293000,
-    "sharePrice": 9.867606577433403,
+    "numberOfShares": 168296600,
+    "sharePrice": 7.7101228342763335,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8659,
+    "exchangeRate": 6.8222,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "300783-CN",
+    "companyName": "Three Squirrels",
+    "numberOfShares": -2500000,
+    "sharePrice": 7.7101228342763335,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8222,
     "interactive": false
   }
 ]

@@ -37,10 +37,9 @@ var nextStep = ( step, total, chunks = '', start = 0 ) => {
 
     bar = new cliProgress.SingleBar( {
         format: '{bar} | ' + colors.yellow( 'ETA: {eta}s' ) + ' | {value} of {total} ' + chunks,
-        autopadding: true,
         etaAsynchronousUpdate: true,
-        etaBuffer: 30,
-        fps: 30
+        fps: 30,
+        etaBuffer: 30
     }, cliProgress.Presets.rect );
 
     bar.start( total, start );
