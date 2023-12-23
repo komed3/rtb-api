@@ -3,10 +3,10 @@
     "exchange": "SIX SWISS",
     "ticker": "CFR-CH",
     "companyName": "Compagnie Financiere Richemont S.A.",
-    "numberOfShares": 55037000,
-    "sharePrice": 90.70109865216898,
+    "numberOfShares": 60268000,
+    "sharePrice": 93.16546762589928,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8829,
+    "exchangeRate": 0.8896,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "REINI-LU",
     "companyName": "Reinet Investments SCA",
     "numberOfShares": 48800000,
-    "sharePrice": 18.88068880688807,
+    "sharePrice": 18.308832462641234,
     "currencyCode": "EUR",
-    "exchangeRate": 0.813,
+    "exchangeRate": 0.8231,
     "interactive": false
   },
   {
@@ -24,9 +24,19 @@
     "ticker": "REM-ZA",
     "companyName": "Remgro Ltd.",
     "numberOfShares": 39057000,
-    "sharePrice": 6.564190345771996,
+    "sharePrice": 6.676631788739412,
     "currencyCode": "ZAR",
-    "exchangeRate": 14.605,
+    "exchangeRate": 15.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "JSE",
+    "ticker": "RMH-ZA",
+    "companyName": "RMB Holdings",
+    "numberOfShares": 27316000,
+    "sharePrice": 0.09566517189835574,
+    "currencyCode": "ZAR",
+    "exchangeRate": 15.0525,
     "interactive": false
   }
 ]

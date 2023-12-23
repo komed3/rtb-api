@@ -4,7 +4,17 @@
     "ticker": "CACC-US",
     "companyName": "Credit Acceptance Corp.",
     "numberOfShares": 1941915,
-    "sharePrice": 341.31,
+    "sharePrice": 385.77,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "GME-US",
+    "companyName": "GameStop Corp. (Cl A)",
+    "numberOfShares": 3500000,
+    "sharePrice": 325,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
