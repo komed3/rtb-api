@@ -3,30 +3,40 @@
     "exchange": "SINGAPORE",
     "ticker": "O5RU-SG",
     "companyName": "AIMS AMP Capital Industrial REIT",
-    "numberOfShares": 71100000,
-    "sharePrice": 0.8796801163213377,
+    "numberOfShares": 61479000,
+    "sharePrice": 0.8682855040470934,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3755,
+    "exchangeRate": 1.359,
     "interactive": false
   },
   {
     "exchange": "PHILIPPINES",
     "ticker": "AGI-PH",
     "companyName": "Alliance Global Group Inc.",
-    "numberOfShares": 6179000000,
-    "sharePrice": 0.11707317073170731,
+    "numberOfShares": 6489816784,
+    "sharePrice": 0.12746210168093225,
     "currencyCode": "PHP",
-    "exchangeRate": 49.2,
+    "exchangeRate": 48.485,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "CNNU-SG",
     "companyName": "Cromwell European REIT",
-    "numberOfShares": 301000000,
-    "sharePrice": 0.5121865065347934,
+    "numberOfShares": 201800000,
+    "sharePrice": 0.5234979179060083,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8493,
+    "exchangeRate": 0.8405,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
+    "ticker": "EMP-PH",
+    "companyName": "Emperador Inc",
+    "numberOfShares": 545931900,
+    "sharePrice": 0.20624935547076415,
+    "currencyCode": "PHP",
+    "exchangeRate": 48.485,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "ELI-PH",
     "companyName": "Empire East Land Holdings",
     "numberOfShares": 175000000,
-    "sharePrice": 0.004999999999999999,
+    "sharePrice": 0.005362483242239868,
     "currencyCode": "PHP",
-    "exchangeRate": 49.2,
+    "exchangeRate": 48.485,
     "interactive": false
   },
   {
@@ -44,7 +54,7 @@
     "ticker": "CMOU-SG",
     "companyName": "Keppel-KBS US REIT",
     "numberOfShares": 73700000,
-    "sharePrice": 0.71,
+    "sharePrice": 0.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,29 +64,39 @@
     "ticker": "RW0U-SG",
     "companyName": "Mapletree North Asia Commercial",
     "numberOfShares": 27720000,
-    "sharePrice": 0.628862231915667,
+    "sharePrice": 0.695364238410596,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3755,
+    "exchangeRate": 1.359,
     "interactive": false
   },
   {
     "exchange": "PHILIPPINES",
     "ticker": "MEG-PH",
     "companyName": "Megaworld Corp.",
-    "numberOfShares": 183000000,
-    "sharePrice": 0.06097560975609756,
+    "numberOfShares": 1203031337,
+    "sharePrice": 0.06001856244199237,
     "currencyCode": "PHP",
-    "exchangeRate": 49.2,
+    "exchangeRate": 48.485,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "SK7-SG",
     "companyName": "OUE Hospitality Trust",
-    "numberOfShares": 6370000,
-    "sharePrice": 0.5307161032351873,
+    "numberOfShares": 8015400,
+    "sharePrice": 0.5371596762325239,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3755,
+    "exchangeRate": 1.359,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
+    "ticker": "OXMU-SG",
+    "companyName": "Prime US REIT",
+    "numberOfShares": 33943952,
+    "sharePrice": 0.78,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
