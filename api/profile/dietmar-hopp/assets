@@ -1,12 +1,52 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "ACIU-US",
+    "companyName": "AC Immune SA",
+    "numberOfShares": 14433000,
+    "sharePrice": 7.73,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CVAC-US",
+    "companyName": "CureVac",
+    "numberOfShares": 71564000,
+    "sharePrice": 92.84,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
+    "ticker": "HPHA-DE",
+    "companyName": "Heidelberg Pharma",
+    "numberOfShares": 19134000,
+    "sharePrice": 10.012062726176117,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.829,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IMTX-US",
+    "companyName": "Immatics",
+    "numberOfShares": 13181000,
+    "sharePrice": 11.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "XETRA",
     "ticker": "SAP-DE",
     "companyName": "SAP AG",
     "numberOfShares": 74760000,
-    "sharePrice": 127.32353298505649,
+    "sharePrice": 124.84921592279856,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8231,
+    "exchangeRate": 0.829,
     "interactive": false
   }
 ]

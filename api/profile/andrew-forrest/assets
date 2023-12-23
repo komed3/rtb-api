@@ -2,29 +2,59 @@
   {
     "companyName": "Atlas Iron Ltd",
     "numberOfShares": 1086944000,
-    "sharePrice": 0.034525088230781036,
+    "sharePrice": 0.035158996796624736,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2799,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "FMG-AU",
     "companyName": "Fortescue Metals Group, Australia",
-    "numberOfShares": 1090052947,
-    "sharePrice": 16.717814945527085,
+    "numberOfShares": 1122165000,
+    "sharePrice": 16.884131572779122,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2799,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "IXC-AU",
+    "companyName": "Invex Therapeutics",
+    "numberOfShares": 8846154,
+    "sharePrice": 0.6445816079381201,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.2799,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "MCR-AU",
+    "companyName": "Mincor Resources",
+    "numberOfShares": 64482907,
+    "sharePrice": 0.8125634815219939,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.2799,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "POS-AU",
     "companyName": "Poseidon Nickel",
-    "numberOfShares": 472925000,
-    "sharePrice": 0.05830903790087464,
+    "numberOfShares": 385519949,
+    "sharePrice": 0.058598327994374554,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2799,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "VMY-AU",
+    "companyName": "Vimy Resources",
+    "numberOfShares": 66239599.99999999,
+    "sharePrice": 0.06953668255332447,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.2799,
     "interactive": false
   }
 ]

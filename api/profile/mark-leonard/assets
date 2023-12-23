@@ -3,10 +3,20 @@
     "exchange": "TORONTO",
     "ticker": "CSU-CA",
     "companyName": "Constellation Software",
-    "numberOfShares": 1434092,
-    "sharePrice": 1219.4927195866603,
+    "numberOfShares": 1433000,
+    "sharePrice": 1343.2226887427712,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2774,
+    "exchangeRate": 1.2623,
+    "interactive": false
+  },
+  {
+    "exchange": "TSX VENTURE",
+    "ticker": "TOI-CA",
+    "companyName": "Topicus.com",
+    "numberOfShares": 2659000,
+    "sharePrice": 56.88029786896934,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2623,
     "interactive": false
   }
 ]

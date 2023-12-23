@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "ABCL-US",
+    "companyName": "AbCellera Therapeutics",
+    "numberOfShares": 891000,
+    "sharePrice": 38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "FB-US",
     "companyName": "Facebook",
-    "numberOfShares": 11000,
-    "sharePrice": 258.33,
+    "numberOfShares": 9000,
+    "sharePrice": 259,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "FB-US",
     "companyName": "Facebook",
     "numberOfShares": 0,
-    "sharePrice": 258.33,
+    "sharePrice": 259,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "PLTR-US",
     "companyName": "Palantir",
     "numberOfShares": 161733000,
-    "sharePrice": 35.18,
+    "sharePrice": 24.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

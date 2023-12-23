@@ -3,8 +3,19 @@
     "exchange": "NYSE",
     "ticker": "SPOT-US",
     "companyName": "Spotify Technology",
-    "numberOfShares": 15448000,
-    "sharePrice": 315,
+    "numberOfShares": 15341772,
+    "sharePrice": 322.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SPOT-US",
+    "companyName": "Spotify Technology",
+    "numberOfShares": 800000,
+    "exerciseOptionPrice": 20.61,
+    "sharePrice": 322.74,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

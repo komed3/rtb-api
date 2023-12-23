@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "ASAN-US",
+    "companyName": "Asana, Inc",
+    "numberOfShares": 53592000,
+    "sharePrice": 35.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "FB-US",
     "companyName": "Facebook",
     "numberOfShares": 57375000,
-    "sharePrice": 258.33,
+    "sharePrice": 259,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "KOD-US",
     "companyName": "Kodiak Sciences",
     "numberOfShares": 2709000,
-    "sharePrice": 126.31,
+    "sharePrice": 125.16,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

@@ -1,10 +1,38 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "ERES-US",
+    "companyName": "East Resources Class A",
+    "numberOfShares": 8615000,
+    "sharePrice": 10.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "East Resources Warrants",
+    "numberOfShares": 8000000,
+    "sharePrice": 1.4,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "RAND-US",
     "companyName": "RAND",
-    "numberOfShares": 936180,
-    "sharePrice": 17.03,
+    "numberOfShares": 1641640,
+    "sharePrice": 17,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSG-US",
+    "companyName": "Republic Services",
+    "numberOfShares": 5270,
+    "sharePrice": 91.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
