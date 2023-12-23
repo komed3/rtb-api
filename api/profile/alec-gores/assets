@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "GMHI-US",
     "companyName": "Gores Metropoulos",
-    "numberOfShares": 4962000,
-    "sharePrice": 10.25,
+    "numberOfShares": 0,
+    "sharePrice": 10.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,39 @@
     "ticker": "TWNK-US",
     "companyName": "Hostess Brands, Inc",
     "numberOfShares": 2000000,
-    "sharePrice": 12.075,
+    "sharePrice": 12.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TWNK-US",
+    "companyName": "Hostess Brands, Inc",
+    "numberOfShares": 3401000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 12.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PAE-US",
+    "companyName": "PAE, Inc",
+    "numberOfShares": 9115000,
+    "sharePrice": 9.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PAE-US",
+    "companyName": "PAE, Inc",
+    "numberOfShares": 5021000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 9.3,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +56,18 @@
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
     "numberOfShares": 3796000,
-    "sharePrice": 10.91,
+    "sharePrice": 10.36,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VRRM-US",
+    "companyName": "Verra Mobility",
+    "numberOfShares": 2970000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 10.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

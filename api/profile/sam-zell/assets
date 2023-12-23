@@ -1,22 +1,12 @@
 [
   {
-    "exchange": "NYSE",
-    "ticker": "AXE-US",
-    "companyName": "Anixter International Inc.",
-    "numberOfShares": 3400000,
-    "sharePrice": 95.71,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "BXMT-US",
-    "companyName": "Blackstone Mortgate Trust Inc. Shs -A-",
-    "numberOfShares": 161000,
-    "sharePrice": 23.59,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchange": "SAO PAULO",
+    "ticker": "ALPK3-BR",
+    "companyName": "Allpark Empreendimentos Participacoes e Servicos",
+    "numberOfShares": 56862418,
+    "sharePrice": 1.682047134085812,
+    "currencyCode": "BRL",
+    "exchangeRate": 5.4398,
     "interactive": false
   },
   {
@@ -24,7 +14,7 @@
     "ticker": "CVA-US",
     "companyName": "Covanta Holding Corp.",
     "numberOfShares": 6638000,
-    "sharePrice": 9,
+    "sharePrice": 9.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +24,7 @@
     "ticker": "ELLH-US",
     "companyName": "Elah Holdings",
     "numberOfShares": 9311,
-    "sharePrice": 53.75,
+    "sharePrice": 49.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -43,8 +33,8 @@
     "exchange": "NYSE",
     "ticker": "EQC-US",
     "companyName": "Equity Commonwealth",
-    "numberOfShares": 3168000,
-    "sharePrice": 33.7,
+    "numberOfShares": 3209440,
+    "sharePrice": 31.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,8 +43,8 @@
     "exchange": "NYSE",
     "ticker": "ELS-US",
     "companyName": "Equity Lifestyle Properties Inc.",
-    "numberOfShares": 14172000,
-    "sharePrice": 62.3,
+    "numberOfShares": 6162264,
+    "sharePrice": 61.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -65,7 +55,7 @@
     "companyName": "Equity Lifestyle Properties Inc.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 23.15,
-    "sharePrice": 62.3,
+    "sharePrice": 61.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,8 +64,8 @@
     "exchange": "NYSE",
     "ticker": "EQR-US",
     "companyName": "Equity Residential Properties",
-    "numberOfShares": 4319000,
-    "sharePrice": 60.56,
+    "numberOfShares": 3611446,
+    "sharePrice": 57.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,8 +74,8 @@
     "exchange": "NYSE",
     "ticker": "EXTN-US",
     "companyName": "Exterran",
-    "numberOfShares": 5704000,
-    "sharePrice": 6.42,
+    "numberOfShares": 7157415,
+    "sharePrice": 5.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -95,7 +85,7 @@
     "ticker": "PARR-US",
     "companyName": "Par Petroleum",
     "numberOfShares": 13046000,
-    "sharePrice": 9.29,
+    "sharePrice": 8.78,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -106,6 +96,16 @@
     "companyName": "Real Industry, Inc.",
     "numberOfShares": 0,
     "sharePrice": 0.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "WCC-US",
+    "companyName": "Wesco International",
+    "numberOfShares": 872828,
+    "sharePrice": 34.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

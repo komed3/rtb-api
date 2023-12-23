@@ -1,10 +1,30 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "T-US",
+    "companyName": "AT&T Inc.",
+    "numberOfShares": 935304,
+    "sharePrice": 29.91,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CMCSA-US",
+    "companyName": "Comcast",
+    "numberOfShares": 5823000,
+    "sharePrice": 38.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "XOM-US",
     "companyName": "Exxon Mobil Corp.",
-    "numberOfShares": 11603000,
-    "sharePrice": 45.47,
+    "numberOfShares": 9398858,
+    "sharePrice": 44.32,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
