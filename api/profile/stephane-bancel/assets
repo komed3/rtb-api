@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
-    "numberOfShares": 24186802,
-    "sharePrice": 127.03,
+    "numberOfShares": 23498969,
+    "sharePrice": 111.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,9 +13,9 @@
     "exchange": "NASDAQ",
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
-    "numberOfShares": 4587000,
+    "numberOfShares": 4587155,
     "exerciseOptionPrice": 0.99,
-    "sharePrice": 127.03,
+    "sharePrice": 111.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -26,7 +26,7 @@
     "companyName": "Moderna, Inc.",
     "numberOfShares": 645000,
     "exerciseOptionPrice": 10.9,
-    "sharePrice": 127.03,
+    "sharePrice": 111.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -37,7 +37,7 @@
     "companyName": "Moderna, Inc.",
     "numberOfShares": 751714,
     "exerciseOptionPrice": 19.15,
-    "sharePrice": 127.03,
+    "sharePrice": 111.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -48,7 +48,7 @@
     "companyName": "Moderna, Inc.",
     "numberOfShares": 441509,
     "exerciseOptionPrice": 12.21,
-    "sharePrice": 127.03,
+    "sharePrice": 111.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -59,7 +59,29 @@
     "companyName": "Moderna, Inc.",
     "numberOfShares": 200685,
     "exerciseOptionPrice": 14.22,
-    "sharePrice": 127.03,
+    "sharePrice": 111.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MRNA-US",
+    "companyName": "Moderna, Inc.",
+    "numberOfShares": 1720183,
+    "exerciseOptionPrice": 23,
+    "sharePrice": 111.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MRNA-US",
+    "companyName": "Moderna, Inc.",
+    "numberOfShares": 482294,
+    "exerciseOptionPrice": 20.93,
+    "sharePrice": 111.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
