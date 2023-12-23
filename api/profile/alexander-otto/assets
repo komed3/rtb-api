@@ -1,0 +1,32 @@
+[
+  {
+    "exchange": "XETRA",
+    "ticker": "DEQ-DE",
+    "companyName": "Deutsche Euroshop",
+    "numberOfShares": 12031000,
+    "sharePrice": 24.29701230228471,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "PGRE-US",
+    "companyName": "Paramount Group",
+    "numberOfShares": 14145000,
+    "sharePrice": 12.15,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SITC-US",
+    "companyName": "SITE Centers",
+    "numberOfShares": 32641000,
+    "sharePrice": 11.51,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

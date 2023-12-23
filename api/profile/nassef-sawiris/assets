@@ -1,0 +1,52 @@
+[
+  {
+    "exchange": "XETRA",
+    "ticker": "ADS-DE",
+    "companyName": "Adidas",
+    "numberOfShares": 11950000,
+    "sharePrice": 275.20869947275924,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "LHN-CH",
+    "companyName": "LafargeHolcim Ltd.",
+    "numberOfShares": 16581000,
+    "sharePrice": 46.19278851120984,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9679,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "OCI-NL",
+    "companyName": "OCI NV",
+    "numberOfShares": 62589000,
+    "sharePrice": 16.64652899824253,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "OCIP-US",
+    "companyName": "OCI Partners",
+    "numberOfShares": 0,
+    "sharePrice": 11.45,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ DUBAI",
+    "ticker": "OC-AE",
+    "companyName": "Orascom Construction Ltd",
+    "numberOfShares": 32031999.999999996,
+    "sharePrice": 6.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

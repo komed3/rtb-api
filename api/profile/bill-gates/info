@@ -1,0 +1,19 @@
+{
+  "uri": "bill-gates",
+  "name": "Bill Gates",
+  "birthDate": "1955-10-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "US",
+  "residence": {
+    "city": "Medina",
+    "state": "Washington"
+  },
+  "image": "https://specials-images.forbesimg.com/imageserve/5c76b4b84bbe6f24ad99c370/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=0&cropY2=4000",
+  "industry": [
+    "Technology"
+  ],
+  "source": [
+    "Microsoft"
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AAPL-US",
+    "companyName": "Apple",
+    "numberOfShares": 9000000,
+    "sharePrice": 273.36,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BAC-US",
+    "companyName": "Bank of America Corp.",
+    "numberOfShares": 27000000,
+    "sharePrice": 28.5,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FB-US",
+    "companyName": "Facebook",
+    "numberOfShares": 1800000,
+    "sharePrice": 192.47,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "DIS-US",
+    "companyName": "Walt Disney",
+    "numberOfShares": 1800000,
+    "sharePrice": 117.65,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

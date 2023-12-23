@@ -1,0 +1,20 @@
+{
+  "uri": "steve-wynn",
+  "name": "Steve Wynn",
+  "birthDate": "1942-01-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "US",
+  "residence": {
+    "city": "Las Vegas",
+    "state": "Nevada"
+  },
+  "image": "https://specials-images.forbesimg.com/imageserve/5d8afb5e6de3150009a50851/416x416.jpg?background=000000&cropX1=100&cropX2=1068&cropY1=70&cropY2=1038",
+  "industry": [
+    "Gambling & Casinos"
+  ],
+  "source": [
+    "casinos",
+    "hotels"
+  ]
+}

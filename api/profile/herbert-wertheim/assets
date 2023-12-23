@@ -1,0 +1,72 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AAPL-US",
+    "companyName": "Apple",
+    "numberOfShares": 1310000,
+    "sharePrice": 273.36,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BAC-US",
+    "companyName": "Bank of America Corp.",
+    "numberOfShares": 1600000,
+    "sharePrice": 28.5,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BBX-US",
+    "companyName": "BBX Capital",
+    "numberOfShares": 4384000,
+    "sharePrice": 3.48,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "BP-GB",
+    "companyName": "BP",
+    "numberOfShares": 1000000,
+    "sharePrice": 5.060671861029506,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7829,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "HEI-US",
+    "companyName": "Heico",
+    "numberOfShares": 4110000.0000000005,
+    "sharePrice": 107.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "HEI.A-US",
+    "companyName": "Heico Corporation Class A",
+    "numberOfShares": 6524000,
+    "sharePrice": 88.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MSFT-US",
+    "companyName": "Microsoft",
+    "numberOfShares": 1300000,
+    "sharePrice": 162.01,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

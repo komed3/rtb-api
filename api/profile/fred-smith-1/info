@@ -1,0 +1,19 @@
+{
+  "uri": "fred-smith-1",
+  "name": "Fred Smith",
+  "birthDate": "1944-08-11",
+  "family": false,
+  "gender": "m",
+  "citizenship": "US",
+  "residence": {
+    "city": "Memphis",
+    "state": "Tennessee"
+  },
+  "image": "https://specials-images.forbesimg.com/imageserve/5d8adf516de3150009a506c7/416x416.jpg?background=000000&cropX1=1182&cropX2=2976&cropY1=126&cropY2=1919",
+  "industry": [
+    "Logistics"
+  ],
+  "source": [
+    "FedEx"
+  ]
+}
