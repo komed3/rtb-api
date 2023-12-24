@@ -4,9 +4,9 @@
     "ticker": "BGP-NZ",
     "companyName": "Briscoe Group",
     "numberOfShares": 10500000,
-    "sharePrice": 4.14703110273327,
+    "sharePrice": 3.972027972027972,
     "currencyCode": "NZD",
-    "exchangeRate": 1.3793,
+    "exchangeRate": 1.43,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "DWS-AU",
     "companyName": "DWS Ltd",
     "numberOfShares": 740000,
-    "sharePrice": 0.9251406984812274,
+    "sharePrice": 0.9017132551848512,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2971,
-    "interactive": false
-  },
-  {
-    "exchange": "ASX",
-    "ticker": "FUN-AU",
-    "companyName": "Funtastic Limited",
-    "numberOfShares": 22114000,
-    "sharePrice": 0.061676046565415164,
-    "currencyCode": "AUD",
-    "exchangeRate": 1.2971,
+    "exchangeRate": 1.3308,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "HVN-AU",
     "companyName": "Harvey Norman Holdings Ltd.",
     "numberOfShares": 392385265,
-    "sharePrice": 4.062909567496724,
+    "sharePrice": 4.057709648331831,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2971,
+    "exchangeRate": 1.3308,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "TOY-AU",
+    "companyName": "Toys 'R' Us Anz Limited",
+    "numberOfShares": 22114000,
+    "sharePrice": 0.07889990982867448,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3308,
     "interactive": false
   }
 ]

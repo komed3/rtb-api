@@ -312,16 +312,15 @@ async function run() {
 
             }
 
-            let files = fs.readdirSync( path );
-
             /**
              * process basic data
              */
 
             let name = (
-                profile.person.name || profile.personName || profile.lastName ||
-                uri.replace( '-', ' ' ).replace( /(^\w{1})|(\s+\w{1})/g, l => l.toUpperCase() ) || ''
-            ).trim();
+                profile.person.name || profile.personName ||
+                uri.replace( '-', ' ' ).replace( /(^\w{1})|(\s+\w{1})/g, l => l.toUpperCase() ) ||
+                profile.lastName || ''
+            ).toString().trim();
 
             let country = profile.countryOfCitizenship
                 ? isoCountries.getAlpha2Code( profile.countryOfCitizenship, 'en' )
@@ -400,7 +399,6 @@ async function run() {
 
             list[ uri ] = {
                 name: name,
-                country: country,
                 update: today
             };
 
