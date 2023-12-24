@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "APPN-US",
     "companyName": "Appian Corporation",
-    "numberOfShares": 26441000,
-    "sharePrice": 116.43,
+    "numberOfShares": 13607890,
+    "sharePrice": 107.89,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,9 +13,20 @@
     "exchange": "NASDAQ",
     "ticker": "APPN-US",
     "companyName": "Appian Corporation",
-    "numberOfShares": 1444000,
+    "numberOfShares": 1444183,
     "exerciseOptionPrice": 9.46,
-    "sharePrice": 116.43,
+    "sharePrice": 107.89,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "APPN-US",
+    "companyName": "Appian Corporation",
+    "numberOfShares": 80,
+    "exerciseOptionPrice": 12,
+    "sharePrice": 107.89,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

@@ -1,20 +1,30 @@
 [
   {
     "exchange": "NASDAQ",
-    "ticker": "BOKF-US",
-    "companyName": "BOK Financial Corp.",
-    "numberOfShares": 19146735,
-    "sharePrice": 84.01,
+    "ticker": "ALKT-US",
+    "companyName": "Alkami Technology",
+    "numberOfShares": 27434697,
+    "sharePrice": 28.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
-    "exchange": "NYSE",
-    "ticker": "USAC-US",
-    "companyName": "USA Compression Partners",
-    "numberOfShares": 1945536,
-    "sharePrice": 15.27,
+    "exchange": "NASDAQ",
+    "ticker": "BOKF-US",
+    "companyName": "BOK Financial Corp.",
+    "numberOfShares": 29879219,
+    "sharePrice": 87.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "STEP-US",
+    "companyName": "Stepstone Group",
+    "numberOfShares": 4993044,
+    "sharePrice": 47.96,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

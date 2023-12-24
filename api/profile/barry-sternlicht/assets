@@ -3,8 +3,39 @@
     "exchange": "NYSE",
     "ticker": "CANO-US",
     "companyName": "Cano Health Inc",
-    "numberOfShares": 17175000,
-    "sharePrice": 10.75,
+    "numberOfShares": 17656848,
+    "sharePrice": 12.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CANO-US",
+    "companyName": "Cano Health Inc",
+    "numberOfShares": 7844639,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 12.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "HCNE-US",
+    "companyName": "Jaws Hurricane Acquisition",
+    "numberOfShares": 6825000,
+    "sharePrice": 9.655,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "JUGG-US",
+    "companyName": "Jaws Juggernaut Acquisition",
+    "numberOfShares": 3000000,
+    "sharePrice": 9.78,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -19,7 +50,7 @@
   },
   {
     "companyName": "Jaws Spitfire Acquisition",
-    "numberOfShares": 7450000,
+    "numberOfShares": 7425000,
     "sharePrice": 10.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -29,8 +60,8 @@
     "exchange": "NYSE",
     "ticker": "STWD-US",
     "companyName": "Starwood Property Trust",
-    "numberOfShares": 10676000,
-    "sharePrice": 26.03,
+    "numberOfShares": 11488847,
+    "sharePrice": 25.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -40,7 +71,7 @@
     "ticker": "EL-US",
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 66892,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -51,7 +82,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 4736,
     "exerciseOptionPrice": 57.49,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -62,7 +93,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 3813,
     "exerciseOptionPrice": 70.68,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -73,7 +104,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 4374,
     "exerciseOptionPrice": 71.33,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +115,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 3972,
     "exerciseOptionPrice": 84.35,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -95,7 +126,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 4697,
     "exerciseOptionPrice": 78.36,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -106,7 +137,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 2906,
     "exerciseOptionPrice": 126.02,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -117,7 +148,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 4576,
     "exerciseOptionPrice": 57.53,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -128,7 +159,18 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 2329,
     "exerciseOptionPrice": 143.39,
-    "sharePrice": 333.83,
+    "sharePrice": 343.48,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EL-US",
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 1950,
+    "exerciseOptionPrice": 190.99,
+    "sharePrice": 343.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

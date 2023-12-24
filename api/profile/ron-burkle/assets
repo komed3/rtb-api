@@ -1,10 +1,30 @@
 [
   {
     "exchange": "NYSE",
-    "ticker": "COLD-US",
-    "companyName": "Americold Realty Trust",
-    "numberOfShares": 0,
-    "sharePrice": 38.85,
+    "ticker": "MCG-US",
+    "companyName": "Membership Collective Group",
+    "numberOfShares": 90085000,
+    "sharePrice": 10.8,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MESA-US",
+    "companyName": "Mesa Air Group Inc (Airlines)",
+    "numberOfShares": 2964800,
+    "sharePrice": 7.92,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "YAC-US",
+    "companyName": "Yucaipa Acquisition Corporation",
+    "numberOfShares": 8565000,
+    "sharePrice": 9.864,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

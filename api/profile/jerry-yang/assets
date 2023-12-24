@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "BABA-US",
     "companyName": "Alibaba Group (ADR)",
-    "numberOfShares": 1436000,
-    "sharePrice": 195.19,
+    "numberOfShares": 1293000,
+    "sharePrice": 162.29,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +23,8 @@
     "exchange": "NASDAQ",
     "ticker": "CSCO-US",
     "companyName": "Cisco Systems Inc.",
-    "numberOfShares": 96700,
-    "sharePrice": 55.37,
+    "numberOfShares": 87000,
+    "sharePrice": 59.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -33,8 +33,18 @@
     "exchange": "NASDAQ",
     "ticker": "WDAY-US",
     "companyName": "Workday, Inc.",
-    "numberOfShares": 86000,
-    "sharePrice": 234.4,
+    "numberOfShares": 88000,
+    "sharePrice": 271.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZM-US",
+    "companyName": "Zoom Video Communications",
+    "numberOfShares": 3374000,
+    "sharePrice": 347.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
