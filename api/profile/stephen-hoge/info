@@ -1,0 +1,19 @@
+{
+  "uri": "stephen-hoge",
+  "name": "Stephen Hoge",
+  "birthDate": "1976-02-16",
+  "family": false,
+  "gender": "m",
+  "citizenship": "US",
+  "residence": {
+    "city": "Brookline",
+    "state": "Massachusetts"
+  },
+  "image": null,
+  "industry": [
+    "Healthcare"
+  ],
+  "source": [
+    "biotech"
+  ]
+}
