@@ -318,7 +318,10 @@ async function run() {
              * process basic data
              */
 
-            let name = ( profile.person.name || profile.personName ).trim();
+            let name = (
+                profile.person.name || profile.personName || profile.lastName ||
+                uri.replace( '-', ' ' ).replace( /(^\w{1})|(\s+\w{1})/g, l => l.toUpperCase() ) || ''
+            ).trim();
 
             let country = profile.countryOfCitizenship
                 ? isoCountries.getAlpha2Code( profile.countryOfCitizenship, 'en' )
