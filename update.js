@@ -540,7 +540,11 @@ async function run() {
                             count: 0,
                             total: 0,
                             value: 0,
-                            first: uri
+                            first: {
+                                profile: uri,
+                                rank: profile.rank || '',
+                                networth: networth
+                            }
                         };
 
                     }
@@ -562,7 +566,11 @@ async function run() {
                         count: 0,
                         total: 0,
                         value: 0,
-                        first: uri
+                        first: {
+                            profile: uri,
+                            rank: profile.rank || '',
+                            networth: networth
+                        }
                     };
 
                 }
@@ -669,11 +677,11 @@ async function run() {
         if( typeof value == 'object' ) {
 
             let path = dir + 'stats/' + key + '/',
-                l = {};
+                idx = {}, list = [];
 
             if( fs.existsSync( path + '_index' ) ) {
 
-                l = JSON.parse( fs.readFileSync( path + '_index' ) );
+                idx = JSON.parse( fs.readFileSync( path + '_index' ) );
 
             }
 
@@ -681,13 +689,19 @@ async function run() {
 
                 let _k = sanitize( k );
 
-                l[ _k ] = key == 'country' ? countryName( k ) : k;
+                idx[ _k ] = key == 'country' ? countryName( k ) : k;
+
+                list.push( [
+                    _k, v.count, v.total.toFixed( 3 ),
+                    v.first.profile, v.first.rank,
+                    v.first.networth
+                ] );
 
                 fs.appendFileSync(
                     path + _k,
                     today + ' ' + v.count + ' ' + v.total.toFixed( 3 ) + ' ' + (
                         v.value / v.count
-                    ).toFixed( 3 ) + ' ' + v.first + '\r\n',
+                    ).toFixed( 3 ) + ' ' + v.first.profile + '\r\n',
                     { flag: 'a' }
                 );
 
@@ -695,9 +709,19 @@ async function run() {
 
             fs.writeFileSync(
                 path + '_index',
-                JSON.stringify( Object.keys( l ).sort().reduce( ( a, b ) => ( {
-                    ...a, [ b ]: l[ b ]
+                JSON.stringify( Object.keys( idx ).sort().reduce( ( a, b ) => ( {
+                    ...a, [ b ]: idx[ b ]
                 } ), {} ), null, 2 ),
+                { flag: 'w' }
+            );
+
+            fs.writeFileSync(
+                path + '_list',
+                list.sort(
+                    ( a, b ) => b[1] - a[1]
+                ).map(
+                    ( a ) => a.join( ' ' )
+                ).join( '\r\n' ),
                 { flag: 'w' }
             );
 
@@ -878,11 +902,11 @@ async function run() {
             } else {
 
                 let path = dir + 'filter/' + key + '/',
-                    l = {};
+                    idx = {};
 
                 if( fs.existsSync( path + '_index' ) ) {
 
-                    l = JSON.parse( fs.readFileSync( path + '_index' ) );
+                    idx = JSON.parse( fs.readFileSync( path + '_index' ) );
 
                 }
 
@@ -890,7 +914,7 @@ async function run() {
 
                     let _k = sanitize( k );
 
-                    l[ _k ] = key == 'country' ? countryName( k ) : k;
+                    idx[ _k ] = key == 'country' ? countryName( k ) : k;
 
                     fs.writeFileSync(
                         path + _k,
@@ -902,8 +926,8 @@ async function run() {
 
                 fs.writeFileSync(
                     path + '_index',
-                    JSON.stringify( Object.keys( l ).sort().reduce( ( a, b ) => ( {
-                        ...a, [ b ]: l[ b ]
+                    JSON.stringify( Object.keys( idx ).sort().reduce( ( a, b ) => ( {
+                        ...a, [ b ]: idx[ b ]
                     } ), {} ), null, 2 ),
                     { flag: 'w' }
                 );
