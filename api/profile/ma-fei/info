@@ -1,17 +1,19 @@
 {
   "uri": "ma-fei",
   "name": "Ma Fei",
-  "birthDate": null,
+  "birthDate": "1968-02-08",
   "family": false,
-  "gender": null,
-  "citizenship": null,
+  "gender": "m",
+  "citizenship": "CN",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "Shenzhen",
+    "state": "Guangdong"
   },
   "image": null,
-  "industry": [],
+  "industry": [
+    "Technology"
+  ],
   "source": [
-    ""
+    "electronics components"
   ]
 }

@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "ALIT-US",
+    "companyName": "Alight Inc",
+    "numberOfShares": 21462500,
+    "sharePrice": 9.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "BKI-US",
     "companyName": "Black Knight",
     "numberOfShares": 4011900,
-    "sharePrice": 78.14,
+    "sharePrice": 82.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "CNNE-US",
     "companyName": "Cannae Holdings",
     "numberOfShares": 3223711,
-    "sharePrice": 34.3,
+    "sharePrice": 33.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "DNB-US",
     "companyName": "Dun & Bradstreet Corp.",
     "numberOfShares": 12600000,
-    "sharePrice": 21.91,
+    "sharePrice": 20.96,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +44,7 @@
     "ticker": "FNF-US",
     "companyName": "Fidelity National Financial",
     "numberOfShares": 6615900,
-    "sharePrice": 43.98,
+    "sharePrice": 44.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -45,7 +55,7 @@
     "companyName": "Fidelity National Financial",
     "numberOfShares": 2227571,
     "exerciseOptionPrice": 20.88,
-    "sharePrice": 43.98,
+    "sharePrice": 44.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -55,17 +65,7 @@
     "ticker": "FIS-US",
     "companyName": "Fidelity National Information Service",
     "numberOfShares": 182900,
-    "sharePrice": 141.92,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "WPF-US",
-    "companyName": "Foley Trasimene Acquisition",
-    "numberOfShares": 21462500,
-    "sharePrice": 9.94,
+    "sharePrice": 149.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -75,7 +75,7 @@
     "ticker": "PSFE-US",
     "companyName": "Paysafe Ltd",
     "numberOfShares": 34500000,
-    "sharePrice": 12.01,
+    "sharePrice": 10.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -85,7 +85,7 @@
     "ticker": "TREB-US",
     "companyName": "Trebia Acquisition Corp.",
     "numberOfShares": 6425625,
-    "sharePrice": 9.93,
+    "sharePrice": 9.89,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
