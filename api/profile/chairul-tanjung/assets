@@ -1,22 +1,32 @@
 [
   {
     "exchange": "INDONESIA",
+    "ticker": "BBHI-ID",
+    "companyName": "Allo Bank Indonesia",
+    "numberOfShares": 2628650000,
+    "sharePrice": 0.47477744807121663,
+    "currencyCode": "IDR",
+    "exchangeRate": 14322.5,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
     "ticker": "MEGA-ID",
     "companyName": "Bank Mega",
     "numberOfShares": 4040231000,
-    "sharePrice": 0.614081524616199,
+    "sharePrice": 0.5829987781462733,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "GIAA-ID",
     "companyName": "Garuda Indonesia Tbk",
-    "numberOfShares": 6681000000,
-    "sharePrice": 0.015669666490206458,
+    "numberOfShares": 0,
+    "sharePrice": 0.01550008727526619,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   }
 ]
