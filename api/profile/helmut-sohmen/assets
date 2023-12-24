@@ -1,12 +1,22 @@
 [
   {
     "exchange": "OSLO",
+    "ticker": "BWE-NO",
+    "companyName": "BW Energy",
+    "numberOfShares": 89832000,
+    "sharePrice": 2.28240504173054,
+    "currencyCode": "NOK",
+    "exchangeRate": 8.8065,
+    "interactive": false
+  },
+  {
+    "exchange": "OSLO",
     "ticker": "BWLPG-NO",
     "companyName": "BW LPG Ltd.",
-    "numberOfShares": 58225000,
-    "sharePrice": 4.934395967590392,
+    "numberOfShares": 52831000,
+    "sharePrice": 5.683302106398683,
     "currencyCode": "NOK",
-    "exchangeRate": 9.0467,
+    "exchangeRate": 8.8065,
     "interactive": false
   },
   {
@@ -14,17 +24,27 @@
     "ticker": "BWO-NO",
     "companyName": "BW Offshore",
     "numberOfShares": 83928000,
-    "sharePrice": 2.933666419799485,
+    "sharePrice": 3.0204962243797198,
     "currencyCode": "NOK",
-    "exchangeRate": 9.0467,
+    "exchangeRate": 8.8065,
+    "interactive": false
+  },
+  {
+    "exchange": "OSLO",
+    "ticker": "CADLR-NO",
+    "companyName": "Cadeler",
+    "numberOfShares": 44557000,
+    "sharePrice": 4.142394822006472,
+    "currencyCode": "NOK",
+    "exchangeRate": 8.8065,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DHT-US",
     "companyName": "DHT Holdings",
-    "numberOfShares": 23905000,
-    "sharePrice": 5.5,
+    "numberOfShares": 23979000,
+    "sharePrice": 5.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,19 +54,29 @@
     "ticker": "BWEK-NO",
     "companyName": "Epic Gas",
     "numberOfShares": 82595000,
-    "sharePrice": 2.210750881536914,
+    "sharePrice": 2.2710497927667066,
     "currencyCode": "NOK",
-    "exchangeRate": 9.0467,
+    "exchangeRate": 8.8065,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "HAFNI-NO",
     "companyName": "Hafnia Ltd",
-    "numberOfShares": 215283000,
-    "sharePrice": 1.8415554843202495,
+    "numberOfShares": 228879000,
+    "sharePrice": 1.9735422699142677,
     "currencyCode": "NOK",
-    "exchangeRate": 9.0467,
+    "exchangeRate": 8.8065,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "NVGS-US",
+    "companyName": "Navigator Holdings, Ltd. (transoceanic shippings)",
+    "numberOfShares": 20338000,
+    "sharePrice": 8.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

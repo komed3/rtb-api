@@ -4,9 +4,9 @@
     "ticker": "175-HK",
     "companyName": "Geely Automobile Holdings Limited",
     "numberOfShares": 3528125000,
-    "sharePrice": 3.0706702907841428,
+    "sharePrice": 2.672939849238501,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7996,
+    "exchangeRate": 7.8004,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "8137-HK",
     "companyName": "Honbridge Holdings Ltd.",
     "numberOfShares": 3204540000,
-    "sharePrice": 0.05064362274988461,
+    "sharePrice": 0.04615147941131224,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7996,
+    "exchangeRate": 7.8004,
     "interactive": false
   },
   {
@@ -24,9 +24,19 @@
     "ticker": "600478-CN",
     "companyName": "Hunan Corun New Energy Co. Ltd.",
     "numberOfShares": 183595000,
-    "sharePrice": 1.1656874265569919,
+    "sharePrice": 1.1354013110435028,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3825,
+    "exchangeRate": 6.3766,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "VOLV.B-SE",
+    "companyName": "Volvo AB Class B",
+    "numberOfShares": 0,
+    "sharePrice": 23.173427655576432,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.047,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "000913-CN",
     "companyName": "Zhejiang Qianjiang Motorcycle",
     "numberOfShares": 135000000,
-    "sharePrice": 2.4206815511163335,
+    "sharePrice": 2.204936800175642,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3825,
+    "exchangeRate": 6.3766,
     "interactive": false
   },
   {
@@ -44,9 +54,9 @@
     "ticker": "000913-CN",
     "companyName": "Zhejiang Qianjiang Motorcycle",
     "numberOfShares": -53987000,
-    "sharePrice": 2.4206815511163335,
+    "sharePrice": 2.204936800175642,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3825,
+    "exchangeRate": 6.3766,
     "interactive": false
   }
 ]
