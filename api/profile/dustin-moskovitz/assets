@@ -4,17 +4,7 @@
     "ticker": "ASAN-US",
     "companyName": "Asana, Inc",
     "numberOfShares": 58327000,
-    "sharePrice": 22.8,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FB-US",
-    "companyName": "Facebook",
-    "numberOfShares": 47573000,
-    "sharePrice": 195.13,
+    "sharePrice": 18.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +14,17 @@
     "ticker": "KOD-US",
     "companyName": "Kodiak Sciences",
     "numberOfShares": 1379000,
-    "sharePrice": 6.92,
+    "sharePrice": 7.92,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "META-US",
+    "companyName": "Meta Platforms",
+    "numberOfShares": 47573000,
+    "sharePrice": 163.94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

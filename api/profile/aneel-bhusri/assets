@@ -1,20 +1,10 @@
 [
   {
     "exchange": "NASDAQ",
-    "ticker": "FB-US",
-    "companyName": "Facebook",
-    "numberOfShares": 446000,
-    "sharePrice": 195.13,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
     "ticker": "INTC-US",
     "companyName": "Intel Corp.",
     "numberOfShares": 0,
-    "sharePrice": 44.55,
+    "sharePrice": 37.29,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -30,11 +20,21 @@
     "interactive": false
   },
   {
+    "exchange": "NASDAQ",
+    "ticker": "META-US",
+    "companyName": "Meta Platforms",
+    "numberOfShares": 446000,
+    "sharePrice": 163.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NYSE",
     "ticker": "PSTG-US",
     "companyName": "Pure Storage",
     "numberOfShares": 493000,
-    "sharePrice": 24.38,
+    "sharePrice": 25.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -45,7 +45,7 @@
     "companyName": "Workday, Inc.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 1.3,
-    "sharePrice": 158.79,
+    "sharePrice": 146.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -55,7 +55,7 @@
     "ticker": "WDAY-US",
     "companyName": "Workday, Inc.",
     "numberOfShares": 8416000,
-    "sharePrice": 158.79,
+    "sharePrice": 146.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
