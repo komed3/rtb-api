@@ -4,7 +4,17 @@
     "ticker": "AXP-US",
     "companyName": "American Express Co.",
     "numberOfShares": 4000,
-    "sharePrice": 173.3,
+    "sharePrice": 162.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "BIGC-US",
+    "companyName": "BigCommerce Holdings, Inc.",
+    "numberOfShares": 142000,
+    "sharePrice": 8.52,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +23,8 @@
     "exchange": "NASDAQ",
     "ticker": "GRPN-US",
     "companyName": "Groupon",
-    "numberOfShares": 133000,
-    "sharePrice": 7.4,
+    "numberOfShares": 138000,
+    "sharePrice": 3.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

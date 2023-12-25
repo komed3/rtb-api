@@ -3,10 +3,10 @@
     "exchange": "SIX SWISS",
     "ticker": "BANB-CH",
     "companyName": "Bachem Holding",
-    "numberOfShares": 43110000,
-    "sharePrice": 99.07170294494237,
+    "numberOfShares": 43070000,
+    "sharePrice": 98.06176084099869,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9372,
+    "exchangeRate": 0.9132,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "BRKN-CH",
     "companyName": "Burkhalter",
     "numberOfShares": 718000,
-    "sharePrice": 88.56167306871532,
+    "sharePrice": 95.70740254051687,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9372,
+    "exchangeRate": 0.9132,
     "interactive": false
   },
   {
@@ -24,9 +24,19 @@
     "ticker": "DESN-CH",
     "companyName": "DOTTIKON ES HOLDING",
     "numberOfShares": 882000,
-    "sharePrice": 283.82415706359365,
+    "sharePrice": 279.23784494086726,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9372,
+    "exchangeRate": 0.9132,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "SPEX-CH",
+    "companyName": "Spexis",
+    "numberOfShares": 727285,
+    "sharePrice": 0.38217257993867715,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9132,
     "interactive": false
   }
 ]

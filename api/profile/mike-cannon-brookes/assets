@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "ASX",
+    "ticker": "AGL-AU",
+    "companyName": "AGL Energy",
+    "numberOfShares": 75883000,
+    "sharePrice": 5.304097096492993,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4913,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "TEAM-US",
     "companyName": "Atlassian Corp",
     "numberOfShares": 53624000,
-    "sharePrice": 164.62,
+    "sharePrice": 160.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,9 +24,9 @@
     "ticker": "GNX-AU",
     "companyName": "Genex Power",
     "numberOfShares": 43800000,
-    "sharePrice": 0.10767160161507403,
+    "sharePrice": 0.10728894253336015,
     "currencyCode": "AUD",
-    "exchangeRate": 1.486,
+    "exchangeRate": 1.4913,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "MMM-AU",
     "companyName": "Marley Spoon",
     "numberOfShares": 1515000,
-    "sharePrice": 0.1177658142664872,
+    "sharePrice": 0.10393616307919265,
     "currencyCode": "AUD",
-    "exchangeRate": 1.486,
+    "exchangeRate": 1.4913,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "RBL-AU",
     "companyName": "Redbubble",
     "numberOfShares": 4405000,
-    "sharePrice": 0.3061911170928668,
+    "sharePrice": 0.2916918125125729,
     "currencyCode": "AUD",
-    "exchangeRate": 1.486,
+    "exchangeRate": 1.4913,
     "interactive": false
   },
   {
@@ -44,9 +54,9 @@
     "ticker": "TYR-AU",
     "companyName": "Tyro Payments",
     "numberOfShares": 64718999.99999999,
-    "sharePrice": 1.1002691790040378,
+    "sharePrice": 0.9421310266210688,
     "currencyCode": "AUD",
-    "exchangeRate": 1.486,
+    "exchangeRate": 1.4913,
     "interactive": false
   }
 ]

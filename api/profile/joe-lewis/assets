@@ -4,9 +4,19 @@
     "ticker": "AAC-AU",
     "companyName": "Australian Agricultural Co. Ltd.",
     "numberOfShares": 289694000,
-    "sharePrice": 1.1103633916554507,
+    "sharePrice": 1.0293032924294239,
     "currencyCode": "AUD",
-    "exchangeRate": 1.486,
+    "exchangeRate": 1.4913,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "INSG-US",
+    "companyName": "Inseego Corp",
+    "numberOfShares": 21000000,
+    "sharePrice": 0.575,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "MAB-GB",
     "companyName": "Mitchells & Butler",
     "numberOfShares": 149663000,
-    "sharePrice": 1.9386650631389057,
+    "sharePrice": 2.025504519004581,
     "currencyCode": "GBP",
-    "exchangeRate": 0.8315,
+    "exchangeRate": 0.8077,
     "interactive": false
   }
 ]

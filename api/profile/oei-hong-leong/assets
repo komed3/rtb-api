@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SINGAPORE",
+    "ticker": "BQC-SG",
+    "companyName": "A-Smart Holdings",
+    "numberOfShares": 29800000,
+    "sharePrice": 0.21835705142685036,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.3281,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
     "ticker": "AZA-SG",
     "companyName": "IPC Corp. Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.05864014251781473,
+    "sharePrice": 0.06475416007830735,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3472,
+    "exchangeRate": 1.3281,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "1B0-SG",
     "companyName": "mm2 Asia",
     "numberOfShares": 195000000,
-    "sharePrice": 0.032660332541567694,
+    "sharePrice": 0.030118213989910398,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3472,
+    "exchangeRate": 1.3281,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "NR7-SG",
     "companyName": "Raffles Education Corp. Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.040825415676959624,
+    "sharePrice": 0.03915367818688351,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3472,
+    "exchangeRate": 1.3281,
     "interactive": false
   }
 ]

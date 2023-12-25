@@ -3,30 +3,40 @@
     "exchange": "MILAN",
     "ticker": "ACE-IT",
     "companyName": "Acea S.p.A.",
-    "numberOfShares": 9015000,
-    "sharePrice": 14.915721403583165,
+    "numberOfShares": 9111000,
+    "sharePrice": 13.707301102259086,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
+    "interactive": false
+  },
+  {
+    "exchange": "MILAN",
+    "ticker": "ANIM-IT",
+    "companyName": "Anima Holding SpA",
+    "numberOfShares": 11060000,
+    "sharePrice": 4.129651860744297,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9163,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "G-IT",
     "companyName": "Assicurazioni Generali ",
-    "numberOfShares": 116217000,
-    "sharePrice": 19.442383123078553,
+    "numberOfShares": 93964000,
+    "sharePrice": 19.966168285496018,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "CED-IT",
     "companyName": "Caltagirone Editore S.p.A.",
-    "numberOfShares": 75955000,
-    "sharePrice": 1.0283048870984839,
+    "numberOfShares": 72991000,
+    "sharePrice": 1.047691803994325,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
     "interactive": false
   },
   {
@@ -34,29 +44,29 @@
     "ticker": "CALT-IT",
     "companyName": "Caltagirone S.p.A.",
     "numberOfShares": 105217000,
-    "sharePrice": 3.9224000848086504,
+    "sharePrice": 4.419949798101058,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "CEM-IT",
     "companyName": "Cementir Holding S.p.A.",
-    "numberOfShares": 82036000,
-    "sharePrice": 8.745892080992261,
+    "numberOfShares": 91828000,
+    "sharePrice": 8.65437083924479,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
-    "numberOfShares": 26999000,
-    "sharePrice": 10.63288455422453,
+    "numberOfShares": 46642000,
+    "sharePrice": 10.10149514351195,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
     "interactive": false
   },
   {
@@ -64,9 +74,9 @@
     "ticker": "VIA-IT",
     "companyName": "Vianini Industria S.p.A.",
     "numberOfShares": 7930000,
-    "sharePrice": 1.1661189441323017,
+    "sharePrice": 1.4514896867838045,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9433,
+    "exchangeRate": 0.9163,
     "interactive": false
   }
 ]

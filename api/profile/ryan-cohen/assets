@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "BABA-US",
+    "companyName": "Alibaba Group (ADR)",
+    "numberOfShares": 3000000,
+    "sharePrice": 103.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
-    "numberOfShares": 1500000,
-    "sharePrice": 147.92,
+    "numberOfShares": 5900000,
+    "sharePrice": 162.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +23,18 @@
     "exchange": "NASDAQ",
     "ticker": "BBBY-US",
     "companyName": "Bed Bath & Beyond",
-    "numberOfShares": 9441320,
-    "sharePrice": 1.48,
+    "numberOfShares": 0,
+    "sharePrice": 0.594,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "C-US",
+    "companyName": "Citigroup",
+    "numberOfShares": 6000000,
+    "sharePrice": 46.07,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +44,27 @@
     "ticker": "GME-US",
     "companyName": "GameStop Corp. (Cl A)",
     "numberOfShares": 36004000,
-    "sharePrice": 19.1,
+    "sharePrice": 22.5,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "NFLX-US",
+    "companyName": "Netflix",
+    "numberOfShares": 500000,
+    "sharePrice": 338.43,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "WFC-US",
+    "companyName": "Wells Fargo",
+    "numberOfShares": 8000000,
+    "sharePrice": 37.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
