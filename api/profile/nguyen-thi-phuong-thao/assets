@@ -1,12 +1,22 @@
 [
   {
     "exchange": "HO CHI MINH CITY",
+    "ticker": "HDB-VN",
+    "companyName": "Ho Chi Minh City Development Joint Stock Commercial Bank",
+    "numberOfShares": 401000000,
+    "sharePrice": 1.2047665901388434,
+    "currencyCode": "VND",
+    "exchangeRate": 22867.5,
+    "interactive": false
+  },
+  {
+    "exchange": "HO CHI MINH CITY",
     "ticker": "VJC-VN",
     "companyName": "Vietjet Aviation",
     "numberOfShares": 426550000,
-    "sharePrice": 6.355672360928603,
+    "sharePrice": 6.2490434022083745,
     "currencyCode": "VND",
-    "exchangeRate": 22830,
+    "exchangeRate": 22867.5,
     "interactive": false
   }
 ]

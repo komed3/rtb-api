@@ -4,19 +4,9 @@
     "ticker": "ME-US",
     "companyName": "23andMe Holding",
     "numberOfShares": 12600000,
-    "sharePrice": 4.23,
+    "sharePrice": 3.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "LONDON",
-    "ticker": "VMUK-GB",
-    "companyName": "CYBG",
-    "numberOfShares": 188084000,
-    "sharePrice": 2.545283778344291,
-    "currencyCode": "GBP",
-    "exchangeRate": 0.7453,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "SPCE-US",
     "companyName": "Virgin Galactic",
     "numberOfShares": 30745000,
-    "sharePrice": 9.18,
+    "sharePrice": 11.01,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "VMUK-GB",
+    "companyName": "Virgin Money UK Plc",
+    "numberOfShares": 188084000,
+    "sharePrice": 2.3959017470116906,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7613,
     "interactive": false
   },
   {
@@ -34,7 +34,7 @@
     "ticker": "VORB-US",
     "companyName": "Virgin Orbit",
     "numberOfShares": 252126000,
-    "sharePrice": 6.92,
+    "sharePrice": 7.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

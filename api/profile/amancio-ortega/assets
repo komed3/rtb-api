@@ -3,10 +3,10 @@
     "exchange": "MADRID",
     "ticker": "ENG-ES",
     "companyName": "Enagas",
-    "numberOfShares": 13099504,
-    "sharePrice": 21.120107962213226,
+    "numberOfShares": 13100000,
+    "sharePrice": 21.9495947596314,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
@@ -14,9 +14,27 @@
     "ticker": "ITX-ES",
     "companyName": "Industria de Diseno Textil S.A.",
     "numberOfShares": 1848000000,
-    "sharePrice": 27.260458839406205,
+    "sharePrice": 23.62606861330077,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
+    "interactive": false
+  },
+  {
+    "companyName": "Red Electrica Corp SA",
+    "numberOfShares": 27054000,
+    "sharePrice": 19.373820361940712,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9007,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT LISBON",
+    "ticker": "RENE-PT",
+    "companyName": "Redes Energeticas Nacionais",
+    "numberOfShares": 80100000,
+    "sharePrice": 3.086488286887976,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9007,
     "interactive": false
   }
 ]

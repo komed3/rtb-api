@@ -6,7 +6,7 @@
   "gender": "m",
   "citizenship": "DE",
   "residence": {
-    "city": null,
+    "city": "Battenberg",
     "state": null
   },
   "image": "https://specials-images.forbesimg.com/imageserve/5e763207d8e1ae0007b71c19/416x416.jpg?background=000000&cropX1=185&cropX2=1016&cropY1=38&cropY2=869",
@@ -14,6 +14,7 @@
     "Manufacturing"
   ],
   "source": [
-    "heating and cooling equipment"
+    "heating",
+    "cooling equipment"
   ]
 }

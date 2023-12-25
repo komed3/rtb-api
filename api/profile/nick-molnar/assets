@@ -3,10 +3,10 @@
     "exchange": "ASX",
     "ticker": "APT-AU",
     "companyName": "Afterpay Limited",
-    "numberOfShares": 18400000,
-    "sharePrice": 47.70688293978325,
+    "numberOfShares": 0,
+    "sharePrice": 49.87619119081564,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3933,
+    "exchangeRate": 1.3327,
     "interactive": false
   },
   {
@@ -14,10 +14,20 @@
     "ticker": "APT-AU",
     "companyName": "Afterpay Limited",
     "numberOfShares": 1500000,
-    "exerciseOptionPrice": 0.7177205196296562,
-    "sharePrice": 47.70688293978325,
+    "exerciseOptionPrice": 0.7503564192991671,
+    "sharePrice": 49.87619119081564,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3933,
+    "exchangeRate": 1.3327,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "SQ2-AU",
+    "companyName": "Block Inc",
+    "numberOfShares": 7278000,
+    "sharePrice": 137.42777819464246,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3327,
     "interactive": false
   }
 ]

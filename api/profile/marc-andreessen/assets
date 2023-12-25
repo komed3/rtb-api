@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "COIN-US",
+    "companyName": "Coinbase Global",
+    "numberOfShares": 485000,
+    "sharePrice": 204.53,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "EBAY-US",
     "companyName": "eBay",
     "numberOfShares": 10861,
-    "sharePrice": 54.6,
+    "sharePrice": 60.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "FB-US",
     "companyName": "Facebook",
     "numberOfShares": 43000,
-    "sharePrice": 210.48,
+    "sharePrice": 229.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "GRPN-US",
     "companyName": "Groupon",
     "numberOfShares": 116350,
-    "sharePrice": 22.98,
+    "sharePrice": 20.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +44,7 @@
     "ticker": "HPQ-US",
     "companyName": "HP Inc.",
     "numberOfShares": 15660,
-    "sharePrice": 34.45,
+    "sharePrice": 39.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +74,7 @@
     "ticker": "TWTR-US",
     "companyName": "Twitter, Inc.",
     "numberOfShares": 9744300,
-    "sharePrice": 35.29,
+    "sharePrice": 40.69,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +84,7 @@
     "ticker": "ZNGA-US",
     "companyName": "Zynga",
     "numberOfShares": 8265000.000000001,
-    "sharePrice": 9.18,
+    "sharePrice": 9.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

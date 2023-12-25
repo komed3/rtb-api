@@ -1,12 +1,22 @@
 [
   {
     "exchange": "ASX",
+    "ticker": "EDV-AU",
+    "companyName": "Endeavour Group",
+    "numberOfShares": 270000000,
+    "sharePrice": 5.440084039918961,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3327,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
     "ticker": "RSH-AU",
     "companyName": "iSonea Limited",
     "numberOfShares": 66500000,
-    "sharePrice": 0.03035120682179506,
+    "sharePrice": 0.04277031590005253,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3838,
+    "exchangeRate": 1.3327,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "MYX-AU",
     "companyName": "Mayne Pharma Group LTD",
     "numberOfShares": 105577000,
-    "sharePrice": 0.17704870646047116,
+    "sharePrice": 0.19134088692128762,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3838,
+    "exchangeRate": 1.3327,
     "interactive": false
   }
 ]

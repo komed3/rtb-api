@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SAO PAULO",
+    "ticker": "VVEO3-BR",
+    "companyName": "CM Hospitalar",
+    "numberOfShares": 29843000,
+    "sharePrice": 3.6432557649784143,
+    "currencyCode": "BRL",
+    "exchangeRate": 4.7485,
+    "interactive": false
+  },
+  {
+    "exchange": "SAO PAULO",
     "ticker": "DASA3-BR",
     "companyName": "DASA",
-    "numberOfShares": 107837000,
-    "sharePrice": 9.421481209260943,
+    "numberOfShares": 122946000,
+    "sharePrice": 5.104769927345477,
     "currencyCode": "BRL",
-    "exchangeRate": 5.1701,
+    "exchangeRate": 4.7485,
     "interactive": false
   }
 ]

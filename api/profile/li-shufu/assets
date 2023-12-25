@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "XETRA",
+    "ticker": "MBG-DE",
+    "companyName": "Daimler",
+    "numberOfShares": 103690000,
+    "sharePrice": 74.22005107138892,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9007,
+    "interactive": false
+  },
+  {
     "exchange": "HONG KONG",
     "ticker": "175-HK",
     "companyName": "Geely Automobile Holdings Limited",
     "numberOfShares": 3528125000,
-    "sharePrice": 1.9413745854089564,
+    "sharePrice": 1.5483277549247554,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8089,
+    "exchangeRate": 7.8278,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "8137-HK",
     "companyName": "Honbridge Holdings Ltd.",
     "numberOfShares": 3204540000,
-    "sharePrice": 0.04225947316523454,
+    "sharePrice": 0.038324944428830575,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8089,
+    "exchangeRate": 7.8278,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "600478-CN",
     "companyName": "Hunan Corun New Energy Co. Ltd.",
     "numberOfShares": 183595000,
-    "sharePrice": 0.9518681005400782,
+    "sharePrice": 0.8473911337779523,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3139,
+    "exchangeRate": 6.3725,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "VOLV.B-SE",
     "companyName": "Volvo AB Class B",
     "numberOfShares": 0,
-    "sharePrice": 20.08145429862334,
+    "sharePrice": 20.02496395291282,
     "currencyCode": "SEK",
-    "exchangeRate": 9.4286,
+    "exchangeRate": 9.2934,
     "interactive": false
   },
   {
@@ -44,19 +54,19 @@
     "ticker": "VOLCAR.B-SE",
     "companyName": "Volvo Cars AB",
     "numberOfShares": 2442000000,
-    "sharePrice": 6.876948857730735,
+    "sharePrice": 7.314868616437472,
     "currencyCode": "SEK",
-    "exchangeRate": 9.4286,
+    "exchangeRate": 9.2934,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "000913-CN",
     "companyName": "Zhejiang Qianjiang Motorcycle",
-    "numberOfShares": 135000000,
-    "sharePrice": 2.1729834175390805,
+    "numberOfShares": 183590000,
+    "sharePrice": 1.8203216947822676,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3139,
+    "exchangeRate": 6.3725,
     "interactive": false
   },
   {
@@ -64,9 +74,9 @@
     "ticker": "000913-CN",
     "companyName": "Zhejiang Qianjiang Motorcycle",
     "numberOfShares": -53987000,
-    "sharePrice": 2.1729834175390805,
+    "sharePrice": 1.8203216947822676,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3139,
+    "exchangeRate": 6.3725,
     "interactive": false
   }
 ]

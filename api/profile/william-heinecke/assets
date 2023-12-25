@@ -3,10 +3,10 @@
     "exchange": "THAILAND",
     "ticker": "CNT-TH",
     "companyName": "Christiani & Nielsen (Thai) PCL",
-    "numberOfShares": 101500000,
-    "sharePrice": 0.056632810095413974,
+    "numberOfShares": 101070000,
+    "sharePrice": 0.05227205227205227,
     "currencyCode": "THB",
-    "exchangeRate": 32.49,
+    "exchangeRate": 33.67,
     "interactive": false
   },
   {
@@ -14,20 +14,42 @@
     "ticker": "MINT-TH",
     "companyName": "Minor International PCL",
     "numberOfShares": 1732270000,
-    "sharePrice": 0.9310557094490612,
+    "sharePrice": 0.9652509652509652,
     "currencyCode": "THB",
-    "exchangeRate": 32.49,
+    "exchangeRate": 33.67,
     "interactive": false
   },
   {
     "exchange": "THAILAND",
     "ticker": "MINT-TH",
     "companyName": "Minor International PCL",
-    "numberOfShares": 81800000,
-    "exerciseOptionPrice": 0.07140658664204369,
-    "sharePrice": 0.9310557094490612,
+    "numberOfShares": 79800000,
+    "exerciseOptionPrice": 0.6415206415206415,
+    "sharePrice": 0.9652509652509652,
     "currencyCode": "THB",
-    "exchangeRate": 32.49,
+    "exchangeRate": 33.67,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "MINT-TH",
+    "companyName": "Minor International PCL",
+    "numberOfShares": 60700000,
+    "exerciseOptionPrice": 0.8316008316008315,
+    "sharePrice": 0.9652509652509652,
+    "currencyCode": "THB",
+    "exchangeRate": 33.67,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "MINT-TH",
+    "companyName": "Minor International PCL",
+    "numberOfShares": 54400000,
+    "exerciseOptionPrice": 0.9207009207009207,
+    "sharePrice": 0.9652509652509652,
+    "currencyCode": "THB",
+    "exchangeRate": 33.67,
     "interactive": false
   }
 ]
