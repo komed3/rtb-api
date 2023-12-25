@@ -3,8 +3,19 @@
     "exchange": "NASDAQ",
     "ticker": "NEGG-US",
     "companyName": "Newegg Commerce",
-    "numberOfShares": 132481666.99999999,
-    "sharePrice": 7.61,
+    "numberOfShares": 132341000.00000001,
+    "sharePrice": 7.83,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "NEGG-US",
+    "companyName": "Newegg Commerce",
+    "numberOfShares": 3145000,
+    "exerciseOptionPrice": 1.19,
+    "sharePrice": 7.83,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

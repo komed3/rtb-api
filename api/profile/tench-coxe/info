@@ -1,16 +1,18 @@
 {
   "uri": "tench-coxe",
   "name": "Tench Coxe",
-  "birthDate": null,
+  "birthDate": "1958-01-14",
   "family": false,
   "gender": "m",
   "citizenship": "US",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "Palo Alto",
+    "state": "California"
   },
   "image": null,
-  "industry": [],
+  "industry": [
+    "Finance & Investments"
+  ],
   "source": [
     "venture capital"
   ]

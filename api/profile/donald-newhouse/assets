@@ -4,7 +4,7 @@
     "ticker": "ASTR-US",
     "companyName": "Astra Space",
     "numberOfShares": 25155093,
-    "sharePrice": 4.19,
+    "sharePrice": 3.2,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,17 +14,7 @@
     "ticker": "CHTR-US",
     "companyName": "Charter Communications Inc.",
     "numberOfShares": 12841760,
-    "sharePrice": 572.33,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "DISCA-US",
-    "companyName": "Discovery Communications A",
-    "numberOfShares": 35336000,
-    "sharePrice": 26.25,
+    "sharePrice": 428.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +24,17 @@
     "ticker": "DISCK-US",
     "companyName": "Discovery Communications C",
     "numberOfShares": 47600000,
-    "sharePrice": 26.29,
+    "sharePrice": 24.42,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBD-US",
+    "companyName": "Warner Bros. Discovery Series A",
+    "numberOfShares": 35336000,
+    "sharePrice": 18.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
