@@ -3,20 +3,30 @@
     "exchange": "EURONEXT PARIS",
     "ticker": "AIR-FR",
     "companyName": "Airbus SE",
-    "numberOfShares": 250000,
-    "sharePrice": 118.48452508004267,
+    "numberOfShares": 0,
+    "sharePrice": 125.57886726818131,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "AML-GB",
     "companyName": "Aston Martin Lagonda Global Holdings",
-    "numberOfShares": 2212360,
-    "sharePrice": 1.85252014916396,
+    "numberOfShares": 820000,
+    "sharePrice": 2.103503776154513,
     "currencyCode": "GBP",
-    "exchangeRate": 0.8313,
+    "exchangeRate": 0.8077,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BRCC-US",
+    "companyName": "Black Rifle Coffee",
+    "numberOfShares": 2110000,
+    "sharePrice": 6.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -24,17 +34,17 @@
     "ticker": "BZU-IT",
     "companyName": "Buzzi Unicem",
     "numberOfShares": 1105000,
-    "sharePrice": 19.2102454642476,
+    "sharePrice": 22.371996956190888,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
-    "numberOfShares": 400000,
-    "sharePrice": 88.73,
+    "numberOfShares": 420000,
+    "sharePrice": 97.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -43,10 +53,10 @@
     "exchange": "EURONEXT AMSTERDAM",
     "ticker": "JDEP-NL",
     "companyName": "JDE Peet?s",
-    "numberOfShares": 350000,
-    "sharePrice": 28.836712913553892,
+    "numberOfShares": 0,
+    "sharePrice": 29.91629524948364,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
@@ -54,17 +64,17 @@
     "ticker": "KAR-SE",
     "companyName": "Karnov  Group",
     "numberOfShares": 0,
-    "sharePrice": 5.6048754738711075,
+    "sharePrice": 5.824325236492676,
     "currencyCode": "SEK",
-    "exchangeRate": 10.4195,
+    "exchangeRate": 10.3703,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "KDP-US",
     "companyName": "Keurig Dr Pepper Group",
-    "numberOfShares": 650000,
-    "sharePrice": 35.66,
+    "numberOfShares": 0,
+    "sharePrice": 34.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,17 +84,27 @@
     "ticker": "PHG-US",
     "companyName": "Koninklijke Philips Electrs NV",
     "numberOfShares": 570000,
-    "sharePrice": 14.99,
+    "sharePrice": 17.99,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
+    "ticker": "ROVI-ES",
+    "companyName": "Laboratorios Farmaceuticos Rovi",
+    "numberOfShares": 540000,
+    "sharePrice": 42.504620067398626,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LAUR-US",
     "companyName": "Laureate Education",
-    "numberOfShares": 6010000,
-    "sharePrice": 9.62,
+    "numberOfShares": 4790000,
+    "sharePrice": 10.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,7 +114,7 @@
     "ticker": "OI-US",
     "companyName": "Owens-Illinois",
     "numberOfShares": 0,
-    "sharePrice": 16.57,
+    "sharePrice": 18.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -104,9 +124,9 @@
     "ticker": "CASH-ES",
     "companyName": "Prosegur Cash",
     "numberOfShares": 12460000,
-    "sharePrice": 0.6382070437566701,
+    "sharePrice": 0.7989998912925317,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
@@ -114,9 +134,9 @@
     "ticker": "TLGO-ES",
     "companyName": "Talgo",
     "numberOfShares": 4652000,
-    "sharePrice": 3.5218783351120595,
+    "sharePrice": 4.049353190564192,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   }
 ]

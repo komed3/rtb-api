@@ -1,12 +1,22 @@
 [
   {
     "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "HEIO-NL",
+    "companyName": "Heineken Holding",
+    "numberOfShares": 134666908,
+    "sharePrice": 81.53060115229916,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9199,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
     "ticker": "HEIA-NL",
     "companyName": "Heineken N.V.",
-    "numberOfShares": 134710000,
-    "sharePrice": 93.78868729989327,
+    "numberOfShares": 0,
+    "sharePrice": 99.48907489944558,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   }
 ]

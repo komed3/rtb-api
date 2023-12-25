@@ -3,30 +3,30 @@
     "exchange": "ASX",
     "ticker": "EDV-AU",
     "companyName": "Endeavour Group",
-    "numberOfShares": 270000000,
-    "sharePrice": 4.35372304353723,
+    "numberOfShares": 270176000,
+    "sharePrice": 4.631400042489909,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
-    "interactive": false
-  },
-  {
-    "exchange": "ASX",
-    "ticker": "RSH-AU",
-    "companyName": "iSonea Limited",
-    "numberOfShares": 66500000,
-    "sharePrice": 0.031194900311949006,
-    "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "MYX-AU",
     "companyName": "Mayne Pharma Group LTD",
-    "numberOfShares": 105577000,
-    "sharePrice": 0.13563000135630002,
+    "numberOfShares": 5279000,
+    "sharePrice": 2.266128461157142,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "TLM-AU",
+    "companyName": "Talisman Mining",
+    "numberOfShares": 2500000,
+    "sharePrice": 0.12038807449897318,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4121,
     "interactive": false
   }
 ]

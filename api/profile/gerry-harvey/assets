@@ -4,9 +4,9 @@
     "ticker": "BGP-NZ",
     "companyName": "Briscoe Group",
     "numberOfShares": 5250000,
-    "sharePrice": 2.909182899064002,
+    "sharePrice": 3.0491760736992344,
     "currencyCode": "NZD",
-    "exchangeRate": 1.5812,
+    "exchangeRate": 1.5414,
     "interactive": false
   },
   {
@@ -14,19 +14,29 @@
     "ticker": "DWS-AU",
     "companyName": "DWS Ltd",
     "numberOfShares": 0,
-    "sharePrice": 0.8137800081378,
+    "sharePrice": 0.8497981729339282,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "HVN-AU",
     "companyName": "Harvey Norman Holdings Ltd.",
-    "numberOfShares": 412476000,
-    "sharePrice": 2.800759528007595,
+    "numberOfShares": 413895000,
+    "sharePrice": 3.186743148502231,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "HVN-AU",
+    "companyName": "Harvey Norman Holdings Ltd.",
+    "numberOfShares": -7375000,
+    "sharePrice": 3.186743148502231,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "TOY-AU",
     "companyName": "Toys 'R' Us Anz Limited",
     "numberOfShares": 0,
-    "sharePrice": 0.020344500203445002,
+    "sharePrice": 0.019828624035124993,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   }
 ]

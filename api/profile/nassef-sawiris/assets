@@ -3,10 +3,10 @@
     "exchange": "XETRA",
     "ticker": "ADS-DE",
     "companyName": "Adidas",
-    "numberOfShares": 11950000,
-    "sharePrice": 136.02988260405547,
+    "numberOfShares": 6033000,
+    "sharePrice": 160.14784215675616,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "AKE-FR",
     "companyName": "Arkema",
     "numberOfShares": 3830000,
-    "sharePrice": 89.5197438633938,
+    "sharePrice": 100.44570061963258,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "HOLN-CH",
     "companyName": "LafargeHolcim Ltd.",
     "numberOfShares": 13482000,
-    "sharePrice": 51.750972762645915,
+    "sharePrice": 59.154929577464785,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9252,
+    "exchangeRate": 0.923,
     "interactive": false
   },
   {
@@ -44,7 +44,7 @@
     "ticker": "MSGS-US",
     "companyName": "Madison Square Garden Sports",
     "numberOfShares": 1200000,
-    "sharePrice": 183.33,
+    "sharePrice": 180.18,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,40 +53,20 @@
     "exchange": "EURONEXT AMSTERDAM",
     "ticker": "OCI-NL",
     "companyName": "OCI NV",
-    "numberOfShares": 69300000,
-    "sharePrice": 35.66702241195304,
+    "numberOfShares": 81564000,
+    "sharePrice": 33.80802261115338,
     "currencyCode": "EUR",
-    "exchangeRate": 0.937,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "OCIP-US",
-    "companyName": "OCI Partners",
-    "numberOfShares": 0,
-    "sharePrice": 11.45,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 0.9199,
     "interactive": false
   },
   {
     "exchange": "NASDAQ DUBAI",
     "ticker": "OC-AE",
     "companyName": "Orascom Construction Ltd",
-    "numberOfShares": 33825000,
-    "sharePrice": 3.99,
+    "numberOfShares": 40265000,
+    "sharePrice": 3.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "LONDON",
-    "ticker": "SIG-GB",
-    "companyName": "Signature Aviation Plc",
-    "numberOfShares": 0,
-    "sharePrice": 4.763623240707326,
-    "currencyCode": "GBP",
-    "exchangeRate": 0.8313,
     "interactive": false
   }
 ]

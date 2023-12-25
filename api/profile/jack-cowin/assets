@@ -4,9 +4,9 @@
     "ticker": "BTI-AU",
     "companyName": "Bailador Technology Investments",
     "numberOfShares": 2000000,
-    "sharePrice": 0.8205615082056151,
+    "sharePrice": 0.8767084484101693,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
@@ -14,7 +14,7 @@
     "ticker": "DPZ-US",
     "companyName": "Domino's Pizza",
     "numberOfShares": 100000,
-    "sharePrice": 346.4,
+    "sharePrice": 348.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,9 +24,9 @@
     "ticker": "DMP-AU",
     "companyName": "Domino's Pizza Enterprises",
     "numberOfShares": 23066000,
-    "sharePrice": 44.927437949274385,
+    "sharePrice": 53.685999575100915,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "DOM-GB",
     "companyName": "Domino's Pizza Group Plc",
     "numberOfShares": 96000,
-    "sharePrice": 3.5294117647058822,
+    "sharePrice": 3.932153027114028,
     "currencyCode": "GBP",
-    "exchangeRate": 0.8313,
+    "exchangeRate": 0.8077,
     "interactive": false
   },
   {
@@ -44,27 +44,37 @@
     "ticker": "FXJ-AU",
     "companyName": "Fairfax Media",
     "numberOfShares": 3000000,
-    "sharePrice": 0.4475790044757901,
+    "sharePrice": 0.46738899511366055,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "MAF-AU",
     "companyName": "MA Financial Group",
-    "numberOfShares": 75000,
-    "sharePrice": 3.0788010307880107,
+    "numberOfShares": 0,
+    "sharePrice": 3.3779477374123643,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "NEC-AU",
+    "companyName": "Nine Entertainment Co. Holdings",
+    "numberOfShares": 1000000,
+    "sharePrice": 1.4517385454287939,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
     "companyName": "Queens Road Capital",
-    "numberOfShares": 71263000,
-    "sharePrice": 0.6103350061033501,
+    "numberOfShares": 71458000,
+    "sharePrice": 0.6373486297004461,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4746,
+    "exchangeRate": 1.4121,
     "interactive": false
   }
 ]
