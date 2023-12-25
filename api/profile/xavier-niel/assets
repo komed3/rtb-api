@@ -1,22 +1,12 @@
 [
   {
     "exchange": "EURONEXT PARIS",
-    "ticker": "2MX-FR",
-    "companyName": "2MX Organic",
-    "numberOfShares": 2001000,
-    "sharePrice": 7.606811461201183,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
-    "interactive": false
-  },
-  {
-    "exchange": "EURONEXT PARIS",
     "ticker": "ATEME-FR",
     "companyName": "Ateme",
     "numberOfShares": 572000,
-    "sharePrice": 13.643315998776385,
+    "sharePrice": 12.485017978425887,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "MDW-FR",
     "companyName": "Mediawan",
     "numberOfShares": 2093600,
-    "sharePrice": 11.726317936168043,
+    "sharePrice": 11.486216540151817,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
+    "ticker": "TRACT-FR",
+    "companyName": "Teract",
+    "numberOfShares": 2001000,
+    "sharePrice": 7.371154614462644,
+    "currencyCode": "EUR",
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "URW-NL",
     "companyName": "Unibail-Rodamco-Westfield",
     "numberOfShares": 15780000,
-    "sharePrice": 56.27612929540124,
+    "sharePrice": 51.99760287654814,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
     "interactive": false
   }
 ]

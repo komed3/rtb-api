@@ -4,7 +4,7 @@
     "ticker": "SQ-US",
     "companyName": "Block Inc Class A",
     "numberOfShares": 3990000,
-    "sharePrice": 76.06,
+    "sharePrice": 69.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,18 +13,26 @@
     "exchange": "NASDAQ",
     "ticker": "DAWN-US",
     "companyName": "Day One Biopharmaceuticals",
-    "numberOfShares": 9378000,
-    "sharePrice": 17.13,
+    "numberOfShares": 10684638,
+    "sharePrice": 22.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "Deezer",
+    "numberOfShares": 44753926,
+    "sharePrice": 0,
+    "currencyCode": "EUR",
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DOCN-US",
     "companyName": "DigitalOcean",
-    "numberOfShares": 23278904,
-    "sharePrice": 40.98,
+    "numberOfShares": 25865449,
+    "sharePrice": 42.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +42,17 @@
     "ticker": "ELYM-US",
     "companyName": "Eliem Therapeutics",
     "numberOfShares": 5001000,
-    "sharePrice": 3.18,
+    "sharePrice": 3.04,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GMDA-US",
+    "companyName": "Gamida Cell Ltd.",
+    "numberOfShares": 9744857,
+    "sharePrice": 2.73,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -43,8 +61,8 @@
     "exchange": "NYSE",
     "ticker": "LYB-US",
     "companyName": "LyondellBasell",
-    "numberOfShares": 63477163,
-    "sharePrice": 89.12,
+    "numberOfShares": 70530181,
+    "sharePrice": 83.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,8 +71,8 @@
     "exchange": "NASDAQ",
     "ticker": "OPEN-US",
     "companyName": "Opendoor Technologies",
-    "numberOfShares": 31175500,
-    "sharePrice": 4.91,
+    "numberOfShares": 53598914,
+    "sharePrice": 4.46,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,17 +82,17 @@
     "ticker": "486-HK",
     "companyName": "United Co. RUSAL Plc",
     "numberOfShares": 1600000000,
-    "sharePrice": 0.40892240665486185,
+    "sharePrice": 0.5032552332173935,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8499,
+    "exchangeRate": 7.8489,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WMG-US",
     "companyName": "Warner Music Group",
-    "numberOfShares": 397431000,
-    "sharePrice": 30,
+    "numberOfShares": 377874525,
+    "sharePrice": 27.14,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
