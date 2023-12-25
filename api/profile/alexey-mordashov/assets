@@ -1,22 +1,42 @@
 [
   {
     "exchange": "MICEX",
+    "ticker": "LNTA-RU",
+    "companyName": "Lenta Ltd",
+    "numberOfShares": 384151000,
+    "sharePrice": 1.4587424842130705,
+    "currencyCode": "RUB",
+    "exchangeRate": 82.7425,
+    "interactive": false
+  },
+  {
+    "exchange": "MICEX",
+    "ticker": "RTKM-RU",
+    "companyName": "Rostelecom",
+    "numberOfShares": 96545000,
+    "sharePrice": 0.7525757621536695,
+    "currencyCode": "RUB",
+    "exchangeRate": 82.7425,
+    "interactive": false
+  },
+  {
+    "exchange": "MICEX",
     "ticker": "CHMF-RU",
     "companyName": "Severstal JSC",
-    "numberOfShares": 640193000,
-    "sharePrice": 15.893307310726195,
+    "numberOfShares": 645294684,
+    "sharePrice": 15.892679094782004,
     "currencyCode": "RUB",
-    "exchangeRate": 61.485,
+    "exchangeRate": 82.7425,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "TUI1-DE",
     "companyName": "TUI",
-    "numberOfShares": 146963568,
-    "sharePrice": 11.62764895151448,
+    "numberOfShares": 551790900,
+    "sharePrice": 3.3906882591093117,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9013,
+    "exchangeRate": 0.8892,
     "interactive": false
   }
 ]

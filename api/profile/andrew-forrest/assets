@@ -1,60 +1,108 @@
 [
   {
     "companyName": "Atlas Iron Ltd",
-    "numberOfShares": 1086944000,
-    "sharePrice": 0.03147513464363153,
+    "numberOfShares": 0,
+    "sharePrice": 0.03251915016620899,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "EMD-AU",
+    "companyName": "Emyria",
+    "numberOfShares": 20000000,
+    "sharePrice": 0.1915016620898974,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "FMG-AU",
     "companyName": "Fortescue Metals Group, Australia",
-    "numberOfShares": 1122165000,
-    "sharePrice": 13.604252640414073,
+    "numberOfShares": 1131365000,
+    "sharePrice": 13.441248735366385,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "IXC-AU",
     "companyName": "Invex Therapeutics",
-    "numberOfShares": 8846154,
-    "sharePrice": 0.4266629362803385,
+    "numberOfShares": 8846000,
+    "sharePrice": 0.39745627980922105,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "MCR-AU",
     "companyName": "Mincor Resources",
-    "numberOfShares": 64482907,
-    "sharePrice": 1.1296076099881094,
+    "numberOfShares": 64483000.00000001,
+    "sharePrice": 1.4163896516837693,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "TSX VENTURE",
+    "ticker": "NOT-CA",
+    "companyName": "Noront Resources",
+    "numberOfShares": 111870000,
+    "sharePrice": 0.8477902504121203,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2739,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "POS-AU",
     "companyName": "Poseidon Nickel",
-    "numberOfShares": 385519949,
-    "sharePrice": 0.06714695390641394,
+    "numberOfShares": 357378000,
+    "sharePrice": 0.06287035698800404,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "companyName": "Queens Road Capital",
+    "numberOfShares": 71263000,
+    "sharePrice": 0.6503830033241799,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "SWP-AU",
+    "companyName": "Swoop Holdings",
+    "numberOfShares": 33400000,
+    "sharePrice": 0.867177337765573,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "VMY-AU",
     "companyName": "Vimy Resources",
-    "numberOfShares": 66239599.99999999,
-    "sharePrice": 0.1224033013919004,
+    "numberOfShares": 52550000,
+    "sharePrice": 0.13007660066483595,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "WSA-AU",
+    "companyName": "Western Areas",
+    "numberOfShares": 16980000,
+    "sharePrice": 2.4136435901141784,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3838,
     "interactive": false
   }
 ]

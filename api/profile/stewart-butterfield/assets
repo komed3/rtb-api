@@ -1,9 +1,30 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 3061000,
+    "sharePrice": 208.09,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 54000,
+    "exerciseOptionPrice": 313.27,
+    "sharePrice": 208.09,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "WORK-US",
     "companyName": "Slack Technologies",
-    "numberOfShares": 39453000,
+    "numberOfShares": 0,
     "sharePrice": 45.2,
     "currencyCode": "USD",
     "exchangeRate": 1,

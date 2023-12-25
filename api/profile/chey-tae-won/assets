@@ -3,10 +3,10 @@
     "exchange": "KOREA",
     "ticker": "006125-KR",
     "companyName": "SK CHEMICALS PREF",
-    "numberOfShares": 42416,
-    "sharePrice": 24.678556615512235,
+    "numberOfShares": 64000,
+    "sharePrice": 25.422318382291753,
     "currencyCode": "KRW",
-    "exchangeRate": 1205.5,
+    "exchangeRate": 1201.7,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "034730-KR",
     "companyName": "SK Holdings",
     "numberOfShares": 12975000,
-    "sharePrice": 181.25259228535876,
+    "sharePrice": 184.7382874261463,
     "currencyCode": "KRW",
-    "exchangeRate": 1205.5,
+    "exchangeRate": 1201.7,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "034730-KR",
+    "companyName": "SK Holdings",
+    "numberOfShares": -1593000,
+    "sharePrice": 184.7382874261463,
+    "currencyCode": "KRW",
+    "exchangeRate": 1201.7,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "017670-KR",
     "companyName": "SK Telecom Co. Ltd.",
     "numberOfShares": 304,
-    "sharePrice": 46.78556615512235,
+    "sharePrice": 44.85312473995173,
     "currencyCode": "KRW",
-    "exchangeRate": 1205.5,
+    "exchangeRate": 1201.7,
     "interactive": false
   }
 ]
