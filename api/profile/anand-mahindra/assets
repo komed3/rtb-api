@@ -1,22 +1,42 @@
 [
   {
+    "exchange": "TOKYO",
+    "ticker": "5201-JP",
+    "companyName": "Asahi Glass",
+    "numberOfShares": 3330000,
+    "sharePrice": 35.14156475121461,
+    "currencyCode": "JPY",
+    "exchangeRate": 149.225,
+    "interactive": false
+  },
+  {
     "exchange": "BSE INDIA",
     "ticker": "500247-IN",
     "companyName": "Kotak Mahindra Bank Ltd.",
-    "numberOfShares": 19790000,
-    "sharePrice": 21.544938589851792,
+    "numberOfShares": 20020000,
+    "sharePrice": 20.90164773432015,
     "currencyCode": "INR",
-    "exchangeRate": 82.7062,
+    "exchangeRate": 83.0413,
     "interactive": false
   },
   {
     "exchange": "BSE INDIA",
     "ticker": "500520-IN",
     "companyName": "Mahindra & Mahindra Ltd.",
-    "numberOfShares": 75110000,
-    "sharePrice": 18.85590197590991,
+    "numberOfShares": 75140000,
+    "sharePrice": 18.709365099053123,
     "currencyCode": "INR",
-    "exchangeRate": 82.7062,
+    "exchangeRate": 83.0413,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
+    "ticker": "532755-IN",
+    "companyName": "Tech Mahindra",
+    "numberOfShares": 843000,
+    "sharePrice": 14.728815661604525,
+    "currencyCode": "INR",
+    "exchangeRate": 83.0413,
     "interactive": false
   }
 ]

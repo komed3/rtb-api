@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "HPK-US",
     "companyName": "Highpeak Energy Inc",
-    "numberOfShares": 5500000,
-    "sharePrice": 14.51,
+    "numberOfShares": 14385000,
+    "sharePrice": 16.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -15,7 +15,17 @@
     "companyName": "Highpeak Energy Inc",
     "numberOfShares": 5500000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 14.51,
+    "sharePrice": 16.88,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "RPMT-US",
+    "companyName": "Rego Payment Architectures",
+    "numberOfShares": 17150000,
+    "sharePrice": 1.42,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

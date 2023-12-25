@@ -4,7 +4,7 @@
     "ticker": "T-US",
     "companyName": "AT&T Inc.",
     "numberOfShares": 935000,
-    "sharePrice": 14.77,
+    "sharePrice": 15.02,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "CMCSA-US",
     "companyName": "Comcast",
     "numberOfShares": 5823000,
-    "sharePrice": 46.78,
+    "sharePrice": 44.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +23,18 @@
     "exchange": "NYSE",
     "ticker": "XOM-US",
     "companyName": "Exxon Mobil Corp.",
-    "numberOfShares": 8549000,
-    "sharePrice": 109.81,
+    "numberOfShares": 6851000,
+    "sharePrice": 117.58,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBD-US",
+    "companyName": "Warner Bros. Discovery Series A",
+    "numberOfShares": 226000,
+    "sharePrice": 10.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
