@@ -4,11 +4,11 @@
     "ticker": "ORCL-US",
     "companyName": "Oracle",
     "numberOfShares": 1066000000,
-    "sharePrice": 94.72,
+    "sharePrice": 105.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 94.72
+    "currentPrice": 105.94
   },
   {
     "exchange": "NYSE",
@@ -16,11 +16,11 @@
     "companyName": "Oracle",
     "numberOfShares": 2250000,
     "exerciseOptionPrice": 40.47,
-    "sharePrice": 94.72,
+    "sharePrice": 105.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 94.72
+    "currentPrice": 105.94
   },
   {
     "exchange": "NYSE",
@@ -28,11 +28,11 @@
     "companyName": "Oracle",
     "numberOfShares": 7000000,
     "exerciseOptionPrice": 30.11,
-    "sharePrice": 94.72,
+    "sharePrice": 105.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 94.72
+    "currentPrice": 105.94
   },
   {
     "exchange": "NYSE",
@@ -40,22 +40,22 @@
     "companyName": "Oracle",
     "numberOfShares": 2500000,
     "exerciseOptionPrice": 51.13,
-    "sharePrice": 94.72,
+    "sharePrice": 105.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 94.72
+    "currentPrice": 105.94
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 45018750,
-    "sharePrice": 164.31,
+    "sharePrice": 201.16,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 164.31
+    "currentPrice": 203.93
   },
   {
     "exchange": "NASDAQ",
@@ -63,11 +63,11 @@
     "companyName": "Tesla",
     "numberOfShares": 750000,
     "exerciseOptionPrice": 14.982666666666667,
-    "sharePrice": 164.31,
+    "sharePrice": 201.16,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 164.31
+    "currentPrice": 203.93
   },
   {
     "exchange": "NASDAQ",
@@ -75,10 +75,10 @@
     "companyName": "Tesla",
     "numberOfShares": 125010.00000000001,
     "exerciseOptionPrice": 22.33,
-    "sharePrice": 164.31,
+    "sharePrice": 201.16,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 164.31
+    "currentPrice": 203.93
   }
 ]
