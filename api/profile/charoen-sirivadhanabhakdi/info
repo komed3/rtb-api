@@ -1,17 +1,20 @@
 {
   "uri": "charoen-sirivadhanabhakdi",
   "name": "Charoen Sirivadhanabhakdi",
-  "birthDate": null,
+  "birthDate": "1944-05-02",
   "family": false,
-  "gender": null,
-  "citizenship": null,
+  "gender": "m",
+  "citizenship": "TH",
   "residence": {
-    "city": null,
+    "city": "Bangkok",
     "state": null
   },
   "image": "http:https://specials-images.forbesimg.com/imageserve/60d9ed504bb9397d72570f0a/416x416.jpg?background=000000&cropX1=0&cropX2=600&cropY1=0&cropY2=600",
-  "industry": [],
+  "industry": [
+    "Food & Beverage"
+  ],
   "source": [
-    ""
+    "alcohol",
+    "real estate"
   ]
 }

@@ -3,10 +3,20 @@
     "exchange": "LONDON",
     "ticker": "GLEN-GB",
     "companyName": "Glencore International Plc",
-    "numberOfShares": 450175000,
-    "sharePrice": 5.096504251585909,
+    "numberOfShares": 463675000,
+    "sharePrice": 5.275653923541247,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7409,
+    "exchangeRate": 0.7455,
+    "interactive": false
+  },
+  {
+    "exchange": "ATHENS",
+    "ticker": "TPEIR-GR",
+    "companyName": "Piraeus Financial Holdings",
+    "numberOfShares": 34782608,
+    "sharePrice": 1.639124609200536,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8956,
     "interactive": false
   }
 ]

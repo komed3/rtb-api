@@ -3,8 +3,18 @@
     "exchange": "NASDAQ",
     "ticker": "CELH-US",
     "companyName": "Celsius Holdings",
-    "numberOfShares": 8899348,
-    "sharePrice": 73.52,
+    "numberOfShares": 6655000,
+    "sharePrice": 45.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CVE-US",
+    "companyName": "cenovus energy - Common Stock",
+    "numberOfShares": 231194000,
+    "sharePrice": 14.44,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,10 +23,10 @@
     "exchange": "HONG KONG",
     "ticker": "1113-HK",
     "companyName": "CK Asset Holdings",
-    "numberOfShares": 1214508000,
-    "sharePrice": 6.358648274447464,
+    "numberOfShares": 1220010000,
+    "sharePrice": 6.691301949010097,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8004,
+    "exchangeRate": 7.7937,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "1-HK",
     "companyName": "CK Hutchison",
     "numberOfShares": 1161555000,
-    "sharePrice": 6.563765960719963,
+    "sharePrice": 7.063397359405673,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8004,
+    "exchangeRate": 7.7937,
     "interactive": false
   },
   {
@@ -34,19 +44,19 @@
     "ticker": "1038-HK",
     "companyName": "CK Infrastructure Holdings",
     "numberOfShares": 5428000,
-    "sharePrice": 6.345828419055433,
+    "sharePrice": 6.190897776409151,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8004,
+    "exchangeRate": 7.7937,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "HSE-CA",
     "companyName": "Husky Energy Inc.",
-    "numberOfShares": 294703000,
-    "sharePrice": 5.2862058179543325,
+    "numberOfShares": 0,
+    "sharePrice": 5.292828061384278,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2788,
+    "exchangeRate": 1.2772,
     "interactive": false
   },
   {
@@ -54,17 +64,17 @@
     "ticker": "215-HK",
     "companyName": "Hutchison Telecommunications Hong Kong Holdings Ltd.",
     "numberOfShares": 53359000,
-    "sharePrice": 0.16024819240038973,
+    "sharePrice": 0.16295212800082118,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8004,
+    "exchangeRate": 7.7937,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
-    "numberOfShares": 19348584,
-    "sharePrice": 190.52,
+    "numberOfShares": 20337000,
+    "sharePrice": 143.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
