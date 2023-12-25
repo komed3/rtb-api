@@ -3,8 +3,19 @@
     "exchange": "NYSE",
     "ticker": "CRK-US",
     "companyName": "Comstock Resources Inc",
-    "numberOfShares": 182321000,
-    "sharePrice": 17.86,
+    "numberOfShares": 138571000,
+    "sharePrice": 18.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRK-US",
+    "companyName": "Comstock Resources Inc",
+    "numberOfShares": 43750000,
+    "exerciseOptionPrice": 4,
+    "sharePrice": 18.41,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
