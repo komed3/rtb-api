@@ -3,8 +3,30 @@
     "exchange": "NYSE",
     "ticker": "RSI-US",
     "companyName": "Rush Street Interactive",
-    "numberOfShares": 110152871,
-    "sharePrice": 3.78,
+    "numberOfShares": 110545869,
+    "sharePrice": 4.69,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
+    "numberOfShares": 44204,
+    "exerciseOptionPrice": 3.99,
+    "sharePrice": 4.69,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
+    "numberOfShares": 46729,
+    "exerciseOptionPrice": 2.14,
+    "sharePrice": 4.69,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

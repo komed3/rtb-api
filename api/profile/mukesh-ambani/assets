@@ -1,12 +1,22 @@
 [
   {
     "exchange": "BSE INDIA",
+    "ticker": "543940-IN",
+    "companyName": "Jio Financial Services",
+    "numberOfShares": 2845255000,
+    "sharePrice": 2.679968369965009,
+    "currencyCode": "INR",
+    "exchangeRate": 82.7062,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
     "ticker": "500325-IN",
     "companyName": "Reliance Industries Ltd.",
     "numberOfShares": 2845255000,
-    "sharePrice": 30.72838278451958,
+    "sharePrice": 29.263223313367078,
     "currencyCode": "INR",
-    "exchangeRate": 82.2562,
+    "exchangeRate": 82.7062,
     "interactive": false
   }
 ]

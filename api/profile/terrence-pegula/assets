@@ -4,15 +4,18 @@
     "ticker": "ABL-US",
     "companyName": "Abacus Life",
     "numberOfShares": 8615000,
-    "sharePrice": 6.12,
+    "sharePrice": 9.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
-    "companyName": "East Resources Warrants",
-    "numberOfShares": 8000000,
-    "sharePrice": 1.4,
+    "exchange": "NASDAQ",
+    "ticker": "ABL-US",
+    "companyName": "Abacus Life",
+    "numberOfShares": 7180000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 9.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -22,7 +25,7 @@
     "ticker": "RAND-US",
     "companyName": "RAND",
     "numberOfShares": 1658000,
-    "sharePrice": 13.67,
+    "sharePrice": 13.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

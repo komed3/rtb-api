@@ -1,12 +1,22 @@
 [
   {
     "exchange": "BSE INDIA",
+    "ticker": "539940-IN",
+    "companyName": "Max Estates Limited",
+    "numberOfShares": 38960000,
+    "sharePrice": 0.00026074224181500303,
+    "currencyCode": "INR",
+    "exchangeRate": 82.7062,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
     "ticker": "500271-IN",
     "companyName": "Max Financial Services",
     "numberOfShares": 36400000,
-    "sharePrice": 9.89894986639305,
+    "sharePrice": 11.233740638549468,
     "currencyCode": "INR",
-    "exchangeRate": 82.2562,
+    "exchangeRate": 82.7062,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "543220-IN",
     "companyName": "Max Healthcare Institute",
     "numberOfShares": 406000,
-    "sharePrice": 7.37026509855792,
+    "sharePrice": 6.802996631449638,
     "currencyCode": "INR",
-    "exchangeRate": 82.2562,
+    "exchangeRate": 82.7062,
     "interactive": false
   },
   {
@@ -24,19 +34,9 @@
     "ticker": "539981-IN",
     "companyName": "Max India",
     "numberOfShares": 19310000,
-    "sharePrice": 0.8430124416153433,
+    "sharePrice": 0.8384256561176793,
     "currencyCode": "INR",
-    "exchangeRate": 82.2562,
-    "interactive": false
-  },
-  {
-    "exchange": "BSE INDIA",
-    "ticker": "539940-IN",
-    "companyName": "Max Ventures & Industries",
-    "numberOfShares": 38960000,
-    "sharePrice": 2.4490555119249366,
-    "currencyCode": "INR",
-    "exchangeRate": 82.2562,
+    "exchangeRate": 82.7062,
     "interactive": false
   }
 ]
