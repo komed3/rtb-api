@@ -4,9 +4,9 @@
     "ticker": "P8Z-SG",
     "companyName": "Bumitama Agri Ltd.",
     "numberOfShares": 906557000,
-    "sharePrice": 0.4216549958587456,
+    "sharePrice": 0.43100217375009364,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3281,
+    "exchangeRate": 1.3341,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "CITA-ID",
     "companyName": "Cita Mineral Investindo",
     "numberOfShares": 2344100000,
-    "sharePrice": 0.24124410181431516,
+    "sharePrice": 0.24130879345603273,
     "currencyCode": "IDR",
-    "exchangeRate": 15047,
+    "exchangeRate": 14670,
     "interactive": false
   },
   {
@@ -24,9 +24,19 @@
     "ticker": "TIRT-ID",
     "companyName": "Tirta Mahakam Resources",
     "numberOfShares": 768500000,
-    "sharePrice": 0.0033229215125938727,
+    "sharePrice": 0.0034083162917518746,
     "currencyCode": "IDR",
-    "exchangeRate": 15047,
+    "exchangeRate": 14670,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
+    "ticker": "NCKL-ID",
+    "companyName": "Trimegah Bangun Persada",
+    "numberOfShares": 55101000000,
+    "sharePrice": 0.09577368779822767,
+    "currencyCode": "IDR",
+    "exchangeRate": 14670,
     "interactive": false
   }
 ]
