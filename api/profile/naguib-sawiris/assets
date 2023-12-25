@@ -4,9 +4,9 @@
     "ticker": "EDV-CA",
     "companyName": "Endeavour Mining",
     "numberOfShares": 0,
-    "sharePrice": 20.589318600368326,
+    "sharePrice": 21.387453874538746,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "EVN-AU",
     "companyName": "Evolution Mining",
     "numberOfShares": 0,
-    "sharePrice": 1.7917058113004967,
+    "sharePrice": 2.0208870202088702,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4902,
+    "exchangeRate": 1.4746,
     "interactive": false
   },
   {
@@ -34,9 +34,19 @@
     "ticker": "IOL-IT",
     "companyName": "Italiaonline",
     "numberOfShares": 0,
-    "sharePrice": 2.9101077050538526,
+    "sharePrice": 2.998932764140875,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9656,
+    "exchangeRate": 0.937,
+    "interactive": false
+  },
+  {
+    "exchange": "EGYPT",
+    "ticker": "OIH-EG",
+    "companyName": "Orascom Investment Holding SAE",
+    "numberOfShares": 0,
+    "sharePrice": 0.011108866895576653,
+    "currencyCode": "EGP",
+    "exchangeRate": 24.755,
     "interactive": false
   },
   {
@@ -44,19 +54,9 @@
     "ticker": "OIH-EG",
     "companyName": "Orascom Investment Holding SAE",
     "numberOfShares": 1700000000,
-    "sharePrice": 0.008879837067209776,
+    "sharePrice": 0.011108866895576653,
     "currencyCode": "EGP",
-    "exchangeRate": 24.55,
-    "interactive": false
-  },
-  {
-    "exchange": "EGYPT",
-    "ticker": "OIH-EG",
-    "companyName": "Orascom Investment Holding SAE",
-    "numberOfShares": 0,
-    "sharePrice": 0.008879837067209776,
-    "currencyCode": "EGP",
-    "exchangeRate": 24.55,
+    "exchangeRate": 24.755,
     "interactive": false
   },
   {
@@ -64,7 +64,7 @@
     "ticker": "VEON-US",
     "companyName": "VEON Ltd. ADR",
     "numberOfShares": 0,
-    "sharePrice": 0.6,
+    "sharePrice": 0.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

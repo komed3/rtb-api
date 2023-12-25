@@ -4,7 +4,7 @@
     "ticker": "CSCO-US",
     "companyName": "Cisco Systems Inc.",
     "numberOfShares": 0,
-    "sharePrice": 48.28,
+    "sharePrice": 47.64,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,41 +23,9 @@
     "exchange": "NYSE",
     "ticker": "CRM-US",
     "companyName": "Salesforce.com",
-    "numberOfShares": 27761368,
-    "sharePrice": 151.68,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CRM-US",
-    "companyName": "Salesforce.com",
-    "numberOfShares": 172916,
-    "exerciseOptionPrice": 80.99,
-    "sharePrice": 151.68,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CRM-US",
-    "companyName": "Salesforce.com",
-    "numberOfShares": 151000,
-    "exerciseOptionPrice": 75.57,
-    "sharePrice": 151.68,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CRM-US",
-    "companyName": "Salesforce.com",
     "numberOfShares": 317105,
     "exerciseOptionPrice": 118.04,
-    "sharePrice": 151.68,
+    "sharePrice": 132.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -68,7 +36,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 163228,
     "exerciseOptionPrice": 161.5,
-    "sharePrice": 151.68,
+    "sharePrice": 132.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -79,7 +47,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 113504,
     "exerciseOptionPrice": 154.14,
-    "sharePrice": 151.68,
+    "sharePrice": 132.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -90,7 +58,39 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 52753,
     "exerciseOptionPrice": 215.17,
-    "sharePrice": 151.68,
+    "sharePrice": 132.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 27761368,
+    "sharePrice": 132.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 172916,
+    "exerciseOptionPrice": 80.99,
+    "sharePrice": 132.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 151000,
+    "exerciseOptionPrice": 75.57,
+    "sharePrice": 132.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
