@@ -4,7 +4,27 @@
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
     "numberOfShares": 70000,
-    "sharePrice": 89.44,
+    "sharePrice": 81.34,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "OUST-US",
+    "companyName": "Ouster Inc",
+    "numberOfShares": 5627000,
+    "sharePrice": 0.957,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 14000,
+    "sharePrice": 268.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +33,18 @@
     "exchange": "NASDAQ",
     "ticker": "TWST-US",
     "companyName": "Twist Bioscience",
-    "numberOfShares": 832919,
-    "sharePrice": 39.58,
+    "numberOfShares": 414000,
+    "sharePrice": 35.78,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UBER-US",
+    "companyName": "Uber Technologies",
+    "numberOfShares": 642000,
+    "sharePrice": 26.42,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

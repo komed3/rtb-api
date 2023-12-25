@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "ME-US",
+    "companyName": "23andMe Holding",
+    "numberOfShares": 534000,
+    "sharePrice": 2.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
-    "numberOfShares": 2459000,
-    "sharePrice": 112.56,
+    "numberOfShares": 2213000,
+    "sharePrice": 106.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +23,8 @@
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
-    "numberOfShares": 12960000,
-    "sharePrice": 108.94,
+    "numberOfShares": 11664000,
+    "sharePrice": 97.42,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +33,18 @@
     "exchange": "NASDAQ",
     "ticker": "AMZN-US",
     "companyName": "Amazon",
-    "numberOfShares": 960000,
-    "sharePrice": 128.73,
+    "numberOfShares": 43000,
+    "sharePrice": 114.8,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AMPL-US",
+    "companyName": "Amplitude",
+    "numberOfShares": 332000,
+    "sharePrice": 15.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +54,7 @@
     "ticker": "BKNG-US",
     "companyName": "Booking Holdings",
     "numberOfShares": 0,
-    "sharePrice": 1880.23,
+    "sharePrice": 1678.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -43,8 +63,18 @@
     "exchange": "NYSE",
     "ticker": "DASH-US",
     "companyName": "DoorDash, Inc",
-    "numberOfShares": 1553000,
-    "sharePrice": 61.42,
+    "numberOfShares": 1400000,
+    "sharePrice": 49.84,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FRSH-US",
+    "companyName": "Freshworks",
+    "numberOfShares": 919000,
+    "sharePrice": 13.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,8 +83,8 @@
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
-    "numberOfShares": 13680000,
-    "sharePrice": 109.91,
+    "numberOfShares": 12300000,
+    "sharePrice": 98.09,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -73,8 +103,8 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-    "numberOfShares": 789000,
-    "sharePrice": 157.16,
+    "numberOfShares": 710000,
+    "sharePrice": 136.41,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -83,8 +113,8 @@
     "exchange": "NASDAQ",
     "ticker": "PANW-US",
     "companyName": "Palo Alto Networks Inc.",
-    "numberOfShares": 907000,
-    "sharePrice": 559.68,
+    "numberOfShares": 2448000,
+    "sharePrice": 165.58,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -103,8 +133,8 @@
     "exchange": "NYSE",
     "ticker": "RNG-US",
     "companyName": "RingCentral",
-    "numberOfShares": 447000,
-    "sharePrice": 42.79,
+    "numberOfShares": 403000,
+    "sharePrice": 40.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -113,8 +143,8 @@
     "exchange": "NYSE",
     "ticker": "NOW-US",
     "companyName": "ServiceNow",
-    "numberOfShares": 533000,
-    "sharePrice": 436.84,
+    "numberOfShares": 480000,
+    "sharePrice": 385.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -123,8 +153,8 @@
     "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
-    "numberOfShares": 619000,
-    "sharePrice": 184.74,
+    "numberOfShares": 557000,
+    "sharePrice": 170.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -133,8 +163,8 @@
     "exchange": "NYSE",
     "ticker": "U-US",
     "companyName": "Unity Software",
-    "numberOfShares": 1724000,
-    "sharePrice": 42.57,
+    "numberOfShares": 1551000,
+    "sharePrice": 31.77,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -143,8 +173,8 @@
     "exchange": "NASDAQ",
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
-    "numberOfShares": 723000,
-    "sharePrice": 81.42,
+    "numberOfShares": 651000,
+    "sharePrice": 74.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

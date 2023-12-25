@@ -1,73 +1,14 @@
 [
   {
     "exchange": "NYSE",
-    "ticker": "N-US",
-    "companyName": "NetSuite",
-    "numberOfShares": 0,
-    "sharePrice": 90.34,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 90.34
-  },
-  {
-    "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 1059000000,
-    "sharePrice": 74.14,
+    "numberOfShares": 1066000000,
+    "sharePrice": 61.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 74.15
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 20.73,
-    "sharePrice": 74.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 74.15
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 20.49,
-    "sharePrice": 74.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 74.15
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 21.04,
-    "sharePrice": 74.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 74.15
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 21.55,
-    "sharePrice": 74.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 74.15
+    "currentPrice": 61.07
   },
   {
     "exchange": "NYSE",
@@ -75,23 +16,11 @@
     "companyName": "Oracle",
     "numberOfShares": 2250000,
     "exerciseOptionPrice": 40.47,
-    "sharePrice": 74.14,
+    "sharePrice": 61.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 74.15
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 7000000,
-    "exerciseOptionPrice": 29.72,
-    "sharePrice": 74.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 74.15
+    "currentPrice": 61.07
   },
   {
     "exchange": "NYSE",
@@ -99,11 +28,11 @@
     "companyName": "Oracle",
     "numberOfShares": 7000000,
     "exerciseOptionPrice": 30.11,
-    "sharePrice": 74.14,
+    "sharePrice": 61.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 74.15
+    "currentPrice": 61.07
   },
   {
     "exchange": "NYSE",
@@ -111,22 +40,22 @@
     "companyName": "Oracle",
     "numberOfShares": 2500000,
     "exerciseOptionPrice": 51.13,
-    "sharePrice": 74.14,
+    "sharePrice": 61.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 74.15
+    "currentPrice": 61.07
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-    "numberOfShares": 45018000,
-    "sharePrice": 277.7,
+    "numberOfShares": 45018750,
+    "sharePrice": 268.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 275.61
+    "currentPrice": 265.25
   },
   {
     "exchange": "NASDAQ",
@@ -134,11 +63,11 @@
     "companyName": "Tesla",
     "numberOfShares": 750000,
     "exerciseOptionPrice": 14.982666666666667,
-    "sharePrice": 277.7,
+    "sharePrice": 268.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 275.61
+    "currentPrice": 265.25
   },
   {
     "exchange": "NASDAQ",
@@ -146,10 +75,10 @@
     "companyName": "Tesla",
     "numberOfShares": 125010.00000000001,
     "exerciseOptionPrice": 22.33,
-    "sharePrice": 277.7,
+    "sharePrice": 268.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 275.61
+    "currentPrice": 265.25
   }
 ]

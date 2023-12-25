@@ -1,12 +1,22 @@
 [
   {
     "exchange": "BSE INDIA",
+    "ticker": "500410-IN",
+    "companyName": "ACC",
+    "numberOfShares": 12470000,
+    "sharePrice": 29.048040802614302,
+    "currencyCode": "INR",
+    "exchangeRate": 81.8575,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
     "ticker": "512599-IN",
     "companyName": "Adani Enterprises",
     "numberOfShares": 808300000,
-    "sharePrice": 40.19220168591787,
+    "sharePrice": 42.41517270867055,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "542066-IN",
     "companyName": "Adani Gas",
     "numberOfShares": 411300000,
-    "sharePrice": 47.24119096581598,
+    "sharePrice": 41.616223314907,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "541450-IN",
     "companyName": "Adani Green Energy",
     "numberOfShares": 947800000,
-    "sharePrice": 30.66643845443264,
+    "sharePrice": 24.487676755337016,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "532921-IN",
     "companyName": "Adani Port & Special Economic Zone",
     "numberOfShares": 1303400000,
-    "sharePrice": 10.601171433533606,
+    "sharePrice": 9.971596982561158,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
     "interactive": false
   },
   {
@@ -44,9 +54,9 @@
     "ticker": "533096-IN",
     "companyName": "Adani Power",
     "numberOfShares": 2525350000,
-    "sharePrice": 5.189521031183691,
+    "sharePrice": 4.504779647558257,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
     "interactive": false
   },
   {
@@ -54,9 +64,19 @@
     "ticker": "539254-IN",
     "companyName": "Adani Transmission",
     "numberOfShares": 799600000,
-    "sharePrice": 49.984142605797764,
+    "sharePrice": 41.70173777601319,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
+    "ticker": "500425-IN",
+    "companyName": "Ambuja Cements Ltd.",
+    "numberOfShares": 1253800000,
+    "sharePrice": 6.188192896191552,
+    "currencyCode": "INR",
+    "exchangeRate": 81.8575,
     "interactive": false
   }
 ]

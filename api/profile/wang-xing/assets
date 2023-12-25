@@ -4,9 +4,19 @@
     "ticker": "300251-CN",
     "companyName": "BEIJING ENLIGHT MEDIA CO LTD",
     "numberOfShares": 167216000,
-    "sharePrice": 1.7410707270698784,
+    "sharePrice": 0.9973053309998056,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3639,
+    "exchangeRate": 7.1994,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "2015-HK",
+    "companyName": "Li Auto Inc",
+    "numberOfShares": 689000,
+    "sharePrice": 12.032000407648505,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8499,
     "interactive": false
   },
   {
@@ -14,7 +24,7 @@
     "ticker": "LI-US",
     "companyName": "Li Auto Sponsored ADR",
     "numberOfShares": 10770000,
-    "sharePrice": 31.36,
+    "sharePrice": 23.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,9 +34,9 @@
     "ticker": "3690-HK",
     "companyName": "Meituan Dianping",
     "numberOfShares": 573189000,
-    "sharePrice": 31.78224039163922,
+    "sharePrice": 21.681804863756224,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8031,
+    "exchangeRate": 7.8499,
     "interactive": false
   }
 ]

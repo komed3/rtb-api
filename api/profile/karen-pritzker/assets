@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
-    "numberOfShares": 16293464,
-    "sharePrice": 158.91,
+    "numberOfShares": 15244000,
+    "sharePrice": 142.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +23,8 @@
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
-    "numberOfShares": 5643000,
-    "sharePrice": 89.44,
+    "numberOfShares": 5008000,
+    "sharePrice": 81.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "LVS-US",
     "companyName": "Las Vegas Sands Corp.",
     "numberOfShares": 9000,
-    "sharePrice": 36.65,
+    "sharePrice": 38.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "MRK-US",
     "companyName": "Merck & Co",
     "numberOfShares": 281000,
-    "sharePrice": 86.88,
+    "sharePrice": 86.64,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -63,8 +63,8 @@
     "exchange": "NASDAQ",
     "ticker": "PEAR-US",
     "companyName": "Pear Therapeutics",
-    "numberOfShares": 5270400,
-    "sharePrice": 1.62,
+    "numberOfShares": 12837000,
+    "sharePrice": 1.78,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,14 +74,15 @@
     "ticker": "SIRI-US",
     "companyName": "Sirius XM Radio",
     "numberOfShares": 4999000,
-    "sharePrice": 6.11,
+    "sharePrice": 5.78,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "companyName": "Thimble Point Acquisition Warrant",
-    "numberOfShares": 5013333,
+    "numberOfShares": 5013000,
+    "exerciseOptionPrice": 11.5,
     "sharePrice": 0.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -92,7 +93,7 @@
     "ticker": "TRTN-US",
     "companyName": "Triton International",
     "numberOfShares": 2000000,
-    "sharePrice": 60.52,
+    "sharePrice": 55.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

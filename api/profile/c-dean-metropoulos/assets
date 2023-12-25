@@ -4,7 +4,7 @@
     "ticker": "TWNK-US",
     "companyName": "Hostess Brands, Inc",
     "numberOfShares": 0,
-    "sharePrice": 23.24,
+    "sharePrice": 23.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,29 @@
     "exchange": "NASDAQ",
     "ticker": "LAZR-US",
     "companyName": "Luminar Technologies",
-    "numberOfShares": 5062493,
-    "sharePrice": 8.41,
+    "numberOfShares": 1630000,
+    "sharePrice": 7.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LAZR-US",
+    "companyName": "Luminar Technologies",
+    "numberOfShares": 1630000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 7.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SOND-US",
+    "companyName": "Sonder Holdings",
+    "numberOfShares": 4632000,
+    "sharePrice": 1.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +45,7 @@
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
     "numberOfShares": 300000,
-    "sharePrice": 16.23,
+    "sharePrice": 15.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
