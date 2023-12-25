@@ -4,19 +4,29 @@
     "ticker": "631-HK",
     "companyName": "Sany Heavy Equipment International Holdings Co Ltd",
     "numberOfShares": 206258000,
-    "sharePrice": 1.073820337156493,
+    "sharePrice": 1.015843073275807,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7946,
+    "exchangeRate": 7.8457,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "600031-CN",
     "companyName": "Sany Heavy Industry ",
-    "numberOfShares": 226656000,
-    "sharePrice": 3.3369450856613434,
+    "numberOfShares": 220400000,
+    "sharePrice": 2.693622031416018,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3681,
+    "exchangeRate": 6.9646,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600031-CN",
+    "companyName": "Sany Heavy Industry ",
+    "numberOfShares": -8400000,
+    "sharePrice": 2.693622031416018,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.9646,
     "interactive": false
   }
 ]

@@ -3,18 +3,28 @@
     "exchange": "SIX SWISS",
     "ticker": "COTN-CH",
     "companyName": "Comet Holding AG",
-    "numberOfShares": 26128,
-    "sharePrice": 229.68580715059588,
+    "numberOfShares": 0,
+    "sharePrice": 224.6052069995732,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "IFF-US",
     "companyName": "International Flavors & Fragrances",
-    "numberOfShares": 8043333.000000001,
-    "sharePrice": 111.23,
+    "numberOfShares": 8452000,
+    "sharePrice": 94.53,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LIN-US",
+    "companyName": "Linde PLC",
+    "numberOfShares": 1694000,
+    "sharePrice": 344.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,20 +33,30 @@
     "exchange": "LONDON",
     "ticker": "OCDO-GB",
     "companyName": "Ocado Group PLC",
-    "numberOfShares": 23016000,
-    "sharePrice": 8.448681441129132,
+    "numberOfShares": 25452000,
+    "sharePrice": 7.514131088394468,
     "currencyCode": "GBP",
-    "exchangeRate": 0.8077,
+    "exchangeRate": 0.8315,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SXT-US",
+    "companyName": "Sensient Technologies",
+    "numberOfShares": 2102000,
+    "sharePrice": 75.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "SIGN-CH",
     "companyName": "SIG Combibloc Group",
-    "numberOfShares": 6400000,
-    "sharePrice": 24.767063921993497,
+    "numberOfShares": 10617000,
+    "sharePrice": 22.812633376013657,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   }
 ]

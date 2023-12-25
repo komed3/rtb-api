@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "ACIU-US",
     "companyName": "AC Immune SA",
-    "numberOfShares": 12000000,
-    "sharePrice": 2.39,
+    "numberOfShares": 11999999,
+    "sharePrice": 2.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,20 +13,20 @@
     "exchange": "SIX SWISS",
     "ticker": "GALE-CH",
     "companyName": "Galenica",
-    "numberOfShares": 1500000,
-    "sharePrice": 78.9815817984832,
+    "numberOfShares": 0,
+    "sharePrice": 81.03926589842082,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "IDIA-CH",
     "companyName": "Idorsia Ltd",
-    "numberOfShares": 8984000,
-    "sharePrice": 18.39653304442037,
+    "numberOfShares": 8981500,
+    "sharePrice": 13.337601365770379,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
@@ -34,9 +34,19 @@
     "ticker": "IMPN-CH",
     "companyName": "Implenia AG",
     "numberOfShares": 1000000,
-    "sharePrice": 41.982665222101836,
+    "sharePrice": 44.97439180537772,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "INA-CH",
+    "companyName": "Ina Invest Holding",
+    "numberOfShares": 480000,
+    "sharePrice": 20.486555697823302,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
@@ -44,9 +54,9 @@
     "ticker": "LAND-CH",
     "companyName": "Landis + Gyr AG",
     "numberOfShares": 3000000,
-    "sharePrice": 72.10184182015168,
+    "sharePrice": 76.34443021766965,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
@@ -54,9 +64,19 @@
     "ticker": "MIKN-CH",
     "companyName": "Mikron Holding AG",
     "numberOfShares": 2349000,
-    "sharePrice": 10.94257854821235,
+    "sharePrice": 12.590695689287239,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "PPGN-CH",
+    "companyName": "PolyPeptide Group",
+    "numberOfShares": 1100000,
+    "sharePrice": 27.358087921468204,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
@@ -64,19 +84,19 @@
     "ticker": "SPEX-CH",
     "companyName": "Polyphor",
     "numberOfShares": 947000,
-    "sharePrice": 0.4658721560130011,
+    "sharePrice": 0.458813486982501,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "STMN-CH",
     "companyName": "Straumann Holding",
-    "numberOfShares": 17780000,
-    "sharePrice": 131.04008667388948,
+    "numberOfShares": 16393182,
+    "sharePrice": 135.6700810926163,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
@@ -84,9 +104,9 @@
     "ticker": "VACN-CH",
     "companyName": "Vat Group AG",
     "numberOfShares": 3001000,
-    "sharePrice": 307.4756229685807,
+    "sharePrice": 302.1766965428937,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
+    "exchangeRate": 0.9372,
     "interactive": false
   }
 ]

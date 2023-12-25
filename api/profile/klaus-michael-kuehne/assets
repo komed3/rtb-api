@@ -1,32 +1,32 @@
 [
   {
     "exchange": "XETRA",
+    "ticker": "LHA-DE",
+    "companyName": "Deutsche Lufthansa",
+    "numberOfShares": 208200000,
+    "sharePrice": 10.363617088943071,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9433,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
     "ticker": "HLAG-DE",
     "companyName": "Hapag Lloyd",
     "numberOfShares": 52728000,
-    "sharePrice": 220.67616045222306,
+    "sharePrice": 288.3494116399873,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "KNIN-CH",
     "companyName": "Kuehne & Nagel International AG",
-    "numberOfShares": 63960000,
-    "sharePrice": 235.31960996749726,
+    "numberOfShares": 63955000,
+    "sharePrice": 257.57575757575756,
     "currencyCode": "CHF",
-    "exchangeRate": 0.923,
-    "interactive": false
-  },
-  {
-    "exchange": "HAMBURG",
-    "ticker": "VT9-DE",
-    "companyName": "VTG",
-    "numberOfShares": 0,
-    "sharePrice": 98.92379606478964,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9372,
     "interactive": false
   }
 ]

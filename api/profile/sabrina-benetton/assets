@@ -3,50 +3,60 @@
     "exchange": "MILAN",
     "ticker": "G-IT",
     "companyName": "Assicurazioni Generali ",
-    "numberOfShares": 8540800,
-    "sharePrice": 19.578215023372106,
+    "numberOfShares": 10240801,
+    "sharePrice": 19.442383123078553,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "ATL-IT",
     "companyName": "Atlantia S.p.A.",
-    "numberOfShares": 33174376.000000004,
-    "sharePrice": 24.991846939884766,
+    "numberOfShares": 0,
+    "sharePrice": 24.3718859323651,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "AGL-IT",
     "companyName": "Autogrill S.p.A.",
-    "numberOfShares": 26347342,
-    "sharePrice": 7.28122622024133,
+    "numberOfShares": 0,
+    "sharePrice": 7.070921233965864,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "CLNX-ES",
     "companyName": "Cellnex Telecom",
-    "numberOfShares": 7882949,
-    "sharePrice": 39.51516469181433,
+    "numberOfShares": 7883000,
+    "sharePrice": 37.96247217216156,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "DUFN-CH",
+    "companyName": "Dufry AG",
+    "numberOfShares": 4537413,
+    "sharePrice": 43.93939393939394,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9372,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
-    "numberOfShares": 2533004,
-    "sharePrice": 10.803348190020655,
+    "numberOfShares": 2533000,
+    "sharePrice": 10.63288455422453,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
     "interactive": false
   },
   {
@@ -54,9 +64,9 @@
     "ticker": "PRY-IT",
     "companyName": "Prysmian",
     "numberOfShares": 0,
-    "sharePrice": 40.36308294379824,
+    "sharePrice": 38.746952189123284,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9433,
     "interactive": false
   }
 ]
