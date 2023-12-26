@@ -1,10 +1,10 @@
 [
   {
-    "exchange": "NASDAQ",
+    "exchange": "US OTC",
     "ticker": "AXLA-US",
     "companyName": "Axcella",
     "numberOfShares": 77520,
-    "sharePrice": 8.61,
+    "sharePrice": 0.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,17 +24,17 @@
     "ticker": "DNLI-US",
     "companyName": "Denali Therapeutics",
     "numberOfShares": 41000,
-    "sharePrice": 19.33,
+    "sharePrice": 21.96,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
+    "exchange": "US OTC",
     "ticker": "EVLO-US",
     "companyName": "Evelo Biosciences",
     "numberOfShares": 137450,
-    "sharePrice": 1,
+    "sharePrice": 0.058,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "FHTX-US",
     "companyName": "Foghorn Therapeutics",
     "numberOfShares": 215000,
-    "sharePrice": 3.195,
+    "sharePrice": 6.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11110000,
-    "sharePrice": 86.01,
+    "sharePrice": 94.89,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "OMGA-US",
     "companyName": "Omega Therapeutics",
     "numberOfShares": 2023000.0000000002,
-    "sharePrice": 1.72,
+    "sharePrice": 2.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "RUBY-US",
     "companyName": "Rubius Therapeutics",
     "numberOfShares": 4359000,
-    "sharePrice": 0.017,
+    "sharePrice": 0.02,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,7 +94,7 @@
     "ticker": "SANA-US",
     "companyName": "Sana Biotechnology",
     "numberOfShares": 8802000,
-    "sharePrice": 3.1,
+    "sharePrice": 4.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -104,7 +104,7 @@
     "ticker": "MCRB-US",
     "companyName": "Seres Therapeutics Inc (MCRB)",
     "numberOfShares": 2802000,
-    "sharePrice": 1.35,
+    "sharePrice": 1.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -124,7 +124,7 @@
     "ticker": "SYRS-US",
     "companyName": "Syros Pharmaceuticals",
     "numberOfShares": 0,
-    "sharePrice": 2.13,
+    "sharePrice": 7.03,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

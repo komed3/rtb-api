@@ -1,2 +1,11 @@
-.vscode/
-node_modules/
+# ignore everything
+/*
+*
+
+# except for real-time billionaires api
+!api/
+!api/*
+
+# except for basic GitHub files
+!LICENSE
+!README.md

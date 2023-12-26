@@ -4,7 +4,18 @@
     "ticker": "AFRM-US",
     "companyName": "Affirm Holdings",
     "numberOfShares": 27220000,
-    "sharePrice": 35.75,
+    "sharePrice": 49.06,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AFRM-US",
+    "companyName": "Affirm Holdings",
+    "numberOfShares": 3750000,
+    "exerciseOptionPrice": 49,
+    "sharePrice": 49.06,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +25,7 @@
     "ticker": "YELP-US",
     "companyName": "Yelp Inc.",
     "numberOfShares": 10000,
-    "sharePrice": 37.06,
+    "sharePrice": 48.43,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
