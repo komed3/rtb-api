@@ -1,10 +1,18 @@
 [
   {
+    "companyName": "Advanced Merger Partners",
+    "numberOfShares": 300000,
+    "sharePrice": 10.03,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NYSE",
     "ticker": "BUD-US",
     "companyName": "ANHEUSER BUSCH INBEV SA SPON",
-    "numberOfShares": 35692837,
-    "sharePrice": 57.73,
+    "numberOfShares": 24833157,
+    "sharePrice": 63.98,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,40 +21,70 @@
     "exchange": "SAO PAULO",
     "ticker": "BPAC3-BR",
     "companyName": "Banco BTG Pactual",
-    "numberOfShares": 2308369,
-    "sharePrice": 8.16242306795141,
+    "numberOfShares": 1846000,
+    "sharePrice": 7.816837867851193,
     "currencyCode": "BRL",
-    "exchangeRate": 5.5731,
+    "exchangeRate": 5.7632,
     "interactive": false
   },
   {
     "exchange": "SAO PAULO",
     "ticker": "BPAC5-BR",
     "companyName": "Banco BTG Pactual Pref",
-    "numberOfShares": 4590196,
-    "sharePrice": 5.133588128689598,
+    "numberOfShares": 3670000,
+    "sharePrice": 4.405538589672404,
     "currencyCode": "BRL",
-    "exchangeRate": 5.5731,
+    "exchangeRate": 5.7632,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "COL-ES",
     "companyName": "Inmobiliaria Colonial S.A.",
-    "numberOfShares": 9626938,
-    "sharePrice": 9.807015414492051,
+    "numberOfShares": 6764000,
+    "sharePrice": 9.862788788554004,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8239,
+    "exchangeRate": 0.8527,
     "interactive": false
   },
   {
     "exchange": "SANTIAGO",
     "ticker": "ITAUCORP-CL",
     "companyName": "Itau CorpBanca",
-    "numberOfShares": 3940710990,
-    "sharePrice": 0.003526141847698328,
+    "numberOfShares": 3150598000,
+    "sharePrice": 0.0038500798103732934,
     "currencyCode": "CLP",
-    "exchangeRate": 723.17,
+    "exchangeRate": 729.855,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "JDEP-NL",
+    "companyName": "JDE Peet?s",
+    "numberOfShares": 4307330,
+    "sharePrice": 37.0001172745397,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8527,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "KDP-US",
+    "companyName": "Keurig Dr Pepper Group",
+    "numberOfShares": 13827000,
+    "sharePrice": 34.91,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "KHC-US",
+    "companyName": "Kraft Heinz Company",
+    "numberOfShares": 326000,
+    "sharePrice": 40.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -54,9 +92,9 @@
     "ticker": "VALOREM-CO",
     "companyName": "Valorem S.A.",
     "numberOfShares": 0,
-    "sharePrice": 0.2513757915986837,
+    "sharePrice": 0.24311313185343675,
     "currencyCode": "COP",
-    "exchangeRate": 3616.1,
+    "exchangeRate": 3739,
     "interactive": false
   }
 ]

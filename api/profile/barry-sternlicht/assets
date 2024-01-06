@@ -4,7 +4,23 @@
     "ticker": "JWS-US",
     "companyName": "Jaws Acquisition Corp.",
     "numberOfShares": 17175000,
-    "sharePrice": 14.32,
+    "sharePrice": 13.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "Jaws Mustang Acquisition",
+    "numberOfShares": 22425000,
+    "sharePrice": 10.2,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "Jaws Spitfire Acquisition",
+    "numberOfShares": 7450000,
+    "sharePrice": 10.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,74 +29,8 @@
     "exchange": "NYSE",
     "ticker": "STWD-US",
     "companyName": "Starwood Property Trust",
-    "numberOfShares": 10348300,
-    "sharePrice": 22.83,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 3972,
-    "exerciseOptionPrice": 84.35,
-    "sharePrice": 285.86,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 4697,
-    "exerciseOptionPrice": 78.36,
-    "sharePrice": 285.86,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 2906,
-    "exerciseOptionPrice": 126.02,
-    "sharePrice": 285.86,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 4576,
-    "exerciseOptionPrice": 57.53,
-    "sharePrice": 285.86,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 10000,
-    "exerciseOptionPrice": 35.51,
-    "sharePrice": 285.86,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 2329,
-    "exerciseOptionPrice": 143.39,
-    "sharePrice": 285.86,
+    "numberOfShares": 10676000,
+    "sharePrice": 24.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -90,7 +40,7 @@
     "ticker": "EL-US",
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 66892,
-    "sharePrice": 285.86,
+    "sharePrice": 295.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -101,7 +51,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 4736,
     "exerciseOptionPrice": 57.49,
-    "sharePrice": 285.86,
+    "sharePrice": 295.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -112,7 +62,7 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 3813,
     "exerciseOptionPrice": 70.68,
-    "sharePrice": 285.86,
+    "sharePrice": 295.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -123,7 +73,62 @@
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 4374,
     "exerciseOptionPrice": 71.33,
-    "sharePrice": 285.86,
+    "sharePrice": 295.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EL-US",
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 3972,
+    "exerciseOptionPrice": 84.35,
+    "sharePrice": 295.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EL-US",
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 4697,
+    "exerciseOptionPrice": 78.36,
+    "sharePrice": 295.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EL-US",
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 2906,
+    "exerciseOptionPrice": 126.02,
+    "sharePrice": 295.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EL-US",
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 4576,
+    "exerciseOptionPrice": 57.53,
+    "sharePrice": 295.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EL-US",
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 2329,
+    "exerciseOptionPrice": 143.39,
+    "sharePrice": 295.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

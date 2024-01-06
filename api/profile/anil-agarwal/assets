@@ -4,9 +4,9 @@
     "ticker": "AAL-GB",
     "companyName": "Anglo American",
     "numberOfShares": 0,
-    "sharePrice": 38.75996085558507,
+    "sharePrice": 39.34594816947759,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7153,
+    "exchangeRate": 0.7293,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "532374-IN",
     "companyName": "Sterlite Technologies Ltd.",
     "numberOfShares": 210800000,
-    "sharePrice": 2.8305096278152004,
+    "sharePrice": 2.702231282653665,
     "currencyCode": "INR",
-    "exchangeRate": 73.485,
+    "exchangeRate": 73.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
+    "ticker": "500295-IN",
+    "companyName": "Vedanta Limited",
+    "numberOfShares": 1024300000,
+    "sharePrice": 3.1348880815656868,
+    "currencyCode": "INR",
+    "exchangeRate": 73.3838,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "VED-GB",
     "companyName": "Vedanta Resources PLC",
     "numberOfShares": 0,
-    "sharePrice": 11.639871382636656,
+    "sharePrice": 11.416426710544359,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7153,
+    "exchangeRate": 0.7293,
     "interactive": false
   }
 ]

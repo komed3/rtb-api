@@ -1,21 +1,60 @@
 [
   {
     "exchange": "NASDAQ",
-    "ticker": "GMHI-US",
-    "companyName": "Gores Metropoulos",
-    "numberOfShares": 3333333,
-    "exerciseOptionPrice": 11.5,
-    "sharePrice": 0,
+    "ticker": "GRSV-US",
+    "companyName": "Gores Holdings V",
+    "numberOfShares": 13050000,
+    "sharePrice": 9.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "GMHI-US",
-    "companyName": "Gores Metropoulos",
-    "numberOfShares": 4962500,
-    "sharePrice": 0,
+    "ticker": "GHVI-US",
+    "companyName": "Gores Holdings VI",
+    "numberOfShares": 7425000,
+    "sharePrice": 13.02,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GSEVU-US",
+    "companyName": "Gores Holdings VII",
+    "numberOfShares": 9925000,
+    "sharePrice": 10.23,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GIIXU-US",
+    "companyName": "Gores Holdings VIII",
+    "numberOfShares": 7425000,
+    "sharePrice": 10.15,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GMIIU-US",
+    "companyName": "Gores Metropoulos II",
+    "numberOfShares": 5706875,
+    "sharePrice": 10.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TWNK-US",
+    "companyName": "Hostess Brands, Inc",
+    "numberOfShares": 2000000,
+    "sharePrice": 14.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -26,17 +65,7 @@
     "companyName": "Hostess Brands, Inc",
     "numberOfShares": 3401000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 14.39,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "TWNK-US",
-    "companyName": "Hostess Brands, Inc",
-    "numberOfShares": 2000000,
-    "sharePrice": 14.39,
+    "sharePrice": 14.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -46,7 +75,7 @@
     "ticker": "LAZR-US",
     "companyName": "Luminar Technologies",
     "numberOfShares": 16890000,
-    "sharePrice": 27.13,
+    "sharePrice": 23.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +85,7 @@
     "ticker": "PAE-US",
     "companyName": "PAE, Inc",
     "numberOfShares": 9115000,
-    "sharePrice": 8.17,
+    "sharePrice": 9.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -67,17 +96,38 @@
     "companyName": "PAE, Inc",
     "numberOfShares": 5021000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 8.17,
+    "sharePrice": 9.05,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UWMC-US",
+    "companyName": "United Wholesale Mortgage",
+    "numberOfShares": 12541123,
+    "sharePrice": 7.86,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UWMC-US",
+    "companyName": "United Wholesale Mortgage",
+    "numberOfShares": 5250000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 7.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "UWMC-US",
-    "companyName": "UWM Holdings Corporation Class A",
-    "numberOfShares": 10550000,
-    "sharePrice": 0,
+    "ticker": "VRRM-US",
+    "companyName": "Verra Mobility",
+    "numberOfShares": 3796000,
+    "sharePrice": 13.87,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -88,17 +138,7 @@
     "companyName": "Verra Mobility",
     "numberOfShares": 2970000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 14.25,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "VRRM-US",
-    "companyName": "Verra Mobility",
-    "numberOfShares": 3796000,
-    "sharePrice": 14.25,
+    "sharePrice": 13.87,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

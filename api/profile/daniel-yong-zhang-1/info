@@ -1,7 +1,7 @@
 {
   "uri": "daniel-yong-zhang-1",
   "name": "Daniel Yong Zhang",
-  "birthDate": null,
+  "birthDate": "1972-01-01",
   "family": false,
   "gender": "m",
   "citizenship": "cn",
@@ -9,7 +9,9 @@
     "city": "Hangzhou",
     "state": "Zhejiang"
   },
-  "industry": [],
+  "industry": [
+    "technology"
+  ],
   "source": [
     "e-commerce"
   ],

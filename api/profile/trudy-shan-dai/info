@@ -1,7 +1,7 @@
 {
   "uri": "trudy-shan-dai",
   "name": "Trudy Shan Dai",
-  "birthDate": null,
+  "birthDate": "1976-01-01",
   "family": false,
   "gender": "f",
   "citizenship": "cn",
@@ -9,7 +9,9 @@
     "city": "Hangzhou",
     "state": "Zhejiang"
   },
-  "industry": [],
+  "industry": [
+    "technology"
+  ],
   "source": [
     "e-commerce"
   ],

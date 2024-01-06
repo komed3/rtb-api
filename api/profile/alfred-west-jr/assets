@@ -3,30 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "SEIC-US",
     "companyName": "SEI Investments",
-    "numberOfShares": 30000,
-    "exerciseOptionPrice": 53.34,
-    "sharePrice": 56,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEIC-US",
-    "companyName": "SEI Investments",
-    "numberOfShares": 35000,
-    "exerciseOptionPrice": 49.63,
-    "sharePrice": 56,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEIC-US",
-    "companyName": "SEI Investments",
     "numberOfShares": 17821000,
-    "sharePrice": 56,
+    "sharePrice": 61.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -37,7 +15,7 @@
     "companyName": "SEI Investments",
     "numberOfShares": 50000,
     "exerciseOptionPrice": 15.77,
-    "sharePrice": 56,
+    "sharePrice": 61.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -48,7 +26,7 @@
     "companyName": "SEI Investments",
     "numberOfShares": 50000,
     "exerciseOptionPrice": 22.45,
-    "sharePrice": 56,
+    "sharePrice": 61.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -59,7 +37,7 @@
     "companyName": "SEI Investments",
     "numberOfShares": 450000,
     "exerciseOptionPrice": 33.76,
-    "sharePrice": 56,
+    "sharePrice": 61.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -70,7 +48,29 @@
     "companyName": "SEI Investments",
     "numberOfShares": 17500,
     "exerciseOptionPrice": 40.64,
-    "sharePrice": 56,
+    "sharePrice": 61.34,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEIC-US",
+    "companyName": "SEI Investments",
+    "numberOfShares": 30000,
+    "exerciseOptionPrice": 53.34,
+    "sharePrice": 61.34,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEIC-US",
+    "companyName": "SEI Investments",
+    "numberOfShares": 35000,
+    "exerciseOptionPrice": 49.63,
+    "sharePrice": 61.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
