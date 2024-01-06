@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "LCA-US",
+    "companyName": "Landcadia Holdings II",
+    "numberOfShares": 4091000,
+    "sharePrice": 12.23,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "WTRH-US",
     "companyName": "Waitr Holdings",
-    "numberOfShares": 5010000,
-    "sharePrice": 2.71,
+    "numberOfShares": 5030000,
+    "sharePrice": 5.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
