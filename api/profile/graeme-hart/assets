@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "PTVE-US",
+    "companyName": "Pactiv Evergreen",
+    "numberOfShares": 134408000,
+    "sharePrice": 13.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "REYN-US",
     "companyName": "Reynolds Consumer Products",
     "numberOfShares": 155450000,
-    "sharePrice": 30,
+    "sharePrice": 27.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

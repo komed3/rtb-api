@@ -3,16 +3,6 @@
     "exchange": "NASDAQ",
     "ticker": "GMHI-US",
     "companyName": "Gores Metropoulos",
-    "numberOfShares": 4962500,
-    "sharePrice": 0,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "GMHI-US",
-    "companyName": "Gores Metropoulos",
     "numberOfShares": 3333333,
     "exerciseOptionPrice": 11.5,
     "sharePrice": 0,
@@ -22,10 +12,10 @@
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "TWNK-US",
-    "companyName": "Hostess Brands, Inc",
-    "numberOfShares": 2000000,
-    "sharePrice": 15.35,
+    "ticker": "GMHI-US",
+    "companyName": "Gores Metropoulos",
+    "numberOfShares": 4962500,
+    "sharePrice": 0,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -36,7 +26,17 @@
     "companyName": "Hostess Brands, Inc",
     "numberOfShares": 3401000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 15.35,
+    "sharePrice": 14.39,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TWNK-US",
+    "companyName": "Hostess Brands, Inc",
+    "numberOfShares": 2000000,
+    "sharePrice": 14.39,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -46,7 +46,7 @@
     "ticker": "LAZR-US",
     "companyName": "Luminar Technologies",
     "numberOfShares": 16890000,
-    "sharePrice": 32.7,
+    "sharePrice": 27.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +56,7 @@
     "ticker": "PAE-US",
     "companyName": "PAE, Inc",
     "numberOfShares": 9115000,
-    "sharePrice": 8.3,
+    "sharePrice": 8.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -67,7 +67,7 @@
     "companyName": "PAE, Inc",
     "numberOfShares": 5021000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 8.3,
+    "sharePrice": 8.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -86,8 +86,9 @@
     "exchange": "NASDAQ",
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
-    "numberOfShares": 3796000,
-    "sharePrice": 12.8,
+    "numberOfShares": 2970000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 14.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -96,9 +97,8 @@
     "exchange": "NASDAQ",
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
-    "numberOfShares": 2970000,
-    "exerciseOptionPrice": 11.5,
-    "sharePrice": 12.8,
+    "numberOfShares": 3796000,
+    "sharePrice": 14.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

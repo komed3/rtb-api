@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SHENZHEN",
+    "ticker": "300667-CN",
+    "companyName": "Beijing Beetech",
+    "numberOfShares": 2000000,
+    "sharePrice": 3.637770897832817,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.46,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
     "ticker": "002264-CN",
     "companyName": "Fujian New Huadu Supercenter",
     "numberOfShares": 281147000,
-    "sharePrice": 0.6423353145121348,
+    "sharePrice": 0.6486068111455109,
     "currencyCode": "CNY",
-    "exchangeRate": 6.4608,
+    "exchangeRate": 6.46,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "002264-CN",
     "companyName": "Fujian New Huadu Supercenter",
     "numberOfShares": 0,
-    "sharePrice": 0.6423353145121348,
+    "sharePrice": 0.6486068111455109,
     "currencyCode": "CNY",
-    "exchangeRate": 6.4608,
+    "exchangeRate": 6.46,
     "interactive": false
   },
   {
@@ -24,9 +34,19 @@
     "ticker": "601012-CN",
     "companyName": "LONGi Green Energy Technology",
     "numberOfShares": 144264000,
-    "sharePrice": 16.64654531946508,
+    "sharePrice": 16.170278637770895,
     "currencyCode": "CNY",
-    "exchangeRate": 6.4608,
+    "exchangeRate": 6.46,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "688199-CN",
+    "companyName": "Tianjin Jiuri New Materials",
+    "numberOfShares": 1989000,
+    "sharePrice": 6.521671826625387,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.46,
     "interactive": false
   },
   {
@@ -34,19 +54,9 @@
     "ticker": "168-HK",
     "companyName": "Tsingtao Brewery Co Ltd",
     "numberOfShares": 25495000,
-    "sharePrice": 9.653331269828985,
+    "sharePrice": 8.205174480811623,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000538-CN",
-    "companyName": "Yunnan Baiyao Group Co Ltd",
-    "numberOfShares": 300553000,
-    "sharePrice": 20.58104259534423,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.4608,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -54,9 +64,19 @@
     "ticker": "000538-CN",
     "companyName": "Yunnan Baiyao Group Co Ltd",
     "numberOfShares": -145802000,
-    "sharePrice": 20.58104259534423,
+    "sharePrice": 20.24922600619195,
     "currencyCode": "CNY",
-    "exchangeRate": 6.4608,
+    "exchangeRate": 6.46,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000538-CN",
+    "companyName": "Yunnan Baiyao Group Co Ltd",
+    "numberOfShares": 300553000,
+    "sharePrice": 20.24922600619195,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.46,
     "interactive": false
   },
   {
@@ -64,9 +84,9 @@
     "ticker": "601899-CN",
     "companyName": "Zijin Mining Group Co Ltd",
     "numberOfShares": 232484000,
-    "sharePrice": 1.485884101040119,
+    "sharePrice": 1.8869969040247678,
     "currencyCode": "CNY",
-    "exchangeRate": 6.4608,
+    "exchangeRate": 6.46,
     "interactive": false
   }
 ]

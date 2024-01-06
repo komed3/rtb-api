@@ -1,12 +1,22 @@
 [
   {
     "exchange": "ASX",
+    "ticker": "AT1-AU",
+    "companyName": "Atomo Diagnostics",
+    "numberOfShares": 37660718,
+    "sharePrice": 0.1819307888828675,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.2917,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
     "ticker": "BTC-AU",
     "companyName": "Biotech Capital",
     "numberOfShares": 0,
-    "sharePrice": 0.06905017646156207,
+    "sharePrice": 0.05728884415886041,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "CG1-AU",
     "companyName": "Carbonxt",
     "numberOfShares": 12713000,
-    "sharePrice": 0.19180604572656132,
+    "sharePrice": 0.1316095068514361,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   },
   {
@@ -26,7 +36,7 @@
     "numberOfShares": 27341007,
     "sharePrice": 0,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   },
   {
@@ -34,19 +44,19 @@
     "ticker": "NEU-AU",
     "companyName": "Neuren Pharmaceuticals Limited",
     "numberOfShares": 18267119,
-    "sharePrice": 0.9935553168635876,
+    "sharePrice": 1.060617790508632,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "NXS-AU",
     "companyName": "Next Science",
-    "numberOfShares": 75570000,
-    "sharePrice": 0.9436857449746817,
+    "numberOfShares": 76072938,
+    "sharePrice": 0.9677169621429124,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   },
   {
@@ -54,9 +64,9 @@
     "ticker": "NCR-AU",
     "companyName": "Nucoal Resources",
     "numberOfShares": 5000000,
-    "sharePrice": 0.008439466011968698,
+    "sharePrice": 0.0069675621274289685,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   },
   {
@@ -64,9 +74,9 @@
     "ticker": "QRX-AU",
     "companyName": "Qrxpharma Limited",
     "numberOfShares": 0,
-    "sharePrice": 0.02148227712137487,
+    "sharePrice": 0.021676859952001238,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3034,
+    "exchangeRate": 1.2917,
     "interactive": false
   }
 ]

@@ -4,9 +4,9 @@
     "ticker": "COTN-CH",
     "companyName": "Comet Holding AG",
     "numberOfShares": 26128,
-    "sharePrice": 229.31654676258995,
+    "sharePrice": 235.2811222799072,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8896,
+    "exchangeRate": 0.9053,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "IFF-US",
     "companyName": "International Flavors & Fragrances I",
     "numberOfShares": 8043333.000000001,
-    "sharePrice": 112.38,
+    "sharePrice": 135.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "OCDO-GB",
+    "companyName": "Ocado Group PLC",
+    "numberOfShares": 23016000,
+    "sharePrice": 30.75632601705578,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7153,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "SIGN-CH",
     "companyName": "SIG Combibloc Group",
     "numberOfShares": 6400000,
-    "sharePrice": 23.85341726618705,
+    "sharePrice": 22.246769026841932,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8896,
+    "exchangeRate": 0.9053,
     "interactive": false
   }
 ]

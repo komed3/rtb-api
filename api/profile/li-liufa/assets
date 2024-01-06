@@ -1,12 +1,22 @@
 [
   {
     "exchange": "HONG KONG",
+    "ticker": "691-HK",
+    "companyName": "China Shanshui Cement Group Ltd.",
+    "numberOfShares": 666023000,
+    "sharePrice": 0.2707127479922138,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7573,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
     "ticker": "1252-HK",
     "companyName": "China Tianrui Group Cement Co Ltd",
     "numberOfShares": 1431140000,
-    "sharePrice": 0.8924656297557326,
+    "sharePrice": 0.7928016191200548,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "1252-HK",
     "companyName": "China Tianrui Group Cement Co Ltd",
     "numberOfShares": -21000000,
-    "sharePrice": 0.8924656297557326,
+    "sharePrice": 0.7928016191200548,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
+    "exchangeRate": 7.7573,
     "interactive": false
   }
 ]

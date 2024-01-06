@@ -1,40 +1,80 @@
 [
   {
     "companyName": "China Bills Finance",
-    "numberOfShares": 184250000,
-    "sharePrice": 0.4767431479332202,
+    "numberOfShares": 271657000,
+    "sharePrice": 0.4793106543398259,
     "currencyCode": "TWD",
-    "exchangeRate": 28.0025,
+    "exchangeRate": 27.8525,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "2530-TW",
+    "companyName": "Delpha Construction Co Ltd",
+    "numberOfShares": 88000000,
+    "sharePrice": 0.5044430482003411,
+    "currencyCode": "TWD",
+    "exchangeRate": 27.8525,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "2903-TW",
+    "companyName": "Far Eastern Department Stores Ltd.",
+    "numberOfShares": 181318000,
+    "sharePrice": 0.8185979714567813,
+    "currencyCode": "TWD",
+    "exchangeRate": 27.8525,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "2539-TW",
     "companyName": "Sakura Development",
-    "numberOfShares": 358776000,
-    "sharePrice": 1.0695473618426925,
+    "numberOfShares": 355864000,
+    "sharePrice": 1.1219818687730008,
     "currencyCode": "TWD",
-    "exchangeRate": 28.0025,
+    "exchangeRate": 27.8525,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "2890-TW",
     "companyName": "SinoPac Financial Holdings",
-    "numberOfShares": 696946000,
-    "sharePrice": 0.39103651459691097,
+    "numberOfShares": 434319900,
+    "sharePrice": 0.4182748406785747,
     "currencyCode": "TWD",
-    "exchangeRate": 28.0025,
+    "exchangeRate": 27.8525,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
-    "ticker": "2887-TW",
-    "companyName": "Taishin Financial",
-    "numberOfShares": 196416000,
-    "sharePrice": 0.44638871529327734,
+    "ticker": "1504-TW",
+    "companyName": "Teco Electric & Machinery Co Ltd",
+    "numberOfShares": 373237000,
+    "sharePrice": 1.0896687909523384,
     "currencyCode": "TWD",
-    "exchangeRate": 28.0025,
+    "exchangeRate": 27.8525,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "1589-TW",
+    "companyName": "Yeong Guan Energy Tech Group",
+    "numberOfShares": 18252054,
+    "sharePrice": 2.9584417915806482,
+    "currencyCode": "TWD",
+    "exchangeRate": 27.8525,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "1507-TW",
+    "companyName": "Yungtay Engineering",
+    "numberOfShares": 48496428,
+    "sharePrice": 2.111121084283278,
+    "currencyCode": "TWD",
+    "exchangeRate": 27.8525,
     "interactive": false
   }
 ]

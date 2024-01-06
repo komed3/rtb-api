@@ -3,20 +3,20 @@
     "exchange": "EURONEXT BRUSSELS",
     "ticker": "ABI-BE",
     "companyName": "Anheuser-Busch InBev",
-    "numberOfShares": 17143000,
-    "sharePrice": 63.15150042522171,
+    "numberOfShares": 16143999.999999998,
+    "sharePrice": 57.60407816482583,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8231,
+    "exchangeRate": 0.8239,
     "interactive": false
   },
   {
     "exchange": "SAO PAULO",
     "ticker": "BPAC3-BR",
     "companyName": "Banco BTG Pactual",
-    "numberOfShares": 3448000,
-    "sharePrice": 8.689122112936609,
+    "numberOfShares": 1154185,
+    "sharePrice": 8.16242306795141,
     "currencyCode": "BRL",
-    "exchangeRate": 5.4597,
+    "exchangeRate": 5.5731,
     "interactive": false
   },
   {
@@ -26,37 +26,47 @@
     "numberOfShares": 3449000,
     "sharePrice": 0,
     "currencyCode": "BRL",
-    "exchangeRate": 5.4597,
+    "exchangeRate": 5.5731,
+    "interactive": false
+  },
+  {
+    "exchange": "SAO PAULO",
+    "ticker": "BPAC5-BR",
+    "companyName": "Banco BTG Pactual Pref",
+    "numberOfShares": 2295097,
+    "sharePrice": 5.133588128689598,
+    "currencyCode": "BRL",
+    "exchangeRate": 5.5731,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "COL-ES",
     "companyName": "Inmobiliaria Colonial S.A.",
-    "numberOfShares": 4800000,
-    "sharePrice": 9.658607702587778,
+    "numberOfShares": 4813469,
+    "sharePrice": 9.807015414492051,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8231,
+    "exchangeRate": 0.8239,
     "interactive": false
   },
   {
     "exchange": "SANTIAGO",
     "ticker": "ITAUCORP-CL",
     "companyName": "Itau CorpBanca",
-    "numberOfShares": 1636182000,
-    "sharePrice": 0.0034153602447151363,
+    "numberOfShares": 1970355494,
+    "sharePrice": 0.003526141847698328,
     "currencyCode": "CLP",
-    "exchangeRate": 732.28,
+    "exchangeRate": 723.17,
     "interactive": false
   },
   {
     "exchange": "COLOMBIA",
     "ticker": "VALOREM-CO",
     "companyName": "Valorem S.A.",
-    "numberOfShares": 315945000,
-    "sharePrice": 0.25530982647919603,
+    "numberOfShares": 0,
+    "sharePrice": 0.2513757915986837,
     "currencyCode": "COP",
-    "exchangeRate": 3560.38,
+    "exchangeRate": 3616.1,
     "interactive": false
   }
 ]

@@ -4,39 +4,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 665700,
-    "sharePrice": 1827.36,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ANET-US",
-    "companyName": "Arista Networks",
-    "numberOfShares": 12575000,
-    "sharePrice": 307.56,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ANET-US",
-    "companyName": "Arista Networks",
-    "numberOfShares": 13000,
-    "exerciseOptionPrice": 22.49,
-    "sharePrice": 307.56,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ANET-US",
-    "companyName": "Arista Networks",
-    "numberOfShares": 308000,
-    "exerciseOptionPrice": 38,
-    "sharePrice": 307.56,
+    "sharePrice": 2021.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -47,7 +15,7 @@
     "companyName": "Arista Networks",
     "numberOfShares": 4000,
     "exerciseOptionPrice": 68.34,
-    "sharePrice": 307.56,
+    "sharePrice": 279.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -58,7 +26,7 @@
     "companyName": "Arista Networks",
     "numberOfShares": 7000,
     "exerciseOptionPrice": 56.24,
-    "sharePrice": 307.56,
+    "sharePrice": 279.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -69,7 +37,39 @@
     "companyName": "Arista Networks",
     "numberOfShares": 5000,
     "exerciseOptionPrice": 95.51,
-    "sharePrice": 307.56,
+    "sharePrice": 279.84,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ANET-US",
+    "companyName": "Arista Networks",
+    "numberOfShares": 12575000,
+    "sharePrice": 279.84,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ANET-US",
+    "companyName": "Arista Networks",
+    "numberOfShares": 13000,
+    "exerciseOptionPrice": 22.49,
+    "sharePrice": 279.84,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ANET-US",
+    "companyName": "Arista Networks",
+    "numberOfShares": 308000,
+    "exerciseOptionPrice": 38,
+    "sharePrice": 279.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -79,7 +79,7 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 667527,
-    "sharePrice": 1835.74,
+    "sharePrice": 2036.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

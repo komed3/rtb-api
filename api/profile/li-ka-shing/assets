@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "CELH-US",
+    "companyName": "Celsius Holdings",
+    "numberOfShares": 8899348,
+    "sharePrice": 59.53,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "HONG KONG",
     "ticker": "1113-HK",
     "companyName": "CK Asset Holdings",
     "numberOfShares": 1214508000,
-    "sharePrice": 5.023343392917021,
+    "sharePrice": 5.871888414783494,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "1-HK",
     "companyName": "CK Hutchison",
     "numberOfShares": 1161555000,
-    "sharePrice": 6.9256364621217985,
+    "sharePrice": 7.554174777306537,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "1038-HK",
     "companyName": "CK Infrastructure Holdings",
     "numberOfShares": 5428000,
-    "sharePrice": 5.332869044855426,
+    "sharePrice": 5.794541915357148,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "HSE-CA",
     "companyName": "Husky Energy Inc.",
     "numberOfShares": 294703000,
-    "sharePrice": 5.291999373727884,
+    "sharePrice": 5.339652448657188,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2774,
+    "exchangeRate": 1.266,
     "interactive": false
   },
   {
@@ -44,17 +54,17 @@
     "ticker": "215-HK",
     "companyName": "Hutchison Telecommunications Hong Kong Holdings Ltd.",
     "numberOfShares": 53359000,
-    "sharePrice": 0.15863189661843224,
+    "sharePrice": 0.17274051538550786,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7538,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
-    "numberOfShares": 24070000,
-    "sharePrice": 372.07,
+    "numberOfShares": 19348584,
+    "sharePrice": 373.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

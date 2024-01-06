@@ -3,20 +3,41 @@
     "exchange": "THAILAND",
     "ticker": "BA-TH",
     "companyName": "Bangkok Airlines",
-    "numberOfShares": 1267000000,
-    "sharePrice": 0.2238556632141664,
+    "numberOfShares": 1283500000,
+    "sharePrice": 0.2538576406172225,
     "currencyCode": "THB",
-    "exchangeRate": 29.93,
+    "exchangeRate": 30.135,
     "interactive": false
   },
   {
     "exchange": "THAILAND",
     "ticker": "BDMS-TH",
     "companyName": "Bangkok Dusit Medical Services PCL",
-    "numberOfShares": 3209000000,
-    "sharePrice": 0.691613765452723,
+    "numberOfShares": 3145377000,
+    "sharePrice": 0.663680106188817,
     "currencyCode": "THB",
-    "exchangeRate": 29.93,
+    "exchangeRate": 30.135,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "SWC-TH",
+    "companyName": "Sherwood Corp",
+    "numberOfShares": 177000000,
+    "sharePrice": 0.18085282893645263,
+    "currencyCode": "THB",
+    "exchangeRate": 30.135,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "SWC-TH",
+    "companyName": "Sherwood Corp",
+    "numberOfShares": 88500000,
+    "exerciseOptionPrice": 0.03318400530944085,
+    "sharePrice": 0.18085282893645263,
+    "currencyCode": "THB",
+    "exchangeRate": 30.135,
     "interactive": false
   }
 ]

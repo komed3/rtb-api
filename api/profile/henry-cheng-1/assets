@@ -3,10 +3,10 @@
     "exchange": "HONG KONG",
     "ticker": "331-HK",
     "companyName": "FSE Engineering Holdings",
-    "numberOfShares": 46997000,
-    "sharePrice": 0.456656346749226,
+    "numberOfShares": 60750000,
+    "sharePrice": 0.5104868962138889,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -14,10 +14,10 @@
     "ticker": "480-HK",
     "companyName": "HKR International",
     "numberOfShares": 1210000,
-    "exerciseOptionPrice": 0.5456656346749227,
-    "sharePrice": 0.40247678018575855,
+    "exerciseOptionPrice": 0.5452928209557449,
+    "sharePrice": 0.4382968300826318,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -25,19 +25,9 @@
     "ticker": "276-HK",
     "companyName": "Mongolia Energy Corp. Ltd.",
     "numberOfShares": 9866700,
-    "sharePrice": 0.14447884416924667,
+    "sharePrice": 0.15469299885269358,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "17-HK",
-    "companyName": "New World Development Co. Ltd.",
-    "numberOfShares": 3168750,
-    "sharePrice": 4.760061919504644,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -45,20 +35,31 @@
     "ticker": "17-HK",
     "companyName": "New World Development Co. Ltd.",
     "numberOfShares": 500000,
-    "exerciseOptionPrice": 1.2946336429308565,
-    "sharePrice": 4.760061919504644,
+    "exerciseOptionPrice": 1.2937491137380275,
+    "sharePrice": 5.085532337282302,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
-    "ticker": "659-HK",
-    "companyName": "NWS Holdings Ltd.",
-    "numberOfShares": 30349571,
-    "sharePrice": 1.001031991744066,
+    "ticker": "17-HK",
+    "companyName": "New World Development Co. Ltd.",
+    "numberOfShares": 10675637,
+    "exerciseOptionPrice": 0.9719876761244247,
+    "sharePrice": 5.085532337282302,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "17-HK",
+    "companyName": "New World Development Co. Ltd.",
+    "numberOfShares": 3169000,
+    "sharePrice": 5.085532337282302,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -66,20 +67,20 @@
     "ticker": "659-HK",
     "companyName": "NWS Holdings Ltd.",
     "numberOfShares": 7420739,
-    "exerciseOptionPrice": 1.8214654282765737,
-    "sharePrice": 1.001031991744066,
+    "exerciseOptionPrice": 1.8202209531666946,
+    "sharePrice": 1.1305479999484356,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
-    "ticker": "880-HK",
-    "companyName": "SJM Holdings Limited",
-    "numberOfShares": 306205900,
-    "sharePrice": 1.115841073271414,
+    "ticker": "659-HK",
+    "companyName": "NWS Holdings Ltd.",
+    "numberOfShares": 30349571,
+    "sharePrice": 1.1305479999484356,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
     "interactive": false
   },
   {
@@ -87,10 +88,20 @@
     "ticker": "880-HK",
     "companyName": "SJM Holdings Limited",
     "numberOfShares": 6000000,
-    "exerciseOptionPrice": 1.2675438596491229,
-    "sharePrice": 1.115841073271414,
+    "exerciseOptionPrice": 1.266677838938806,
+    "sharePrice": 1.3922369896742424,
     "currencyCode": "HKD",
-    "exchangeRate": 7.752,
+    "exchangeRate": 7.7573,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "880-HK",
+    "companyName": "SJM Holdings Limited",
+    "numberOfShares": 306205900,
+    "sharePrice": 1.3922369896742424,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7573,
     "interactive": false
   }
 ]
