@@ -6,11 +6,35 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Toronto",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

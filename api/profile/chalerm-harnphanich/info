@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5cd1db7afd0cc4000870d180/416x416.jpg?background=000000&cropX1=234&cropX2=3245&cropY1=315&cropY2=3328",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Chiang Mai University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Chiang Mai University",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

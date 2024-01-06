@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Lower Merion",
-    "state": "Pennsylvania"
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Lower Merion"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "healthcare services"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "College of William & Mary",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "The Wharton School of the University of Pennsylvania",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

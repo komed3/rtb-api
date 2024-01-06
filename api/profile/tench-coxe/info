@@ -6,11 +6,27 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "California",
+    "city": "Palo Alto",
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.1511208,
+      "latitude": 37.437621
+    }
   },
   "industry": [],
   "source": [
     "venture capital"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

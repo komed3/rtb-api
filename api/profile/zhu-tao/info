@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Tianjin",
-    "state": "Tianjin"
+    "country": "cn",
+    "state": null,
+    "city": "Tianjin"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceutical"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Doctorate in Pedagogical Sciences"
+    },
+    {
+      "school": "The University of Pittsburgh",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Las Vegas",
-    "state": "Nevada"
+    "zipCode": "89109",
+    "_geo": {
+      "longitude": -115.1711298,
+      "latitude": 36.128561
+    }
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Hebrew University Jerusalem",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

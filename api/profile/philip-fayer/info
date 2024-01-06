@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "online payments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

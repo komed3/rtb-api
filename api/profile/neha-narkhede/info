@@ -6,13 +6,36 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Palo Alto",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Palo Alto"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgia Tech",
+      "degree": "Masters of Science in Technology"
+    },
+    {
+      "school": "University of Pune",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Confluent",
+    "title": "Cofounder and board member"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

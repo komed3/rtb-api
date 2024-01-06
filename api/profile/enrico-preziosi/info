@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Cogliate",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Cogliate"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "toys"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

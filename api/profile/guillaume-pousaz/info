@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "fintech"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

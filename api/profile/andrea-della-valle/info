@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Casette D'ete",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Casette D'ete"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6408de878eda3774e08619bd/416x416.jpg?background=000000&cropX1=273&cropX2=1878&cropY1=20&cropY2=1624",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

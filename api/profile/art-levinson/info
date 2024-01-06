@@ -6,12 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "California",
+    "city": "Hillsborough"
   },
   "industry": [],
   "source": [
     "Genentech",
     "Apple"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Washington",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

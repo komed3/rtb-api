@@ -6,11 +6,22 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Suzhou",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Suzhou"
   },
   "industry": [],
   "source": [
     "commercial services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
 }

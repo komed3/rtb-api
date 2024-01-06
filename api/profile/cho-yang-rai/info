@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "tire manufacturing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/571a76ac4bbe6f6f9574db20/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=45&cropY2=789",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Alabama",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Hankook Tire Co. Ltd.",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

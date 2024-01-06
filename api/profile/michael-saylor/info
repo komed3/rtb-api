@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Vienna",
-    "state": "Virginia"
+    "_geo": {
+      "longitude": -77.263654,
+      "latitude": 38.900375
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cryptocurrency"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

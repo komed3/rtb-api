@@ -6,11 +6,27 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": "Kiev"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dniepropetrovsk Metallurgical Institute",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

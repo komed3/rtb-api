@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Phoenix",
-    "state": "Arizona"
+    "country": "us",
+    "state": "AZ",
+    "city": "Phoenix"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "cleaning products"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

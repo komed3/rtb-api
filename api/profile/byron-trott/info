@@ -6,13 +6,29 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Winnetka",
-    "state": "Illinois"
+    "zipCode": "60093",
+    "_geo": {
+      "longitude": -87.7266811,
+      "latitude": 42.107366
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

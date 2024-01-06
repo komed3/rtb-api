@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Leicester",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Leicester"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "home furnishings"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

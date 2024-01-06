@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "McLean",
-    "state": "Virginia"
+    "zipCode": "22101",
+    "_geo": {
+      "longitude": -77.168839,
+      "latitude": 38.93329
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "defense contractor"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

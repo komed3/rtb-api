@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Chapel Hill",
-    "state": "North Carolina"
+    "country": "us",
+    "state": "North Carolina",
+    "city": "Chapel Hill"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "fertilizers"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Perm Polytechnical Institute",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

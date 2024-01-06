@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Bristol",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Bristol"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "I.T."
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

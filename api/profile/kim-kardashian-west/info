@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Hidden Hills",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Hidden Hills"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,16 @@
   "source": [
     "cosmetics",
     "reality TV"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/646e6879fd33ccb3915f411d/416x416.jpg?background=000000&cropX1=571&cropX2=2926&cropY1=0&cropY2=2354",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

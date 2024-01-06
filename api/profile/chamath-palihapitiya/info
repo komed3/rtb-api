@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Atherton",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Atherton"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,20 @@
   "source": [
     "Facebook",
     "venture capital"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "University of Waterloo",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

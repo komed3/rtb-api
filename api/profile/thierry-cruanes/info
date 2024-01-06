@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Mateo",
-    "state": "California"
+    "zipCode": "94402",
+    "_geo": {
+      "longitude": -122.3390936,
+      "latitude": 37.5245965
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Université de Caen Normandie",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University Paris VI - Pierre et Marie Curie",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

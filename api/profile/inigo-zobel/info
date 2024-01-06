@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Makati",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Makati"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

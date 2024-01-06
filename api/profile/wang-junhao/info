@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "service"
   ],
   "source": [
     "regional airline"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58c6bc1da7ea431f321b03b1/416x416.jpg?background=000000&cropX1=11&cropX2=744&cropY1=161&cropY2=894",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

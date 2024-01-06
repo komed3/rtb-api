@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10014",
+    "_geo": {
+      "longitude": -74.0094471,
+      "latitude": 40.7366138
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Peloton"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgia Tech",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

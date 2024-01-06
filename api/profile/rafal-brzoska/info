@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "pl",
   "residence": {
-    "city": "Warsaw",
-    "state": null
+    "country": "pl",
+    "state": null,
+    "city": "Warsaw"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "parcel lockers"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

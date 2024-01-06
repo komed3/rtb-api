@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Samsung"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b1218c43df2efd65e1625c/416x416.jpg?background=000000&cropX1=26&cropX2=744&cropY1=55&cropY2=774",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

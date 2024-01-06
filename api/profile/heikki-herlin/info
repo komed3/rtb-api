@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "fi",
   "residence": {
-    "city": "Helsinki",
-    "state": null
+    "country": "fi",
+    "state": null,
+    "city": "Helsinki"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,15 @@
   "source": [
     "elevators",
     "escalators"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

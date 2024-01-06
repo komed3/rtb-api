@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "gb",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "electric cars"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cambridge University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Delhi University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Kent",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

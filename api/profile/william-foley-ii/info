@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Las Vegas",
-    "state": "Nevada"
+    "country": "us",
+    "state": "Nevada",
+    "city": "Las Vegas"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "financial services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

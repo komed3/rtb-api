@@ -6,11 +6,31 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Togliatti State University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Higher Komsomol School of the Central Committee of the Komsomol",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

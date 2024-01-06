@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Universidad  Politecnica de Madrid",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

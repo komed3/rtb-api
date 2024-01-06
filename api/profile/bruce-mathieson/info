@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Gold Coast ",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Gold Coast "
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "hotels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56a03ee7e4b0ed854f52942a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=197&cropY2=941",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

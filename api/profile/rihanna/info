@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "bb",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,16 @@
   "source": [
     "cosmetics",
     "music"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ed6604bdd5d320006caf816/416x416.jpg?background=000000&cropX1=697&cropX2=1566&cropY1=8&cropY2=878",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

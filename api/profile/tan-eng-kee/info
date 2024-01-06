@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Penang",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Penang"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "factory automation equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Wuxi",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Wuxi"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Peking University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Univeristy of Illinois at Urbana-Champaign",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

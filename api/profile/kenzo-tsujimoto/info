@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Osaka",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Osaka"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "video games"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Badalona",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Badalona"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "wind power"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Universitat  Politécnica de Catalunya, Barcelona",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

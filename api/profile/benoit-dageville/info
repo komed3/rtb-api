@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Carlos",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Carlos"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Université de Paris VI",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Université de Paris VI",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Université de Paris VI",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

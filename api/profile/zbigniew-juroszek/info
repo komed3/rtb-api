@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "pl",
   "residence": {
-    "city": "Cieszyn",
-    "state": null
+    "country": "pl",
+    "state": null,
+    "city": "Cieszyn"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "real estate",
     "gambling"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

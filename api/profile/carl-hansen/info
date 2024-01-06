@@ -6,13 +6,36 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Vancouver",
-    "state": "British Columbia"
+    "country": "ca",
+    "state": null,
+    "city": "Vancouver"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "California Institute of Technology",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of British Columbia",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "AbCellera Therapeutics",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

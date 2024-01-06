@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Meerbusch",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Meerbusch"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "building materials"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

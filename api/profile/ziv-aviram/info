@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Mevaseret Zion",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Mevaseret Zion"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automotive technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

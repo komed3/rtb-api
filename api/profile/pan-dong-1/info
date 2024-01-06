@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "ca",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Lawrence Technological University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Wuhan University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Wuhan University",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

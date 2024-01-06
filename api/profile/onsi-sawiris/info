@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "eg",
   "residence": {
-    "city": "Cairo",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,16 @@
   "source": [
     "construction",
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/86e3045f2fadf1096d0ea86876f0f750/416x416.jpg?background=000000&cropX1=0&cropX2=372&cropY1=0&cropY2=372",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

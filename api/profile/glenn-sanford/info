@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Blaine",
-    "state": "Washington"
+    "country": "us",
+    "state": "Washington",
+    "city": "Blaine"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate brokerage"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Montagnola",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Montagnola"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

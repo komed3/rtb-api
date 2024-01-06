@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Bloomfield Hills",
-    "state": "Michigan"
+    "country": "us",
+    "state": "Michigan",
+    "city": "Bloomfield Hills"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mortgage lender"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Michigan State University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

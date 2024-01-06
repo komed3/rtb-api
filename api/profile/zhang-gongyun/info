@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Gaomi",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Gaomi"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "tyre manufacturing machinery"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hanyang University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Chunbo",
+    "title": "Co-CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

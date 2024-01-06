@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Logan",
-    "state": "Utah"
+    "country": "us",
+    "state": "Utah",
+    "city": "Logan"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "fitness equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Utah State University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

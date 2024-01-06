@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Boucherville",
-    "state": "Quebec"
+    "country": "ca",
+    "state": null,
+    "city": "Boucherville"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "convinience stores"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

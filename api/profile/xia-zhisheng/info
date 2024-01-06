@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Haining",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Haining"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "home appliances"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

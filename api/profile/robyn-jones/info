@@ -6,13 +6,27 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Fort Worth",
-    "state": "Texas"
+    "country": "us",
+    "state": "Texas",
+    "city": "Fort Worth"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Goosehead Insurance",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Taizhou",
-    "state": "Zhejiang"
+    "zipCode": "318020",
+    "_geo": {
+      "longitude": 104.165657,
+      "latitude": 34.668
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

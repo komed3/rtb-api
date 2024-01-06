@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Chennai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Chennai"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "healthcare"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/615b2f37b4c0fe4b4b79c04a/416x416.jpg?background=000000&cropX1=608&cropX2=1064&cropY1=50&cropY2=506",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

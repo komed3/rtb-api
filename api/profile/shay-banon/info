@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Palo Alto",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Palo Alto"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "search engine"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

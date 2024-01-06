@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Xiamen",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Xiamen"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "conglomerate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

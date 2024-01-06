@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "il",
   "residence": {
-    "city": "Bnei Atarot",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Bnei Atarot"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Coca Cola Israel"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

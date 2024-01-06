@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Bellingham",
-    "state": "Washington"
+    "country": "us",
+    "state": "Washington",
+    "city": "Bellingham"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate brokerage"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

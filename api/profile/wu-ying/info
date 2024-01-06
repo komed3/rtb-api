@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Xianyang",
-    "state": "Shaanxi"
+    "country": "cn",
+    "state": null,
+    "city": "Xianyang"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "materials"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

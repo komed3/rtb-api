@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami Beach",
-    "state": "Florida"
+    "zipCode": "33109",
+    "_geo": {
+      "longitude": -80.134708,
+      "latitude": 25.762287
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "liquefied natural gas"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Colorado",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,11 +6,27 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

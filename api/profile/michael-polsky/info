@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Chicago",
-    "state": "Illinois"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "Electric power"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Chicago Booth School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

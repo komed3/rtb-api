@@ -6,11 +6,27 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zug"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kuzbass Polytechnic Institute",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

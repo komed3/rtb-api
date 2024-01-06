@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Weifang",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Weifang"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Manufacturing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Renmin University of China",
+      "degree": "Master of Arts"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Maryland",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

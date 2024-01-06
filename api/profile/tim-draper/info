@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Atherton",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Atherton"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "cryptocurrency"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

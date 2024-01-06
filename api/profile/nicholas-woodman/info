@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "CA",
     "city": "Woodside",
-    "state": "California"
+    "_geo": {
+      "longitude": -90.123859,
+      "latitude": 29.9485
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "GoPro"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, San Diego",
+      "degree": "Bachelor of Arts / Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

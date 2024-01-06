@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "il",
   "residence": {
-    "city": "Herzliya",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Herzliya"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

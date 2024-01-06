@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "financial services"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Universidade Federal do Rio de Janeiro",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

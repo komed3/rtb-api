@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "br",
   "residence": {
-    "city": "São Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "São Paulo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "fintech"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Northwestern University's Kellogg School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Universidade de Sao Paulo",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

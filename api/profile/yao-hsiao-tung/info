@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Manufacturing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d6011f395808800097db391/416x416.jpg?background=000000&cropX1=2086&cropX2=3572&cropY1=234&cropY2=1718",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,41 @@
   "gender": "f",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94105",
+    "_geo": {
+      "longitude": -122.394704,
+      "latitude": 37.789564
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cybersecurity"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "McGill University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Cloudflare",
+    "title": "COO and cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

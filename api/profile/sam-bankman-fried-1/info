@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "bs",
+    "state": null,
+    "city": "Nassau"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "cryptocurrency"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "FTX",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

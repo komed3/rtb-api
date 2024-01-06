@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "construction equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/97b447d9341c0dc4243090e2375556f3/416x416.jpg?background=000000&cropX1=8&cropX2=617&cropY1=10&cropY2=619",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fudan University",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

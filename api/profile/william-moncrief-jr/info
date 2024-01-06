@@ -6,11 +6,31 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "TX",
+    "city": "Fort Worth",
+    "_geo": {
+      "longitude": -97.382484,
+      "latitude": 32.74043
+    }
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Bachelor of Arts / Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Dezhou",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Dezhou"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "coal & coke"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

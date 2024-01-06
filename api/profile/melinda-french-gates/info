@@ -6,13 +6,36 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Medina",
-    "state": "Washington"
+    "country": "us",
+    "state": "Washington",
+    "city": "Medina"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Microsoft"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Fuqua School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Bill & Melinda Gates Foundation",
+    "title": "Cochair"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

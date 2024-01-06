@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Albuquerque",
-    "state": "New Mexico"
+    "country": "us",
+    "state": "New Mexico",
+    "city": "Albuquerque"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "solar"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Palo Alto",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "blood testing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/f73972b9d28df45e961ffa27a62cdff5/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=150&cropY2=894",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Theranos",
+    "title": "Founder-CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

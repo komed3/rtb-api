@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Hyderabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "The University of Glasgow",
+      "degree": "Masters in Finance"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zurich"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "sports data"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University for Applied Sciences in Konstanz",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

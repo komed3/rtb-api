@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Almaty",
-    "state": null
+    "country": "kz",
+    "state": null,
+    "city": "Almaty"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "stock brokerage"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow State Technical University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

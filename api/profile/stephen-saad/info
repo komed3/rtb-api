@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Durban",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Durban"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80fed231358e4955ad2f28/416x416.jpg?background=000000&cropX1=319&cropX2=2064&cropY1=6&cropY2=1750",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of KwaZulu-Natal",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

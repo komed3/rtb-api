@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Yongzhou",
-    "state": "Hunan"
+    "country": "cn",
+    "state": null,
+    "city": "Yongzhou"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "Aluminium"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

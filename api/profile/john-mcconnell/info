@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "Delaware",
-    "state": "Ohio"
+    "zipCode": "43015",
+    "_geo": {
+      "longitude": -83.067965,
+      "latitude": 40.2986724
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

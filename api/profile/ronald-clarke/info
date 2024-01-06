@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Duluth",
-    "state": "Georgia"
+    "zipCode": "30095",
+    "_geo": {
+      "longitude": -84.14999999999999,
+      "latitude": 33.9799999
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "payments technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Colby College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Cornell University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "FleetCor Technologies",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

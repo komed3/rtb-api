@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "coal",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61b1202fcec1db1a70d56fb4/416x416.jpg?background=000000&cropX1=89&cropX2=569&cropY1=156&cropY2=636",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

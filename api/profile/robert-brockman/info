@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Houston",
-    "state": "Texas"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": true,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

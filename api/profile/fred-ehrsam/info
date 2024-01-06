@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Miami",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "cryptocurrency exchange"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Duke Univeristy",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": {
+    "name": "Coinbase",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

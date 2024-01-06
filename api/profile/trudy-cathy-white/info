@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Hampton",
-    "state": "Georgia"
+    "zipCode": "30228",
+    "_geo": {
+      "longitude": -84.308639,
+      "latitude": 33.40239
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Chick-fil-A"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Samford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

@@ -6,13 +6,24 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
-    "city": "Fort Worth",
-    "state": "Texas"
+    "country": "us",
+    "state": "Texas",
+    "city": "Fort Worth"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

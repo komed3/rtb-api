@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Newport Beach",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Newport Beach"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mortgage lender"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "California State Fullerton",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

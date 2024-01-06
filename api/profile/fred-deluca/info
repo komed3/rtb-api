@@ -6,11 +6,27 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": true,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Bridgeport",
+      "degree": "Bachelor of Arts / Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

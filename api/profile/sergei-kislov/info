@@ -6,11 +6,28 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Rostov-on-Don"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a26f0f4bbe6f0e5586bad4/416x416.jpg?background=000000&cropX1=79&cropX2=744&cropY1=61&cropY2=727",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Rostov University",
+      "degree": "Bachelor of Arts / Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

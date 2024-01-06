@@ -6,11 +6,27 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Orange County",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Orange County"
   },
   "industry": [],
   "source": [
     "Online retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Virginia Polytechnic Institute",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

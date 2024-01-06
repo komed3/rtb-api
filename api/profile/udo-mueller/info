@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Cologne",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Cologne"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "advertising"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

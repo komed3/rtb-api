@@ -6,13 +6,27 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Winnetka",
-    "state": "Illinois"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "fintech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "PEAK6",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

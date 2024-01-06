@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Maanshan",
-    "state": "Anhui"
+    "country": "cn",
+    "state": null,
+    "city": "Maanshan"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "Logistics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

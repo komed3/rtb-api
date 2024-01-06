@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "internet services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ac259b24bbe6f2310f13d89/416x416.jpg?background=000000&cropX1=0&cropX2=1150&cropY1=285&cropY2=1435",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Osgoode Hall Law School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Turin",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Turin"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,20 @@
   "source": [
     "FIAT",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Politecnico di Torino",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

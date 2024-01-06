@@ -6,11 +6,31 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Technion-Israel Institute of Technology",
+      "degree": "Bachelor of Arts / Science"
+    },
+    {
+      "school": "U of Carleton, Ottawa",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

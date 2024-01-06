@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newbury Park",
-    "state": "California"
+    "zipCode": "91320",
+    "_geo": {
+      "longitude": -118.9470422,
+      "latitude": 34.1810666
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "digital advertising"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

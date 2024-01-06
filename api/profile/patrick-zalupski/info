@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Jacksonville",
-    "state": "Florida"
+    "zipCode": "32256",
+    "_geo": {
+      "longitude": -81.5537192,
+      "latitude": 30.2205397
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "homebuilding"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stetson University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Parma",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Parma"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Barilla pasta"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7f913031358e4955ad1e09/416x416.jpg?background=000000&cropX1=1812&cropX2=4410&cropY1=14&cropY2=2611",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

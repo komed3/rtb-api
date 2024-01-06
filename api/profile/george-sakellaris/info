@@ -6,11 +6,40 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Milton",
-    "state": "Massachusetts"
+    "zipCode": "02186",
+    "_geo": {
+      "longitude": -71.076026,
+      "latitude": 42.253082
+    }
   },
   "industry": [],
   "source": [
     "energy services"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Northeastern University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Northeastern University",
+      "degree": "Master of Science in Engineering"
+    },
+    {
+      "school": "University of Maine",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

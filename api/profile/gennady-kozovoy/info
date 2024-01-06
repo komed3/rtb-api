@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Mezhdurechensk",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Mezhdurechensk"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "coal"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Irkutsk Polytechnic Institute",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

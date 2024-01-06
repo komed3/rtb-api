@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Mountain View ",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Mountain View"
   },
   "industry": [
     "technology"
@@ -15,5 +16,23 @@
   "source": [
     "Quora",
     "Facebook"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "California Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Quora",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

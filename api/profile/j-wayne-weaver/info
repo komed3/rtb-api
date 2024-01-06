@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Jacksonville",
-    "state": "Florida"
+    "zipCode": "32204",
+    "_geo": {
+      "longitude": -81.68568080000001,
+      "latitude": 30.3152434
+    }
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Shoes"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

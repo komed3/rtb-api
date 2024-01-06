@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Cincinnati",
-    "state": "Ohio"
+    "country": "us",
+    "state": "Ohio",
+    "city": "Cincinnati"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceutical services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Maryland",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,36 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retailing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Management, Ahmedabad",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Mumbai University",
+      "degree": "B.Com"
+    }
+  ],
+  "organization": {
+    "name": "Nykaa",
+    "title": "Founder & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

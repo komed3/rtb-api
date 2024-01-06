@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Holzminden",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Holzminden"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "flavors and fragrances"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Western Washington University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

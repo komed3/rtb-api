@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "kz",
   "residence": {
-    "city": "Almaty",
-    "state": null
+    "country": "kz",
+    "state": null,
+    "city": "Almaty"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "fintech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

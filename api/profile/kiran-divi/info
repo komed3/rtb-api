@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Hyderabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Gitam Institute of Technology and Management",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Jawaharlal Nehru Technological University",
+      "degree": "Master"
+    },
+    {
+      "school": "Mangalore University",
+      "degree": "Bachelor of Pharmacy"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

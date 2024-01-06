@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94105",
+    "_geo": {
+      "longitude": -122.394704,
+      "latitude": 37.789564
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "data analytics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "KTH Royal Institute of Technology",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Mid Sweden University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Mid Sweden University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

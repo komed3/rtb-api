@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Altos",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.1405413,
+      "latitude": 37.3694009
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "semiconductors"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Santa Clara University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

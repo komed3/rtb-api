@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Aspen",
-    "state": "Colorado"
+    "zipCode": "81611",
+    "_geo": {
+      "longitude": -106.8175387,
+      "latitude": 39.1910983
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "messaging software"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master of Philosophy"
+    },
+    {
+      "school": "University of Victoria",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Slack",
+    "title": "Cofounder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

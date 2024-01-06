@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "es",
   "residence": {
-    "city": "Barcelona",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Barcelona"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Coca-Cola bottler"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Separated",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

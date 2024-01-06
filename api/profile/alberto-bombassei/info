@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Bergamo",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Bergamo"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automotive brakes"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

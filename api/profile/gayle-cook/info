@@ -6,11 +6,31 @@
   "gender": null,
   "citizenship": null,
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "IN",
+    "city": "Bloomington",
+    "_geo": {
+      "longitude": -86.499424,
+      "latitude": 39.128979
+    }
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Indiana University",
+      "degree": "Bachelor of Arts / Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

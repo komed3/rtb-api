@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": "Ontario"
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "cable tv"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

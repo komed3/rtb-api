@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ee",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,23 @@
   "source": [
     "payments",
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Tartu",
+      "degree": "Masters in Computer Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Wise",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

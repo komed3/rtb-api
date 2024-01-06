@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "ports"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56cbaf11e4b062f6b59a42eb/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=69&cropY2=813",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master"
+    },
+    {
+      "school": "University of Malaya",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

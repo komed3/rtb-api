@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Selangor",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Selangor"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }
