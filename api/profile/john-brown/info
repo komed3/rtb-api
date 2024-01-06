@@ -1,0 +1,18 @@
+{
+  "uri": "john-brown",
+  "name": "John Brown",
+  "birthDate": "1934-09-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Atlanta",
+    "state": "Georgia"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "medical equipment"
+  ]
+}

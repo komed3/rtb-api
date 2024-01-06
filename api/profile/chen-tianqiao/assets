@@ -1,0 +1,42 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOGL-US",
+    "companyName": "Alphabet",
+    "numberOfShares": 20000,
+    "sharePrice": 1291.01,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CYH-US",
+    "companyName": "Community Health Sys",
+    "numberOfShares": 27484000,
+    "sharePrice": 2.92,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "KKR-US",
+    "companyName": "KKR & Co.",
+    "numberOfShares": 1398000,
+    "sharePrice": 29.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LC-US",
+    "companyName": "LendingClub Corp.",
+    "numberOfShares": 19562800,
+    "sharePrice": 14.73,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

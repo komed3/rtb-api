@@ -1,0 +1,64 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FB-US",
+    "companyName": "Facebook",
+    "numberOfShares": 1362000,
+    "sharePrice": 191.55,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FB-US",
+    "companyName": "Facebook",
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 10.39,
+    "sharePrice": 191.55,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FB-US",
+    "companyName": "Facebook",
+    "numberOfShares": 220000,
+    "exerciseOptionPrice": 15,
+    "sharePrice": 191.55,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SBUX-US",
+    "companyName": "Starbucks Corp.",
+    "numberOfShares": 14000,
+    "sharePrice": 82.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SVMK-US",
+    "companyName": "SVMK",
+    "numberOfShares": 10320257,
+    "sharePrice": 17.415,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "DIS-US",
+    "companyName": "Walt Disney",
+    "numberOfShares": 23000,
+    "sharePrice": 131.27,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

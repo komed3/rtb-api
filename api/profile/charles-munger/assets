@@ -1,0 +1,42 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "BRK.A-US",
+    "companyName": "Berkshire Hathaway Inc. (Cl A)",
+    "numberOfShares": 5000,
+    "sharePrice": 332855,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BRK.B-US",
+    "companyName": "Berkshire Hathaway Inc. (Cl B)",
+    "numberOfShares": 1000,
+    "sharePrice": 222,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "COST-US",
+    "companyName": "Costco Wholesale",
+    "numberOfShares": 164800,
+    "sharePrice": 301.57,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "DJCO-US",
+    "companyName": "Daily Journal Corp.",
+    "numberOfShares": 50000,
+    "sharePrice": 286.31,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

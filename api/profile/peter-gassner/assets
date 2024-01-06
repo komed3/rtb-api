@@ -1,0 +1,43 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "GWRE-US",
+    "companyName": "Guidewire Software",
+    "numberOfShares": 9000,
+    "sharePrice": 113.11,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VEEV-US",
+    "companyName": "Veeva Systems",
+    "numberOfShares": 13208000,
+    "sharePrice": 140.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VEEV-US",
+    "companyName": "Veeva Systems",
+    "numberOfShares": 3055555,
+    "exerciseOptionPrice": 3.92,
+    "sharePrice": 140.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZM-US",
+    "companyName": "Zoom Video Communications",
+    "numberOfShares": 1200000,
+    "sharePrice": 66.83,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

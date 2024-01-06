@@ -1,0 +1,19 @@
+{
+  "uri": "john-pritzker",
+  "name": "John Pritzker",
+  "birthDate": "1953-08-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "San Francisco",
+    "state": "California"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "hotels",
+    "investments"
+  ]
+}

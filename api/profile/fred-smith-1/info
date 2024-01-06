@@ -1,0 +1,18 @@
+{
+  "uri": "fred-smith-1",
+  "name": "Fred Smith",
+  "birthDate": "1944-08-11",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Memphis",
+    "state": "Tennessee"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "FedEx"
+  ]
+}

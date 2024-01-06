@@ -1,0 +1,32 @@
+[
+  {
+    "exchange": "TORONTO",
+    "ticker": "AGU-CA",
+    "companyName": "Agrium",
+    "numberOfShares": 298000,
+    "sharePrice": 109.71315829412657,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3178,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "HDS-US",
+    "companyName": "HD Supply Holdings Inc.",
+    "numberOfShares": 3882000,
+    "sharePrice": 40.825,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MSM-US",
+    "companyName": "MSC Industrial Direct",
+    "numberOfShares": 3455000,
+    "sharePrice": 76.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

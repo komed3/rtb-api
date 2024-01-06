@@ -1,0 +1,18 @@
+{
+  "uri": "robert-f-smith",
+  "name": "Robert F. Smith",
+  "birthDate": "1962-12-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Austin",
+    "state": "Texas"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "private equity"
+  ]
+}

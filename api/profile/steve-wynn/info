@@ -1,0 +1,19 @@
+{
+  "uri": "steve-wynn",
+  "name": "Steve Wynn",
+  "birthDate": "1942-01-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Las Vegas",
+    "state": "Nevada"
+  },
+  "industry": [
+    "gambling-casinos"
+  ],
+  "source": [
+    "casinos",
+    "hotels"
+  ]
+}

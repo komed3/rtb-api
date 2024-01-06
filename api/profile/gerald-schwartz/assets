@@ -1,0 +1,43 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "CLS-US",
+    "companyName": "Celestica, Inc.",
+    "numberOfShares": 121000,
+    "sharePrice": 7.71,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "IDG-CA",
+    "companyName": "Indigo Books and Music, Inc.",
+    "numberOfShares": 15500000,
+    "sharePrice": 3.33889816360601,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3178,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+    "numberOfShares": 10850000,
+    "sharePrice": 60.699650933373796,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3178,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+    "numberOfShares": 3950000,
+    "exerciseOptionPrice": 43.59538624981029,
+    "sharePrice": 60.699650933373796,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3178,
+    "interactive": false
+  }
+]

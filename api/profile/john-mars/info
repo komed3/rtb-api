@@ -1,0 +1,19 @@
+{
+  "uri": "john-mars",
+  "name": "John Mars",
+  "birthDate": "1935-10-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Jackson",
+    "state": "Wyoming"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "candy",
+    "pet food"
+  ]
+}

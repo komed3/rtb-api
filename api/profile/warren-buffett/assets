@@ -1,0 +1,68 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "BRK.A-US",
+    "companyName": "Berkshire Hathaway Inc. (Cl A)",
+    "numberOfShares": 259400.00000000003,
+    "sharePrice": 332855,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": true,
+    "currentPrice": 333850
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BRK.B-US",
+    "companyName": "Berkshire Hathaway Inc. (Cl B)",
+    "numberOfShares": 65000,
+    "sharePrice": 222,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 222.885
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "IBM-US",
+    "companyName": "International Business Machines Corp",
+    "numberOfShares": 9000,
+    "sharePrice": 138.78,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 138.08
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SRG-US",
+    "companyName": "Seritage Growth Properties",
+    "numberOfShares": 2000000,
+    "sharePrice": 44.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 43.788
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "USB-US",
+    "companyName": "U.S. Bancorp",
+    "numberOfShares": 884000,
+    "sharePrice": 58.76,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 59.395
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "WFC-US",
+    "companyName": "Wells Fargo",
+    "numberOfShares": 2009000,
+    "sharePrice": 53.8,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 54.265
+  }
+]

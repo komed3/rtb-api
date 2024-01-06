@@ -1,0 +1,42 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "CBS-US",
+    "companyName": "CBS Corp (Cl B)",
+    "numberOfShares": 12926000,
+    "sharePrice": 36.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CBS.A-US",
+    "companyName": "CBS Corp. (Cl A)",
+    "numberOfShares": 17982000,
+    "sharePrice": 40.88,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VIAB-US",
+    "companyName": "Viacom (B)",
+    "numberOfShares": 371000,
+    "sharePrice": 22.01,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VIA-US",
+    "companyName": "Viacom Inc. (Cl A)",
+    "numberOfShares": 36031000,
+    "sharePrice": 24.39,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "C-US",
+    "companyName": "Citigroup",
+    "numberOfShares": 1000,
+    "sharePrice": 74.42,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "MEXICO",
+    "ticker": "POSADASA-MX",
+    "companyName": "Grupo Posadas SAB de CV Class A ",
+    "numberOfShares": 69431000,
+    "sharePrice": 1.980559247387486,
+    "currencyCode": "MXN",
+    "exchangeRate": 19.1865,
+    "interactive": false
+  },
+  {
+    "exchange": "MEXICO",
+    "ticker": "CERAMICB-MX",
+    "companyName": "Internacional de Ceramica SA Class B",
+    "numberOfShares": 51900000,
+    "sharePrice": 2.499153050321841,
+    "currencyCode": "MXN",
+    "exchangeRate": 19.1865,
+    "interactive": false
+  },
+  {
+    "exchange": "MEXICO",
+    "ticker": "CERAMICD-MX",
+    "companyName": "Internacional de Ceramica SAB de CV Conv Shs D",
+    "numberOfShares": 11964000,
+    "sharePrice": 0,
+    "currencyCode": "MXN",
+    "exchangeRate": 19.1865,
+    "interactive": false
+  }
+]

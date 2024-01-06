@@ -1,0 +1,18 @@
+{
+  "uri": "bill-gross",
+  "name": "Bill Gross",
+  "birthDate": "1944-04-13",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Laguna Beach",
+    "state": "California"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "investments"
+  ]
+}

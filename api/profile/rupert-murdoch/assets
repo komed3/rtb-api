@@ -1,0 +1,43 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FOXA-US",
+    "companyName": "Fox Corp. Class A",
+    "numberOfShares": 107300000,
+    "sharePrice": 33.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FOXA-US",
+    "companyName": "Fox Corp. Class A",
+    "numberOfShares": 79690,
+    "exerciseOptionPrice": 36,
+    "sharePrice": 33.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "NWS-US",
+    "companyName": "News Corp. (Cl B)",
+    "numberOfShares": 80919000,
+    "sharePrice": 13.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "DIS-US",
+    "companyName": "Walt Disney",
+    "numberOfShares": 49000000,
+    "sharePrice": 131.27,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "T-US",
+    "companyName": "AT&T Inc.",
+    "numberOfShares": 2107900,
+    "sharePrice": 39.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CTL-US",
+    "companyName": "CenturyLink",
+    "numberOfShares": 0,
+    "sharePrice": 13.36,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CMCSA-US",
+    "companyName": "Comcast",
+    "numberOfShares": 11111000,
+    "sharePrice": 44.22,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ET-US",
+    "companyName": "Energy Transfer Equity L.P.",
+    "numberOfShares": 0,
+    "sharePrice": 12.26,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "CPB-US",
+    "companyName": "Campbell Soup Co.",
+    "numberOfShares": 41894000,
+    "sharePrice": 46.6,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CPB-US",
+    "companyName": "Campbell Soup Co.",
+    "numberOfShares": 19000,
+    "exerciseOptionPrice": 30.02,
+    "sharePrice": 46.6,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "NSIT-US",
+    "companyName": "Insight Enterprises",
+    "numberOfShares": 49000,
+    "sharePrice": 62.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]
