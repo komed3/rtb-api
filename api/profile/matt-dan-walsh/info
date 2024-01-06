@@ -1,16 +1,18 @@
 {
   "uri": "matt-dan-walsh",
-  "name": "Matt Dan-walsh",
+  "name": "Matt & Dan Walsh",
   "birthDate": null,
   "family": false,
-  "gender": null,
-  "citizenship": null,
+  "gender": "m",
+  "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "Chicago",
+    "state": "Illinois"
   },
-  "industry": [],
+  "industry": [
+    "construction-engineering"
+  ],
   "source": [
-    ""
+    "construction"
   ]
 }
