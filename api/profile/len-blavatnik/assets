@@ -4,7 +4,7 @@
     "ticker": "EPEGQ-US",
     "companyName": "EP Energy",
     "numberOfShares": 34943000,
-    "sharePrice": 0.018,
+    "sharePrice": 0.012,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "LYB-US",
     "companyName": "LyondellBasell",
     "numberOfShares": 69023700,
-    "sharePrice": 63.76,
+    "sharePrice": 64.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,9 +34,9 @@
     "ticker": "RKET-DE",
     "companyName": "Rocket Internet AG",
     "numberOfShares": 9050000,
-    "sharePrice": 19.922135706340377,
+    "sharePrice": 21.569950517318937,
     "currencyCode": "EUR",
-    "exchangeRate": 0.899,
+    "exchangeRate": 0.8892,
     "interactive": false
   },
   {
@@ -44,7 +44,7 @@
     "ticker": "SQ-US",
     "companyName": "Square",
     "numberOfShares": 3990000,
-    "sharePrice": 81.08,
+    "sharePrice": 103.68,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,9 +54,19 @@
     "ticker": "486-HK",
     "companyName": "United Co. RUSAL Plc",
     "numberOfShares": 1600000000,
-    "sharePrice": 0.38704683266675266,
+    "sharePrice": 0.37158892974646796,
     "currencyCode": "HKD",
-    "exchangeRate": 7.751,
+    "exchangeRate": 7.7505,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WMG-US",
+    "companyName": "Warner Music Group",
+    "numberOfShares": 429197000,
+    "sharePrice": 31.43,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

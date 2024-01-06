@@ -1,12 +1,22 @@
 [
   {
     "exchange": "BSE INDIA",
+    "ticker": "540611-IN",
+    "companyName": "AU Small Finance",
+    "numberOfShares": 2412000,
+    "sharePrice": 7.178134968253738,
+    "currencyCode": "INR",
+    "exchangeRate": 75.5837,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
     "ticker": "532454-IN",
     "companyName": "Bharti Airtel Ltd.",
     "numberOfShares": 1334000000,
-    "sharePrice": 7.305312882689158,
+    "sharePrice": 7.504925003671427,
     "currencyCode": "INR",
-    "exchangeRate": 75.6162,
+    "exchangeRate": 75.5837,
     "interactive": false
   }
 ]
