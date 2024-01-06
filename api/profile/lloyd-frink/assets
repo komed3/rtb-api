@@ -1,0 +1,32 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "GRUB-US",
+    "companyName": "GRUBHUB",
+    "numberOfShares": 82520,
+    "sharePrice": 68.04,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZG-US",
+    "companyName": "Zillow Class A",
+    "numberOfShares": 5566160,
+    "sharePrice": 133.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "Z-US",
+    "companyName": "Zillow Class C",
+    "numberOfShares": 3105275,
+    "sharePrice": 130.12,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

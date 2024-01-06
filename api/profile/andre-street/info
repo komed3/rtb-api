@@ -1,0 +1,18 @@
+{
+  "uri": "andre-street",
+  "name": "André Street",
+  "birthDate": "1984-05-04",
+  "family": false,
+  "gender": "m",
+  "citizenship": "br",
+  "residence": {
+    "city": null,
+    "state": null
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "fintech"
+  ]
+}
