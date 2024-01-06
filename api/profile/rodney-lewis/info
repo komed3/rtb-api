@@ -1,24 +1,17 @@
 {
   "uri": "rodney-lewis",
   "name": "Rodney Lewis",
-  "birthDate": "1954-07-13",
+  "birthDate": null,
   "family": false,
-  "gender": "m",
-  "citizenship": "us",
+  "gender": null,
+  "citizenship": null,
   "residence": {
-    "country": "us",
-    "state": "Texas",
-    "city": "San Antonio",
-    "_geo": {
-      "longitude": -98.492889,
-      "latitude": 29.45995
-    }
+    "city": null,
+    "state": null
   },
-  "industry": [
-    "energy"
-  ],
+  "industry": [],
   "source": [
-    "natural gas"
+    ""
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5a90ad9fa7ea434a0c2723c6/416x416.jpg?background=000000&cropX1=118&cropX2=1352&cropY1=238&cropY2=1473",
   "deceased": false,

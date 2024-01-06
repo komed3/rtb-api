@@ -1,19 +1,17 @@
 {
   "uri": "dean-stoecker",
   "name": "Dean Stoecker",
-  "birthDate": "1957-03-08",
+  "birthDate": null,
   "family": false,
-  "gender": "m",
-  "citizenship": "us",
+  "gender": null,
+  "citizenship": null,
   "residence": {
-    "city": "Irvine",
-    "state": "California"
+    "city": null,
+    "state": null
   },
-  "industry": [
-    "technology"
-  ],
+  "industry": [],
   "source": [
-    "software"
+    ""
   ],
   "deceased": false,
   "children": 0,

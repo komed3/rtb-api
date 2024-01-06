@@ -1,22 +1,22 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "ME-US",
+    "companyName": "23andMe Holding",
+    "numberOfShares": 12600000,
+    "sharePrice": 11.52,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "LONDON",
     "ticker": "VMUK-GB",
     "companyName": "CYBG",
     "numberOfShares": 188084000,
-    "sharePrice": 2.9930526017297607,
+    "sharePrice": 2.748651265735233,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7053,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "VGAC-US",
-    "companyName": "VG Acquisition Corp",
-    "numberOfShares": 12600000,
-    "sharePrice": 9.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 0.7229,
     "interactive": false
   },
   {
@@ -24,7 +24,7 @@
     "ticker": "SPCE-US",
     "companyName": "Virgin Galactic",
     "numberOfShares": 56800000,
-    "sharePrice": 31.23,
+    "sharePrice": 47.02,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
