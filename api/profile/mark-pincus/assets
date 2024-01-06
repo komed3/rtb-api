@@ -4,27 +4,27 @@
     "ticker": "FB-US",
     "companyName": "Facebook",
     "numberOfShares": 0,
-    "sharePrice": 356.3,
+    "sharePrice": 380.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
-    "ticker": "RTP-US",
-    "companyName": "Reinvent Technology Partners",
-    "numberOfShares": 6852000,
-    "sharePrice": 9.98,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "RTPZ-US",
-    "companyName": "Reinvent Technology Partners Z",
+    "ticker": "HIPO-US",
+    "companyName": "Hippo Holdings",
     "numberOfShares": 2252000,
-    "sharePrice": 9.75,
+    "sharePrice": 4.91,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 6852000,
+    "sharePrice": 12.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "ZNGA-US",
     "companyName": "Zynga",
     "numberOfShares": 62494000,
-    "sharePrice": 10.1,
+    "sharePrice": 8.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -45,7 +45,7 @@
     "companyName": "Zynga",
     "numberOfShares": 0,
     "exerciseOptionPrice": 0.12815,
-    "sharePrice": 10.1,
+    "sharePrice": 8.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +56,7 @@
     "companyName": "Zynga",
     "numberOfShares": 0,
     "exerciseOptionPrice": 0.17065,
-    "sharePrice": 10.1,
+    "sharePrice": 8.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

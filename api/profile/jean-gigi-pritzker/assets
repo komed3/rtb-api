@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "BYND-US",
+    "companyName": "Beyond Meat",
+    "numberOfShares": 3414035,
+    "sharePrice": 120.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
-    "numberOfShares": 18838000,
-    "sharePrice": 79.87,
+    "numberOfShares": 18837636,
+    "sharePrice": 73.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
