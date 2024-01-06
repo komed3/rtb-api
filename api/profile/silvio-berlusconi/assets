@@ -4,9 +4,9 @@
     "ticker": "MN-IT",
     "companyName": "Arnoldo Mondadori Editore S.p.A.",
     "numberOfShares": 139356000,
-    "sharePrice": 2.240252422808204,
+    "sharePrice": 2.311614730878187,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8874,
+    "exchangeRate": 0.8825,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "BMED-IT",
     "companyName": "Banca Mediolanum S.p.A.",
     "numberOfShares": 223320530,
-    "sharePrice": 9.454586432274061,
+    "sharePrice": 9.835694050991501,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8874,
-    "interactive": false
-  },
-  {
-    "exchange": "MILAN",
-    "ticker": "MFE-IT",
-    "companyName": "Mediaset",
-    "numberOfShares": 521803991,
-    "sharePrice": 2.7360829389226957,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.8874,
+    "exchangeRate": 0.8825,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
     "numberOfShares": 17714000,
-    "sharePrice": 10.957854406130268,
+    "sharePrice": 11.456090651558073,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8874,
+    "exchangeRate": 0.8825,
+    "interactive": false
+  },
+  {
+    "exchange": "MILAN",
+    "ticker": "MFEB-IT",
+    "companyName": "MFE-MediaForEurope Class B",
+    "numberOfShares": 521803991,
+    "sharePrice": 1.4107648725212467,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8825,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "MLM-IT",
     "companyName": "Molmed",
     "numberOfShares": 0,
-    "sharePrice": 0.5826008564345279,
+    "sharePrice": 0.5858356940509916,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8874,
+    "exchangeRate": 0.8825,
     "interactive": false
   }
 ]
