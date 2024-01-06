@@ -1,22 +1,32 @@
 [
   {
     "exchange": "INDONESIA",
+    "ticker": "CMNT-ID",
+    "companyName": "Cemindo Gemilang",
+    "numberOfShares": 15406704000,
+    "sharePrice": 0.07191481934019898,
+    "currencyCode": "IDR",
+    "exchangeRate": 14322.5,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
     "ticker": "PBRX-ID",
     "companyName": "Pan Brothers",
-    "numberOfShares": 1486000000,
-    "sharePrice": 0.009387683077466031,
+    "numberOfShares": 1486857000,
+    "sharePrice": 0.010822133007505673,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "F34-SG",
     "companyName": "Wilmar International Ltd",
-    "numberOfShares": 41210000,
-    "sharePrice": 3.203559510567297,
+    "numberOfShares": 0,
+    "sharePrice": 3.0575014594279044,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3485,
+    "exchangeRate": 1.3704,
     "interactive": false
   }
 ]

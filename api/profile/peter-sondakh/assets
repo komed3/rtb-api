@@ -1,12 +1,22 @@
 [
   {
     "exchange": "INDONESIA",
+    "ticker": "ARCI-ID",
+    "companyName": "Archi Indonesia",
+    "numberOfShares": 21109650000,
+    "sharePrice": 0.03840111712340723,
+    "currencyCode": "IDR",
+    "exchangeRate": 14322.5,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
     "ticker": "BWPT-ID",
     "companyName": "Eagle High Plantations",
     "numberOfShares": 11886000000,
-    "sharePrice": 0.006423151579318864,
+    "sharePrice": 0.005795077674986908,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   },
   {
@@ -14,19 +24,19 @@
     "ticker": "TAXI-ID",
     "companyName": "PT Express Transindo Utama Tbk",
     "numberOfShares": 1094300000,
-    "sharePrice": 0.0035292041644609143,
+    "sharePrice": 0.003491010647582475,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "FORU-ID",
     "companyName": "PT Fortune Indonesia",
-    "numberOfShares": 0,
-    "sharePrice": 0.010234692076936652,
+    "numberOfShares": 415220000,
+    "sharePrice": 0.014941525571652993,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "SMMT-ID",
     "companyName": "PT Golden Eagle Energy Tbk",
     "numberOfShares": 2635000000,
-    "sharePrice": 0.015104993823892712,
+    "sharePrice": 0.013265840460813406,
     "currencyCode": "IDR",
-    "exchangeRate": 14167.5,
+    "exchangeRate": 14322.5,
     "interactive": false
   }
 ]
