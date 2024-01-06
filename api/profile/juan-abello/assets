@@ -4,19 +4,29 @@
     "ticker": "AML-GB",
     "companyName": "Aston Marin Lagonda Global Holdings",
     "numberOfShares": 7439000,
-    "sharePrice": 5.375305780867774,
+    "sharePrice": 4.317281900625877,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7767,
+    "exchangeRate": 0.7829,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "BZU-IT",
     "companyName": "Buzzi Unicem",
-    "numberOfShares": 1720000,
-    "sharePrice": 24.197120708748617,
+    "numberOfShares": 2110000,
+    "sharePrice": 21.71023725834798,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "KAR-SE",
+    "companyName": "Karnov  Group",
+    "numberOfShares": 2867000,
+    "sharePrice": 5.3635341564295365,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.6951,
     "interactive": false
   },
   {
@@ -24,7 +34,7 @@
     "ticker": "LAUR-US",
     "companyName": "Laureate Education",
     "numberOfShares": 6000000,
-    "sharePrice": 16.21,
+    "sharePrice": 18.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -33,8 +43,8 @@
     "exchange": "NYSE",
     "ticker": "OI-US",
     "companyName": "Owens-Illinois",
-    "numberOfShares": 2009999.9999999998,
-    "sharePrice": 9.05,
+    "numberOfShares": 0,
+    "sharePrice": 10.8,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,9 +54,9 @@
     "ticker": "CASH-ES",
     "companyName": "Prosegur Cash",
     "numberOfShares": 11530000,
-    "sharePrice": 1.5813953488372092,
+    "sharePrice": 1.4521089630931459,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
     "interactive": false
   },
   {
@@ -54,9 +64,9 @@
     "ticker": "TLGO-ES",
     "companyName": "Talgo",
     "numberOfShares": 4652000,
-    "sharePrice": 6.522702104097452,
+    "sharePrice": 5.766695957820739,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
     "interactive": false
   }
 ]

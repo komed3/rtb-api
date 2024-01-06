@@ -1,12 +1,22 @@
 [
   {
     "exchange": "HONG KONG",
+    "ticker": "9928-HK",
+    "companyName": "Times Neighborhood Holding",
+    "numberOfShares": 509438000,
+    "sharePrice": 0.8071346079815219,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.793,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
     "ticker": "1233-HK",
     "companyName": "Times Property Holdings Ltd.",
     "numberOfShares": 1195072000,
-    "sharePrice": 1.9786287642517513,
+    "sharePrice": 1.8478121390991915,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8236,
+    "exchangeRate": 7.793,
     "interactive": false
   }
 ]

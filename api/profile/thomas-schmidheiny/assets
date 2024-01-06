@@ -3,10 +3,21 @@
     "exchange": "SIX SWISS",
     "ticker": "LHN-CH",
     "companyName": "LafargeHolcim Ltd.",
-    "numberOfShares": 69072000,
-    "sharePrice": 52.403507003930265,
+    "numberOfShares": 44347000,
+    "sharePrice": 46.19278851120984,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9923,
+    "exchangeRate": 0.9679,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "LHN-CH",
+    "companyName": "LafargeHolcim Ltd.",
+    "numberOfShares": 3089000,
+    "exerciseOptionPrice": 54.75772290525881,
+    "sharePrice": 46.19278851120984,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9679,
     "interactive": false
   }
 ]

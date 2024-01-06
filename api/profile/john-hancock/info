@@ -1,0 +1,18 @@
+{
+  "uri": "john-hancock",
+  "name": "John Hancock",
+  "birthDate": "1976-01-02",
+  "family": false,
+  "gender": "m",
+  "citizenship": "au",
+  "residence": {
+    "city": "Whistler",
+    "state": null
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "trust fund"
+  ]
+}

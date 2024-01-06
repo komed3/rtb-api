@@ -1,12 +1,22 @@
 [
   {
     "exchange": "THAILAND",
+    "ticker": "STARK-TH",
+    "companyName": "STARK Corporation",
+    "numberOfShares": 21500000000,
+    "sharePrice": 0.0637978681405448,
+    "currencyCode": "THB",
+    "exchangeRate": 31.6625,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
     "ticker": "TOA-TH",
     "companyName": "TOA Paint (Thailand)",
     "numberOfShares": 1521000000,
-    "sharePrice": 1.5347800973677697,
+    "sharePrice": 1.0106592972759574,
     "currencyCode": "THB",
-    "exchangeRate": 30.2975,
+    "exchangeRate": 31.6625,
     "interactive": false
   }
 ]

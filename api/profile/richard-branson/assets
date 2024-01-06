@@ -4,9 +4,9 @@
     "ticker": "VMUK-GB",
     "companyName": "CYBG",
     "numberOfShares": 188084000,
-    "sharePrice": 1.844985193768508,
+    "sharePrice": 1.9389449482692553,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7767,
+    "exchangeRate": 0.7829,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "VAH-AU",
     "companyName": "Virgin Australia",
     "numberOfShares": 845812000,
-    "sharePrice": 0.10474812211425814,
+    "sharePrice": 0.06769825918762089,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4511,
+    "exchangeRate": 1.551,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SPCE-US",
+    "companyName": "Virgin Galactic",
+    "numberOfShares": 92636000,
+    "sharePrice": 24.6,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

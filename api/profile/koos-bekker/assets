@@ -1,13 +1,12 @@
 [
   {
     "exchange": "JSE",
-    "ticker": "NPN-ZA",
-    "companyName": "Naspers",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 9.500707499494643,
-    "sharePrice": 148.00215618893606,
+    "ticker": "MCG-ZA",
+    "companyName": "Multichoice Group",
+    "numberOfShares": 4689000,
+    "sharePrice": 5.747703651908591,
     "currencyCode": "ZAR",
-    "exchangeRate": 14.841,
+    "exchangeRate": 15.7315,
     "interactive": false
   },
   {
@@ -15,10 +14,10 @@
     "ticker": "NPN-ZA",
     "companyName": "Naspers",
     "numberOfShares": 0,
-    "exerciseOptionPrice": 12.465467286570986,
-    "sharePrice": 148.00215618893606,
+    "exerciseOptionPrice": 8.962908813527,
+    "sharePrice": 151.34856815942535,
     "currencyCode": "ZAR",
-    "exchangeRate": 14.841,
+    "exchangeRate": 15.7315,
     "interactive": false
   },
   {
@@ -26,20 +25,41 @@
     "ticker": "NPN-ZA",
     "companyName": "Naspers",
     "numberOfShares": 0,
-    "exerciseOptionPrice": 11.252611010039756,
-    "sharePrice": 148.00215618893606,
+    "exerciseOptionPrice": 11.759844897180816,
+    "sharePrice": 151.34856815942535,
     "currencyCode": "ZAR",
-    "exchangeRate": 14.841,
+    "exchangeRate": 15.7315,
     "interactive": false
   },
   {
     "exchange": "JSE",
     "ticker": "NPN-ZA",
     "companyName": "Naspers",
-    "numberOfShares": 6423382,
-    "sharePrice": 148.00215618893606,
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 10.615643772049708,
+    "sharePrice": 151.34856815942535,
     "currencyCode": "ZAR",
-    "exchangeRate": 14.841,
+    "exchangeRate": 15.7315,
+    "interactive": false
+  },
+  {
+    "exchange": "JSE",
+    "ticker": "NPN-ZA",
+    "companyName": "Naspers",
+    "numberOfShares": 4689000,
+    "sharePrice": 151.34856815942535,
+    "currencyCode": "ZAR",
+    "exchangeRate": 15.7315,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "PRX-NL",
+    "companyName": "Prosus",
+    "numberOfShares": 4689000,
+    "sharePrice": 69.93629173989456,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
     "interactive": false
   }
 ]

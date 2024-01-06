@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "MNR-US",
+    "companyName": "Monmouth REIT",
+    "numberOfShares": 432000,
+    "sharePrice": 14.2,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "PTSI-US",
     "companyName": "PAM Transportation Services",
     "numberOfShares": 3922000,
-    "sharePrice": 57.05,
+    "sharePrice": 39.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "ULH-US",
     "companyName": "Universal Logistics Holdings",
     "numberOfShares": 19434000,
-    "sharePrice": 20.47,
+    "sharePrice": 15.41,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

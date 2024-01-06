@@ -1,12 +1,22 @@
 [
   {
     "exchange": "THAILAND",
+    "ticker": "AWC-TH",
+    "companyName": "Asset World",
+    "numberOfShares": 24000000000,
+    "sharePrice": 0.15465061004595151,
+    "currencyCode": "THB",
+    "exchangeRate": 31.555,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
     "ticker": "BJC-TH",
     "companyName": "Berli Jucker PCL",
-    "numberOfShares": 2731320000,
-    "sharePrice": 1.6337981681656903,
+    "numberOfShares": 2834400000,
+    "sharePrice": 1.1567105054666456,
     "currencyCode": "THB",
-    "exchangeRate": 30.2975,
+    "exchangeRate": 31.555,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "F99-SG",
     "companyName": "Fraser & Neave Ltd.",
     "numberOfShares": 858080000,
-    "sharePrice": 1.2507357268981754,
+    "sharePrice": 1.160707888514724,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3592,
+    "exchangeRate": 1.3957,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "ACV-SG",
     "companyName": "Frasers Hospitality",
     "numberOfShares": 707310000,
-    "sharePrice": 0.522366097704532,
+    "sharePrice": 0.4657161281077596,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3592,
+    "exchangeRate": 1.3957,
     "interactive": false
   },
   {
@@ -34,19 +44,19 @@
     "ticker": "TQ5-SG",
     "companyName": "Frasers Property",
     "numberOfShares": 1716160000,
-    "sharePrice": 1.324308416715715,
+    "sharePrice": 1.0962241169305726,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3592,
+    "exchangeRate": 1.3957,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "Y92-SG",
     "companyName": "Thai Beverage PCL",
-    "numberOfShares": 17061348517.999998,
-    "sharePrice": 0.6658328428487346,
+    "numberOfShares": 11491000000,
+    "sharePrice": 0.5588593537293115,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3592,
+    "exchangeRate": 1.3957,
     "interactive": false
   },
   {
@@ -54,9 +64,9 @@
     "ticker": "UV-TH",
     "companyName": "Univentures Public Co.",
     "numberOfShares": 1262000000,
-    "sharePrice": 0.1815331297961878,
+    "sharePrice": 0.10014260814450959,
     "currencyCode": "THB",
-    "exchangeRate": 30.2975,
+    "exchangeRate": 31.555,
     "interactive": false
   }
 ]

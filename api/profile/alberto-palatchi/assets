@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "exchange": "US OTC",
+    "ticker": "EADSY-US",
+    "companyName": "AIRBUS GROUP (EADSY)",
+    "numberOfShares": 170500,
+    "sharePrice": 29.686,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOGL-US",
+    "companyName": "Alphabet",
+    "numberOfShares": 20800,
+    "sharePrice": 1339.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AAPL-US",
+    "companyName": "Apple",
+    "numberOfShares": 118900,
+    "sharePrice": 273.36,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "T-US",
+    "companyName": "AT&T Inc.",
+    "numberOfShares": 767000,
+    "sharePrice": 35.22,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
+    "ticker": "CS-FR",
+    "companyName": "AXA S.A.",
+    "numberOfShares": 1028000,
+    "sharePrice": 23.017355008787344,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
+    "ticker": "SAN-ES",
+    "companyName": "Banco Santander S.A.",
+    "numberOfShares": 3540000,
+    "sharePrice": 3.654437609841828,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BBL-US",
+    "companyName": "Bhp Billiton PLC ADR (Edward Jones)",
+    "numberOfShares": 474000,
+    "sharePrice": 36.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "BATS-GB",
+    "companyName": "British Amer Tobacco",
+    "numberOfShares": 616800,
+    "sharePrice": 39.117384084812876,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7829,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
+    "ticker": "DAI-DE",
+    "companyName": "Daimler",
+    "numberOfShares": 289400,
+    "sharePrice": 41.23462214411248,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "XOM-US",
+    "companyName": "Exxon Mobil Corp.",
+    "numberOfShares": 289000,
+    "sharePrice": 51.44,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
+    "ticker": "REP-ES",
+    "companyName": "Repsol YPF S.A.",
+    "numberOfShares": 1376000,
+    "sharePrice": 11.126977152899824,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "RIO-GB",
+    "companyName": "Rio Tinto",
+    "numberOfShares": 501200,
+    "sharePrice": 46.08506833567505,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7829,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "RDSA-NL",
+    "companyName": "Royal Dutch Shell Class A",
+    "numberOfShares": 771000,
+    "sharePrice": 21.32029876977153,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
+    "ticker": "GLE-FR",
+    "companyName": "Societe Generale S.A. (France)",
+    "numberOfShares": 711500,
+    "sharePrice": 28.108523725834797,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
+    "ticker": "FP-FR",
+    "companyName": "Total",
+    "numberOfShares": 431500,
+    "sharePrice": 42.1572934973638,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  }
+]

@@ -3,10 +3,20 @@
     "exchange": "HONG KONG",
     "ticker": "322-HK",
     "companyName": "Tingyi",
-    "numberOfShares": 353049000,
-    "sharePrice": 1.4622424459328187,
+    "numberOfShares": 353000000,
+    "sharePrice": 1.819581675862954,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8236,
+    "exchangeRate": 7.793,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "1201-TW",
+    "companyName": "Wei-Chuan",
+    "numberOfShares": 50500000,
+    "sharePrice": 0.7133539193183508,
+    "currencyCode": "TWD",
+    "exchangeRate": 30.2795,
     "interactive": false
   }
 ]

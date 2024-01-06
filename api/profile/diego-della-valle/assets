@@ -1,12 +1,22 @@
 [
   {
     "exchange": "MILAN",
+    "ticker": "BIA-IT",
+    "companyName": "Bialetti Industrie",
+    "numberOfShares": 5250000,
+    "sharePrice": 0.18673110720562391,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "MILAN",
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
-    "numberOfShares": 2867000,
-    "sharePrice": 11.93798449612403,
+    "numberOfShares": 3080700,
+    "sharePrice": 8.996045694200351,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
     "interactive": false
   },
   {
@@ -14,29 +24,29 @@
     "ticker": "PIA-IT",
     "companyName": "Piaggio",
     "numberOfShares": 13887000,
-    "sharePrice": 3.1738648947951273,
+    "sharePrice": 2.3769771528998245,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "RCS-IT",
     "companyName": "RCS MediaGroup S.p.A.",
-    "numberOfShares": 26246000,
-    "sharePrice": 1.0653377630121816,
+    "numberOfShares": 27849336,
+    "sharePrice": 0.9600175746924429,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "TOD-IT",
     "companyName": "Tod's S.p.A.",
-    "numberOfShares": 11982000,
-    "sharePrice": 46.267995570321155,
+    "numberOfShares": 14250994,
+    "sharePrice": 34.116871704745165,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
     "interactive": false
   }
 ]

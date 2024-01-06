@@ -1,10 +1,10 @@
 [
   {
-    "exchange": "NASDAQ",
-    "ticker": "AREX-US",
+    "exchange": "US OTC",
+    "ticker": "AREXQ-US",
     "companyName": "Approach Resources",
     "numberOfShares": 22620000,
-    "sharePrice": 0.089,
+    "sharePrice": 0.018,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,17 +14,17 @@
     "ticker": "CFW-CA",
     "companyName": "Calfrac Well Services",
     "numberOfShares": 8693000,
-    "sharePrice": 0.9561390195780847,
+    "sharePrice": 0.5214929598450421,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   },
   {
-    "exchange": "NYSE",
-    "ticker": "CRR-US",
+    "exchange": "US OTC",
+    "ticker": "CRRT-US",
     "companyName": "Carbo Ceramics Inc.",
-    "numberOfShares": 1545947,
-    "sharePrice": 1.68,
+    "numberOfShares": 1807457,
+    "sharePrice": 0.185,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,9 +34,9 @@
     "ticker": "CET-CA",
     "companyName": "Cathedral Energy Services",
     "numberOfShares": 79000,
-    "sharePrice": 0.18212171801487326,
+    "sharePrice": 0.1601728376666915,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "TCW-CA",
     "companyName": "Trican Well Service",
     "numberOfShares": 12625000,
-    "sharePrice": 0.6526028228866292,
+    "sharePrice": 0.6481412500931237,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   }
 ]

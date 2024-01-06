@@ -1,12 +1,22 @@
 [
   {
     "exchange": "PHILIPPINES",
+    "ticker": "HOME-PH",
+    "companyName": "All Home Corp",
+    "numberOfShares": 2540108300,
+    "sharePrice": 0.18636586562040217,
+    "currencyCode": "PHP",
+    "exchangeRate": 50.975,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
     "ticker": "HVN-PH",
     "companyName": "Golden Bria Holdings",
     "numberOfShares": 570802000,
-    "sharePrice": 8.50962962962963,
+    "sharePrice": 8.043158410985777,
     "currencyCode": "PHP",
-    "exchangeRate": 50.625,
+    "exchangeRate": 50.975,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "STR-PH",
     "companyName": "Starmalls",
     "numberOfShares": 114879955,
-    "sharePrice": 0.10844444444444445,
+    "sharePrice": 0.09651790093182933,
     "currencyCode": "PHP",
-    "exchangeRate": 50.625,
+    "exchangeRate": 50.975,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "VLL-PH",
     "companyName": "Vista Land & Lifescapes",
     "numberOfShares": 9154905000,
-    "sharePrice": 0.15190123456790125,
+    "sharePrice": 0.12319764590485532,
     "currencyCode": "PHP",
-    "exchangeRate": 50.625,
+    "exchangeRate": 50.975,
     "interactive": false
   }
 ]

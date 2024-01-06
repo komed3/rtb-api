@@ -1,12 +1,22 @@
 [
   {
     "exchange": "NIGERIA",
+    "ticker": "BUACEMENT-NG",
+    "companyName": "BUA Cement PLC",
+    "numberOfShares": 26549000000,
+    "sharePrice": 0.10157211209842788,
+    "currencyCode": "NGN",
+    "exchangeRate": 365.75,
+    "interactive": false
+  },
+  {
+    "exchange": "NIGERIA",
     "ticker": "CCNN-NG",
     "companyName": "Cement Co Northern Nigeria",
-    "numberOfShares": 9508980000,
-    "sharePrice": 0.04527260179434092,
+    "numberOfShares": 0,
+    "sharePrice": 0.04948735475051265,
     "currencyCode": "NGN",
-    "exchangeRate": 362.25,
+    "exchangeRate": 365.75,
     "interactive": false
   }
 ]

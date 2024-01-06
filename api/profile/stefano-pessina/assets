@@ -3,8 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "WBA-US",
     "companyName": "Walgreen",
-    "numberOfShares": 144879000,
-    "sharePrice": 59.49,
+    "numberOfShares": 144971528,
+    "sharePrice": 45.76,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBA-US",
+    "companyName": "Walgreen",
+    "numberOfShares": 263273,
+    "exerciseOptionPrice": 77.08,
+    "sharePrice": 45.76,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBA-US",
+    "companyName": "Walgreen",
+    "numberOfShares": 168068,
+    "exerciseOptionPrice": 67.01,
+    "sharePrice": 45.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

@@ -4,9 +4,9 @@
     "ticker": "CFP-CA",
     "companyName": "Canfor Corp.",
     "numberOfShares": 63729000,
-    "sharePrice": 12.080740628319926,
+    "sharePrice": 8.299187960962527,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "CTM-CA",
     "companyName": "Canterra Minerals Corporation",
     "numberOfShares": 15484000,
-    "sharePrice": 0.011382607375929579,
+    "sharePrice": 0.005959919541086195,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "JE-CA",
     "companyName": "Just Energy Group Inc.",
     "numberOfShares": 22322000,
-    "sharePrice": 1.950220063742601,
+    "sharePrice": 0.9535871265737912,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   },
   {
@@ -34,17 +34,19 @@
     "ticker": "WFT-CA",
     "companyName": "West Fraser Timber",
     "numberOfShares": 7915000,
-    "sharePrice": 45.62149036272575,
+    "sharePrice": 37.33889592490501,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "exchangeRate": 1.3423,
     "interactive": false
   },
   {
+    "exchange": "US OTC",
+    "ticker": "WTSHF-US",
     "companyName": "Westshore Terminals",
     "numberOfShares": 22698000,
-    "sharePrice": 0,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3178,
+    "sharePrice": 10.411,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

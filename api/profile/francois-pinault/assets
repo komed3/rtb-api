@@ -3,10 +3,10 @@
     "exchange": "LONDON",
     "ticker": "ACH-GB",
     "companyName": "ACHP PLC",
-    "numberOfShares": 74924000,
-    "sharePrice": 0.1506373117033604,
+    "numberOfShares": 0,
+    "sharePrice": 0.14944437348320347,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7767,
+    "exchangeRate": 0.7829,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "KER-FR",
     "companyName": "Kering SA",
     "numberOfShares": 51650000,
-    "sharePrice": 578.1838316722037,
+    "sharePrice": 555.5799648506152,
     "currencyCode": "EUR",
-    "exchangeRate": 0.903,
+    "exchangeRate": 0.9104,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
+    "ticker": "PUM-DE",
+    "companyName": "Puma AG Rudolf Dassler Sport",
+    "numberOfShares": 43730000,
+    "sharePrice": 76.01054481546574,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9104,
     "interactive": false
   }
 ]

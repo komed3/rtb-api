@@ -3,20 +3,30 @@
     "exchange": "WARSAW",
     "ticker": "CIE-PL",
     "companyName": "Ciech SA",
-    "numberOfShares": 26950000,
-    "sharePrice": 9.089020463280358,
+    "numberOfShares": 26952000,
+    "sharePrice": 8.87716539427296,
     "currencyCode": "PLN",
-    "exchangeRate": 3.8508,
+    "exchangeRate": 3.9427,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "SLE-GB",
+    "companyName": "San Leon Energy",
+    "numberOfShares": 10005000,
+    "sharePrice": 0.32060288670328263,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7829,
     "interactive": false
   },
   {
     "exchange": "WARSAW",
     "ticker": "SEN-PL",
     "companyName": "Serinus Energy Inc.",
-    "numberOfShares": 78600000,
-    "sharePrice": 0.1558117793705204,
+    "numberOfShares": 78603000,
+    "sharePrice": 0.10906231770106779,
     "currencyCode": "PLN",
-    "exchangeRate": 3.8508,
+    "exchangeRate": 3.9427,
     "interactive": false
   }
 ]
