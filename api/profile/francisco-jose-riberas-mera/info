@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,15 @@
   "source": [
     "steel",
     "autoparts"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

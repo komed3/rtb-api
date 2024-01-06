@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Nantong",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Nantong"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,21 @@
   "source": [
     "construction",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6ef90e31358e35dd26c553/416x416.jpg?background=000000&cropX1=715&cropX2=2293&cropY1=5&cropY2=1585",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fudan University",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Zurich",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Gstaad"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,21 @@
   "source": [
     "commodities",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64245c0926c40785bd66de23/416x416.jpg?background=000000&cropX1=0&cropX2=1504&cropY1=48&cropY2=1552",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of St. Gallen",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

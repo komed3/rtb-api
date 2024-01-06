@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b1254d310af4072bd1fb5d/416x416.jpg?background=000000&cropX1=135&cropX2=1128&cropY1=247&cropY2=1239",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "IMD",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Meritz Financial Group",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30327",
+    "_geo": {
+      "longitude": -84.421288,
+      "latitude": 33.864277
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Home Depot"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a8cc56de3150009a50133/416x416.jpg?background=000000&cropX1=310&cropX2=4009&cropY1=16&cropY2=3712",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Babson College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Atlanta Falcons",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

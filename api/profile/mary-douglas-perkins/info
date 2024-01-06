@@ -6,13 +6,24 @@
   "gender": null,
   "citizenship": "gb",
   "residence": {
-    "city": "Guernsey",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Guernsey"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

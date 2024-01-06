@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10014",
+    "_geo": {
+      "longitude": -74.0094471,
+      "latitude": 40.7366138
+    }
   },
   "industry": [
     "food-beverage"
@@ -15,5 +21,24 @@
   "source": [
     "candy",
     "pet food"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

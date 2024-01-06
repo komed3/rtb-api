@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Chicago",
-    "state": "Illinois"
+    "zipCode": "60602",
+    "_geo": {
+      "longitude": -87.6291268,
+      "latitude": 41.8834728
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "sports teams"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60381da7b017abb1996a3b92/416x416.jpg?background=000000&cropX1=859&cropX2=1988&cropY1=107&cropY2=1235",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "George Washington University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Northwestern University",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "construction-engineering"
@@ -16,5 +17,21 @@
     "engineering",
     "energy",
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e5fd978e1e617000758d5f3/416x416.jpg?background=000000&cropX1=304&cropX2=1210&cropY1=208&cropY2=1114",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

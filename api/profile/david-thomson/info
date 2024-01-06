@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5a7ba72aa7ea43169012f1b4/416x416.jpg?background=000000&cropX1=1065&cropX2=3315&cropY1=60&cropY2=2310",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Thomson Reuters Corporation",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

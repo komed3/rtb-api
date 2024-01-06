@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63a0cc5219ae5f47238ceb48/416x416.jpg?background=000000&cropX1=12&cropX2=648&cropY1=12&cropY2=648",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taiwan University",
+      "degree": "EMBA"
+    },
+    {
+      "school": "Tokai University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

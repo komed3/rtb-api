@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Landshut",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Landshut"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c703c114bbe6f79679f0521/416x416.jpg?background=000000&cropX1=221&cropX2=1235&cropY1=99&cropY2=1112",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

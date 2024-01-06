@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/f3b036a9e88fe0f1765e484194428ead/416x416.jpg?background=000000&cropX1=0&cropX2=362&cropY1=0&cropY2=362",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

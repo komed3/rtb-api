@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Guetersloh",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Guetersloh"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "publishing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70295e31358e35dd26dc89/416x416.jpg?background=000000&cropX1=840&cropX2=3456&cropY1=8&cropY2=2622",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

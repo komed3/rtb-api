@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil trading"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7223b031358e35dd26febc/416x416.jpg?background=000000&cropX1=34&cropX2=5639&cropY1=34&cropY2=5636",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stockholm University",
+      "degree": "Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

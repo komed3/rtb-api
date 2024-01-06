@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "paints"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6157635dd988af4f81235c55/416x416.jpg?background=000000&cropX1=0&cropX2=1967&cropY1=284&cropY2=2252",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Syracuse University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Mumbai",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

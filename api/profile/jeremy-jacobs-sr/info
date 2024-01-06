@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "East Aurora",
-    "state": "New York"
+    "_geo": {
+      "longitude": -78.612614,
+      "latitude": 42.767925
+    }
   },
   "industry": [
     "service"
   ],
   "source": [
     "food service"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8abd0922254b0008e16330/416x416.jpg?background=000000&cropX1=687&cropX2=3579&cropY1=184&cropY2=3076",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "SUNY Buffalo",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

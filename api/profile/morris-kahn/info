@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Beit Yanay",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Beit Yanay"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76cf0310380d0006fbb816/416x416.jpg?background=000000&cropX1=86&cropX2=698&cropY1=37&cropY2=649",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

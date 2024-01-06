@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Providence",
-    "state": "Rhode Island"
+    "country": "us",
+    "state": "Rhode Island",
+    "city": "Providence"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5cf810dacd1f12000a2b85ea/416x416.jpg?background=000000&cropX1=1374&cropX2=2617&cropY1=822&cropY2=2064",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Providence Equity Partners",
+    "title": "Executive Chairman "
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

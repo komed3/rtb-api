@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Gstaad",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Gstaad"
   },
   "industry": [
     "healthcare"
@@ -15,5 +16,25 @@
   "source": [
     "biotech",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77cdaad8e1ae0007b7364f/416x416.jpg?background=000000&cropX1=906&cropX2=2274&cropY1=354&cropY2=1721",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Babson College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "San Antonio",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -98.492889,
+      "latitude": 29.45995
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "natural gas"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a90ad9fa7ea434a0c2723c6/416x416.jpg?background=000000&cropX1=118&cropX2=1352&cropY1=238&cropY2=1473",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Texas A&M University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

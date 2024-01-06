@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Bedford",
-    "state": "New York"
+    "zipCode": "10549",
+    "_geo": {
+      "longitude": -73.730019,
+      "latitude": 41.20455
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8ee57ca7ea4316901419c6/416x416.jpg?background=000000&cropX1=373&cropX2=1209&cropY1=142&cropY2=979",
+  "deceased": false,
+  "children": 10,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Trian Fund Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

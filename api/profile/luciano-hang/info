@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Brusque",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Brusque"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "department stores"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

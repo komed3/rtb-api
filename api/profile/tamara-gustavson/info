@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kentucky",
     "city": "Lexington",
-    "state": "Kentucky"
+    "zipCode": "90265"
   },
   "industry": [
     "service"
   ],
   "source": [
     "self storage"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

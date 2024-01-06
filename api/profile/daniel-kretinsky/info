@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": "Prague",
-    "state": null
+    "country": "cz",
+    "state": null,
+    "city": "Prague"
   },
   "industry": [
     "energy"
@@ -15,5 +16,20 @@
   "source": [
     "energy",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "Masaryk University",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

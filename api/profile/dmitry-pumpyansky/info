@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Yekaterinburg",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "steel pipes"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6229130c334651defd7a7528/416x416.jpg?background=000000&cropX1=543&cropX2=2719&cropY1=308&cropY2=2483",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ural State Technical University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

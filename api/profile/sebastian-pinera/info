@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "cl",
   "residence": {
-    "city": "Santiago",
-    "state": null
+    "country": "cl",
+    "state": null,
+    "city": "Santiago"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e744db02a573300068fcdfa/416x416.jpg?background=000000&cropX1=1620&cropX2=4659&cropY1=0&cropY2=3037",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": {
+    "name": "Chile",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

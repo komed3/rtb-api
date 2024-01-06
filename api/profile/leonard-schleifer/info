@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Tarrytown",
-    "state": "New York"
+    "zipCode": "10591",
+    "_geo": {
+      "longitude": -73.8536683,
+      "latitude": 41.0813932
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a908f4831358e79a28a1f00/416x416.jpg?background=000000&cropX1=1703&cropX2=3960&cropY1=354&cropY2=2613",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Medical Doctor"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": {
+    "name": "Regeneron Pharmaceuticals",
+    "title": "CEO and Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

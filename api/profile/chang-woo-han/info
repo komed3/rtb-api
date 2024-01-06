@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Kyoto",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Kyoto"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "pachinko parlors"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/78fb1fa189e0d8396577f225bb3d720e/416x416.jpg?background=000000&cropX1=21&cropX2=744&cropY1=68&cropY2=792",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

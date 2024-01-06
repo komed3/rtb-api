@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Qinhuangdao",
-    "state": "Hebei"
+    "country": "cn",
+    "state": null,
+    "city": "Qinhuangdao"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

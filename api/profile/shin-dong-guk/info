@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Pharmaceuticals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/571a7656a7ea43722d781fda/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=66&cropY2=810",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Hanyang Precision",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

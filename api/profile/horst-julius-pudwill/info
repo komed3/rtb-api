@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "manufacturing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/603527cabc0743d40c71abaa/416x416.jpg?background=000000&cropX1=0&cropX2=1632&cropY1=0&cropY2=1632",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Technical College in Flensburg",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

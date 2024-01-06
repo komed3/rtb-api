@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Xiamen",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Xiamen"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61a52212402ed8086d7a1ac9/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Xiamen University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

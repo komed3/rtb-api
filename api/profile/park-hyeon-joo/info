@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mutual funds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b1289686f393d366d1fb5b/416x416.jpg?background=000000&cropX1=0&cropX2=2166&cropY1=48&cropY2=2214",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Mirae Asset",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

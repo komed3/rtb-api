@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30303",
+    "_geo": {
+      "longitude": -84.3883717,
+      "latitude": 33.755711
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Chick-fil-A"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5601a7fbe4b0ffa7afe4f321/416x416.jpg?background=000000&cropX1=27&cropX2=678&cropY1=21&cropY2=672",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgia Southern University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

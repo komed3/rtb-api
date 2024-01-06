@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Sant'' Elpidio A Mare",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Sant'' Elpidio A Mare"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6408df7a1db294f683ffe093/416x416.jpg?background=000000&cropX1=723&cropX2=2065&cropY1=59&cropY2=1400",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

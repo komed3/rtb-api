@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "cement"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b818c0f773d1571f81d985efd190c1ac/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=1&cropY2=600",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Leningrad Institute of Physical Culture",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

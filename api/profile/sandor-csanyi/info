@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "hu",
   "residence": {
-    "city": "Budapest",
-    "state": null
+    "country": "hu",
+    "state": null,
+    "city": "Budapest"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "finance",
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

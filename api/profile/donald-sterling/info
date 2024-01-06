@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Beverly Hills",
-    "state": "California"
+    "zipCode": "90210",
+    "_geo": {
+      "longitude": -118.411115,
+      "latitude": 34.092807
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8adf936de3150009a506d9/416x416.jpg?background=000000&cropX1=575&cropX2=1669&cropY1=146&cropY2=1240",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "California State Los Angeles",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Southwestern Law School",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

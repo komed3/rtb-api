@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Aberdyfi",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Aberdyfi"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "real estate",
     "manufacturing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

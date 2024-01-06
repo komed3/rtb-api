@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "property"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b1347251f17bebdaec4356/416x416.jpg?background=000000&cropX1=567&cropX2=1266&cropY1=122&cropY2=821",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Victoria University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "zipCode": "30327",
+    "_geo": {
+      "longitude": -84.427401,
+      "latitude": 33.8820545
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Waffle House"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Patna University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

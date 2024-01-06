@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Norwich",
-    "state": "New York"
+    "zipCode": "13815"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "greek yogurt"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77e12210380d0006fbc828/416x416.jpg?background=000000&cropX1=303&cropX2=2947&cropY1=23&cropY2=2667",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "SUNY Albany",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Chobani",
+    "title": "Founder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

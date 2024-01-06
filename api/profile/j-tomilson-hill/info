@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10007",
+    "_geo": {
+      "longitude": -74.0087126,
+      "latitude": 40.7136487
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a908f074bbe6f0fa82668a3/416x416.jpg?background=000000&cropX1=1033&cropX2=1968&cropY1=144&cropY2=1080",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

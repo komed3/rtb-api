@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Kolkata",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Kolkata"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/0e96c29819c584840c6320805c622547/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=15&cropY2=755",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Calcutta University",
+      "degree": "LLB"
+    },
+    {
+      "school": "Calcutta University",
+      "degree": "M.Com"
+    },
+    {
+      "school": "Institute of Chartered Accountants of India",
+      "degree": "Chartered Accountant"
+    },
+    {
+      "school": "Institute of Company Secretaries of India",
+      "degree": "Company Secretary"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

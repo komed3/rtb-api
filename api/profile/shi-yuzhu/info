@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,25 @@
   "source": [
     "online games",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c6eeee6a7ea4310004310b0/416x416.jpg?background=000000&cropX1=836&cropX2=1853&cropY1=185&cropY2=1202",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Shenzhen University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Zhejiang University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

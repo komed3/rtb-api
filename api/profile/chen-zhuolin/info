@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Zhongshan",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Zhongshan"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Minnesota",
     "city": "Orono",
-    "state": "Minnesota"
+    "zipCode": "55356",
+    "_geo": {
+      "longitude": -93.585549,
+      "latitude": 44.989285
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

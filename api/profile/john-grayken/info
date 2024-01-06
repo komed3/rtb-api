@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56cb6be7e4b062f6b59a3d38/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=5&cropY2=749",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

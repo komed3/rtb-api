@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "video surveillance"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f89c0f2bea0bbe373992b7f/416x416.jpg?background=000000&cropX1=820&cropX2=1800&cropY1=631&cropY2=1612",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Huazhong University of Science and Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

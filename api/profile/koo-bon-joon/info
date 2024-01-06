@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
@@ -15,5 +16,28 @@
   "source": [
     "electronics",
     "household products"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5b15b7704bbe6f74868b9317/416x416.jpg?background=000000&cropX1=118&cropX2=952&cropY1=513&cropY2=1348",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Chicago",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "LG Electronics",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

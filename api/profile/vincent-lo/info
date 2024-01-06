@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63eff425c058e9c91fed2989/416x416.jpg?background=000000&cropX1=38&cropX2=991&cropY1=180&cropY2=1133",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of New South Wales",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

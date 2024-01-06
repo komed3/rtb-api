@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Seattle",
-    "state": "Washington"
+    "zipCode": "98112",
+    "_geo": {
+      "longitude": -122.298989,
+      "latitude": 47.63171
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Starbucks"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8bbe586de3150009a51b00/416x416.jpg?background=000000&cropX1=779&cropX2=1928&cropY1=1929&cropY2=3079",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Northern Michigan University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Tampa",
-    "state": "Florida"
+    "zipCode": "33613",
+    "_geo": {
+      "longitude": -82.444598,
+      "latitude": 28.07893
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "shopping centers"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/632cc5ab3b3068af937d2c2d/416x416.jpg?background=000000&cropX1=477&cropX2=900&cropY1=360&cropY2=783",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Notre Dame University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

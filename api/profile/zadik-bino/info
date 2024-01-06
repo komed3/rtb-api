@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,21 @@
   "source": [
     "banking",
     "oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70c889a7ea431000433eb6/416x416.jpg?background=000000&cropX1=126&cropX2=995&cropY1=0&cropY2=868",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

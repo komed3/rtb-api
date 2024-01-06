@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/222dbe79a423261046cbdb42ac70e16b/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

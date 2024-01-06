@@ -6,13 +6,45 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10021",
+    "_geo": {
+      "longitude": -73.969924,
+      "latitude": 40.771403
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Harvard Law School",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "University of Michigan, Ann Arbor",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": {
+    "name": "New Mountain Capital",
+    "title": "Founder & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Windsor",
-    "state": "Ontario"
+    "country": "ca",
+    "state": null,
+    "city": "Windsor"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

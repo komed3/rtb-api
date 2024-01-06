@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Sonoma",
-    "state": "California"
+    "zipCode": "95476",
+    "_geo": {
+      "longitude": -122.4693688,
+      "latitude": 38.2315738
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Citigroup"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

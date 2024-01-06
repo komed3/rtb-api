@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "service"
   ],
   "source": [
     "security services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/1b841917128c0c838ecfcaa4cbacb3b0/416x416.jpg?background=000000&cropX1=43&cropX2=711&cropY1=44&cropY2=713",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Catholic University of Buenos Aires",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "IESE Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

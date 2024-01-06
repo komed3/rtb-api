@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newport Beach",
-    "state": "California"
+    "zipCode": "92625",
+    "_geo": {
+      "longitude": -117.866679,
+      "latitude": 33.60188
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "semiconductors"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aa0fd6de3150009a5030b/416x416.jpg?background=000000&cropX1=376&cropX2=1438&cropY1=38&cropY2=1100",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Broadcom",
+    "title": "Cofounder, Chief Technology Officer and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

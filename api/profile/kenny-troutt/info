@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75229",
+    "_geo": {
+      "longitude": -96.859879,
+      "latitude": 32.89413
+    }
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b491c82df35b9f005aeda31736537e21/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=98&cropY2=842",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Southern Illinois University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

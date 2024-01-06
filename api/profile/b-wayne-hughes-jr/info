@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Malibu",
-    "state": "California"
+    "country": "us",
+    "state": "Wyoming",
+    "city": "Jackson"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "storage facilities"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

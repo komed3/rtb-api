@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58fe039131358e58f07ab1d7/416x416.jpg?background=000000&cropX1=89&cropX2=979&cropY1=123&cropY2=1012",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indiana Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maryland",
     "city": "Potomac",
-    "state": "Maryland"
+    "zipCode": "20854",
+    "_geo": {
+      "longitude": -77.19742,
+      "latitude": 39.039118
+    }
   },
   "industry": [
     "manufacturing"
@@ -15,5 +21,21 @@
   "source": [
     "manufacturing",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ab76522254b0008e162bb/416x416.jpg?background=000000&cropX1=377&cropX2=1461&cropY1=0&cropY2=1085",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Miami University of Ohio",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

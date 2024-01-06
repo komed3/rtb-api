@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Las Vegas",
-    "state": "Nevada"
+    "zipCode": "89145",
+    "_geo": {
+      "longitude": -115.271912,
+      "latitude": 36.16755
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +21,21 @@
   "source": [
     "casinos",
     "mixed martial arts"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba67c214bbe6f79516f6c10/416x416.jpg?background=000000&cropX1=105&cropX2=676&cropY1=151&cropY2=722",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

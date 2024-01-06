@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/629e5b8eebee89de47d8d39d/416x416.jpg?background=000000&cropX1=176&cropX2=1809&cropY1=73&cropY2=1706",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

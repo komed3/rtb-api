@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Seattle",
-    "state": "Washington"
+    "country": "us",
+    "state": "Washington",
+    "city": "Medina"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Amazon"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Engaged",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Amazon",
+    "title": "Chairman and Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

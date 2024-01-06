@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Rheinfelden",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Rheinfelden"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "chemicals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c723bb331358e35dd270033/416x416.jpg?background=000000&cropX1=302&cropX2=1017&cropY1=2&cropY2=717",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

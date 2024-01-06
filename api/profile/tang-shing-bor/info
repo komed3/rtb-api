@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Edmond",
-    "state": "Oklahoma"
+    "zipCode": "73083"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "payroll processing"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Central Oklahoma",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

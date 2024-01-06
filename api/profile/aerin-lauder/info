@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10007",
+    "_geo": {
+      "longitude": -74.0087126,
+      "latitude": 40.7136487
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f46b424808a289780083f05/416x416.jpg?background=000000&cropX1=895&cropX2=2304&cropY1=287&cropY2=1696",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 4
+  }
 }

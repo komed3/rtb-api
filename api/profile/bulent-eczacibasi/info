@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,25 @@
   "source": [
     "pharmaceuticals",
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77df7e10380d0006fbc7f3/416x416.jpg?background=000000&cropX1=1077&cropX2=5200&cropY1=56&cropY2=4176",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Imperial College London",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

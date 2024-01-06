@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "social network"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7fba3d31358e4955ad206f/416x416.jpg?background=000000&cropX1=446&cropX2=3103&cropY1=0&cropY2=2656",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

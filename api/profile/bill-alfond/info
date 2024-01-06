@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Boston",
-    "state": "Massachusetts"
+    "zipCode": "02210"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

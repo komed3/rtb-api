@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Beverly Hills",
-    "state": "California"
+    "zipCode": "90210",
+    "_geo": {
+      "longitude": -118.411115,
+      "latitude": 34.092807
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,21 @@
   "source": [
     "TV network",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5efcdf8d531e1500073c6e08/416x416.jpg?background=000000&cropX1=495&cropX2=3466&cropY1=32&cropY2=3000",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

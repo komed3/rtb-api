@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Quanzhou",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Quanzhou"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "sports apparel"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7505a710380d0006bdc208/416x416.jpg?background=000000&cropX1=1736&cropX2=5240&cropY1=0&cropY2=3503",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Xiamen University",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

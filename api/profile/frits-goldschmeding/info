@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Amsterdam",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Amsterdam"
   },
   "industry": [
     "service"
   ],
   "source": [
     "temp agency"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b11e15397177ea074c2b0d30ddeb459f/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=76&cropY2=817",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Free University of Amsterdam",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

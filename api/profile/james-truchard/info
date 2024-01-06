@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -97.8299383,
+      "latitude": 30.2962208
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

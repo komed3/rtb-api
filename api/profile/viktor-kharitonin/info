@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Novosibirsk State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

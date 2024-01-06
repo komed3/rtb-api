@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77006",
+    "_geo": {
+      "longitude": -95.3998043,
+      "latitude": 29.7282204
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "high speed trading"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Engaged",
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Georgia Tech",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

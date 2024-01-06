@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "mc",
   "residence": {
-    "city": "Monte Carlo",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monte Carlo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "art"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70fed0a7ea431000434169/416x416.jpg?background=000000&cropX1=410&cropX2=1740&cropY1=126&cropY2=1455",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "surveillance equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Zhejiang Shuren University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Zhejiang University",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

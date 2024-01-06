@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e78c6e2d8e1ae0007b74175/416x416.jpg?background=000000&cropX1=875&cropX2=2263&cropY1=1435&cropY2=2824",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of St Gallen",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

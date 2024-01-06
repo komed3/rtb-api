@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munich",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Munich"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

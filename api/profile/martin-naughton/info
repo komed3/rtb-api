@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "Maeth",
-    "state": null
+    "country": "ie",
+    "state": null,
+    "city": "Maeth"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "heating equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/589f81eaa7ea431f32194c5e/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=44&cropY2=788",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Southampton College of Advanced Technology England",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Nakano, Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Nakano, Tokyo"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Rikkyo University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

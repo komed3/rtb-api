@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Bloomfield Hills",
-    "state": "Michigan"
+    "zipCode": "48301"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Rochester",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Toronto",
+      "degree": "Bachelor of Commerce"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

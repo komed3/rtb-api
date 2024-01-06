@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "_geo": {
+      "longitude": -84.391109,
+      "latitude": 33.748315
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Spanx"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ceedf889736330008aa67c8/416x416.jpg?background=000000&cropX1=759&cropX2=2600&cropY1=472&cropY2=2314",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Florida State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Spanx",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

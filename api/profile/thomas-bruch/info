@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "St. Wendel",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "St. Wendel"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/1edeb6db1484069b9169eba6abaacea4/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=6&cropY2=746",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Saarland",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Sarasota",
-    "state": "Florida"
+    "zipCode": "34236"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "live entertainment"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/59dd88d1a7ea436b47b3af5f/416x416.jpg?background=000000&cropX1=267&cropX2=1573&cropY1=194&cropY2=1500",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Separated",
+  "education": [
+    {
+      "school": "Boston University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Feld Entertainment",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

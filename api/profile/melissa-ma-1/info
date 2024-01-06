@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "internet search"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Rutgers University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Science and Technology of China",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

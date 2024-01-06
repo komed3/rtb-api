@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Franklin",
-    "state": "Michigan"
+    "zipCode": "48025",
+    "_geo": {
+      "longitude": -83.260929,
+      "latitude": 42.522558
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Quicken Loans"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e444fcb112160000621ed4c/416x416.jpg?background=000000&cropX1=0&cropX2=2000&cropY1=307&cropY2=2307",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Michigan State University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Wayne State University",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

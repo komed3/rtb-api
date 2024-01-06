@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Monza",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

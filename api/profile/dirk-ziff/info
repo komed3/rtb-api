@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "North Palm Beach",
-    "state": "Florida"
+    "zipCode": "33408",
+    "_geo": {
+      "longitude": -80.060629,
+      "latitude": 26.84276
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a9ccf6de3150009a502d0/416x416.jpg?background=000000&cropX1=726&cropX2=2857&cropY1=86&cropY2=2216",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 4
+  }
 }

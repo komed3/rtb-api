@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a70dd074bbe6f2652f40843/416x416.jpg?background=000000&cropX1=101&cropX2=1676&cropY1=0&cropY2=1577",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

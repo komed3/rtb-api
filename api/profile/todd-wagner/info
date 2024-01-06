@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75225",
+    "_geo": {
+      "longitude": -96.788167,
+      "latitude": 32.865472
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "online media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8f0d5c4bbe6f0fa82646b3/416x416.jpg?background=000000&cropX1=0&cropX2=1997&cropY1=133&cropY2=2130",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indiana University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

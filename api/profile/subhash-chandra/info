@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59d3d6ce31358e542c0344be/416x416.jpg?background=000000&cropX1=1886&cropX2=4500&cropY1=9&cropY2=2624",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Mexico City"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "TV broadcasting"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76f69ac7b02d000666d3db/416x416.jpg?background=000000&cropX1=31&cropX2=1816&cropY1=0&cropY2=1786",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

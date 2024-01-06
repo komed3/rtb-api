@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Grand Cayman",
-    "state": null
+    "country": "ky",
+    "state": null,
+    "city": "Grand Cayman"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "record label"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c726e2131358e35dd270216/416x416.jpg?background=000000&cropX1=159&cropX2=978&cropY1=59&cropY2=878",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": null
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "liquor"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e74403707adf00006db9fbc/416x416.jpg?background=000000&cropX1=1440&cropX2=2420&cropY1=210&cropY2=1190",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "McGill University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

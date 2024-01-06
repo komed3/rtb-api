@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90012",
+    "_geo": {
+      "longitude": -118.246879,
+      "latitude": 34.072437
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Facebook"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a836fff31358e4955ad6549/416x416.jpg?background=000000&cropX1=234&cropX2=790&cropY1=7&cropY2=563",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Founders Fund",
+    "title": "General Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

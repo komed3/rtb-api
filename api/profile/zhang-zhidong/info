@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "internet media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5bcf8eec31358e5b4334465b/416x416.jpg?background=000000&cropX1=249&cropX2=943&cropY1=98&cropY2=793",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Shenzhen University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "South China University of Technology",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

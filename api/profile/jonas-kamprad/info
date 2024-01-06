@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "IKEA"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

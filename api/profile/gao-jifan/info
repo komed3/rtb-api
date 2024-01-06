@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Changzhou",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Changzhou"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "solar equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Jilin University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Nanjing University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

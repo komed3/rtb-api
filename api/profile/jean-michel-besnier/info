@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Laval",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Laval"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "cheese"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a953ea1a7ea434a0c275f32/416x416.jpg?background=000000&cropX1=756&cropX2=2664&cropY1=0&cropY2=1906",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

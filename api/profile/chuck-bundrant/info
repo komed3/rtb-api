@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Seattle",
-    "state": "Washington"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "fishing"
-  ]
+  ],
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Middle Tennessee State University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

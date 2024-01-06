@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": "Ontario"
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,16 @@
   "source": [
     "insurance",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56c65371e4b062f6b59a0fb1/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=3&cropY2=746",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

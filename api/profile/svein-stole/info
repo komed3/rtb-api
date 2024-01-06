@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "no",
+    "state": null,
+    "city": "Oslo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "energy"
@@ -15,5 +16,24 @@
   "source": [
     "oil",
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Oxford",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "University of Plymouth (UK)",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76981910380d0006fbb54f/416x416.jpg?background=000000&cropX1=498&cropX2=2965&cropY1=133&cropY2=2601",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Mumbai",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

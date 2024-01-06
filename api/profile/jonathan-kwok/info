@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Real Estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

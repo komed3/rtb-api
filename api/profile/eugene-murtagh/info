@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "Kingscourt",
-    "state": null
+    "country": "ie",
+    "state": null,
+    "city": "Kingscourt"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "building materials"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

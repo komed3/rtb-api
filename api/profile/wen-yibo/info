@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "service"
   ],
   "source": [
     "wastewater treatment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e790c7610380d0006fbdf2a/416x416.jpg?background=000000&cropX1=286&cropX2=2753&cropY1=200&cropY2=2667",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Lanzhou Railway College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

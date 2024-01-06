@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
-    "city": "Monte Carlo",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monte Carlo"
   },
   "industry": [
     "service"
   ],
   "source": [
     "EasyJet"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75873cc7b02d000666c33e/416x416.jpg?background=000000&cropX1=598&cropX2=1754&cropY1=820&cropY2=1975",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "City University of London",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

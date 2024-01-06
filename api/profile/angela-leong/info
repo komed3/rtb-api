@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/620d3a8f5f32a602c7f05d4f/416x416.jpg?background=000000&cropX1=1051&cropX2=2810&cropY1=91&cropY2=1850",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

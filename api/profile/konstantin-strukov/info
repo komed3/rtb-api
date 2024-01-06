@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Chelyabinsk",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Chelyabinsk"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,20 @@
   "source": [
     "gold",
     "coal mining"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Magnitogorsk Mining and Metallurgical Institute",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

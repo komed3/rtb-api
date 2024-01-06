@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75229",
+    "_geo": {
+      "longitude": -96.8726295,
+      "latitude": 32.8958284
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

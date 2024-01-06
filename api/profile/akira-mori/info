@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7fadfb4bbe6f2652f53485/416x416.jpg?background=000000&cropX1=217&cropX2=2212&cropY1=0&cropY2=1995",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

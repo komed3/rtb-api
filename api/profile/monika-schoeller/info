@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Stuttgart",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Stuttgart"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "publishing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/a91e8fae900cf6fb90ad6202e1a7c387/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=23&cropY2=766",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munich",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "brakes"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76276b10380d0006fbad13/416x416.jpg?background=000000&cropX1=1713&cropX2=3735&cropY1=520&cropY2=2542",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Munich",
+      "degree": "LLM"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

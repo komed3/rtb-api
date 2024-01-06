@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Guangzhou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "agribusiness"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Huazhong Agricultural University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

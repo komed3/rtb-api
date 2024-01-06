@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6050f48ca1ab099ed6e290cc/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "National Chengchi University",
+      "degree": "EMBA"
+    },
+    {
+      "school": "National Taiwan University"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

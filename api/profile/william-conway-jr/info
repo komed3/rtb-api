@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "McLean",
-    "state": "Virginia"
+    "zipCode": "22101",
+    "_geo": {
+      "longitude": -77.168839,
+      "latitude": 38.93329
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8deac231358e4955adfe42/416x416.jpg?background=000000&cropX1=771&cropX2=3434&cropY1=6&cropY2=2667",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Carlyle Group",
+    "title": "Co-Chief Executive Officer and Co-founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

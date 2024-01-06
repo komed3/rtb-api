@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Naples",
-    "state": "Florida"
+    "zipCode": "34102",
+    "_geo": {
+      "longitude": -81.797189,
+      "latitude": 26.143819
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "The University of Chicago",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "The University of Chicago",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Williams College",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

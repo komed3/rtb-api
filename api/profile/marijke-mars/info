@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90027"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +17,20 @@
   "source": [
     "candy",
     "pet food"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

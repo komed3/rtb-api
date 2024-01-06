@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Kolkata",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Kolkata"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/98ff8ca7e8482f8118eec56850275103/416x416.jpg?background=000000&cropX1=50&cropX2=691&cropY1=108&cropY2=749",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Calcutta University",
+      "degree": "LLB"
+    },
+    {
+      "school": "Calcutta University",
+      "degree": "M.Com"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

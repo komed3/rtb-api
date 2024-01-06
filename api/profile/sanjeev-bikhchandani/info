@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Internet"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Management, Ahmedabad",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "St Stephen's College (India)",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "_geo": {
+      "longitude": -118.245319,
+      "latitude": 34.05349
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

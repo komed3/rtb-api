@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Bentonville",
-    "state": "Arkansas"
+    "zipCode": "72712",
+    "_geo": {
+      "longitude": -94.22604,
+      "latitude": 36.360663
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Walmart"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59d50a9e4bbe6f37dd9ff712/416x416.jpg?background=000000&cropX1=244&cropX2=1841&cropY1=60&cropY2=1658",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "University of Arkansas",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Walmart",
+    "title": "Director"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

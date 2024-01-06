@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "it",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "Nutella",
     "chocolates"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70d7be31358e35dd26ee06/416x416.jpg?background=000000&cropX1=122&cropX2=2456&cropY1=228&cropY2=2561",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

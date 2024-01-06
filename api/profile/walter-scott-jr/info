@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Omaha",
-    "state": "Nebraska"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "energy"
@@ -15,5 +16,24 @@
   "source": [
     "utilities",
     "telecom"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4d53e5d4284d5bf7d91820/416x416.jpg?background=000000&cropX1=452&cropX2=1160&cropY1=50&cropY2=757",
+  "deceased": true,
+  "children": 6,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Colorado State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Level 3 Communications Inc.",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

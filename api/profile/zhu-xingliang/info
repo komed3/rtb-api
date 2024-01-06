@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Suzhou",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Suzhou"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/f893b3ba5dfb8226119a6f70602a1477/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=121&cropY2=865",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Suzhou University of Science and Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

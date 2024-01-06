@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "sg",
+    "state": null,
     "city": "Singapore",
-    "state": null
+    "zipCode": "150165"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64f5e709068527c25e85cc97/416x416.jpg?background=000000&cropX1=1952&cropX2=3330&cropY1=321&cropY2=1697",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Reed College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Ivanhoe Mines",
+    "title": "Founder and Executive Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

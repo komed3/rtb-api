@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "conglomerate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e756ba42a573300068fecb3/416x416.jpg?background=000000&cropX1=1258&cropX2=2732&cropY1=357&cropY2=1829",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Arizona State University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Cheung Kong Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Fudan University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

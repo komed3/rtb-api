@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "metals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e87ae86582b5d00068ce78c/416x416.jpg?background=000000&cropX1=1187&cropX2=4259&cropY1=272&cropY2=3347",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute of International Relations",
+      "degree": "Masters in Finance"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

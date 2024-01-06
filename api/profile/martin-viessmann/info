@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Allendorf",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Allendorf"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "heating and cooling equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e763155d8e1ae0007b71c03/416x416.jpg?background=000000&cropX1=421&cropX2=1649&cropY1=0&cropY2=1228",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Erlangen",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

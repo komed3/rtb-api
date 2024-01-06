@@ -6,13 +6,27 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Egerton Capital",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

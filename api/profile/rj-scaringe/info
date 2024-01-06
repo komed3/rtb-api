@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Irvine",
-    "state": "California"
+    "zipCode": "92602"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "electric vehicles"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Rensselaer Polytechnic Institute",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

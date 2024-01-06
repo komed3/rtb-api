@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "Banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a809208a7ea4316901339df/416x416.jpg?background=000000&cropX1=6&cropX2=1302&cropY1=3&cropY2=1300",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Power Engineering Institute",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

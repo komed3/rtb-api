@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/596e819b31358e4463b76550/416x416.jpg?background=000000&cropX1=290&cropX2=1623&cropY1=294&cropY2=1628",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

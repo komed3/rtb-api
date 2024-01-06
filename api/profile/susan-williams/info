@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "St. Louis",
-    "state": "Missouri"
+    "country": "us",
+    "state": "Missouri",
+    "city": "St. Louis"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "industrial supplies"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Washington University in St. Louis",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

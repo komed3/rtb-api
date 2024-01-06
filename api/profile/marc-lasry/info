@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10021",
+    "_geo": {
+      "longitude": -73.969924,
+      "latitude": 40.771403
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56d1c883e4b0c144a7f66626/416x416.jpg?background=000000&cropX1=126&cropX2=588&cropY1=5&cropY2=467",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Clark University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "New York Law School",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Avenue Capital Group",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

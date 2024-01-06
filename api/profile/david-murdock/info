@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Ventura",
-    "state": "California"
+    "zipCode": "93001",
+    "_geo": {
+      "longitude": -119.2769253,
+      "latitude": 34.2769462
+    }
   },
   "industry": [
     "food-beverage"
@@ -15,5 +21,21 @@
   "source": [
     "Dole",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59dd6e0031358e542c03936e/416x416.jpg?background=000000&cropX1=160&cropX2=2065&cropY1=0&cropY2=1905",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

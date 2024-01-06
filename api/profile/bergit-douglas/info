@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Frankfurt",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Frankfurt"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70325ea7ea431000432f95/416x416.jpg?background=000000&cropX1=330&cropX2=1248&cropY1=155&cropY2=1073",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

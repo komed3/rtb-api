@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7654e0c7b02d000666cbdb/416x416.jpg?background=000000&cropX1=408&cropX2=2929&cropY1=0&cropY2=2520",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

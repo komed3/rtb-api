@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Xi'an",
-    "state": "Shaanxi"
+    "country": "cn",
+    "state": null,
+    "city": "Xi'an"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "photovoltaics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Fayetteville",
-    "state": "Arkansas"
+    "zipCode": "72703",
+    "_geo": {
+      "longitude": -94.121331,
+      "latitude": 36.103331
+    }
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "trucking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ceaa4bacd1f12000a2a628b/416x416.jpg?background=000000&cropX1=999&cropX2=3840&cropY1=75&cropY2=2914",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "University of Central Arkansas",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

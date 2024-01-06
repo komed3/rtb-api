@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "St. Petersburg",
-    "state": "Florida"
+    "zipCode": "33704"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "furniture"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

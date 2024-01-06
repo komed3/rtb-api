@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Dusseldorf",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Dusseldorf"
   },
   "industry": [
     "service"
   ],
   "source": [
     "consulting"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

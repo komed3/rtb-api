@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Kazan",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Kazan"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,21 @@
   "source": [
     "refinery",
     "chemicals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a807a5e4bbe6f2652f53c13/416x416.jpg?background=000000&cropX1=601&cropX2=2934&cropY1=5&cropY2=2336",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kazan State Technical University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

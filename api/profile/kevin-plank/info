@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maryland",
     "city": "Lutherville-Timonium",
-    "state": "Maryland"
+    "zipCode": "21094",
+    "_geo": {
+      "longitude": -76.64,
+      "latitude": 39.44
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Under Armour"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a9087ca31358e79a28a1e3a/416x416.jpg?background=000000&cropX1=2143&cropX2=3423&cropY1=223&cropY2=1502",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Robert H. Smith School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Maryland",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Under Armour",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

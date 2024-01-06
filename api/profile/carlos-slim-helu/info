@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Mexico City"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c76ba144bbe6f24ad99c613/416x416.jpg?background=000000&cropX1=0&cropX2=3005&cropY1=389&cropY2=3395",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Universidad Nacional Autonoma de Mexico",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "América Móvil",
+    "title": "Honorary Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

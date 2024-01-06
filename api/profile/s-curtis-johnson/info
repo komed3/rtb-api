@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wisconsin",
     "city": "Racine",
-    "state": "Wisconsin"
+    "zipCode": "53402",
+    "_geo": {
+      "longitude": -87.799104,
+      "latitude": 42.77851
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "cleaning products"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/8e422dbdec30a22c76e951d2d2938057/416x416.jpg?background=000000&cropX1=0&cropX2=467&cropY1=85&cropY2=552",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Kellogg School of Management",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

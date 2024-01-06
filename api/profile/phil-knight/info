@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oregon",
     "city": "Hillsboro",
-    "state": "Oregon"
+    "zipCode": "97123",
+    "_geo": {
+      "longitude": -122.953222,
+      "latitude": 45.492713
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Nike"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6488d5874961598251b12f50/416x416.jpg?background=000000&cropX1=598&cropX2=3344&cropY1=0&cropY2=2747",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Oregon",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Nike",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

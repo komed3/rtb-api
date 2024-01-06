@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "tractors"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/59cc1536a7ea434a34f46d14/416x416.jpg?background=000000&cropX1=918&cropX2=1964&cropY1=133&cropY2=1180",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Punjab University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Punjab University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "_geo": {
+      "longitude": -84.391109,
+      "latitude": 33.748315
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "cable television"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6000c01d0887dafe93771150/416x416.jpg?background=000000&cropX1=1614&cropX2=4458&cropY1=614&cropY2=3456",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

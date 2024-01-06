@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "wedding dresses"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Separated",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

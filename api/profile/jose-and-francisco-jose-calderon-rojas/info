@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Monterrey",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Monterrey"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beverages"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Universidad Autonoma de Nuevo Leon",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

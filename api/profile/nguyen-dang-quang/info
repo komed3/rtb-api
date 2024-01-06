@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "vn",
   "residence": {
-    "city": "Ho Chi Minh City",
-    "state": null
+    "country": "vn",
+    "state": null,
+    "city": "Ho Chi Minh City"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,15 @@
   "source": [
     "consumer products",
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

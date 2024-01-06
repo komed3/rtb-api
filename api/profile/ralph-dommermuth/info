@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Montabaur",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Montabaur"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "internet service provider"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76345bd8e1ae0007b71c96/416x416.jpg?background=000000&cropX1=312&cropX2=3417&cropY1=20&cropY2=3127",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64a6e899d7afb6081c4c321c/416x416.jpg?background=000000&cropX1=52&cropX2=969&cropY1=35&cropY2=951",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

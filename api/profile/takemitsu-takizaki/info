@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Osaka",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Osaka"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "sensors"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5eaa4141ed706b0007e62bd7/416x416.jpg?background=000000&cropX1=1310&cropX2=2754&cropY1=224&cropY2=1667",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

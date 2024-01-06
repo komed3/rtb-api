@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Worcester",
-    "state": "Massachusetts"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "lasers"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c76ea8131358e35dd277f34/416x416.jpg?background=000000&cropX1=2132&cropX2=4036&cropY1=610&cropY2=2513",
+  "deceased": true,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Lviv Polytechnic National University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Moscow Institute of Physics and Technology",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

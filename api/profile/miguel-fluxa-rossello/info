@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Esporles",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Esporles"
   },
   "industry": [
     "service"
   ],
   "source": [
     "hotels"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "zipCode": "06830",
+    "_geo": {
+      "longitude": -73.629382,
+      "latitude": 41.033949
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5ac959f74bbe6f2310f1e05c/416x416.jpg?background=000000&cropX1=657&cropX2=3206&cropY1=80&cropY2=2627",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Long Island University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Bridgewater Associates",
+    "title": "Founder & CIO Mentor"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

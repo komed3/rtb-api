@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Haikou",
-    "state": "Hainan"
+    "country": "cn",
+    "state": null,
+    "city": "Haikou"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

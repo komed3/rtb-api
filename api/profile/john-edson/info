@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wyoming",
     "city": "Jackson",
-    "state": "Wyoming"
+    "_geo": {
+      "longitude": -110.749964,
+      "latitude": 43.47687
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "leisure craft"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a90876c31358e79a28a1e2d/416x416.jpg?background=000000&cropX1=509&cropX2=1828&cropY1=155&cropY2=1474",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Washington",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

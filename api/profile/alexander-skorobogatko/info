@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "logistics"
@@ -15,5 +16,21 @@
   "source": [
     "real estate",
     "airport"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b0486d23f85a613e85336bd421161b18/416x416.jpg?background=000000&cropX1=6&cropX2=744&cropY1=85&cropY2=823",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Plekhanov Russian University of Economics",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

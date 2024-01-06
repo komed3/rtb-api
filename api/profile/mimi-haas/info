@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94115",
+    "_geo": {
+      "longitude": -122.435729,
+      "latitude": 37.78578
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Levi's jeans"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "George Washington University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

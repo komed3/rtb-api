@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Johannesburg",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Johannesburg"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "diamonds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6009d4608122193e45aeabc9/416x416.jpg?background=000000&cropX1=314&cropX2=2176&cropY1=1006&cropY2=2869",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Oxford U Christ Church",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Oxford U Christ Church",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

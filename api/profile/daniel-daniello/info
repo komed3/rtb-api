@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Vienna",
-    "state": "Virginia"
+    "zipCode": "22182",
+    "_geo": {
+      "longitude": -77.25784,
+      "latitude": 38.926569
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/57e17dbc31358e16c589bf64/416x416.jpg?background=000000&cropX1=176&cropX2=736&cropY1=0&cropY2=561",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Syracuse University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

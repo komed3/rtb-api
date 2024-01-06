@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76dba710380d0006fbb8a9/416x416.jpg?background=000000&cropX1=824&cropX2=4013&cropY1=77&cropY2=3265",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Milan",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

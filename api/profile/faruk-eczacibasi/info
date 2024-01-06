@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,16 @@
   "source": [
     "pharmaceuticals",
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58b73e0da7ea431f321a6e54/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=81&cropY2=825",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8144134bbe6f2652f54724/416x416.jpg?background=000000&cropX1=156&cropX2=1407&cropY1=79&cropY2=1329",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

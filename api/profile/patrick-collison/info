@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco ",
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "payment software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/619e651e6b47f0c29e025b72/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Stripe",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

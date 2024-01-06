@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "co",
   "residence": {
-    "city": "Bogota",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,21 @@
   "source": [
     "soft drinks",
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a985de531358e79a28abaee/416x416.jpg?background=000000&cropX1=0&cropX2=2348&cropY1=45&cropY2=2394",
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Universidad Nacional de Colombia",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

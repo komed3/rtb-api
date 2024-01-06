@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Universidade de Sao Paulo",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

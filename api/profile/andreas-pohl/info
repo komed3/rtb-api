@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Marburg",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Marburg"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mutual funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c703d964bbe6f79679f057f/416x416.jpg?background=000000&cropX1=74&cropX2=840&cropY1=60&cropY2=826",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

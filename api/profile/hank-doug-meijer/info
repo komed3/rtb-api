@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Grand Rapids",
-    "state": "Michigan"
+    "_geo": {
+      "longitude": -85.671179,
+      "latitude": 42.96641
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "supermarkets"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/7323a2a143c9b646a26c7cb1944bfb73/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=64&cropY2=808",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

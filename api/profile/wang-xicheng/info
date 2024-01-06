@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Zhaoyuan",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Zhaoyuan"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "tires"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a289fba7ea431f32197661/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=203&cropY2=947",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Gothenburg University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

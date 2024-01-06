@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Tulsa",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

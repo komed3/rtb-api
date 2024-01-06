@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami",
-    "state": "Florida"
+    "zipCode": "33154",
+    "_geo": {
+      "longitude": -80.126412,
+      "latitude": 25.89234
+    }
   },
   "industry": [
     "automotive"
@@ -15,5 +21,21 @@
   "source": [
     "art",
     "car dealerships"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f46b164b82ea26e4ddc6618/416x416.jpg?background=000000&cropX1=42&cropX2=3280&cropY1=669&cropY2=3907",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Temple University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

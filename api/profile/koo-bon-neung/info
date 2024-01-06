@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b1270858b3b0bc0386c057/416x416.jpg?background=000000&cropX1=58&cropX2=718&cropY1=26&cropY2=687",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Heesung Electronics",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

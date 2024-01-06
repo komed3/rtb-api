@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Cape Town",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Cape Town"
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +16,25 @@
   "source": [
     "media",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/600ae661a8213429e2ca1f4e/416x416.jpg?background=000000&cropX1=497&cropX2=1828&cropY1=0&cropY2=1332",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Witwatersrand",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

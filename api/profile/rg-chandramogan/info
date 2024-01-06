@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Chennai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Chennai"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "dairy"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

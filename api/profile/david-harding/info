@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77ee2bc7b02d000666e185/416x416.jpg?background=000000&cropX1=485&cropX2=2975&cropY1=6&cropY2=2496",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Cambridge",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Winton Capital Management",
+    "title": "Chairman & Head of Research"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

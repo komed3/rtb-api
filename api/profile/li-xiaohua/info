@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Yuxi",
-    "state": "Yunan"
+    "country": "cn",
+    "state": null,
+    "city": "Yuxi"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "packaging"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Massachusetts",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

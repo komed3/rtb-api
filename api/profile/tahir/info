@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70b5384bbe6f79c5473f96/416x416.jpg?background=000000&cropX1=247&cropX2=3585&cropY1=469&cropY2=3810",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Golden Gate University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Nan Yang University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

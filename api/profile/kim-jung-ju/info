@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58beb4e7a7ea431f321ab1cc/416x416.jpg?background=000000&cropX1=551&cropX2=3793&cropY1=304&cropY2=3544",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Nexon",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

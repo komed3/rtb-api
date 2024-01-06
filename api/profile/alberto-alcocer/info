@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77bb6e10380d0006fbc57e/416x416.jpg?background=000000&cropX1=61&cropX2=1246&cropY1=59&cropY2=1245",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidad Complutense de Madrid",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

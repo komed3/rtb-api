@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oregon",
     "city": "Portland",
-    "state": "Oregon"
+    "_geo": {
+      "longitude": -122.675629,
+      "latitude": 45.511795
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Columbia Sportswear"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b0b1a6de3150009a509e7/416x416.jpg?background=000000&cropX1=814&cropX2=3788&cropY1=334&cropY2=3308",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Oregon",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 5
+  }
 }

@@ -6,13 +6,28 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Davos",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Davos"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "commodities"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5deed561b269e900075dc2bd/416x416.jpg?background=000000&cropX1=6&cropX2=1223&cropY1=49&cropY2=1266",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": {
+    "name": "Louis Dreyfus SAS",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

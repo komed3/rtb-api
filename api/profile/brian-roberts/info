@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Philadelphia",
-    "state": "Pennsylvania"
+    "_geo": {
+      "longitude": -75.162369,
+      "latitude": 39.95227
+    }
   },
   "industry": [
     "service"
   ],
   "source": [
     "Comcast"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/618be22a430d0dd3ba3b72d2/416x416.jpg?background=000000&cropX1=1050&cropX2=1670&cropY1=279&cropY2=898",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Comcast",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

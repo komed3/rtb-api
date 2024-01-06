@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "be",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Sydney",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Sydney "
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "fast food"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ea65d93566dd44e5ffa64a/416x416.jpg?background=000000&cropX1=614&cropX2=2964&cropY1=0&cropY2=2348",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Western Ontario",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

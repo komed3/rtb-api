@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Rolling Hills",
-    "state": "California"
+    "zipCode": "90274",
+    "_geo": {
+      "longitude": -118.388239,
+      "latitude": 33.757732
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "computer hardware"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/a8e97df48d0b22d58aa783577ec6c714/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=63&cropY2=804",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Technische Universität Darmstadt",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Kingston Technology Corporation",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

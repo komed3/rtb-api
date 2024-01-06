@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,21 @@
   "source": [
     "mining",
     "commodities"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7278914bbe6f51818abdca/416x416.jpg?background=000000&cropX1=1150&cropX2=4556&cropY1=15&cropY2=3419",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Oxford University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

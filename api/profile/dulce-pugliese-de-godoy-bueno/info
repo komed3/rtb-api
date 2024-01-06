@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lugano"
   },
   "industry": [
     "healthcare"
@@ -15,5 +16,24 @@
   "source": [
     "hospitals",
     "health care"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Universidade Federal do Rio de Janeiro",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

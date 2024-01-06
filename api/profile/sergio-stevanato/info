@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Piombino Dese",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Venice"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical packaging"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Ferrara",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

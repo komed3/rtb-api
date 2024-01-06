@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Samsung"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/643e99ad9a44d7e60d1e5605/416x416.jpg?background=000000&cropX1=101&cropX2=676&cropY1=195&cropY2=770",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Parsons School of Design",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

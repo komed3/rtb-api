@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Utah",
     "city": "Provo",
-    "state": "Utah"
+    "zipCode": "84601",
+    "_geo": {
+      "longitude": -111.7256936,
+      "latitude": 40.2128559
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cloud computing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e83a1e0936edc00071fa4cc/416x416.jpg?background=000000&cropX1=315&cropX2=3051&cropY1=834&cropY2=3568",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brigham Young University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": {
+    "name": "Qualtrics",
+    "title": "Co-Founder & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

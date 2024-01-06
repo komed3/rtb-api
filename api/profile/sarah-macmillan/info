@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90001",
+    "_geo": {
+      "longitude": -118.2468148,
+      "latitude": 33.9697897
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ua",
   "residence": {
-    "city": "Donetsk",
-    "state": null
+    "country": "ua",
+    "state": null,
+    "city": "Donetsk"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,21 @@
   "source": [
     "steel",
     "coal"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77e575c7b02d000666e0f4/416x416.jpg?background=000000&cropX1=411&cropX2=3952&cropY1=111&cropY2=3656",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Donetsk National University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

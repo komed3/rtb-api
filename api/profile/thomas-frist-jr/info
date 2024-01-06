@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Nashville",
-    "state": "Tennessee"
+    "zipCode": "37215",
+    "_geo": {
+      "longitude": -86.825353,
+      "latitude": 36.09638
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/ee825ff539047091cda533423b10d65b/416x416.jpg?background=000000&cropX1=16&cropX2=947&cropY1=153&cropY2=1084",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Vanderbilt University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Washington University",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

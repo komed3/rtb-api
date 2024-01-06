@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6035318187ff113102f83a34/416x416.jpg?background=000000&cropX1=0&cropX2=770&cropY1=327&cropY2=1098",
+  "deceased": true,
+  "children": 8,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

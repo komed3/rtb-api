@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Changshu",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Changshu"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "apparel"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/654a57ff0519c4723c4dc442/416x416.jpg?background=000000&cropX1=1998&cropX2=3413&cropY1=428&cropY2=1842",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Phoenix International University",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

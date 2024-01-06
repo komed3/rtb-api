@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "London",
-    "state": null
+    "zipCode": "E1"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +17,24 @@
   "source": [
     "supermarkets",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fab50ee4b0ffa7afe4aef8/416x416.jpg?background=000000&cropX1=127&cropX2=744&cropY1=60&cropY2=677",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "The Yucaipa Companies, LLC",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

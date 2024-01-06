@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Tegernsee",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Tegernsee"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7e557831358e4955ad137a/416x416.jpg?background=000000&cropX1=0&cropX2=2573&cropY1=5&cropY2=2580",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Augsburg",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Augsburg",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

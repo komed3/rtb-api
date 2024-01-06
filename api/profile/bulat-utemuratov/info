@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kz",
   "residence": {
-    "city": "Astana",
-    "state": null
+    "country": "kz",
+    "state": null,
+    "city": "Nur-Sultan"
   },
   "industry": [
     "metals-mining"
@@ -16,5 +17,16 @@
     "mining",
     "banking",
     "hotels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76e921d8e1ae0007b7277e/416x416.jpg?background=000000&cropX1=51&cropX2=997&cropY1=11&cropY2=957",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

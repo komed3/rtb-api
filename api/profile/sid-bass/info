@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Fort Worth",
-    "state": "Texas"
+    "zipCode": "76107",
+    "_geo": {
+      "longitude": -97.382484,
+      "latitude": 32.74043
+    }
   },
   "industry": [
     "energy"
@@ -15,5 +21,25 @@
   "source": [
     "oil",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/632e0bfa1bd61f0dd644b124/416x416.jpg?background=000000&cropX1=971&cropX2=2153&cropY1=190&cropY2=1373",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

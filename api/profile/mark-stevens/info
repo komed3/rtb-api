@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Atherton",
-    "state": "California"
+    "country": "us",
+    "state": "Colorado",
+    "city": "Steamboat Springs"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8372604bbe6f2652f5804d/416x416.jpg?background=000000&cropX1=422&cropX2=1553&cropY1=69&cropY2=1200",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

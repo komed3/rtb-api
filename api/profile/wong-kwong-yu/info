@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6f0b8c31358e35dd26c7db/416x416.jpg?background=000000&cropX1=9&cropX2=1640&cropY1=9&cropY2=1640",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

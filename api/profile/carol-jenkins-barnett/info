@@ -6,13 +6,32 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Lakeland",
-    "state": "Florida"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Publix supermarkets"
-  ]
+  ],
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Florida Southern College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Publix  Super Markets",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ar",
   "residence": {
-    "city": "Buenos Aires",
-    "state": null
+    "country": "ar",
+    "state": null,
+    "city": "Buenos Aires"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

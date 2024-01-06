@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "_geo": {
+      "longitude": -74.007124,
+      "latitude": 40.71455
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Bloomberg LP"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Long Island University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "New York University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

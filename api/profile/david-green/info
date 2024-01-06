@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "zipCode": "73173",
+    "_geo": {
+      "longitude": -97.627023,
+      "latitude": 35.34646
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d275f874c687b00085c62e0/416x416.jpg?background=000000&cropX1=581&cropX2=2906&cropY1=425&cropY2=2748",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "Hobby Lobby",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

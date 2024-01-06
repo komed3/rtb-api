@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "lb",
   "residence": {
-    "city": "Beirut",
-    "state": null
+    "country": "lb",
+    "state": null,
+    "city": "Beirut"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "American University of Beirut, Lebanon",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newport Beach",
-    "state": "California"
+    "zipCode": "92660",
+    "_geo": {
+      "longitude": -117.874609,
+      "latitude": 33.63294
+    }
   },
   "industry": [
     "real-estate"
@@ -15,5 +21,24 @@
   "source": [
     "real estate",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b0e8a22254b0008e168a6/416x416.jpg?background=000000&cropX1=16&cropX2=681&cropY1=105&cropY2=770",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Chapman University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Arnel & Affiliates",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

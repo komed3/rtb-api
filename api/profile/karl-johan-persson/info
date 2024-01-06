@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "H&M"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77c710d8e1ae0007b73581/416x416.jpg?background=000000&cropX1=420&cropX2=2811&cropY1=0&cropY2=2389",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "London Business School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

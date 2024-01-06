@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "restaurants"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ea6e780f2e611000641c2e0/416x416.jpg?background=000000&cropX1=329&cropX2=2103&cropY1=381&cropY2=2155",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

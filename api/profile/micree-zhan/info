@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Cryptocurrency mining chips"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Shandong University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Chinese Academy of Sciences",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

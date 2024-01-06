@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
+    "country": "us",
+    "state": "Wyoming",
     "city": "Wilson",
-    "state": "Wyoming"
+    "zipCode": "83014"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a81269031358e4955ad311c/416x416.jpg?background=000000&cropX1=221&cropX2=987&cropY1=38&cropY2=803",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Swiss Federal Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

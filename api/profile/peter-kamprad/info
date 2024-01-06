@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Tervuren",
-    "state": null
+    "country": "be",
+    "state": null,
+    "city": "Tervuren"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "IKEA"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

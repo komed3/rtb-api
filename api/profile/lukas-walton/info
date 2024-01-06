@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Jackson",
-    "state": "Wyoming"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Walmart"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Colorado College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Göteborg",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Göteborg"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

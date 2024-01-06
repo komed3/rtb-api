@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Montecito",
-    "state": "California"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago",
+    "zipCode": "60611",
+    "_geo": {
+      "longitude": -87.619019,
+      "latitude": 41.894225
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "TV shows"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/646e6a91d2fd325e10ecc2bb/416x416.jpg?background=000000&cropX1=0&cropX2=1443&cropY1=111&cropY2=1555",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "Tennessee State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

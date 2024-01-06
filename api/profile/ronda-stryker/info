@@ -6,13 +6,39 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Portage",
-    "state": "Michigan"
+    "zipCode": "49024",
+    "_geo": {
+      "longitude": -85.618169,
+      "latitude": 42.21411
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fa1ca9e4b0ffa7afe4ad5a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=81&cropY2=825",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Northern Colorado",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Western Michigan University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

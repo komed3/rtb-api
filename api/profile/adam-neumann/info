@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "WeWork"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/640f9728b347b28105216409/416x416.jpg?background=000000&cropX1=0&cropX2=1017&cropY1=150&cropY2=1168",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "City University of New York Baruch"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

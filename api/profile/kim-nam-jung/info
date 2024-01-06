@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d24778c4c687b00085c1de0/416x416.jpg?background=000000&cropX1=48&cropX2=670&cropY1=65&cropY2=686",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Michigan, Stephen M. Ross School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

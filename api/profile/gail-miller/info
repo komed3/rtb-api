@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Utah",
     "city": "Salt Lake City",
-    "state": "Utah"
+    "zipCode": "84101",
+    "_geo": {
+      "longitude": -111.8985922,
+      "latitude": 40.7563925
+    }
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "car dealerships"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60f7355fc0b1bf1fe886f223/416x416.jpg?background=000000&cropX1=1864&cropX2=3045&cropY1=390&cropY2=1571",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "University of Utah",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

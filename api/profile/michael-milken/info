@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "91436",
+    "_geo": {
+      "longitude": -118.486239,
+      "latitude": 34.158029
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba54b774bbe6f79516f6035/416x416.jpg?background=000000&cropX1=615&cropX2=2337&cropY1=389&cropY2=2113",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

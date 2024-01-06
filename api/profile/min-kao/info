@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kansas",
     "city": "Leawood",
-    "state": "Kansas"
+    "zipCode": "66211",
+    "_geo": {
+      "longitude": -94.633142,
+      "latitude": 38.923294
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "navigation equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/2fa78ea6d7b94752e196e514f98f2b32/416x416.jpg?background=000000&cropX1=215&cropX2=478&cropY1=121&cropY2=384",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taiwan University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Tennessee Knoxville",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Tennessee Knoxville",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

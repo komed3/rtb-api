@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "São Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "São Paulo"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "pulp and paper"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade Presbiteriana Mackenzie",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

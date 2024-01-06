@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Audubon",
-    "state": "Pennsylvania"
+    "zipCode": "19403"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Temple University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Madras",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Globus Medical",
+    "title": "Founder and Executive Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

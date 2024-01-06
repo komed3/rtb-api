@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Marathon",
-    "state": "Florida"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

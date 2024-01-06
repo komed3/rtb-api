@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Thrissur",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Thrissur"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "jewelry"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70ab3331358e35dd26ebc3/416x416.jpg?background=000000&cropX1=310&cropX2=870&cropY1=1&cropY2=562",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

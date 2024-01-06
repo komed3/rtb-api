@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.037774,
+      "latitude": 26.71463
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a957e22254b0008e160ed/416x416.jpg?background=000000&cropX1=18&cropX2=706&cropY1=32&cropY2=720",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Virginia",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Tudor Investment Corporation",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

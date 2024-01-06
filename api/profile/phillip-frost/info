@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami Beach",
-    "state": "Florida"
+    "zipCode": "33139",
+    "_geo": {
+      "longitude": -80.140369,
+      "latitude": 25.782818
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba59e7c4bbe6f79516f67c1/416x416.jpg?background=000000&cropX1=139&cropX2=990&cropY1=21&cropY2=872",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Yeshiva U Albert Einstein College of Medicine",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90001",
+    "_geo": {
+      "longitude": -118.2468148,
+      "latitude": 33.9697897
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Snapchat"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d2e2895513b72000715c4c9/416x416.jpg?background=000000&cropX1=0&cropX2=2666&cropY1=340&cropY2=3006",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": {
+    "name": "Snap",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

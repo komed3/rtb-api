@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "eg",
   "residence": {
-    "city": "Cairo",
-    "state": null
+    "country": "eg",
+    "state": null,
+    "city": "Cairo"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,21 @@
   "source": [
     "construction",
     "chemicals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6009d55aa6075e42a1124d7e/416x416.jpg?background=000000&cropX1=526&cropX2=1546&cropY1=29&cropY2=1049",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Chicago",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

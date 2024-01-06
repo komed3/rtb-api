@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Truckee",
-    "state": "California"
+    "zipCode": "96161"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "venture capital investing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e88db50bfe9e50007a040b8/416x416.jpg?background=000000&cropX1=988&cropX2=3518&cropY1=137&cropY2=2667",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgetown University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Georgetown University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Lowercase Capital",
+    "title": "Founder and Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

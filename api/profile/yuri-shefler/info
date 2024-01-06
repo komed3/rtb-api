@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "alcohol"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71c6944bbe6f24567aecee/416x416.jpg?background=000000&cropX1=7&cropX2=943&cropY1=0&cropY2=935",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Plekhanov Russian University of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

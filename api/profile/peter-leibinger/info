@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Schwieberdingen",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Schwieberdingen"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "machine tools"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7633eed8e1ae0007b71c6e/416x416.jpg?background=000000&cropX1=449&cropX2=2886&cropY1=0&cropY2=2437",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

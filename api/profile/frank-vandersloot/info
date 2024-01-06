@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Idaho",
     "city": "Idaho Falls",
-    "state": "Idaho"
+    "zipCode": "83402"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +17,20 @@
   "source": [
     "nutrition",
     "wellness products"
-  ]
+  ],
+  "deceased": false,
+  "children": 14,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brigham Young University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

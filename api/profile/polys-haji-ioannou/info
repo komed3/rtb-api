@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "service"
   ],
   "source": [
     "EasyJet"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

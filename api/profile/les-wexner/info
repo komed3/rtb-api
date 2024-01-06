@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "New Albany",
-    "state": "Ohio"
+    "zipCode": "43054",
+    "_geo": {
+      "longitude": -82.817758,
+      "latitude": 40.08104
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aba3122254b0008e162f8/416x416.jpg?background=000000&cropX1=475&cropX2=1465&cropY1=22&cropY2=1011",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ohio State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.037774,
+      "latitude": 26.71463
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Slim-Fast"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/face056db8f0401bbb4ab99b79acfefb/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=47&cropY2=791",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "S. Daniel Abraham Center for Middle East Peace",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

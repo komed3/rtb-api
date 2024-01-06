@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "São Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "São Paulo"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "pulp and paper"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

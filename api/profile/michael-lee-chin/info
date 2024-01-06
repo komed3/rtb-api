@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Burlington",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Burlington"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mutual funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/9e4f6675e2ba8919ad43e68506b785f3/416x416.jpg?background=000000&cropX1=0&cropX2=600&cropY1=51&cropY2=651",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "McMaster University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

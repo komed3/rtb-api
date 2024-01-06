@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "mx",
   "residence": {
-    "city": "Monterrey",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Monterrey"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beverages"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Monterrey Institute of Technology and Higher Education",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

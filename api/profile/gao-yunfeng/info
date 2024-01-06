@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "industrial lasers"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Peking University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

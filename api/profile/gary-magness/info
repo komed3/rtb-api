@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Denver",
-    "state": "Colorado"
+    "zipCode": "80113",
+    "_geo": {
+      "longitude": -104.967749,
+      "latitude": 39.64686
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,21 @@
   "source": [
     "cable TV",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a908db831358e79a28a1ed8/416x416.jpg?background=000000&cropX1=480&cropX2=1667&cropY1=120&cropY2=1308",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Western State College of Colorado",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

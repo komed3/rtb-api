@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Hamburg",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Hamburg"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,25 @@
   "source": [
     "retail",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e763288c7b02d000666c927/416x416.jpg?background=000000&cropX1=583&cropX2=3246&cropY1=29&cropY2=2691",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Hamburg",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Munich",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

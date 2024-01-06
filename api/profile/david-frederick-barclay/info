@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Island of Brecquou",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "media",
     "retail"
-  ]
+  ],
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

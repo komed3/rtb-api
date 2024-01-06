@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "service"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a05f5144bbe6f37dda229ca/416x416.jpg?background=000000&cropX1=543&cropX2=2975&cropY1=49&cropY2=2479",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "East Hope Group",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

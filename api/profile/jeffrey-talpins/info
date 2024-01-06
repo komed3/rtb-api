@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Larchmont",
-    "state": "New York"
+    "zipCode": "10538",
+    "_geo": {
+      "longitude": -73.756698,
+      "latitude": 40.935201
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge fund"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Element Capital Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

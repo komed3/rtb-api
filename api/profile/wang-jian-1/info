@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "healthcare services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6f09eca7ea4310004315d1/416x416.jpg?background=000000&cropX1=1277&cropX2=4153&cropY1=6&cropY2=2880",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Bad Homburg",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Bad Homburg"
   },
   "industry": [
     "automotive"
@@ -15,5 +16,21 @@
   "source": [
     "BMW",
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/605e281e4f49584f571c9c42/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "International Institute for Management and Development",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

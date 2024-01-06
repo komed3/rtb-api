@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gg",
   "residence": {
-    "city": "St. Peter Port",
-    "state": null
+    "country": "gg",
+    "state": null,
+    "city": "St. Peter Port"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "financial services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e763e6ed8e1ae0007b71cf1/416x416.jpg?background=000000&cropX1=198&cropX2=1033&cropY1=144&cropY2=979",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

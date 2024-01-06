@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Pleasanton",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Pleasanton"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Erasmus University Rotterdam, The Netherlands",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Erasmus University Rotterdam, The Netherlands",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

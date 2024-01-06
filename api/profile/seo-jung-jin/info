@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/625f10e5a124c78f61971d92/416x416.jpg?background=000000&cropX1=144&cropX2=989&cropY1=6&cropY2=851",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Konkuk University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Konkuk University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Celltrion",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

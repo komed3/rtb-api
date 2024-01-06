@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10128",
+    "_geo": {
+      "longitude": -73.95401,
+      "latitude": 40.782998
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "apparel"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4d624c9203e6bccfc46e87/416x416.jpg?background=000000&cropX1=1084&cropX2=2223&cropY1=371&cropY2=1511",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "City University of New York City College",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "Ralph Lauren",
+    "title": "Chairman "
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

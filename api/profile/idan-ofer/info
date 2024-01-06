@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,16 @@
   "source": [
     "drilling",
     "shipping"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76cd8010380d0006fbb808/416x416.jpg?background=000000&cropX1=25&cropX2=1096&cropY1=93&cropY2=1164",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

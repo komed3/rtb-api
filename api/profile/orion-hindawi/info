@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Piedmont",
-    "state": "California"
+    "country": "us",
+    "state": "Washington",
+    "city": "Seattle",
+    "zipCode": "98101",
+    "_geo": {
+      "longitude": -122.336407,
+      "latitude": 47.6084921
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/642c2d45b3329571c4e1c15f/416x416.jpg?background=000000&cropX1=870&cropX2=1819&cropY1=230&cropY2=1180",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Tanium",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

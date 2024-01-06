@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taichung",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taichung"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "optical components"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63a0cbcb19ae5f47238ceb42/416x416.jpg?background=000000&cropX1=28&cropX2=1648&cropY1=429&cropY2=2048",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Chung Hsing University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

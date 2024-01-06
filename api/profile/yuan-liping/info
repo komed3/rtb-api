@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "ca",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

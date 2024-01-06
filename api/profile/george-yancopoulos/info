@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Yorktown Heights",
-    "state": "New York"
+    "zipCode": "10598"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5b3a90d24bbe6f604389c909/416x416.jpg?background=000000&cropX1=1821&cropX2=3680&cropY1=1511&cropY2=3369",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Medical Doctor"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

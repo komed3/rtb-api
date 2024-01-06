@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Bentonville",
-    "state": "Arkansas"
+    "zipCode": "72712",
+    "_geo": {
+      "longitude": -94.22604,
+      "latitude": 36.360663
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Walmart"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7ef2fea7ea434b351bca5a/416x416.jpg?background=000000&cropX1=49&cropX2=934&cropY1=65&cropY2=951",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Arkansas",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Arvest Bank Group, Inc.",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

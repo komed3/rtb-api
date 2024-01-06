@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "ng",
   "residence": {
-    "city": "Lagos",
-    "state": null
+    "country": "ng",
+    "state": null,
+    "city": "Lagos"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c715b73a7ea4310004343e5/416x416.jpg?background=000000&cropX1=397&cropX2=1023&cropY1=213&cropY2=840",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

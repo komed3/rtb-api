@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Providence",
-    "state": "Rhode Island"
+    "country": "us",
+    "state": "Rhode Island",
+    "city": "Providence"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "jewelry"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/591c59444bbe6f1b730a5366/416x416.jpg?background=000000&cropX1=406&cropX2=1184&cropY1=178&cropY2=957",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "The American College, Los Angeles",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

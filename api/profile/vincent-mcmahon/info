@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "_geo": {
+      "longitude": -73.629619,
+      "latitude": 41.02525
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "entertainment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a9089da31358e79a28a1e8b/416x416.jpg?background=000000&cropX1=158&cropX2=1687&cropY1=287&cropY2=1817",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "East Carolina University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

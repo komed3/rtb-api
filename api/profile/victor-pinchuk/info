@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ua",
   "residence": {
-    "city": "Kiev",
-    "state": null
+    "country": "ua",
+    "state": null,
+    "city": "Kiev"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,21 @@
   "source": [
     "steel pipes",
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7265fb31358e35dd2701b5/416x416.jpg?background=000000&cropX1=1368&cropX2=4268&cropY1=156&cropY2=3054",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dniepropetrovsk Metallurgical Institute",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

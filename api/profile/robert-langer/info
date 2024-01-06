@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Boston"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Brookline",
-    "state": "Massachusetts"
+    "zipCode": "02467",
+    "_geo": {
+      "longitude": -71.161087,
+      "latitude": 42.320043
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "New England Patriots"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64a85309b1ebfd68d09b888d/416x416.jpg?background=000000&cropX1=0&cropX2=898&cropY1=318&cropY2=1219",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "The Kraft Group",
+    "title": "Chairman & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

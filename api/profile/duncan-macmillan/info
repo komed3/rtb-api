@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New Jersey",
     "city": "Princeton",
-    "state": "New Jersey"
+    "zipCode": "08540",
+    "_geo": {
+      "longitude": -74.3571894,
+      "latitude": 40.7407478
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Bloomberg LP"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

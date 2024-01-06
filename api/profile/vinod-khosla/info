@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Portola Valley",
-    "state": "California"
+    "zipCode": "94028",
+    "_geo": {
+      "longitude": -122.20873,
+      "latitude": 37.379788
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/644a8a8f6374d2f32d0d1575/416x416.jpg?background=000000&cropX1=625&cropX2=1540&cropY1=59&cropY2=975",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Indian Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Khosla Ventures",
+    "title": "Founder and Managing Director"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

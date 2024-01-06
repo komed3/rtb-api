@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Beijing",
-    "state": "Beijing"
+    "zipCode": "100039",
+    "_geo": {
+      "longitude": 116.33643,
+      "latitude": 39.957561
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Wuhan University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

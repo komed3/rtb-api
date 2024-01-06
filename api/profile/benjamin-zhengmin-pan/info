@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Jiangsu Province Wujin Teacher School"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

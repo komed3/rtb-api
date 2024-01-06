@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77002",
+    "_geo": {
+      "longitude": -95.3648084,
+      "latitude": 29.7594315
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +21,20 @@
   "source": [
     "logistics",
     "baseball"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Central Missouri State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

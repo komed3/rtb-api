@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Spotify"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/619e6309d734b7239959f54f/416x416.jpg?background=000000&cropX1=607&cropX2=2136&cropY1=186&cropY2=1716",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Spotify",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Mount Kisco",
-    "state": "New York"
+    "zipCode": "10549",
+    "_geo": {
+      "longitude": -73.712479,
+      "latitude": 41.1983543
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c9e77ce4bbe6f04e11897d2/416x416.jpg?background=000000&cropX1=0&cropX2=2400&cropY1=95&cropY2=2494",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

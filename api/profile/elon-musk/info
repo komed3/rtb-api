@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Austin",
-    "state": "Texas"
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin"
   },
   "industry": [
     "automotive"
@@ -15,5 +16,24 @@
   "source": [
     "Tesla",
     "SpaceX"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+  "deceased": false,
+  "children": 11,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Tesla",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction materials"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8092b7a7ea4316901339f7/416x416.jpg?background=000000&cropX1=155&cropX2=1168&cropY1=263&cropY2=1276",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Russian State Academy of Management",
+      "degree": "Masters of Public Administration"
+    },
+    {
+      "school": "St Petersburg State University",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

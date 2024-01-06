@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "zipCode": "78701",
+    "_geo": {
+      "longitude": -97.74438630000002,
+      "latitude": 30.2729209
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b3ed76de3150009a50d04/416x416.jpg?background=000000&cropX1=526&cropX2=2646&cropY1=40&cropY2=2159",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Hyderabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/65256d3e13d4b9a39463430f/416x416.jpg?background=000000&cropX1=113&cropX2=530&cropY1=45&cropY2=462",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

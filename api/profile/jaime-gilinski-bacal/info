@@ -6,13 +6,31 @@
   "gender": "m",
   "citizenship": "co",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "London",
-    "state": null
+    "zipCode": "N21"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/4f07d582150616600588bf39ab92e054/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=66&cropY2=810",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

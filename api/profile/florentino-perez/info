@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77bd25d8e1ae0007b734e1/416x416.jpg?background=000000&cropX1=775&cropX2=2638&cropY1=0&cropY2=1861",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

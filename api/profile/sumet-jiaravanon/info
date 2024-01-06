@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

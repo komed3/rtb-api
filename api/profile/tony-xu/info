@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94115",
+    "_geo": {
+      "longitude": -122.4382307,
+      "latitude": 37.7877522
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "food delivery service"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

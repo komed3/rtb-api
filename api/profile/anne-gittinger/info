@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Seattle",
-    "state": "Washington"
+    "_geo": {
+      "longitude": -122.329439,
+      "latitude": 47.60356
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Nordstrom department stores"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Washington",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

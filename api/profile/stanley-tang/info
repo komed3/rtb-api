@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94114",
+    "_geo": {
+      "longitude": -122.4325682,
+      "latitude": 37.7561438
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "food delivery app"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "DoorDash",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

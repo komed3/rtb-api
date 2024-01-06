@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "East Setauket",
-    "state": "New York"
+    "zipCode": "11733",
+    "_geo": {
+      "longitude": -73.103578,
+      "latitude": 40.929652
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": {
+    "name": "Renaissance Technologies Corp.",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

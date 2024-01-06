@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Guangzhou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Guanghua School of Management",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

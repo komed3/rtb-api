@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Gorinchem",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Gorinchem "
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "shipbuilding"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a241e3a7ea431f321972d9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=356&cropY2=1100",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

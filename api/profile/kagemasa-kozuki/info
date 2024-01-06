@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "video games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ea86de37129e8000668ce81/416x416.jpg?background=000000&cropX1=1&cropX2=300&cropY1=31&cropY2=330",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kansai University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

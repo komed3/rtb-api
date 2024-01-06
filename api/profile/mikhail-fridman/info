@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "energy"
@@ -16,5 +17,21 @@
     "oil",
     "banking",
     "telecom"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/622a4eacebc226db357a752a/416x416.jpg?background=000000&cropX1=228&cropX2=1253&cropY1=0&cropY2=1025",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Moscow Institute of Steel and Alloys",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

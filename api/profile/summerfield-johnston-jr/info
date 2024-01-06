@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Chattanooga",
-    "state": "Tennessee"
+    "_geo": {
+      "longitude": -85.309464,
+      "latitude": 35.04644
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Coca-Cola"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "pl",
   "residence": {
-    "city": "Krotoszyn,",
-    "state": null
+    "country": "pl",
+    "state": null,
+    "city": "Krotoszyn,"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "supermarkets"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

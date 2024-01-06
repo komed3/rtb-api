@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Lausanne",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lausanne"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "health care"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77c610c7b02d000666ddb2/416x416.jpg?background=000000&cropX1=89&cropX2=1228&cropY1=40&cropY2=1178",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Curitiba",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Curitiba"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "fertilizer"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

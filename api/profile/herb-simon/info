@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Indiana",
     "city": "Indianapolis",
-    "state": "Indiana"
+    "zipCode": "46260",
+    "_geo": {
+      "longitude": -86.181199,
+      "latitude": 39.8997
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 8,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "City College of New York",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Simon Property Group",
+    "title": "Chairman Emeritus of the Board of Simon Property Group, Inc."
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

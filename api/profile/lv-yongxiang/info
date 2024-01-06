@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Changchun",
-    "state": "Jilin"
+    "country": "cn",
+    "state": null,
+    "city": "Changchun"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "magnetic switches"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hong Kong",
-    "state": "Hong Kong"
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/624ef558d1369aee3936cc1b/416x416.jpg?background=000000&cropX1=96&cropX2=1883&cropY1=272&cropY2=2060",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Shanghai Jiaotong University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Sequoia China",
+    "title": "Founding and Managing Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

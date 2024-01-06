@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,25 @@
   "source": [
     "oil",
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6e3bcd4bbe6f2fbddc4a69/416x416.jpg?background=000000&cropX1=96&cropX2=2571&cropY1=0&cropY2=2473",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harbin Engineering University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harbin Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

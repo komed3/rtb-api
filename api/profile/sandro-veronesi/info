@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "fashion"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76db69d8e1ae0007b726aa/416x416.jpg?background=000000&cropX1=170&cropX2=1398&cropY1=13&cropY2=1241",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Verona",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

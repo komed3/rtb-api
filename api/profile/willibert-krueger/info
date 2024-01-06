@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Bergisch-Gladbach",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Bergisch-Gladbach"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food processing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

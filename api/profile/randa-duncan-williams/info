@@ -6,13 +6,41 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77019",
+    "_geo": {
+      "longitude": -95.402289,
+      "latitude": 29.75386
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "pipelines"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Rice University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Houston",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Enterprise GP Holdings",
+    "title": "Non-Executive Chairman of the Board"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

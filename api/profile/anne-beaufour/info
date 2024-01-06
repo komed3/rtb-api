@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "fr",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76de6610380d0006fbb8b7/416x416.jpg?background=000000&cropX1=0&cropX2=2450&cropY1=0&cropY2=2449",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

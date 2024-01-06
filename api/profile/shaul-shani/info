@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Petah Tikva",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

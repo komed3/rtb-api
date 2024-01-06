@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Surrey",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Surrey"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "packaging"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

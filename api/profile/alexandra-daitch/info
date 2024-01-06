@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Old Lyme",
-    "state": "Connecticut"
+    "zipCode": "06371",
+    "_geo": {
+      "longitude": -72.3074326,
+      "latitude": 41.3466014
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

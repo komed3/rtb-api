@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ng",
   "residence": {
-    "city": "Lagos",
-    "state": null
+    "country": "ng",
+    "state": null,
+    "city": "Lagos"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,16 @@
   "source": [
     "cement",
     "sugar"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5ffe1cf7e7d384abb660e55e/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Boca Raton",
-    "state": "Florida"
+    "zipCode": "33496",
+    "_geo": {
+      "longitude": -80.159624,
+      "latitude": 26.40602
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "natural gas"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a9e3022254b0008e16181/416x416.jpg?background=000000&cropX1=0&cropX2=3110&cropY1=24&cropY2=3132",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Pennsylvania State University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Buffalo Sabres",
+    "title": "Owner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

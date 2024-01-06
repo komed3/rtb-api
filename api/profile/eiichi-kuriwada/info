@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Osaka",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Osaka"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "package delivery"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Arai High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

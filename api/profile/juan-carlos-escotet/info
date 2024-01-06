@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ve",
   "residence": {
-    "city": "Caracas",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "A Coruña"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77fb7c10380d0006fbc9a3/416x416.jpg?background=000000&cropX1=112&cropX2=1744&cropY1=312&cropY2=1944",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Miami",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

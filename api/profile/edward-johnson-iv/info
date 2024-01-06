@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Boston",
-    "state": "Massachusetts"
+    "zipCode": "02108",
+    "_geo": {
+      "longitude": -71.0661193,
+      "latitude": 42.3548561
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "money management"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Northeastern University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

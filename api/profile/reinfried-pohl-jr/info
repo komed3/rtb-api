@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Marburg",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Marburg"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mutual funds"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

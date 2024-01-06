@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Millersville",
-    "state": "Maryland"
+    "country": "us",
+    "state": "Florida",
+    "city": "Hobe Sound"
   },
   "industry": [
     "sports"
@@ -15,5 +16,24 @@
   "source": [
     "staffing",
     "Baltimore Ravens"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aa1a818444200084e6eb6/416x416.jpg?background=000000&cropX1=524&cropX2=3215&cropY1=11&cropY2=2700",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Salisbury State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Baltimore Ravens",
+    "title": "Owner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

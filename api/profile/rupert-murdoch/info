@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10065",
+    "_geo": {
+      "longitude": -73.963179,
+      "latitude": 40.76421
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,28 @@
   "source": [
     "newspapers",
     "TV network"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6067bf2f800a3f1324d4c89c/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Oxford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Oxford University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "News Corp",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

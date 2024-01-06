@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Uber"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6d4e5d4bbe6f3a742322a6/416x416.jpg?background=000000&cropX1=1649&cropX2=3734&cropY1=0&cropY2=2083",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "University of Calgary",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Uber Technologies Inc.",
+    "title": "Cofounder and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

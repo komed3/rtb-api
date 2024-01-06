@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "El Paso",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -106.487494,
+      "latitude": 31.759165
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil refining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a84c3ff31358e4955ad7cdd/416x416.jpg?background=000000&cropX1=0&cropX2=576&cropY1=23&cropY2=599",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Baylor University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Western Refining",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

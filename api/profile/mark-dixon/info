@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "office real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77f60fc7b02d000666e1fc/416x416.jpg?background=000000&cropX1=574&cropX2=2798&cropY1=0&cropY2=2226",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

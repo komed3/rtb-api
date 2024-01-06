@@ -6,13 +6,27 @@
   "gender": "f",
   "citizenship": "vn",
   "residence": {
-    "city": "Ho Chi Minh City",
-    "state": null
+    "country": "vn",
+    "state": null,
+    "city": "Ho Chi Minh City"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "airlines"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Sovico Holdings",
+    "title": "Cofounder and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

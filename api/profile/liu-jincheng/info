@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Huizhou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Huizhou"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "lithium batteries"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "South China University of Technology",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Electronic Science and Technology of China",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Wuhan University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

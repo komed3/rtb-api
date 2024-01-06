@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": "Prague",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,21 @@
   "source": [
     "finance",
     "telecommunications"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/4023ab5df9aad04f544e7dfde9031598/416x416.jpg?background=000000&cropX1=32&cropX2=723&cropY1=3&cropY2=694",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Economics in Prague",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

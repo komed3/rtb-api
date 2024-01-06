@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Belo Horizonte",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Belo Horizonte"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,20 @@
   "source": [
     "home building",
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade Federal de Minas Gerais",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

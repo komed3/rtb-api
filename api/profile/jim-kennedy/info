@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30305",
+    "_geo": {
+      "longitude": -84.38588,
+      "latitude": 33.834399
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,24 @@
   "source": [
     "media",
     "automotive"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6333228fc5d66e6add90c319/416x416.jpg?background=000000&cropX1=945&cropX2=1363&cropY1=607&cropY2=1025",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Denver",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Cox Enterprises",
+    "title": "Chairman Emeritus"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

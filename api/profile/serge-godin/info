@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Westmount",
-    "state": "Quebec"
+    "country": "ca",
+    "state": null,
+    "city": "Westmount"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "information technology"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7449c710380d0006bdad6d/416x416.jpg?background=000000&cropX1=1360&cropX2=5075&cropY1=0&cropY2=3712",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Laval University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "CGI Group",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

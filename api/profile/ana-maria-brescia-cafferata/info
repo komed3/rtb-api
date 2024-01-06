@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "pe",
   "residence": {
-    "city": "Lima",
-    "state": null
+    "country": "pe",
+    "state": null,
+    "city": "Lima"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "mining",
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

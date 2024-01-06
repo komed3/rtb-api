@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,21 @@
   "source": [
     "mining",
     "steel"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71ade8a7ea431000434a19/416x416.jpg?background=000000&cropX1=1414&cropX2=3084&cropY1=0&cropY2=1669",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute of Physics and Technology",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Gloucestershire",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Gloucestershire "
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77eb8e10380d0006fbc8c3/416x416.jpg?background=000000&cropX1=18&cropX2=210&cropY1=5&cropY2=197",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Grenoble University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

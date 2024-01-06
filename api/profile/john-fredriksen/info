@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "shipping"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7587f4d8e1ae0007b7161f/416x416.jpg?background=000000&cropX1=169&cropX2=817&cropY1=7&cropY2=655",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

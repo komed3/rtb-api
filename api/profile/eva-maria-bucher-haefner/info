@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Zurich",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zurich"
   },
   "industry": [
     "technology"
@@ -15,5 +16,15 @@
   "source": [
     "software",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

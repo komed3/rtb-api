@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "pt",
   "residence": {
-    "city": "Grijo",
-    "state": null
+    "country": "pt",
+    "state": null,
+    "city": "Grijo"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "energy",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "transportation"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5e780a6d10380d0006fbca70/416x416.jpg?background=000000&cropX1=700&cropX2=2099&cropY1=876&cropY2=2276",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

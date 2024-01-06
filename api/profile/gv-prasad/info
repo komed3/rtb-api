@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Hyderabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Illinois Institute of Technology",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Purdue University",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Tianjin University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "University of Science and Technology of China",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

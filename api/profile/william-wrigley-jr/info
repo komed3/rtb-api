@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "North Palm Beach",
-    "state": "Florida"
+    "zipCode": "33408",
+    "_geo": {
+      "longitude": -80.060629,
+      "latitude": 26.84276
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "chewing gum"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aff5022254b0008e1675c/416x416.jpg?background=000000&cropX1=160&cropX2=857&cropY1=32&cropY2=730",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Wrigley Management, Inc.",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "business software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b3ba422254b0008e16ba6/416x416.jpg?background=000000&cropX1=1821&cropX2=2361&cropY1=455&cropY2=995",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Workday",
+    "title": "CEO and Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

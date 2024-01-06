@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Altos",
-    "state": "California"
+    "country": "us",
+    "state": "Florida",
+    "city": "Orlando"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "sensors"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Luminar",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

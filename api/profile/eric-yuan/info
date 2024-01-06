@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Santa Clara",
-    "state": "California"
+    "zipCode": "95050",
+    "_geo": {
+      "longitude": -121.937018,
+      "latitude": 37.351709
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "video conferencing"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "China University of Mining and Technology",
+      "degree": "Master of Engineering Management"
+    },
+    {
+      "school": "Shandong Institute of Business and Technology",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Zoom Video Communications",
+    "title": "Founder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Hisar",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Hisar"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55f77874e4b0ffa7afe4940e/416x416.jpg?background=000000&cropX1=90&cropX2=676&cropY1=53&cropY2=640",
+  "deceased": false,
+  "children": 9,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

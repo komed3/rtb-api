@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94306",
+    "_geo": {
+      "longitude": -122.131575,
+      "latitude": 37.417603
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "LinkedIn"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/624efe8b6745de5c69ca5af6/416x416.jpg?background=000000&cropX1=832&cropX2=2484&cropY1=114&cropY2=1764",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Oxford University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Greylock",
+    "title": "Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

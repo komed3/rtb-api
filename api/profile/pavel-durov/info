@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "messaging app"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Saint Petersburg State University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

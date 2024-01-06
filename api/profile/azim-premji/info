@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d9f474b793bd50006ea40f3/416x416.jpg?background=000000&cropX1=1337&cropX2=2828&cropY1=103&cropY2=1594",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Wipro Ltd.",
+    "title": "Founder Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "aviation"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6f8bc64bbe6f79679ef3ad/416x416.jpg?background=000000&cropX1=723&cropX2=3986&cropY1=7&cropY2=3268",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Lugano",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lugano"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "SDA Bocconi School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Turin",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

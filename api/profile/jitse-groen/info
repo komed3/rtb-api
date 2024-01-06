@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food delivery service"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Twente",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

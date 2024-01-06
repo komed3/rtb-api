@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Guangzhou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "electric vehicles"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "South China University of Technology",
+      "degree": "Bachelor of Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

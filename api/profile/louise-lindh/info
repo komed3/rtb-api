@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "se",
   "residence": {
+    "country": "se",
+    "state": null,
     "city": "Stockholm",
-    "state": null
+    "zipCode": "11523"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

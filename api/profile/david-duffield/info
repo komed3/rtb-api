@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Incline Village",
-    "state": "Nevada"
+    "zipCode": "89451",
+    "_geo": {
+      "longitude": -119.9393608,
+      "latitude": 39.2355282
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "business software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/ed18bc09e156f93af21f12d3b3bc2ff2/416x416.jpg?background=000000&cropX1=110&cropX2=646&cropY1=168&cropY2=705",
+  "deceased": false,
+  "children": 10,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "Samuel Curtis Johnson Graduate School of Management",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Workday",
+    "title": "Chairman and Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Pottsville",
-    "state": "Pennsylvania"
+    "zipCode": "70118",
+    "_geo": {
+      "longitude": -90.123859,
+      "latitude": 29.9485
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beer"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a908941a7ea434a0c2720de/416x416.jpg?background=000000&cropX1=817&cropX2=3140&cropY1=1101&cropY2=3423",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Lycoming College",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

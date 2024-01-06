@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate development"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6f8e3ca7ea431000432050/416x416.jpg?background=000000&cropX1=20&cropX2=1216&cropY1=194&cropY2=1390",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

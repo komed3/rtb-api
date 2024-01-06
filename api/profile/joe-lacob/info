@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Atherton",
-    "state": "California"
+    "zipCode": "94027",
+    "_geo": {
+      "longitude": -122.199117,
+      "latitude": 37.457732
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Golden State Warriors"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "UCLA",
+      "degree": "Masters of Public Health"
+    },
+    {
+      "school": "University of California, Irvine",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

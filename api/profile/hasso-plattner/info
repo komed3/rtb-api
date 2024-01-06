@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Heidelberg",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Heidelberg"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e762726d8e1ae0007b71a6b/416x416.jpg?background=000000&cropX1=1757&cropX2=3583&cropY1=0&cropY2=1827",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Karlsruhe",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "natural gas distribution"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7576e910380d0006bdcdf2/416x416.jpg?background=000000&cropX1=1000&cropX2=2988&cropY1=680&cropY2=2667",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Hebei Normal University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Renmin University of China",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Renmin University of China",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

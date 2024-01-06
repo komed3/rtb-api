@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Manila",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Manila"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "ports"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64cbd17ca2ba31d32cc6f9a3/416x416.jpg?background=000000&cropX1=531&cropX2=1354&cropY1=17&cropY2=840",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

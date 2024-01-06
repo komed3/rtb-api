@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Wien",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Wien"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a26ad4a7ea431f3219745b/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=48&cropY2=792",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Magnitogorsk Mining and Metallurgical Institute",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

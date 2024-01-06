@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/68f37747d89b672c527accbeab3bbd31/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=15&cropY2=756",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Gubkin Institute of Petrochemicals and Natural Gas",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

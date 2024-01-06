@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Zurich",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zurich"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "dairy"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56c9c404e4b062f6b59a2a66/416x416.jpg?background=000000&cropX1=45&cropX2=601&cropY1=29&cropY2=585",
+  "deceased": false,
+  "children": 9,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

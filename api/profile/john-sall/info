@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "North Carolina",
     "city": "Cary",
-    "state": "North Carolina"
+    "zipCode": "27513",
+    "_geo": {
+      "longitude": -78.806059,
+      "latitude": 35.795631
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ae5cb22254b0008e165ca/416x416.jpg?background=000000&cropX1=189&cropX2=1865&cropY1=34&cropY2=1709",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Beloit College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Northern Illinois University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "SAS Institute",
+    "title": "Co-Founder, Executive Vice President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

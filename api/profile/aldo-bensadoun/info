@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

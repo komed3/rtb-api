@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "pe",
   "residence": {
-    "city": "Lima",
-    "state": null
+    "country": "pe",
+    "state": null,
+    "city": "Lima"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77063d10380d0006fbb9ff/416x416.jpg?background=000000&cropX1=1859&cropX2=3229&cropY1=673&cropY2=2042",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Tuck School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

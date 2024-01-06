@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Miami Beach",
-    "state": "Florida"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "home building"
-  ]
+  ],
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Pennsylvania",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "be",
   "residence": {
-    "city": "Deinze",
-    "state": null
+    "country": "be",
+    "state": null,
+    "city": "Deinze"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,15 @@
   "source": [
     "textile",
     "chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

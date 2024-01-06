@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Fort Collins",
-    "state": "Colorado"
+    "zipCode": "80525",
+    "_geo": {
+      "longitude": -105.05461,
+      "latitude": 40.528992
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/aba94df76c2e1ac2ae94fa21e2d7214e/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=148&cropY2=892",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of Northern Colorado",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

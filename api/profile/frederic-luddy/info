@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Diego",
-    "state": "California"
+    "zipCode": "92101",
+    "_geo": {
+      "longitude": -117.156013,
+      "latitude": 32.706551
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Indiana University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "ServiceNow",
+    "title": "Founder and Chief Product Officer"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

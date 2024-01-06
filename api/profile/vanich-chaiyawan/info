@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,16 @@
   "source": [
     "insurance",
     "beverages"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5cd1aa980a0ec40007b48637/416x416.jpg?background=000000&cropX1=3&cropX2=314&cropY1=5&cropY2=316",
+  "deceased": false,
+  "children": 8,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

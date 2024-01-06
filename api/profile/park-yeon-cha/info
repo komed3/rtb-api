@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Gimhae",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "sneakers"
-  ]
+  ],
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

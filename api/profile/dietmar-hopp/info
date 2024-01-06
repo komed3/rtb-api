@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Walldorf",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Walldorf"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7621d6c7b02d000666c78a/416x416.jpg?background=000000&cropX1=1529&cropX2=4122&cropY1=700&cropY2=3294",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Karlsruhe",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

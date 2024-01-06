@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "dk",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lugano"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "aircraft leasing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

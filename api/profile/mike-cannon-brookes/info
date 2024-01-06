@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Sydney",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Sydney"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ea5b4baa9467975fe3c457/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of New South Wales",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

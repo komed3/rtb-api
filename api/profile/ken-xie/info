@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Altos Hills",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.128797,
+      "latitude": 37.38055
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cybersecurity"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

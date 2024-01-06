@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Airbnb"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ac4ab22254b0008e16383/416x416.jpg?background=000000&cropX1=719&cropX2=3126&cropY1=857&cropY2=3266",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Rhode Island School of Design",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "AirBnB",
+    "title": "CEO and Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

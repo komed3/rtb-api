@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "smartphones"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7550d42a573300068feb7b/416x416.jpg?background=000000&cropX1=745&cropX2=2367&cropY1=15&cropY2=1636",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Wuhan University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Xiaomi",
+    "title": "Founder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Gurgaon",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Gurgaon"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

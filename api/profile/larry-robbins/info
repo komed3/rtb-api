@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New Jersey",
     "city": "Alpine",
-    "state": "New Jersey"
+    "zipCode": "07620",
+    "_geo": {
+      "longitude": -73.9271644,
+      "latitude": 40.93702529999999
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba66430a7ea434e4c696d0a/416x416.jpg?background=000000&cropX1=989&cropX2=2423&cropY1=457&cropY2=1892",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Glenview Capital Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

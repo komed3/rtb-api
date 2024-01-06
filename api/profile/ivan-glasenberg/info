@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Ruschlikon",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Ruschlikon"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77d02310380d0006fbc6b6/416x416.jpg?background=000000&cropX1=1345&cropX2=4926&cropY1=255&cropY2=3840",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Marshall School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Witwatersrand",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

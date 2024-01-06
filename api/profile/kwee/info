@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Real Estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/6c8f2163dc502eb7562971f3f311e036/416x416.jpg?background=000000&cropX1=361&cropX2=3071&cropY1=626&cropY2=3338",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

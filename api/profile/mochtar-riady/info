@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5de28ddfea103f000653be8a/416x416.jpg?background=000000&cropX1=194&cropX2=2387&cropY1=228&cropY2=2421",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

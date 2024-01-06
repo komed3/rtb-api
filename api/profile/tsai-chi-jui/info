@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taichung",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taichung"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63a0cc9a49b4b4d012f31907/416x416.jpg?background=000000&cropX1=0&cropX2=652&cropY1=10&cropY2=662",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taichung University of Education"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

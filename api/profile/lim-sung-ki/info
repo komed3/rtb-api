@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58f8de6ea7ea437ada26679d/416x416.jpg?background=000000&cropX1=10&cropX2=728&cropY1=11&cropY2=730",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Chung-Ang Univeristy",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Hanmi Holdings",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Winnetka",
-    "state": "Illinois"
+    "zipCode": "60093",
+    "_geo": {
+      "longitude": -87.753639,
+      "latitude": 42.105203
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f0cbe3a6e9cb50006ecd208/416x416.jpg?background=000000&cropX1=249&cropX2=1955&cropY1=26&cropY2=1730",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Northwestern University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Ryan Specialty Group",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

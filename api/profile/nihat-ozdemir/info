@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Ankara",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Ankara"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77e30e10380d0006fbc84b/416x416.jpg?background=000000&cropX1=805&cropX2=2976&cropY1=76&cropY2=2246",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

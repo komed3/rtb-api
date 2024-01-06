@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Modena",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Modena"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automobiles"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76d9e2d8e1ae0007b7266c/416x416.jpg?background=000000&cropX1=1231&cropX2=4241&cropY1=0&cropY2=3008",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5ab944eda7ea432fbc1d2d9c/416x416.jpg?background=000000&cropX1=0&cropX2=400&cropY1=0&cropY2=400",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Melbourne",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

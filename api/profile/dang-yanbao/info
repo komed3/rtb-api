@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Yinchuan",
-    "state": "Ningxia"
+    "country": "cn",
+    "state": null,
+    "city": "Yinchuan"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "coal"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Peking University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Rheda-Wiedenbrück",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Rheda-Wiedenbrück"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "meat processing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76204610380d0006fbac5a/416x416.jpg?background=000000&cropX1=815&cropX2=3344&cropY1=28&cropY2=2557",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

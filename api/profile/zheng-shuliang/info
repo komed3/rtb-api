@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Binzhou",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Binzhou"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "aluminum products"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58b7569ba7ea431f321a6ff9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=39&cropY2=783",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

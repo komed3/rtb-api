@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Berlin",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Berlin"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "manufacturing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e763314c7b02d000666c933/416x416.jpg?background=000000&cropX1=114&cropX2=2484&cropY1=74&cropY2=2445",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

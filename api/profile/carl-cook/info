@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Indiana",
     "city": "Bloomington",
-    "state": "Indiana"
+    "zipCode": "47404",
+    "_geo": {
+      "longitude": -86.5703554,
+      "latitude": 39.2183952
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/25d1399bdf56ecfab4f15f040e20fbe0/416x416.jpg?background=000000&cropX1=13&cropX2=744&cropY1=53&cropY2=785",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Purdue University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Tippie School of Management",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6091b9de18caf49a8ffbc40f/416x416.jpg?background=000000&cropX1=0&cropX2=1014&cropY1=0&cropY2=1014",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taiwan University",
+      "degree": "Law Degree"
+    },
+    {
+      "school": "Southern Methodist University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

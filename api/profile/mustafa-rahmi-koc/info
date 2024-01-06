@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56cc5097e4b062f6b59a505c/416x416.jpg?background=000000&cropX1=2&cropX2=738&cropY1=95&cropY2=831",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Johns Hopkins University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

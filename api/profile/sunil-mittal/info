@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/65257277f6082d3574a1393f/416x416.jpg?background=000000&cropX1=434&cropX2=3096&cropY1=0&cropY2=2661",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Punjab University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10065",
+    "_geo": {
+      "longitude": -73.963179,
+      "latitude": 40.76421
+    }
   },
   "industry": [
     "energy"
@@ -15,5 +21,21 @@
   "source": [
     "oil",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b06556de3150009a5092d/416x416.jpg?background=000000&cropX1=1492&cropX2=3562&cropY1=110&cropY2=2178",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

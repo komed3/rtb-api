@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Beverly Hills",
-    "state": "California"
+    "zipCode": "90210",
+    "_geo": {
+      "longitude": -118.411115,
+      "latitude": 34.092807
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b3fd422254b0008e16c50/416x416.jpg?background=000000&cropX1=238&cropX2=1179&cropY1=74&cropY2=1015",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Western Michigan University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

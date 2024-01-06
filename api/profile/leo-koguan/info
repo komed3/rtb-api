@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Sugar Land",
-    "state": "Texas"
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "IT provider"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Master"
+    },
+    {
+      "school": "New York Law School",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

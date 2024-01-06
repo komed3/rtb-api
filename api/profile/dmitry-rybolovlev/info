@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "fertilizer"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e777bf610380d0006fbbd89/416x416.jpg?background=000000&cropX1=232&cropX2=1055&cropY1=94&cropY2=917",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Perm Medical Institute",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

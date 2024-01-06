@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "service"
   ],
   "source": [
     "ride-hailing service"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Beijing University of Chemical Technology",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Didi Chuxing",
+    "title": "Founder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

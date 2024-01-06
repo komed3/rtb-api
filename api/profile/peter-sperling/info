@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "zipCode": "85018",
+    "_geo": {
+      "longitude": -111.986864,
+      "latitude": 33.49887
+    }
   },
   "industry": [
     "service"
   ],
   "source": [
     "education"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/91f3da758eeea38c95c76fe1260352d0/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=0&cropY2=744",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, Santa Barbara",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Phoenix",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

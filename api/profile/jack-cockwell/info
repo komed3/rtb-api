@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": "Ontario"
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,15 @@
   "source": [
     "real estate",
     "private equity"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": "Quebec"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61a52212402ed8086d7a1ac9/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Iberville Development Limited",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

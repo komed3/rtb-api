@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.152332,
+      "latitude": 37.443002
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Facebook"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Meta Platforms",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

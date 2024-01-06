@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "energy"
@@ -15,5 +16,16 @@
   "source": [
     "banking",
     "gas"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/38f6493ead1647157fbdfeecfdc0a6d3/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=14&cropY2=613",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

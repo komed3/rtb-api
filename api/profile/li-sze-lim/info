@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Guangzhou",
-    "state": null
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60352efa58eb4b700ff83a34/416x416.jpg?background=000000&cropX1=141&cropX2=702&cropY1=0&cropY2=561",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Chinese University of Hong Kong"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

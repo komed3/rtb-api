@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Denver",
-    "state": "Colorado"
+    "zipCode": "80209",
+    "_geo": {
+      "longitude": -104.965169,
+      "latitude": 39.70658
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5efa16915f1126000639e990/416x416.jpg?background=000000&cropX1=522&cropX2=4000&cropY1=840&cropY2=4320",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Kansas",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

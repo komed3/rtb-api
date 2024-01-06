@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7273624bbe6f51818abd52/416x416.jpg?background=000000&cropX1=263&cropX2=1878&cropY1=304&cropY2=1921",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "The Children's Investment Fund Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "business software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6182e3452d967cb41de9678c/416x416.jpg?background=000000&cropX1=1142&cropX2=2689&cropY1=328&cropY2=1873",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Jiangxi University of Finance & Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

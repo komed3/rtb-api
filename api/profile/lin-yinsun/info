@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "agribusiness"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "China Europe International Business School",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Monte Carlo",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monte Carlo"
   },
   "industry": [
     "service"
   ],
   "source": [
     "cruises"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "La Sapienza University of Rome",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

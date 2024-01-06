@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Lucerne",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lucerne"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "kitchen appliances"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77d1efc7b02d000666de67/416x416.jpg?background=000000&cropX1=482&cropX2=2570&cropY1=154&cropY2=2243",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "St Gallen University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Artemis Real Estate Partners",
+    "title": "CEO of Artemis Group"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

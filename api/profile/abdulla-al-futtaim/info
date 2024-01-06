@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ae",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
   },
   "industry": [
     "automotive"
@@ -15,5 +16,16 @@
   "source": [
     "auto dealers",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62fa59a265f7542457fe6376/416x416.jpg?background=000000&cropX1=1147&cropX2=2946&cropY1=87&cropY2=1885",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

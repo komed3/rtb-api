@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/571a7940a7ea43722d781ff2/416x416.jpg?background=000000&cropX1=92&cropX2=744&cropY1=6&cropY2=659",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "NHN Entertainment",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

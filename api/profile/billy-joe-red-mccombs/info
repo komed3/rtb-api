@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Antonio",
-    "state": "Texas"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
@@ -17,5 +18,21 @@
     "oil",
     "cars",
     "sports"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/c1df391b52ec95ff9604ca40b9ed0222/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=21&cropY2=765",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

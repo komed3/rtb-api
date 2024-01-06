@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "H&M"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c721cd64bbe6f51818ab844/416x416.jpg?background=000000&cropX1=1176&cropX2=2731&cropY1=522&cropY2=2076",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Stockholm",
+      "degree": "Associate in Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Hennes & Mauritz Unsponsored ADR",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

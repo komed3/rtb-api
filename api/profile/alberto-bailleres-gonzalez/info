@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76f50810380d0006fbb96c/416x416.jpg?background=000000&cropX1=197&cropX2=1167&cropY1=45&cropY2=1016",
+  "deceased": true,
+  "children": 7,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

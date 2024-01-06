@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Saint Petersburg",
-    "state": "Florida"
+    "zipCode": "33701",
+    "_geo": {
+      "longitude": -82.6321376,
+      "latitude": 27.7696063
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "furniture"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59de76b431358e542c039eea/416x416.jpg?background=000000&cropX1=116&cropX2=1254&cropY1=44&cropY2=1181",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

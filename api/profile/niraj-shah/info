@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Boston",
-    "state": "Massachusetts"
+    "zipCode": "02111",
+    "_geo": {
+      "longitude": -71.0601767,
+      "latitude": 42.3514653
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

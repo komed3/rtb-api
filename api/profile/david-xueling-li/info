@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Guangzhou",
-    "state": "Guangdong"
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "live streaming service"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Renmin University of China",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

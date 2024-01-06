@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10007",
+    "_geo": {
+      "longitude": -74.0087126,
+      "latitude": 40.7136487
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "electronic trading"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba659eba7ea434e4c696c90/416x416.jpg?background=000000&cropX1=193&cropX2=1902&cropY1=56&cropY2=1766",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "New York Law School",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "United States Military Academy",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

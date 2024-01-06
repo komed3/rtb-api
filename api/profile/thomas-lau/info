@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "department stores"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e3b3932a854780006b087b8/416x416.jpg?background=000000&cropX1=321&cropX2=3433&cropY1=248&cropY2=3359",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

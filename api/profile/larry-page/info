@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.152332,
+      "latitude": 37.443002
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Google"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Alphabet",
+    "title": "Cofounder and board member"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

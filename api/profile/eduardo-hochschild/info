@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "pe",
   "residence": {
-    "city": "Lima",
-    "state": null
+    "country": "pe",
+    "state": null,
+    "city": "Lima"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77067c10380d0006fbba1d/416x416.jpg?background=000000&cropX1=872&cropX2=3405&cropY1=107&cropY2=2641",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tufts University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Hochschild Mining PLC",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

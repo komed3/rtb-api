@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63efe43a248709003db8d5b0/416x416.jpg?background=000000&cropX1=937&cropX2=3496&cropY1=109&cropY2=2667",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

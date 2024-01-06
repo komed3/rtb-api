@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "healthcare"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7f04ee31358e4955ad1755/416x416.jpg?background=000000&cropX1=2503&cropX2=4372&cropY1=16&cropY2=1884",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Boston University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Delhi University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

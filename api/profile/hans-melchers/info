@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Vorden",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Vorden"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,16 @@
   "source": [
     "chemicals",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76fdeb10380d0006fbb9e6/416x416.jpg?background=000000&cropX1=109&cropX2=592&cropY1=26&cropY2=508",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

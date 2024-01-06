@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Nashville",
-    "state": "Tennessee"
+    "zipCode": "37205",
+    "_geo": {
+      "longitude": -86.85902,
+      "latitude": 36.114359
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,24 @@
   "source": [
     "book distribution",
     "transportation"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba50d1fa7ea434e4c6957dc/416x416.jpg?background=000000&cropX1=15&cropX2=1515&cropY1=5&cropY2=1507",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Vassar College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Ingram Industries",
+    "title": "Former Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

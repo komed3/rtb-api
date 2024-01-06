@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/0557a8ea2c33392fcfe0f04570cba9a3/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=108&cropY2=852",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade Presbiteriana Mackenzie",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

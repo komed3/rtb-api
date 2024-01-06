@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Lucerne",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lucerne"
   },
   "industry": [
     "service"
   ],
   "source": [
     "education"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7b9ab8d0da5d000715ea7b/416x416.jpg?background=000000&cropX1=1480&cropX2=2960&cropY1=938&cropY2=2419",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

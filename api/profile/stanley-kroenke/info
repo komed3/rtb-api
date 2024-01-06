@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Electra",
-    "state": "Texas"
+    "zipCode": "76360"
   },
   "industry": [
     "sports"
@@ -15,5 +17,25 @@
   "source": [
     "sports",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a620422254b0008e15a49/416x416.jpg?background=000000&cropX1=401&cropX2=2960&cropY1=0&cropY2=2557",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Robert J. Trulaske, Sr. College of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Missouri",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

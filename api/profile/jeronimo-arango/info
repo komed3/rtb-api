@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

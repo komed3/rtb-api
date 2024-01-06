@@ -6,13 +6,36 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "Hyundai"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Business Administration"
+    },
+    {
+      "school": "University of San Francisco",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Hyundai Motor",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

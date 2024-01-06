@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Suzhou",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Suzhou"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "household appliances"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Nanjing University",
+      "degree": "Master of Philosophy"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Valencia",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Valencia"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "supermarkets"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77be9b10380d0006fbc5c4/416x416.jpg?background=000000&cropX1=483&cropX2=2323&cropY1=258&cropY2=2097",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

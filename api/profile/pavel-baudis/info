@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": "Prague",
-    "state": null
+    "country": "cz",
+    "state": null,
+    "city": "Prague"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

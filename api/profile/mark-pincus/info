@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94117",
+    "_geo": {
+      "longitude": -122.443553,
+      "latitude": 37.769951
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a90820b31358e79a28a1d51/416x416.jpg?background=000000&cropX1=1096&cropX2=4271&cropY1=380&cropY2=3553",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Zynga Inc",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

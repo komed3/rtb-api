@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ae",
   "residence": {
-    "city": "Abu Dhabi",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Abu Dhabi"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,20 @@
   "source": [
     "hospitals",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Suffolk University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

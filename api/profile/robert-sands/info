@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Canandaigua",
-    "state": "New York"
+    "country": "us",
+    "state": "Florida",
+    "city": "Delray Beach",
+    "zipCode": "33444",
+    "_geo": {
+      "longitude": -80.0814292,
+      "latitude": 26.4569636
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "liquor"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Pace University",
+      "degree": "Law Degree"
+    },
+    {
+      "school": "Skidmore College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Mexico City"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,21 @@
   "source": [
     "beer",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76f7b2d8e1ae0007b727e2/416x416.jpg?background=000000&cropX1=1710&cropX2=3155&cropY1=282&cropY2=1726",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Instituto Tecnológico Autónomo de México",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

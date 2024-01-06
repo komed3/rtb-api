@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taoyuan",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taoyuan"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63a0c94dc894b4f0c7e82199/416x416.jpg?background=000000&cropX1=548&cropX2=1800&cropY1=8&cropY2=1259",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "China University of Technology",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

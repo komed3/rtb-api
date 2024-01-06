@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Milton",
-    "state": "Massachusetts"
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Milton"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "money management"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6333a5b13de1fff2da377afb/416x416.jpg?background=000000&cropX1=0&cropX2=1077&cropY1=3&cropY2=1080",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Hobart and William Smith",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Fidelity",
+    "title": "Chairman & CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

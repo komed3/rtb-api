@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.037774,
+      "latitude": 26.71463
+    }
   },
   "industry": [
     "energy"
@@ -15,5 +21,25 @@
   "source": [
     "oil",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8eecc84bbe6f2652f637b6/416x416.jpg?background=000000&cropX1=955&cropX2=3256&cropY1=142&cropY2=2442",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

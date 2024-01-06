@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Krefeld",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Krefeld"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "pet food"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e763984c7b02d000666c988/416x416.jpg?background=000000&cropX1=2043&cropX2=4382&cropY1=9&cropY2=2346",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

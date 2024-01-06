@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Ahmedabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Ahmedabad"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c79a9284bbe6f0e1f1f6878/416x416.jpg?background=000000&cropX1=1022&cropX2=2137&cropY1=280&cropY2=1396",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

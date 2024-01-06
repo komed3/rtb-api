@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wisconsin",
     "city": "Eau Claire",
-    "state": "Wisconsin"
+    "zipCode": "54703",
+    "_geo": {
+      "longitude": -91.505369,
+      "latitude": 44.830335
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "home improvement stores"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f0f870a933def00067666de/416x416.jpg?background=000000&cropX1=223&cropX2=1909&cropY1=133&cropY2=1820",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Wisconsin, Eau Claire",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Menard, Inc.",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

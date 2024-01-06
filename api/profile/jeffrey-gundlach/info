@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90001",
+    "_geo": {
+      "longitude": -118.2468148,
+      "latitude": 33.9697897
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b402418444200084e77ee/416x416.jpg?background=000000&cropX1=1349&cropX2=2903&cropY1=74&cropY2=1627",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "DoubleLine Capital",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

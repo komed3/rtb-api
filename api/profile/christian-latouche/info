@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Lyon",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Lyon"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "accounting services"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

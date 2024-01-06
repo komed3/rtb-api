@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Rye",
-    "state": "New York"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b39fb18444200084e7730/416x416.jpg?background=000000&cropX1=745&cropX2=1470&cropY1=58&cropY2=783",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Trinity College Connecticut",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "First Manhattan Co.",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Springdale",
-    "state": "Arkansas"
+    "zipCode": "72762",
+    "_geo": {
+      "longitude": -94.21283369999999,
+      "latitude": 36.1675026
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food processing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Southern Methodist University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

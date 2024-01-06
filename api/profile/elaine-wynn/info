@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Las Vegas",
-    "state": "Nevada"
+    "zipCode": "89109",
+    "_geo": {
+      "longitude": -115.166039,
+      "latitude": 36.12012
+    }
   },
   "industry": [
     "gambling-casinos"
@@ -15,5 +21,24 @@
   "source": [
     "casinos",
     "hotels"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/59de488331358e542c039b45/416x416.jpg?background=000000&cropX1=805&cropX2=3550&cropY1=741&cropY2=3488",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "George Washington University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Wynn Las Vegas, LLC",
+    "title": "Board Member"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

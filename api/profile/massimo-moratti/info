@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil refinery"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76d7cfc7b02d000666d32d/416x416.jpg?background=000000&cropX1=47&cropX2=1761&cropY1=47&cropY2=1761",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

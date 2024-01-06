@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Samsung"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/643e9952e700962c2c0990c5/416x416.jpg?background=000000&cropX1=206&cropX2=2050&cropY1=0&cropY2=1844",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Keio University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

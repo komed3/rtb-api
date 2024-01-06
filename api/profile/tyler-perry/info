@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30303",
+    "_geo": {
+      "longitude": -84.3883717,
+      "latitude": 33.755711
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,19 @@
   "source": [
     "movies",
     "television"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ecc520236d6f40008dcdd7d/416x416.jpg?background=000000&cropX1=622&cropX2=3127&cropY1=5&cropY2=2509",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": {
+    "name": "Television",
+    "title": "Director"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

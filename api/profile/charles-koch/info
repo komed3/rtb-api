@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kansas",
     "city": "Wichita",
-    "state": "Kansas"
+    "zipCode": "67201",
+    "_geo": {
+      "longitude": -97.334698,
+      "latitude": 37.686064
+    }
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Koch Industries"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/615c94bd2aac2936a52682d1/416x416.jpg?background=000000&cropX1=286&cropX2=848&cropY1=110&cropY2=672",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Koch Industries",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.419644,
+      "latitude": 37.777125
+    }
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +20,32 @@
   "source": [
     "engineering",
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b0ef518444200084e74b7/416x416.jpg?background=000000&cropX1=635&cropX2=2183&cropY1=30&cropY2=1579",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Calif Davis",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Bechtel Corp.",
+    "title": "former Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

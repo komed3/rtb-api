@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Herzogenaurach",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Herzogenaurach"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e762609c7b02d000666c810/416x416.jpg?background=000000&cropX1=605&cropX2=1884&cropY1=0&cropY2=1279",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

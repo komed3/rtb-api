@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75220",
+    "_geo": {
+      "longitude": -96.864695,
+      "latitude": 32.86775
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "pipelines"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f517e3eddda7926b1505add/416x416.jpg?background=000000&cropX1=569&cropX2=3400&cropY1=216&cropY2=3050",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Texas Arlington",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

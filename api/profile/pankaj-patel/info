@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Ahmedabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Ahmedabad"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59cc2248a7ea434a34f46dd8/416x416.jpg?background=000000&cropX1=0&cropX2=1200&cropY1=185&cropY2=1386",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Gujarat University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Gujarat University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

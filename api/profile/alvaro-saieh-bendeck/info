@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cl",
   "residence": {
-    "city": "Santiago",
-    "state": null
+    "country": "cl",
+    "state": null,
+    "city": "Santiago"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e765ce6c7b02d000666ccdf/416x416.jpg?background=000000&cropX1=230&cropX2=1664&cropY1=71&cropY2=1506",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

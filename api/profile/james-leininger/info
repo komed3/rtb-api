@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "San Antonio",
-    "state": "Texas"
+    "zipCode": "78232",
+    "_geo": {
+      "longitude": -98.470349,
+      "latitude": 29.58499
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical products"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/041a945d6f58b58c25ed00c227dde161/416x416.jpg?background=000000&cropX1=35&cropX2=718&cropY1=92&cropY2=775",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indiana University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Indiana University",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

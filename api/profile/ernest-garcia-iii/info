@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "zipCode": "85003",
+    "_geo": {
+      "longitude": -112.0789355,
+      "latitude": 33.4495511
+    }
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "used cars"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": {
+    "name": "Carvana",
+    "title": "Founder and Chief Executive Officer"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

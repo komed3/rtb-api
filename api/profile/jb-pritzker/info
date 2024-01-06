@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Springfield",
-    "state": "Illinois"
+    "zipCode": "62701"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +17,24 @@
   "source": [
     "hotels",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Northwestern University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

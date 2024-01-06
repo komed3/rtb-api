@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Danbury",
-    "state": "Connecticut"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Subway sandwich shops"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/d49004dde899836482456b533a9e22d9/416x416.jpg?background=000000&cropX1=159&cropX2=612&cropY1=47&cropY2=500",
+  "deceased": true,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Bowdoin College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Doctor's Associates (Subway)",
+    "title": "Co-Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

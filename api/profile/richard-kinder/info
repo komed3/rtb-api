@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77019",
+    "_geo": {
+      "longitude": -95.402289,
+      "latitude": 29.75386
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "pipelines"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c76d0e4a7ea43100043cdf2/416x416.jpg?background=000000&cropX1=995&cropX2=3185&cropY1=56&cropY2=2245",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Missouri",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Missouri",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Kinder Morgan",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

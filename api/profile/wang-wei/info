@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "service"
   ],
   "source": [
     "package delivery"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5dc05174b4d505000678d99e/416x416.jpg?background=000000&cropX1=879&cropX2=2088&cropY1=805&cropY2=2013",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

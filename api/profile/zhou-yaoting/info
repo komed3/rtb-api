@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Wuxi",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Wuxi"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "apparel",
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

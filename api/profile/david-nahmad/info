@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "mc",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10021",
+    "_geo": {
+      "longitude": -73.969924,
+      "latitude": 40.771403
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "art collection"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76f9a0c7b02d000666d3e5/416x416.jpg?background=000000&cropX1=2968&cropX2=5115&cropY1=820&cropY2=2965",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

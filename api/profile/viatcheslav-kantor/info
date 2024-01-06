@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Herzliya"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,21 @@
   "source": [
     "fertilizer",
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62471e214fd8b86f962b15f6/416x416.jpg?background=000000&cropX1=0&cropX2=1018&cropY1=516&cropY2=1534",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Aviation University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

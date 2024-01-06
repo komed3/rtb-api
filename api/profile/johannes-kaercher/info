@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Winnenden",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Winnenden"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,15 @@
   "source": [
     "vacuums",
     "cleaning products"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

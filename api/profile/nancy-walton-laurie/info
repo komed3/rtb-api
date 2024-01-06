@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Henderson",
-    "state": "Nevada"
+    "zipCode": "89012",
+    "_geo": {
+      "longitude": -115.050302,
+      "latitude": 36.018175
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Walmart"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fa16f3e4b0ffa7afe4ad04/416x416.jpg?background=000000&cropX1=98&cropX2=649&cropY1=58&cropY2=609",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Memphis",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

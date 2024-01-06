@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,20 @@
   "source": [
     "banking",
     "minerals"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fundacao Getulio Vargas",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

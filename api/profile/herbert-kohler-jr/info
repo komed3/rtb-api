@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Kohler",
-    "state": "Wisconsin"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "plumbing fixtures"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4e6f58de56f2aac9de396e/416x416.jpg?background=000000&cropX1=0&cropX2=2927&cropY1=220&cropY2=3149",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Kohler Co.",
+    "title": "Executive chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

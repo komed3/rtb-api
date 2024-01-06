@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "gr",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,29 @@
   "source": [
     "banking",
     "shipping"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56ca07f8e4b062f6b59a2de6/416x416.jpg?background=000000&cropX1=2&cropX2=703&cropY1=35&cropY2=736",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "London School of Economics",
+      "degree": "Master"
+    },
+    {
+      "school": "London School of Economics",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

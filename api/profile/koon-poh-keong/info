@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Petaling Jaya",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Petaling Jaya"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "aluminum"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Oklahoma",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

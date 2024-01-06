@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Madison",
-    "state": "Wisconsin"
+    "country": "us",
+    "state": "Wisconsin",
+    "city": "Madison"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "health IT"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63507a42f764049c77c9a295/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dickinson College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Wisconsin",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Epic Systems",
+    "title": "Founder & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

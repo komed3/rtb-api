@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "zipCode": "06830",
+    "_geo": {
+      "longitude": -73.629382,
+      "latitude": 41.033949
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investment management"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Northwestern University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Northwestern University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

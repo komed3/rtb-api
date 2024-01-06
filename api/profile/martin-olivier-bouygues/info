@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,15 @@
   "source": [
     "construction",
     "media"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

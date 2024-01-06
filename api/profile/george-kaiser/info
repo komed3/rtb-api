@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Tulsa",
-    "state": "Oklahoma"
+    "zipCode": "74105",
+    "_geo": {
+      "longitude": -95.964807,
+      "latitude": 36.09692
+    }
   },
   "industry": [
     "energy"
@@ -15,5 +21,28 @@
   "source": [
     "oil & gas",
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba439ef31358e5690cd9d73/416x416.jpg?background=000000&cropX1=2031&cropX2=5125&cropY1=15&cropY2=3107",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "BOK Financial",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

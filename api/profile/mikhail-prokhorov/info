@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Frauenfeld"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6229148ba4b9db39c42edc8a/416x416.jpg?background=000000&cropX1=965&cropX2=3404&cropY1=200&cropY2=2639",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Moscow Institute of Finance",
+      "degree": "Master of Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

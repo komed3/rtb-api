@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Fisher Island",
-    "state": "Florida"
+    "zipCode": "33109",
+    "_geo": {
+      "longitude": -80.141249,
+      "latitude": 25.762749
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "IT consulting"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/73371aed5d8a47d09f73069801fb7c45/416x416.jpg?background=000000&cropX1=206&cropX2=522&cropY1=60&cropY2=375",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology, Bombay",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Michigan, Stephen M. Ross School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Syntel",
+    "title": "Chairman and Co-founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10021",
+    "_geo": {
+      "longitude": -73.969924,
+      "latitude": 40.771403
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge fund"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Coatue Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

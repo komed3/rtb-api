@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Brookline",
-    "state": "Massachusetts"
+    "_geo": {
+      "longitude": -71.120476,
+      "latitude": 42.333473
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Reebok"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

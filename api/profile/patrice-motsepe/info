@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Johannesburg",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Johannesburg"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77ad2cd8e1ae0007b73263/416x416.jpg?background=000000&cropX1=1014&cropX2=3703&cropY1=21&cropY2=2710",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

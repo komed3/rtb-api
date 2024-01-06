@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Santa Monica",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Santa Monica ",
+    "zipCode": "90401"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

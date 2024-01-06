@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": "Oslo",
-    "state": null
+    "country": "no",
+    "state": null,
+    "city": "Oslo"
   },
   "industry": [
     "service"
   ],
   "source": [
     "hotels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7703cbd8e1ae0007b7288a/416x416.jpg?background=000000&cropX1=142&cropX2=2997&cropY1=83&cropY2=2936",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

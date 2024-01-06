@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "telecom"
@@ -15,5 +16,25 @@
   "source": [
     "telecom",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77925210380d0006fbc11f/416x416.jpg?background=000000&cropX1=370&cropX2=3190&cropY1=20&cropY2=2841",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Mendeleyev Chemical Engin",
+      "degree": "Master of Science in Engineering"
+    },
+    {
+      "school": "Moscow State University",
+      "degree": "Master of Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

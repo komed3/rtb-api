@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "kitchen appliances"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/562a5a9ee4b0ffa7afe63015/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=84&cropY2=827",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

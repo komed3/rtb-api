@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56ca6a42e4b062f6b59a3447/416x416.jpg?background=000000&cropX1=8&cropX2=744&cropY1=232&cropY2=968",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Delhi University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

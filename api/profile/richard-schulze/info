@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Bonita Springs",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Naples"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Best Buy"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/1423046948c12a11b7b90939845786aa/416x416.jpg?background=000000&cropX1=101&cropX2=1176&cropY1=52&cropY2=1127",
+  "deceased": false,
+  "children": 10,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "Best Buy",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

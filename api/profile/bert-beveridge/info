@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "zipCode": "73301",
+    "_geo": {
+      "longitude": -97.74735720000001,
+      "latitude": 30.2228447
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "vodka"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Texas at Austin",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

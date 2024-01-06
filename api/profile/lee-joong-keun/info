@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,24 @@
   "source": [
     "construction",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71ffac4bbe6f51818ab6ca/416x416.jpg?background=000000&cropX1=174&cropX2=1016&cropY1=15&cropY2=857",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": {
+    "name": "Booyoung Group",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

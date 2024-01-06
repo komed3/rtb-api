@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "zipCode": "73120",
+    "_geo": {
+      "longitude": -97.56911,
+      "latitude": 35.58357
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil & gas"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a634322254b0008e15a64/416x416.jpg?background=000000&cropX1=880&cropX2=1549&cropY1=0&cropY2=668",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "Continental Resources",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

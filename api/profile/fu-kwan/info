@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,25 @@
   "source": [
     "real estate",
     "diversified"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c6eede131358e35dd26c2f4/416x416.jpg?background=000000&cropX1=488&cropX2=1583&cropY1=489&cropY2=1584",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tsinghua University",
+      "degree": "EMBA"
+    },
+    {
+      "school": "Hunan University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

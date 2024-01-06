@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul "
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "convenience stores"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d247a904c687b00085c1e8c/416x416.jpg?background=000000&cropX1=5&cropX2=588&cropY1=33&cropY2=616",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Laws"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": {
+    "name": "BGF Retail",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

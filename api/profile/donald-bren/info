@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newport Beach",
-    "state": "California"
+    "zipCode": "92660",
+    "_geo": {
+      "longitude": -117.874609,
+      "latitude": 33.63294
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d9b6d9867dd830006a2db41/416x416.jpg?background=000000&cropX1=513&cropX2=1983&cropY1=80&cropY2=1551",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Washington",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Irvine Company",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

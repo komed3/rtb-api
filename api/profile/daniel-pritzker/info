@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Marin County",
-    "state": "California"
+    "zipCode": "94904",
+    "_geo": {
+      "longitude": -122.534237,
+      "latitude": 37.949749
+    }
   },
   "industry": [
     "service"
@@ -15,5 +21,25 @@
   "source": [
     "hotels",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b10aa6de3150009a50a58/416x416.jpg?background=000000&cropX1=62&cropX2=747&cropY1=35&cropY2=720",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Northwestern University",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "Tufts University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

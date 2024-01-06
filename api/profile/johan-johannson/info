@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": "Oslo",
-    "state": null
+    "country": "no",
+    "state": null,
+    "city": "Oslo"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "grocery stores"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

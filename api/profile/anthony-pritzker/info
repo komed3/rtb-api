@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90077",
+    "_geo": {
+      "longitude": -118.451819,
+      "latitude": 34.103581
+    }
   },
   "industry": [
     "service"
@@ -15,5 +21,21 @@
   "source": [
     "hotels",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4971f6ae6fa459a8bfae28/416x416.jpg?background=000000&cropX1=1068&cropX2=1941&cropY1=447&cropY2=1319",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

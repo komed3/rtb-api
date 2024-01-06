@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Beverly Hills",
-    "state": "California"
+    "zipCode": "90210",
+    "_geo": {
+      "longitude": -118.4104684,
+      "latitude": 34.1030032
+    }
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

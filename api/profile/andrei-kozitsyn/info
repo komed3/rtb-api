@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Verkhniaya Pyshma",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Verkhniaya Pyshma"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "metals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77774510380d0006fbbd37/416x416.jpg?background=000000&cropX1=1712&cropX2=5050&cropY1=312&cropY2=3648",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ural Polytechnic Institute",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

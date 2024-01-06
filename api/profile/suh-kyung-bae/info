@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5539280de4b0bacdbd748e4e/416x416.jpg?background=000000&cropX1=19&cropX2=744&cropY1=53&cropY2=778",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Samuel Curtis Johnson Graduate School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Yonsei University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Amorepacific",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

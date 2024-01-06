@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Buenos Aires",
-    "state": null
+    "country": "ar",
+    "state": null,
+    "city": "Buenos Aires"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "pipe manufacturing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76d95d10380d0006fbb85f/416x416.jpg?background=000000&cropX1=1262&cropX2=3189&cropY1=0&cropY2=1926",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Certificate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

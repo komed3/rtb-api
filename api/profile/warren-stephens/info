@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Little Rock",
-    "state": "Arkansas"
+    "zipCode": "72207",
+    "_geo": {
+      "longitude": -92.342209,
+      "latitude": 34.772185
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investment banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b111822254b0008e168f4/416x416.jpg?background=000000&cropX1=200&cropX2=854&cropY1=66&cropY2=720",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Wake Forest University School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Washington & Lee University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

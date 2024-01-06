@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "ch",
+    "state": null,
     "city": "Zug",
-    "state": null
+    "zipCode": "6317"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "commodities"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

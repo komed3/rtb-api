@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75220",
+    "_geo": {
+      "longitude": -96.864695,
+      "latitude": 32.86775
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "pipelines"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b38d418444200084e76cd/416x416.jpg?background=000000&cropX1=673&cropX2=2827&cropY1=341&cropY2=2496",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "LeTourneau University's School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

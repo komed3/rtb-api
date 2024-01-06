@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Vancouver",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Vancouver"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e74463d2a573300068fcd8d/416x416.jpg?background=000000&cropX1=411&cropX2=2016&cropY1=97&cropY2=1702",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Jim Pattison Group",
+    "title": "Founder, Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

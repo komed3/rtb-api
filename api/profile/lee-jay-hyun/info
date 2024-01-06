@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,24 @@
   "source": [
     "food products",
     "entertainment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77b5e7c7b02d000666dc31/416x416.jpg?background=000000&cropX1=81&cropX2=1168&cropY1=95&cropY2=1183",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "CJ Corporation",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

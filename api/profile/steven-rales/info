@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Santa Barbara",
-    "state": "California"
+    "zipCode": "93101",
+    "_geo": {
+      "longitude": -119.7107494,
+      "latitude": 34.420334
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "manufacturing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6596e32bb312f2d7f960b211/416x416.jpg?background=000000&cropX1=4&cropX2=487&cropY1=25&cropY2=508",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "American University",
+      "degree": "Law Degree"
+    },
+    {
+      "school": "DePauw University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Danaher",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

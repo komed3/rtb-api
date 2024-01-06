@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Kellogg School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science in Engineering"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

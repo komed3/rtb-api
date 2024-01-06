@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "ao",
   "residence": {
-    "city": "Luanda",
-    "state": null
+    "country": "ao",
+    "state": null,
+    "city": "Luanda"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,21 @@
   "source": [
     "banking",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e73ced907adf00006db9416/416x416.jpg?background=000000&cropX1=447&cropX2=3981&cropY1=8&cropY2=3539",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "King's College London",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Dongguan",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Dongguan"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "paper manufacturing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

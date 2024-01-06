@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Jinjiang",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Jinjiang"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "hygiene products"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e754615015297000794d91d/416x416.jpg?background=000000&cropX1=315&cropX2=1004&cropY1=13&cropY2=703",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

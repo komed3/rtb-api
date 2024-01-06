@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ar",
   "residence": {
-    "city": "Buenos Aires",
-    "state": null
+    "country": "ar",
+    "state": null,
+    "city": "Buenos Aires"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,16 @@
   "source": [
     "airports",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e73d11607adf00006db9515/416x416.jpg?background=000000&cropX1=2263&cropX2=5806&cropY1=0&cropY2=3540",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

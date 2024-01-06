@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Woodside",
-    "state": "California"
+    "zipCode": "94062",
+    "_geo": {
+      "longitude": -122.26692,
+      "latitude": 37.45171
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c9d17e74bbe6f277fd241e6/416x416.jpg?background=000000&cropX1=151&cropX2=1830&cropY1=6&cropY2=1685",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Rice University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Rice University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Kleiner Perkins",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

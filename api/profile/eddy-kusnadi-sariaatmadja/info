@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +16,25 @@
   "source": [
     "media",
     "tech"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/601ac75c9164612b0d8e151f/416x416.jpg?background=000000&cropX1=1774&cropX2=2996&cropY1=459&cropY2=1680",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of New South Wales",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "University of New South Wales",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Atherton",
-    "state": "California"
+    "zipCode": "94027",
+    "_geo": {
+      "longitude": -122.199117,
+      "latitude": 37.457732
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a8a0b6de3150009a500b5/416x416.jpg?background=000000&cropX1=743&cropX2=1994&cropY1=9&cropY2=1259",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "Claremont McKenna College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "UC Hastings",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

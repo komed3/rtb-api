@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e78e3e610380d0006fbd725/416x416.jpg?background=000000&cropX1=569&cropX2=3112&cropY1=290&cropY2=2832",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Chongqing Universtiy",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

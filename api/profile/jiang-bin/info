@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Weifang",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Weifang"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "acoustic components"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c78388f31358e35dd279c6e/416x416.jpg?background=000000&cropX1=188&cropX2=1422&cropY1=234&cropY2=1467",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Beijing University of Aeronautics and Astronautics",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

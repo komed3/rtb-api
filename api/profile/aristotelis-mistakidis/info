@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "gr",
   "residence": {
-    "city": "Zug",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zug"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,20 @@
   "source": [
     "mining",
     "commodities"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul "
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online retailing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b121eb67ca0e3c1386c065/416x416.jpg?background=000000&cropX1=522&cropX2=1708&cropY1=596&cropY2=1783",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Coupang",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

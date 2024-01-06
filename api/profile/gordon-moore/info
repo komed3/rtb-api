@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Woodside",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Intel"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/9032bff5e34d21282fd3b61994953d63/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=52&cropY2=796",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "California Institute of Technology",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Intel Corp.",
+    "title": "Cofounder and Chairman Emeritus"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

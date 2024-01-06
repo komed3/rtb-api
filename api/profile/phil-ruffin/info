@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Las Vegas",
-    "state": "Nevada"
+    "zipCode": "89135",
+    "_geo": {
+      "longitude": -115.330166,
+      "latitude": 36.13192
+    }
   },
   "industry": [
     "diversified"
@@ -15,5 +21,20 @@
   "source": [
     "casinos",
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Wichita State University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

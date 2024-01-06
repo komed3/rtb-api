@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
+    "country": "se",
+    "state": null,
     "city": "Båstad",
-    "state": null
+    "zipCode": "26993"
   },
   "industry": [
     "real-estate"
@@ -15,5 +17,15 @@
   "source": [
     "construction",
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

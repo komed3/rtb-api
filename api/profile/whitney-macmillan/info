@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Vero Beach",
-    "state": "Florida"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a949022254b0008e160cd/416x416.jpg?background=000000&cropX1=13&cropX2=750&cropY1=6&cropY2=742",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

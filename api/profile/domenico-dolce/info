@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "luxury goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7f8c02a7ea431690132e66/416x416.jpg?background=000000&cropX1=244&cropX2=936&cropY1=11&cropY2=703",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

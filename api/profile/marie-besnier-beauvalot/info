@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "fr",
   "residence": {
-    "city": "Laval",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Laval"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "cheese"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

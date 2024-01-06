@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Clifton",
-    "state": "New Jersey"
+    "country": "us",
+    "state": "New Jersey",
+    "city": "Clifton"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "internet security"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Bradford",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

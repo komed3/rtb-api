@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90012",
+    "_geo": {
+      "longitude": -118.246879,
+      "latitude": 34.072437
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "herbal products"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brigham Young University",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "Kaohsiung Medical University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

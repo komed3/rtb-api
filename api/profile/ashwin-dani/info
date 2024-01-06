@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "paints"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6526bc17f85b1b5bfcedb720/416x416.jpg?background=000000&cropX1=133&cropX2=1611&cropY1=178&cropY2=1657",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Akron",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Mumbai",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

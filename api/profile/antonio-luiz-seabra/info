@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e74234007adf00006db9e3e/416x416.jpg?background=000000&cropX1=1239&cropX2=3466&cropY1=183&cropY2=2410",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

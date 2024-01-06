@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75a67c10380d0006fbaa27/416x416.jpg?background=000000&cropX1=71&cropX2=963&cropY1=65&cropY2=958",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universite Paris X Nanterre",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

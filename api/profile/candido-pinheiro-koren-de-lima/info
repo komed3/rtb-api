@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Fortaleza",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Fortaleza"
   },
   "industry": [
     "healthcare"
@@ -15,5 +16,15 @@
   "source": [
     "hospitals",
     "health insurance"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

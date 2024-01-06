@@ -6,11 +6,22 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Zhengzhou",
-    "state": "Henan"
+    "country": "cn",
+    "state": null,
+    "city": "Zhengzhou"
   },
   "industry": [],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

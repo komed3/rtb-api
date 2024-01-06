@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Key Largo",
-    "state": "Florida"
+    "zipCode": "33040"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "sandwich chain"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

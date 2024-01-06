@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Paradise Valley",
-    "state": "Arizona"
+    "zipCode": "85253",
+    "_geo": {
+      "longitude": -111.957951,
+      "latitude": 33.545992
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Campbell Soup"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/2a96ddbe76c1eeed78fcd008987e09e8/416x416.jpg?background=000000&cropX1=58&cropX2=689&cropY1=132&cropY2=764",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Arizona",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

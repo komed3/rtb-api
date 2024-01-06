@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "gr",
   "residence": {
-    "city": "Athens",
-    "state": null
+    "country": "gr",
+    "state": null,
+    "city": "Athens"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil and gas"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

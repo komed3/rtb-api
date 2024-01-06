@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "education technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

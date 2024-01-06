@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "San Antonio",
-    "state": "Texas"
+    "zipCode": "78204",
+    "_geo": {
+      "longitude": -98.505351,
+      "latitude": 29.403311
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "supermarkets"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/633f36069877ef2945de06ab/416x416.jpg?background=000000&cropX1=101&cropX2=966&cropY1=22&cropY2=886",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

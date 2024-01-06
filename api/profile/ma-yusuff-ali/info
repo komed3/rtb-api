@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Abu Dhabi",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Abu Dhabi"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5d9f4c3a67dd830006a3211e/416x416.jpg?background=000000&cropX1=669&cropX2=1625&cropY1=281&cropY2=1238",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

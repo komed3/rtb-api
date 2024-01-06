@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenyang",
-    "state": "Liaoning"
+    "country": "cn",
+    "state": null,
+    "city": "Shenyang"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "bakery chain"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

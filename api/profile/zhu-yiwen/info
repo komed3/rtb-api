@@ -6,11 +6,27 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [],
   "source": [
     "healthcare"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Nanjing University of Chinese Medicine",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

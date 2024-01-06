@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Crocetta del Montello",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Crocetta del Montello"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76d77810380d0006fbb83d/416x416.jpg?background=000000&cropX1=19&cropX2=1101&cropY1=33&cropY2=1116",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

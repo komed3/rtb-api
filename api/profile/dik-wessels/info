@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Amersfoort",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Amersfoort"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,15 @@
   "source": [
     "construction",
     "engineering"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

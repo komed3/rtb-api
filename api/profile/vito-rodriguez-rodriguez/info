@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "pe",
   "residence": {
-    "city": "Lima",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "processed milk"
-  ]
+  ],
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

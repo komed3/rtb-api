@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94118",
+    "_geo": {
+      "longitude": -122.462755,
+      "latitude": 37.77459
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Gap"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b0ff822254b0008e168d7/416x416.jpg?background=000000&cropX1=858&cropX2=3345&cropY1=629&cropY2=3117",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Pisces, Inc.",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

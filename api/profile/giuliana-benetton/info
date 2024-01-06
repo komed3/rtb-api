@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "it",
   "residence": {
-    "city": "Treviso",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Treviso"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,16 @@
   "source": [
     "fashion retail",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/6a21667aaf0bc07cb3c22f8c52558dd8/416x416.jpg?background=000000&cropX1=1&cropX2=300&cropY1=1&cropY2=300",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

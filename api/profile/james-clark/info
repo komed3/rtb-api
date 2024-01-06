@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "_geo": {
+      "longitude": -80.036615,
+      "latitude": 26.702884
+    }
   },
   "industry": [
     "technology"
@@ -15,5 +20,32 @@
   "source": [
     "Netscape",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59de798131358e542c039ef4/416x416.jpg?background=000000&cropX1=437&cropX2=1424&cropY1=237&cropY2=1224",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of New Orleans",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of New Orleans",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Utah",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": {
+    "name": "Netscape Communications Corporation",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

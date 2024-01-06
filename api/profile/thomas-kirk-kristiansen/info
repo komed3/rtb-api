@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "dk",
   "residence": {
-    "city": "Billund",
-    "state": null
+    "country": "dk",
+    "state": null,
+    "city": "Billund"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Lego"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

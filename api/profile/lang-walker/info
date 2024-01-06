@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Sydney",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Sydney"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ea66552e7d1c614036e6f5/416x416.jpg?background=000000&cropX1=326&cropX2=1074&cropY1=37&cropY2=785",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

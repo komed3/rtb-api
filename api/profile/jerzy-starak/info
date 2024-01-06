@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "pl",
   "residence": {
-    "city": "Konstancin",
-    "state": null
+    "country": "pl",
+    "state": null,
+    "city": "Konstancin"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

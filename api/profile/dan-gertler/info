@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Bnei Brak",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Bnei Brak"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76cbbb10380d0006fbb802/416x416.jpg?background=000000&cropX1=1040&cropX2=2509&cropY1=748&cropY2=2215",
+  "deceased": false,
+  "children": 11,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

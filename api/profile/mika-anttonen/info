@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fi",
   "residence": {
-    "city": "Helsinki",
-    "state": null
+    "country": "fi",
+    "state": null,
+    "city": "Helsinki"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil & gas"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munich",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Munich"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "tech investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7e2c6a31358e4955ad1168/416x416.jpg?background=000000&cropX1=994&cropX2=3323&cropY1=10&cropY2=2339",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Cologne",
+      "degree": "LLM"
+    }
+  ],
+  "organization": {
+    "name": "Rocket Internet",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

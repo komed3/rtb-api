@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Pinterest"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a9046cf4bbe6f0fa8265d45/416x416.jpg?background=000000&cropX1=150&cropX2=1533&cropY1=42&cropY2=1425",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Pinterest",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

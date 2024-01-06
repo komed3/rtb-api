@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77c997d8e1ae0007b735ab/416x416.jpg?background=000000&cropX1=2267&cropX2=3341&cropY1=480&cropY2=1554",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Uppsala University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Sandell Asset Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c707eb54bbe6f65d4665798/416x416.jpg?background=000000&cropX1=237&cropX2=678&cropY1=0&cropY2=441",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

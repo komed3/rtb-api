@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Marseille",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Marseille"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "shipping"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Concordia University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "CMA CGM",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

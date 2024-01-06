@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Vienna",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Vienna"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "real estate",
     "construction"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

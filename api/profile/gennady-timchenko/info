@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "oil",
     "gas"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/622b778d7c4aefebd5cbea11/416x416.jpg?background=000000&cropX1=0&cropX2=2317&cropY1=426&cropY2=2744",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Leningrad Mechanical Institute",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

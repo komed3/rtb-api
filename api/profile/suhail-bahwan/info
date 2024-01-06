@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "om",
   "residence": {
-    "city": "Muscat",
-    "state": null
+    "country": "om",
+    "state": null,
+    "city": "Muscat"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 15,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

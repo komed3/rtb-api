@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Landsberg am Lech",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Landsberg am Lech"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "appliances"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

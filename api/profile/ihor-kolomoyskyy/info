@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ua",
   "residence": {
-    "city": "Kiev",
-    "state": null
+    "country": "ua",
+    "state": null,
+    "city": "Kiev"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,21 @@
   "source": [
     "banking",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77e4d6d8e1ae0007b7389f/416x416.jpg?background=000000&cropX1=1274&cropX2=4333&cropY1=104&cropY2=3160",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dniepropetrovsk Metallurgical Institute",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

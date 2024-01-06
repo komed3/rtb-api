@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "zipCode": "78733",
+    "_geo": {
+      "longitude": -97.872301,
+      "latitude": 30.330155
+    }
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +21,21 @@
   "source": [
     "hair products",
     "tequila"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f493024ddb201935c58e43a/416x416.jpg?background=000000&cropX1=501&cropX2=2800&cropY1=307&cropY2=2606",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

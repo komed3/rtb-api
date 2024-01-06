@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Ceibs",
+      "degree": "EMBA"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "Tsinghua University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

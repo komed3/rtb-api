@@ -6,13 +6,39 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Orinda",
+    "zipCode": "94563",
+    "_geo": {
+      "longitude": -122.1859572,
+      "latitude": 37.8912529
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "skin care"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5bbbc5cfa7ea4342a949d25e/416x416.jpg?background=000000&cropX1=0&cropX2=2832&cropY1=79&cropY2=2912",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Medical Doctor"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

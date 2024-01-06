@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c723b324bbe6f51818aba7a/416x416.jpg?background=000000&cropX1=5&cropX2=1104&cropY1=67&cropY2=1167",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

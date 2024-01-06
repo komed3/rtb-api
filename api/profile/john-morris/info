@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Missouri",
     "city": "Springfield",
-    "state": "Missouri"
+    "zipCode": "65802",
+    "_geo": {
+      "longitude": -93.3892894,
+      "latitude": 37.1953893
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "sporting goods retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8adeb06de3150009a506bf/416x416.jpg?background=000000&cropX1=0&cropX2=1334&cropY1=383&cropY2=1717",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Drury University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

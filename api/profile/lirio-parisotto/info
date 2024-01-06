@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Manaus",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Manaus"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56c619bce4b062f6b59a0c55/416x416.jpg?background=000000&cropX1=156&cropX2=692&cropY1=3&cropY2=540",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

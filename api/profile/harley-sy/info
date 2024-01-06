@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Manila",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Manila"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "De La Salle University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

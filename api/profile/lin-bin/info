@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "smartphones"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c744e7aa7ea431000438504/416x416.jpg?background=000000&cropX1=1694&cropX2=3460&cropY1=485&cropY2=2250",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Drexel University",
+      "degree": "Master"
+    },
+    {
+      "school": "Sun Yat-sen University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

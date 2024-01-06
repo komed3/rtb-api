@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Haiger",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Haiger"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "manufacturing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76256710380d0006fbacf3/416x416.jpg?background=000000&cropX1=359&cropX2=1453&cropY1=0&cropY2=1092",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

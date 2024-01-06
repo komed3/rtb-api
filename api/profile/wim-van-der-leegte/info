@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Eindhoven",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Eindhoven"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "manufacturing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7155944bbe6f79c54746ae/416x416.jpg?background=000000&cropX1=376&cropX2=1424&cropY1=0&cropY2=1047",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

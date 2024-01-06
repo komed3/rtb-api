@@ -6,11 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Midland",
-    "state": "Texas"
+    "country": "us",
+    "state": "Texas",
+    "city": "Midland"
   },
   "industry": [],
   "source": [
     "oil"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/632cc12375656f84e344b120/416x416.jpg?background=000000&cropX1=931&cropX2=2365&cropY1=366&cropY2=1801",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Texas, Austin",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

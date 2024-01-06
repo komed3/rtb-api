@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Amsterdam",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Amsterdam"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

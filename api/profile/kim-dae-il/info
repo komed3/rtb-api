@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Anyang",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Anyang"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "mobile gaming"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

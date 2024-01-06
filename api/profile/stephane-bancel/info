@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Boston"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ecole Centrale Paris",
+      "degree": "Master of Science in Engineering"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Minnesota",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Ras Al Khaimah"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "coal",
     "fertilizers"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7eb6524bbe6f42abffe4ca/416x416.jpg?background=000000&cropX1=665&cropX2=2917&cropY1=100&cropY2=2353",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Plekhanov Russian University of Economics",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

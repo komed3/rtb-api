@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Wels",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Wels"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automotive"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7c6e22a7ea43169012fdf4/416x416.jpg?background=000000&cropX1=139&cropX2=911&cropY1=117&cropY2=890",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Montan University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

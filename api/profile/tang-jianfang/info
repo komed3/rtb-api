@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Wuhan",
-    "state": "Hubei"
+    "country": "cn",
+    "state": null,
+    "city": "Wuhan"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "packaged foods"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

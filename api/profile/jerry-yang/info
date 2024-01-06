@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Altos Hills",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.128797,
+      "latitude": 37.38055
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Yahoo"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59dd8e324bbe6f37dda04cd3/416x416.jpg?background=000000&cropX1=1344&cropX2=2990&cropY1=384&cropY2=2030",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Yahoo!",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

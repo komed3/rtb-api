@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "wine"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ua",
   "residence": {
-    "city": "Kiev",
-    "state": null
+    "country": "ua",
+    "state": null,
+    "city": "Kiev"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "agribusiness"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/e49a1f5b0da26b59b05a4a9db6ab9297/416x416.jpg?background=000000&cropX1=19&cropX2=707&cropY1=55&cropY2=743",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kiev Food Industry Institute",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

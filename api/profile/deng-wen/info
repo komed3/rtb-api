@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Chengdu",
-    "state": "Sichuan"
+    "country": "cn",
+    "state": null,
+    "city": "Chengdu"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "flavorings"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

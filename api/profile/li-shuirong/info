@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "petrochemicals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61a52212402ed8086d7a1ac9/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

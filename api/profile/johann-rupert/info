@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Cape Town",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Cape Town"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "luxury goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77abf210380d0006fbc437/416x416.jpg?background=000000&cropX1=69&cropX2=901&cropY1=177&cropY2=1009",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

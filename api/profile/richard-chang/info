@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,16 @@
   "source": [
     "real estate",
     "electronics"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/139f1ffa4917e7932adae4f11adbc9d5/416x416.jpg?background=000000&cropX1=8&cropX2=744&cropY1=73&cropY2=809",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

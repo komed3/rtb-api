@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "shopping malls"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6cd98431358e1c187f11bc/416x416.jpg?background=000000&cropX1=40&cropX2=466&cropY1=0&cropY2=426",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade do Brasil",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

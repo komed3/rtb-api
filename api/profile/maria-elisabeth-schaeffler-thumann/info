@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Herzogenaurach",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Herzogenaurach"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

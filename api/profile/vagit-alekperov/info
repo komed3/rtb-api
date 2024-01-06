@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62291dbe5c22ffeaf37a7528/416x416.jpg?background=000000&cropX1=232&cropX2=1762&cropY1=83&cropY2=1614",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Azerbaijan Institute of Oil and Chemistry",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

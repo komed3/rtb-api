@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10075",
+    "_geo": {
+      "longitude": -73.956672,
+      "latitude": 40.773126
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a84af4b31358e4955ad7b2f/416x416.jpg?background=000000&cropX1=1314&cropX2=2556&cropY1=18&cropY2=1259",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "SUNY Stony Brook",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Talpion Fund Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

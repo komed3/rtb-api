@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Utah",
     "city": "Provo",
-    "state": "Utah"
+    "zipCode": "84601",
+    "_geo": {
+      "longitude": -111.7256936,
+      "latitude": 40.2128559
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cloud computing"
-  ]
+  ],
+  "deceased": false,
+  "children": 9,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brigham Young University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Michigan State University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Pennsylvania State University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77019",
+    "_geo": {
+      "longitude": -95.402289,
+      "latitude": 29.75386
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +21,20 @@
   "source": [
     "energy",
     "sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Columbia College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "mobile phones"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77ec8ac7b02d000666e181/416x416.jpg?background=000000&cropX1=97&cropX2=695&cropY1=50&cropY2=648",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

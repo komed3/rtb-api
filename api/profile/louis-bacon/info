@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Oyster Bay",
-    "state": "New York"
+    "zipCode": "11771",
+    "_geo": {
+      "longitude": -73.52996399999999,
+      "latitude": 40.8722643
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8ede9131358e4955ae08e1/416x416.jpg?background=000000&cropX1=171&cropX2=2280&cropY1=189&cropY2=2298",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Middlebury College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Moore Capital Management, LP",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

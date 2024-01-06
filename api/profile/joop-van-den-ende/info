@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Baarn",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Baarn"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "TV shows"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

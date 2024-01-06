@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "_geo": {
+      "longitude": -73.629619,
+      "latitude": 41.02525
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "money management"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8ee00ca7ea43169014191b/416x416.jpg?background=000000&cropX1=1466&cropX2=4449&cropY1=128&cropY2=3109",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Fordham University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

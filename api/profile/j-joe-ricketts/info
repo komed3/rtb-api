@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wyoming",
     "city": "Little Jackson Hole",
-    "state": "Wyoming"
+    "zipCode": "82922",
+    "_geo": {
+      "longitude": -110.162418,
+      "latitude": 43.181038
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "TD Ameritrade"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f46b08d7bc6f82d41a077ad/416x416.jpg?background=000000&cropX1=98&cropX2=2000&cropY1=213&cropY2=2114",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Creighton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "Cardiff",
-    "state": null
+    "zipCode": "CF5"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/4c8c43f00e04cbd4ab49c7914c8439f7/416x416.jpg?background=000000&cropX1=201&cropX2=541&cropY1=21&cropY2=361",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "INSEAD",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Admiral Group ",
+    "title": "Chief Executive Officer"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

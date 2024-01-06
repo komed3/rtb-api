@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Oise",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Ecole de l'Air"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

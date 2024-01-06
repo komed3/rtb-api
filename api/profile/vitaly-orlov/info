@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Murmansk",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Murmansk"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "fisheries"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Murmansk Higher Marine Engineering School",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

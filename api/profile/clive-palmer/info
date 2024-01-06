@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Brisbane",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Brisbane"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ea6fa1ac85540662d77e9e/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "video games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70e72c31358e35dd26ee51/416x416.jpg?background=000000&cropX1=60&cropX2=566&cropY1=2&cropY2=508",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Nihon University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

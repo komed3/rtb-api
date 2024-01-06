@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "fi",
   "residence": {
-    "city": "Kirkkonummi",
-    "state": null
+    "country": "fi",
+    "state": null,
+    "city": "Kirkkonummi"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,16 @@
   "source": [
     "elevators",
     "escalators"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7596edc7b02d000666c442/416x416.jpg?background=000000&cropX1=352&cropX2=779&cropY1=0&cropY2=427",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

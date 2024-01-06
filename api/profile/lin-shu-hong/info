@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "petrochemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taipei University of Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

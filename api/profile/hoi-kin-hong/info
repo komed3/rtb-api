@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "mo",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

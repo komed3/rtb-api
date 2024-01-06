@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "conglomerate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a05f1ffa7ea436b47b53301/416x416.jpg?background=000000&cropX1=652&cropX2=1886&cropY1=466&cropY2=1699",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Baoneng Group",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

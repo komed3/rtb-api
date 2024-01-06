@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "LVMH"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ecole Polytechnique de Paris",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "LVMH Moët Hennessy Louis Vuitton",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

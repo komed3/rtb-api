@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Florence"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e777f4c10380d0006fbbe73/416x416.jpg?background=000000&cropX1=1416&cropX2=4639&cropY1=0&cropY2=3221",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute for Transport Engineering",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

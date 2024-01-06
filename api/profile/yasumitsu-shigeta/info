@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "mobile phone retailer"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ea6e308be3b7600063987a7/416x416.jpg?background=000000&cropX1=893&cropX2=1720&cropY1=109&cropY2=935",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Nihon University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

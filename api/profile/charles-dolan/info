@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Oyster Bay",
-    "state": "New York"
+    "zipCode": "11771",
+    "_geo": {
+      "longitude": -73.52847,
+      "latitude": 40.866865
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "cable television"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/04bf8bc05f398814c72260b756b2fc5a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=39&cropY2=783",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "John Carroll University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Cablevision Systems",
+    "title": "Chairman and Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

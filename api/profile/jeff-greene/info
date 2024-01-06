@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.037774,
+      "latitude": 26.71463
+    }
   },
   "industry": [
     "real-estate"
@@ -15,5 +21,25 @@
   "source": [
     "real estate",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5ff75b1157f0e95e19f6ea38/416x416.jpg?background=000000&cropX1=44&cropX2=924&cropY1=18&cropY2=898",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Johns Hopkins University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

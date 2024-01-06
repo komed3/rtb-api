@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Tolleson",
-    "state": "Arizona"
+    "_geo": {
+      "longitude": -112.264914,
+      "latitude": 33.450295
+    }
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "transportation"
-  ]
+  ],
+  "deceased": false,
+  "children": 10,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

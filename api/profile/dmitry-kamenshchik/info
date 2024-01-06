@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "service"
   ],
   "source": [
     "airport"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e777b7b10380d0006fbbd6b/416x416.jpg?background=000000&cropX1=737&cropX2=2731&cropY1=69&cropY2=2063",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Moscow State University",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Ahmedabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Ahmedabad"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "air coolers"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b6ec72c8f5dd93465a57e31c7b17eea7/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=2&cropY2=743",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Marshall School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

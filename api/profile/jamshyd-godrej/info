@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6149ed2191d29fbac055ed22/416x416.jpg?background=000000&cropX1=0&cropX2=2454&cropY1=0&cropY2=2455",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Illinois Institute of Technology",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

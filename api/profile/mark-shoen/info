@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "zipCode": "85003",
+    "_geo": {
+      "longitude": -112.0789355,
+      "latitude": 33.4495511
+    }
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "U-Haul"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "College of the Holy Cross",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10013",
+    "_geo": {
+      "longitude": -74.00624839999999,
+      "latitude": 40.7176586
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cloud computing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ecole centrale de Paris",
+      "degree": "Master"
+    }
+  ],
+  "organization": {
+    "name": "Datadog",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

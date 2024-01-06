@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": "Crans Montana",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Crans Montana"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/589f486a4bbe6f0e55868b04/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=177&cropY2=921",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of West Bohemia",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

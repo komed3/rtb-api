@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7443de10380d0006bdad29/416x416.jpg?background=000000&cropX1=285&cropX2=1296&cropY1=105&cropY2=1117",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Western Ontario",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Selfridges Group",
+    "title": "Owner"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

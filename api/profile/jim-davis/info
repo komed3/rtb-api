@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Newton",
-    "state": "Massachusetts"
+    "zipCode": "02458",
+    "_geo": {
+      "longitude": -71.188381,
+      "latitude": 42.353677
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "New Balance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5efb573b222b100007dd146e/416x416.jpg?background=000000&cropX1=238&cropX2=1120&cropY1=163&cropY2=1045",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Middlebury College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "New Balance ",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

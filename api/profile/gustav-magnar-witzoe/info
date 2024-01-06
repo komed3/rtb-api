@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": "Kverva",
-    "state": null
+    "country": "no",
+    "state": null,
+    "city": "Kverva"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "fish farming"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

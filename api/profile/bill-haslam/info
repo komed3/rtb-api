@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Knoxville",
-    "state": "Tennessee"
+    "zipCode": "37902",
+    "_geo": {
+      "longitude": -83.92016559999999,
+      "latitude": 35.9641189
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "gas stations"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8deca3a7ea431690140e2c/416x416.jpg?background=000000&cropX1=620&cropX2=1454&cropY1=82&cropY2=916",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Emory University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

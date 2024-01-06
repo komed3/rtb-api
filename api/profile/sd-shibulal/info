@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76a8df10380d0006fbb6e9/416x416.jpg?background=000000&cropX1=691&cropX2=2982&cropY1=377&cropY2=2666",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Boston University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

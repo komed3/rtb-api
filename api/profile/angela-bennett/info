@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "au",
   "residence": {
-    "city": "Perth",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Perth"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

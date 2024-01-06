@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Zhengzhou",
-    "state": "Henan"
+    "country": "cn",
+    "state": null,
+    "city": "Zhengzhou"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6ed65ea7ea431000430c84/416x416.jpg?background=000000&cropX1=1041&cropX2=2755&cropY1=287&cropY2=2000",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

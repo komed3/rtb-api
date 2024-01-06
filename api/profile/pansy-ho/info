@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63f4e1df005a1030c5607140/416x416.jpg?background=000000&cropX1=246&cropX2=992&cropY1=360&cropY2=1107",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of Santa Clara",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

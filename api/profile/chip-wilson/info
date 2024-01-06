@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Vancouver",
-    "state": "British Columbia"
+    "country": "ca",
+    "state": null,
+    "city": "Vancouver"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Lululemon"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7b95cd9f46de0006e492bd/416x416.jpg?background=000000&cropX1=1740&cropX2=3369&cropY1=1886&cropY2=3515",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Calgary",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Lululemon",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

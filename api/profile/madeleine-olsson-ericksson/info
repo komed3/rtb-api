@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "se",
   "residence": {
-    "city": "Gothenburg",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Gothenburg"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/de1a43db35ae6e3cb505ff6a132c2db2/416x416.jpg?background=000000&cropX1=180&cropX2=744&cropY1=240&cropY2=804",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

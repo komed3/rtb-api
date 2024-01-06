@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -95.369784,
+      "latitude": 29.76045
+    }
   },
   "industry": [
     "food-beverage"
@@ -15,5 +20,28 @@
   "source": [
     "Houston Rockets",
     "entertainment"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/615b17659c4ca3fd706b1a5d/416x416.jpg?background=000000&cropX1=0&cropX2=1877&cropY1=621&cropY2=2499",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Texas Tech University",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "University of Houston",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Landry's",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

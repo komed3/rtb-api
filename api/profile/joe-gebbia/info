@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin",
+    "zipCode": "78701",
+    "_geo": {
+      "longitude": -97.74438630000002,
+      "latitude": 30.2729209
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Airbnb"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62d597ca0c6cd83555f269bb/416x416.jpg?background=000000&cropX1=90&cropX2=1180&cropY1=384&cropY2=1475",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "Rhode Island School of Design",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

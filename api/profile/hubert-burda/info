@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munich",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Munich"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "publishing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e762819c7b02d000666c83b/416x416.jpg?background=000000&cropX1=390&cropX2=2935&cropY1=10&cropY2=2554",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ludwig Maxmilian University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Elizabeth",
-    "state": "Colorado"
+    "zipCode": "80107",
+    "_geo": {
+      "longitude": -104.589004,
+      "latitude": 39.3985
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "cable television"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a6f7622254b0008e15c5a/416x416.jpg?background=000000&cropX1=184&cropX2=2173&cropY1=13&cropY2=2000",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Johns Hopkins University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Johns Hopkins University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

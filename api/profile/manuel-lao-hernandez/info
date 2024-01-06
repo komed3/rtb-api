@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Matadepera",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Matadepera"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

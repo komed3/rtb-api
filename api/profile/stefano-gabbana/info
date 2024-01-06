@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "luxury goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7fa0084bbe6f2652f5340b/416x416.jpg?background=000000&cropX1=257&cropX2=1812&cropY1=266&cropY2=1822",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Istituto Superiore di Industrie Artistiche",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

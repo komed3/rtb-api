@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Mexico City"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "tequila"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

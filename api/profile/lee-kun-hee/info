@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Samsung"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77b6abd8e1ae0007b7340a/416x416.jpg?background=000000&cropX1=65&cropX2=909&cropY1=57&cropY2=902",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Waseda University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Samsung Electronics",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

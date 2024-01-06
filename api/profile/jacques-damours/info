@@ -6,13 +6,27 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": "Quebec"
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Alimentation Couche Tard Inc. Cl A",
+    "title": "Vice President and Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

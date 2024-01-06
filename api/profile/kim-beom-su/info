@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online services"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b118d16fe6a0bfa17167c8/416x416.jpg?background=000000&cropX1=384&cropX2=2566&cropY1=172&cropY2=2352",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

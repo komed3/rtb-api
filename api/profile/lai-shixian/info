@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Quanzhou",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Quanzhou"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "sports apparel"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "China Europe International Business School",
+      "degree": "EMBA"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

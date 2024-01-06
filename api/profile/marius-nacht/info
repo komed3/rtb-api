@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70c6f94bbe6f79c5474094/416x416.jpg?background=000000&cropX1=0&cropX2=1275&cropY1=180&cropY2=1456",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hebrew University, Jerusalem",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75205",
+    "_geo": {
+      "longitude": -96.794659,
+      "latitude": 32.83771
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/9ee2e42bc1195265baa0e64db3eca460/416x416.jpg?background=000000&cropX1=108&cropX2=717&cropY1=116&cropY2=725",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Southern Methodist University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Southern Methodist University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Ford Financial Fund",
+    "title": "Managing Member"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

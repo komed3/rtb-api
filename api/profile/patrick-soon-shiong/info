@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90049",
+    "_geo": {
+      "longitude": -118.476583,
+      "latitude": 34.069781
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5ba4416731358e5690cd9dd9/416x416.jpg?background=000000&cropX1=1048&cropX2=1735&cropY1=186&cropY2=872",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of British Columbia",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Witwatersrand",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Witwatersrand",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Altos",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.128797,
+      "latitude": 37.38055
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "tech investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7792c5c7b02d000666d919/416x416.jpg?background=000000&cropX1=288&cropX2=2738&cropY1=20&cropY2=2468",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow State University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "DST Global",
+    "title": "Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

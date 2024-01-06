@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Como",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Como"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "winter jackets"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76da27d8e1ae0007b72692/416x416.jpg?background=000000&cropX1=407&cropX2=1689&cropY1=0&cropY2=1280",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

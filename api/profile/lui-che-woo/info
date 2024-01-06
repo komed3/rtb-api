@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos/hotels"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/620d2822171566a26114ade6/416x416.jpg?background=000000&cropX1=1337&cropX2=4000&cropY1=6&cropY2=2668",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

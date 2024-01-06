@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Barcelona",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Barcelona"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "apparel retailer"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56cc2c9de4b062f6b59a4fb9/416x416.jpg?background=000000&cropX1=0&cropX2=597&cropY1=40&cropY2=638",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

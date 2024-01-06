@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "eg",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,16 @@
   "source": [
     "retail",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7592f1c7b02d000666c3f5/416x416.jpg?background=000000&cropX1=868&cropX2=2380&cropY1=37&cropY2=1548",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

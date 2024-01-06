@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.419644,
+      "latitude": 37.777125
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Gap"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8ee5d44bbe6f2652f636d5/416x416.jpg?background=000000&cropX1=560&cropX2=1285&cropY1=288&cropY2=1013",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Gap Inc.",
+    "title": "Chairman of the Board"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

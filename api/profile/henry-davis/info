@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nebraska",
     "city": "Omaha",
-    "state": "Nebraska"
+    "zipCode": "68114",
+    "_geo": {
+      "longitude": -96.0520363,
+      "latitude": 41.2674199
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beef processing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of Denver",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

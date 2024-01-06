@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94115",
+    "_geo": {
+      "longitude": -122.4382307,
+      "latitude": 37.7877522
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Dolby Laboratories"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f49769ec9cb2eb7abc2fa7b/416x416.jpg?background=000000&cropX1=0&cropX2=2474&cropY1=77&cropY2=2550",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Heidelberg University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

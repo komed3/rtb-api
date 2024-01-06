@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e777f8cd8e1ae0007b72d4b/416x416.jpg?background=000000&cropX1=813&cropX2=4013&cropY1=22&cropY2=3225",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Military Academy F.E.Dzerzhinsky",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

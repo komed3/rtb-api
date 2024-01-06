@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Beau Vallon, Mahe",
-    "state": null
+    "country": "sc",
+    "state": null,
+    "city": "Beau Vallon, Mahe"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,20 @@
   "source": [
     "candy",
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Plekhanov Russian University of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,11 +6,22 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Meishan",
-    "state": "Sichuan"
+    "country": "cn",
+    "state": null,
+    "city": "Meishan"
   },
   "industry": [],
   "source": [
     "chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

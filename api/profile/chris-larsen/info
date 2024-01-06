@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94109",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7929789
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "cryptocurrency"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "San Francisco State University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

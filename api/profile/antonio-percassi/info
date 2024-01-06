@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Bergamo",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Bergamo"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,15 @@
   "source": [
     "real estate",
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

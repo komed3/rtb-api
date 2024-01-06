@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munich",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Munich"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "tech investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7e30c54bbe6f2652f527bf/416x416.jpg?background=000000&cropX1=343&cropX2=3006&cropY1=6&cropY2=2667",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "WHU - Otto Beisheim School of Management",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Rocket Internet",
+    "title": "Cofounder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

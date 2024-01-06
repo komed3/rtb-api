@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": null,
   "residence": {
-    "city": "Grand Cayman",
-    "state": null
+    "country": "ky",
+    "state": null,
+    "city": "Grand Cayman"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "health products"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

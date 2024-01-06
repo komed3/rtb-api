@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami Beach",
+    "zipCode": "33109",
+    "_geo": {
+      "longitude": -80.141249,
+      "latitude": 25.762749
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

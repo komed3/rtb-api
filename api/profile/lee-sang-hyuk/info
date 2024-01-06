@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d247c3e34a5c400084aca03/416x416.jpg?background=000000&cropX1=2&cropX2=506&cropY1=3&cropY2=507",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Sogang University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "KAIST",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Yello Mobile",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

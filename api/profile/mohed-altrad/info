@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Montpellier",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Montpellier"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,16 @@
   "source": [
     "scaffolding",
     "cement mixers"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75a303d8e1ae0007b716c9/416x416.jpg?background=000000&cropX1=794&cropX2=3137&cropY1=6&cropY2=2348",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

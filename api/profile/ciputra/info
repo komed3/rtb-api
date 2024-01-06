@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6571e0939324aec2e1890f88/416x416.jpg?background=000000&cropX1=93&cropX2=1160&cropY1=3&cropY2=1070",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Bandung Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

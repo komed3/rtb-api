@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Tainan",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "plastics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6091cc3d93e0d10c2f9d4448/416x416.jpg?background=000000&cropX1=7&cropX2=2516&cropY1=0&cropY2=2509",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Knoxville",
-    "state": "Tennessee"
+    "_geo": {
+      "longitude": -83.920914,
+      "latitude": 35.960495
+    }
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +20,24 @@
   "source": [
     "gas stations",
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f49268c96e697d1cc58e43a/416x416.jpg?background=000000&cropX1=165&cropX2=2860&cropY1=5&cropY2=2700",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Tennessee Knoxville",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Pilot Company",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

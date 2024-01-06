@@ -6,13 +6,45 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.160794,
+      "latitude": 37.44466
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Google"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a676a6331358e4955ab6cf1/416x416.jpg?background=000000&cropX1=67&cropX2=347&cropY1=0&cropY2=280",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of British Columbia",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Stanford University",
+    "title": "Professor"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

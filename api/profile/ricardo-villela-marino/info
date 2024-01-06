@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Polytechnic School of the University of Sao Paulo",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "London School of Economics and Political Science",
+      "degree": "Master of Arts/Science"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

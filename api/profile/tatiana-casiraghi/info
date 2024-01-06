@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "mc",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beer"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76fa7c10380d0006fbb99e/416x416.jpg?background=000000&cropX1=492&cropX2=2531&cropY1=120&cropY2=2160",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

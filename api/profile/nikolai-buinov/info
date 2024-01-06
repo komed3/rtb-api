@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Irkutsk",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Irkutsk"
   },
   "industry": [
     "energy"
@@ -15,5 +16,20 @@
   "source": [
     "oil",
     "gas"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Leningrad Institute of Railway Engineers",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

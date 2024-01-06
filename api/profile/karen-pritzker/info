@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Branford",
-    "state": "Connecticut"
+    "zipCode": "06405",
+    "_geo": {
+      "longitude": -72.806668,
+      "latitude": 41.27817
+    }
   },
   "industry": [
     "service"
@@ -15,5 +21,21 @@
   "source": [
     "hotels",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/83fbe5433dfa59f56151a75692d7107d/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=24&cropY2=768",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Northwestern University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Woodside",
-    "state": "California"
+    "zipCode": "94062",
+    "_geo": {
+      "longitude": -122.26692,
+      "latitude": 37.45171
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "business software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8afefa18444200084e73b7/416x416.jpg?background=000000&cropX1=691&cropX2=3487&cropY1=370&cropY2=3168",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

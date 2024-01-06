@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": "Verbier",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Verbier"
   },
   "industry": [
     "gambling-casinos"
@@ -16,5 +17,21 @@
     "oil and gas",
     "IT",
     "lotteries"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c755fe44bbe6f43b0c5cea2/416x416.jpg?background=000000&cropX1=0&cropX2=2366&cropY1=98&cropY2=2465",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hahnemann Medical College",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

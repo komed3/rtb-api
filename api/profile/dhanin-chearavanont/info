@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64a6e56a5b21dc15ce4c321c/416x416.jpg?background=000000&cropX1=5&cropX2=1894&cropY1=0&cropY2=1889",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

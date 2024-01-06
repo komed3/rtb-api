@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "LED lighting"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a0b26d3a7ea436b47b55a42/416x416.jpg?background=000000&cropX1=123&cropX2=2403&cropY1=105&cropY2=2386",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

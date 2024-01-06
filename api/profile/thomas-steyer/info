@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94115",
+    "_geo": {
+      "longitude": -122.435729,
+      "latitude": 37.78578
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8f089e31358e79a289ff38/416x416.jpg?background=000000&cropX1=543&cropX2=2766&cropY1=445&cropY2=2667",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Separated",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

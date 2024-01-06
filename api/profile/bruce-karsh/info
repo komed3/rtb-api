@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90210",
+    "_geo": {
+      "longitude": -118.411115,
+      "latitude": 34.092807
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/37cb3c5439cefb35fd4e59b7834e34a8/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=139&cropY2=883",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Oaktree Capital Group LLC",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

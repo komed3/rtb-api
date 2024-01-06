@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New Jersey",
     "city": "Millburn",
-    "state": "New Jersey"
+    "zipCode": "07041",
+    "_geo": {
+      "longitude": -74.2971543,
+      "latitude": 40.727549
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ac958fe4bbe6f2310f1e02b/416x416.jpg?background=000000&cropX1=143&cropX2=936&cropY1=7&cropY2=800",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Two Sigma",
+    "title": "Co-Founder & Co-Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

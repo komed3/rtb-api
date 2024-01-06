@@ -6,13 +6,36 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge fund"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Oxford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Oxford University",
+      "degree": "Master"
+    }
+  ],
+  "organization": {
+    "name": "Rokos Capital Management",
+    "title": "CEO & Founder "
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

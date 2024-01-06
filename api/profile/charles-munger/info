@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Berkshire Hathaway"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/88da1feb2b57450c4b7fe5a4423a1f8d/416x416.jpg?background=000000&cropX1=53&cropX2=721&cropY1=16&cropY2=685",
+  "deceased": true,
+  "children": 8,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

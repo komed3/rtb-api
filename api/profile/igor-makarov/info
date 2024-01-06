@@ -6,13 +6,31 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami",
-    "state": "Florida"
+    "zipCode": "33130"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e777e1c10380d0006fbbe25/416x416.jpg?background=000000&cropX1=457&cropX2=2451&cropY1=16&cropY2=2008",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Turkmen State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

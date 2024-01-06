@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Tianjin",
-    "state": "Tianjin"
+    "country": "cn",
+    "state": null,
+    "city": "Tianjin"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "food",
     "beverages"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7247d5a7ea431000435306/416x416.jpg?background=000000&cropX1=1071&cropX2=2428&cropY1=54&cropY2=1411",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

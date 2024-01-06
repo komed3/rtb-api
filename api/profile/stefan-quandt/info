@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Frankfurt",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Frankfurt"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "BMW"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/f257c2f96ce1171be43e685e6d8f9fa3/416x416.jpg?background=000000&cropX1=124&cropX2=725&cropY1=92&cropY2=693",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Technical University of Karlsruhe",
+      "degree": "Associate in Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

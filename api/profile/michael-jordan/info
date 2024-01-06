@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Jupiter",
-    "state": "Florida"
+    "zipCode": "33458",
+    "_geo": {
+      "longitude": -80.109357,
+      "latitude": 26.931397
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +21,21 @@
   "source": [
     "Charlotte Hornets",
     "endorsements"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/603811ed0f3061f16a7be88c/416x416.jpg?background=000000&cropX1=598&cropX2=2175&cropY1=97&cropY2=1675",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of North Carolina, Chapel Hill",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

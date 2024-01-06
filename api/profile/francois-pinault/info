@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "luxury goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f1eeca8e77f92a058fb1a81/416x416.jpg?background=000000&cropX1=1806&cropX2=3901&cropY1=36&cropY2=2133",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

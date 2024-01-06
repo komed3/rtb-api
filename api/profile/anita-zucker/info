@@ -6,13 +6,38 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "South Carolina",
     "city": "Charleston",
-    "state": "South Carolina"
+    "zipCode": "29407",
+    "_geo": {
+      "longitude": -80.004009,
+      "latitude": 32.79711
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of North Florida",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

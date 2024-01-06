@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "bangkok"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "restaurants"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Chulalongkorn University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

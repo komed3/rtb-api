@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "service"
   ],
   "source": [
     "Carnival Cruises"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/3eda39cc3957e62baacfa44070afb0e0/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=16&cropY2=760",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Miami Dade College",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

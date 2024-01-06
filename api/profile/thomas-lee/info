@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fb08f5e4b0ffa7afe4b3f6/416x416.jpg?background=000000&cropX1=97&cropX2=641&cropY1=44&cropY2=589",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

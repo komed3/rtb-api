@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "logistics"
@@ -15,5 +16,21 @@
   "source": [
     "ports",
     "railway transport"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80aa024bbe6f2652f53ea9/416x416.jpg?background=000000&cropX1=320&cropX2=2336&cropY1=150&cropY2=2167",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

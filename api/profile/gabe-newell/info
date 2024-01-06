@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Seattle",
-    "state": "Washington"
+    "zipCode": "98104",
+    "_geo": {
+      "longitude": -122.3323351,
+      "latitude": 47.6015566
+    }
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "videogames"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aeadb6de3150009a507c4/416x416.jpg?background=000000&cropX1=297&cropX2=1343&cropY1=45&cropY2=1091",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Valve Corporation",
+    "title": "Cofounder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

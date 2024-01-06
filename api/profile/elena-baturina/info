@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "ru",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,21 @@
   "source": [
     "investments",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71d32531358e35dd26fa5d/416x416.jpg?background=000000&cropX1=465&cropX2=2053&cropY1=177&cropY2=1764",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "State University of Management",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

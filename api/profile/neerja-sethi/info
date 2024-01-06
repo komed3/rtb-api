@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Fisher Island",
-    "state": "Florida"
+    "zipCode": "33109",
+    "_geo": {
+      "longitude": -80.140053,
+      "latitude": 25.760929
+    }
   },
   "industry": [
     "technology"
@@ -15,5 +21,28 @@
   "source": [
     "IT consulting",
     "outsourcing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Delhi University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Delhi University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Oakland University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

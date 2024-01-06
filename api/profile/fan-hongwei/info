@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Wujiang",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Suzhou"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "petrochemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94104",
+    "_geo": {
+      "longitude": -122.4021273,
+      "latitude": 37.7911148
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Craigslist"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Case Western Reserve University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Case Western Reserve University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

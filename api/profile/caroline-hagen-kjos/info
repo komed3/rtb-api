@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "no",
   "residence": {
-    "city": "Wollerau",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Wollerau"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "conglomerate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a388ad31358e1a35ab6393/416x416.jpg?background=000000&cropX1=0&cropX2=736&cropY1=35&cropY2=771",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": "Oslo",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "cruise ships"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a386e64bbe6f0e5586cff9/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

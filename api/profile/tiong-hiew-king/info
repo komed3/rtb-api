@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Sibu",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Sibu"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,20 @@
   "source": [
     "timber",
     "media"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b135b1949c644ff9ec4356/416x416.jpg?background=000000&cropX1=696&cropX2=1574&cropY1=0&cropY2=878",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Xiamen University"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

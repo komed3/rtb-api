@@ -6,13 +6,31 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "hk",
+    "state": null,
     "city": "Hong Kong",
-    "state": null
+    "zipCode": "518010"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "logistics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63efec1272d392a076ed2987/416x416.jpg?background=000000&cropX1=537&cropX2=1495&cropY1=77&cropY2=1034",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "San Jose State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

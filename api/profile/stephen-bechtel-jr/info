@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,28 @@
   "source": [
     "engineering",
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/57f2a847a7ea435a1e1f60fd/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=15&cropY2=756",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Purdue University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Bechtel",
+    "title": "Former Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

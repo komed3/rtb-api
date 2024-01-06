@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Manila",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "canned food"
-  ]
+  ],
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

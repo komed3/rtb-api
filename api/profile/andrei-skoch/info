@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "deceased": false,
+  "children": 10,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "State Central Institute of Physical Culture"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

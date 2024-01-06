@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10007",
+    "_geo": {
+      "longitude": -74.0087126,
+      "latitude": 40.7136487
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "WeWork"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "WeWork",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "nl",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Heineken"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76fd5fd8e1ae0007b72836/416x416.jpg?background=000000&cropX1=40&cropX2=1122&cropY1=61&cropY2=1144",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Rijnlands Lyceum Wassenaar",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Leiden",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

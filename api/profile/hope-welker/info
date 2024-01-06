@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "au",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10075",
+    "_geo": {
+      "longitude": -73.956672,
+      "latitude": 40.773126
+    }
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "mining"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

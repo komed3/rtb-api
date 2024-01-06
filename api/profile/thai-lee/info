@@ -6,13 +6,39 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "zipCode": "78701",
+    "_geo": {
+      "longitude": -97.74438630000002,
+      "latitude": 30.2729209
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "IT provider"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8afd6822254b0008e1672a/416x416.jpg?background=000000&cropX1=49&cropX2=3453&cropY1=938&cropY2=4345",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Amherst College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Cheshire",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Cheshire"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Nottingham University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

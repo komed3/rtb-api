@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Darmstadt",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Darmstadt"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

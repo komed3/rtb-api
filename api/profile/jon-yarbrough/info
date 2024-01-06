@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Franklin",
-    "state": "Tennessee"
+    "zipCode": "37064",
+    "_geo": {
+      "longitude": -86.96240859999999,
+      "latitude": 35.89872340000001
+    }
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "video games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/dd7552476d261280b2c8fcc28c43eb78/416x416.jpg?background=000000&cropX1=137&cropX2=577&cropY1=48&cropY2=488",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tennessee Technological University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

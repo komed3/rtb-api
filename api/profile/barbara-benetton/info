@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "it",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Campodoro"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,15 @@
   "source": [
     "fashion retail",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

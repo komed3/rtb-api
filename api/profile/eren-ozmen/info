@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Reno",
-    "state": "Nevada"
+    "zipCode": "89501",
+    "_geo": {
+      "longitude": -119.8135266,
+      "latitude": 39.5254004
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "aerospace"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60aed2cd5eb4550111f94d8c/416x416.jpg?background=000000&cropX1=2&cropX2=1080&cropY1=0&cropY2=1078",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Nevada at Reno",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

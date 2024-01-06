@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90049",
+    "_geo": {
+      "longitude": -118.476583,
+      "latitude": 34.069781
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical patents"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a84b50f31358e4955ad7bea/416x416.jpg?background=000000&cropX1=0&cropX2=1708&cropY1=114&cropY2=1823",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hahnemann Medical College",
+      "degree": "Medical Doctor"
+    },
+    {
+      "school": "Temple University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Hertfordshire",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Hertfordshire"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "sports retailing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77f678c7b02d000666e20c/416x416.jpg?background=000000&cropX1=241&cropX2=1618&cropY1=37&cropY2=1413",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

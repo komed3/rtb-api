@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.037774,
+      "latitude": 26.71463
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Marvel comics"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a94c918444200084e6d66/416x416.jpg?background=000000&cropX1=710&cropX2=1847&cropY1=35&cropY2=1171",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": {
+    "name": "Marvel Entertainment",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

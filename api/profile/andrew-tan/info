@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Manila",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Manila"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/612e4661a7757a542e4e4bdc/416x416.jpg?background=000000&cropX1=0&cropX2=1094&cropY1=0&cropY2=1094",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of the East",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90012",
+    "_geo": {
+      "longitude": -118.246879,
+      "latitude": 34.072437
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Uber"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aea456de3150009a507a1/416x416.jpg?background=000000&cropX1=347&cropX2=1427&cropY1=340&cropY2=1420",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Uber Technologies Inc.",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

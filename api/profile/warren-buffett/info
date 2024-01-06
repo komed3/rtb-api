@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nebraska",
     "city": "Omaha",
-    "state": "Nebraska"
+    "zipCode": "68132",
+    "_geo": {
+      "longitude": -95.999292,
+      "latitude": 41.265821
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Berkshire Hathaway"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Nebraska Lincoln",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Berkshire Hathaway Inc. (Cl A)",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

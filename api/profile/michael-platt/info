@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c726aa34bbe6f51818abcd5/416x416.jpg?background=000000&cropX1=1450&cropX2=3510&cropY1=309&cropY2=2368",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "BlueCrest Capital Management",
+    "title": "Founder "
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

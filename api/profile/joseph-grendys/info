@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Chicago",
-    "state": "Illinois"
+    "zipCode": "60602",
+    "_geo": {
+      "longitude": -87.6291268,
+      "latitude": 41.8834728
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "poultry processing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fb1bb3e4b0ffa7afe4b5c5/416x416.jpg?background=000000&cropX1=63&cropX2=411&cropY1=100&cropY2=448",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Loyola University Chicago",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

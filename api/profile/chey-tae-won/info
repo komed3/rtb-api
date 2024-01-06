@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "telecom"
@@ -15,5 +16,25 @@
   "source": [
     "oil",
     "semiconductor"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d25f0544c687b00085c3ef0/416x416.jpg?background=000000&cropX1=651&cropX2=3409&cropY1=1106&cropY2=3866",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Chicago",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Ulm",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Ulm"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a1dd824bbe6f0e5586a942/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=256&cropY2=1000",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

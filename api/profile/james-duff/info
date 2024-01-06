@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Mississippi",
     "city": "Hattiesburg",
-    "state": "Mississippi"
+    "zipCode": "39401"
   },
   "industry": [
     "diversified"
@@ -15,5 +17,15 @@
   "source": [
     "tires",
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

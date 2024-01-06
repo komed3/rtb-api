@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "North Carolina",
     "city": "Cary",
-    "state": "North Carolina"
+    "zipCode": "27518",
+    "_geo": {
+      "longitude": -78.7759559,
+      "latitude": 35.7315398
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "video games"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

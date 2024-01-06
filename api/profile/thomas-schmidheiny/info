@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Jona",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Jona"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "cement"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c723437a7ea431000435227/416x416.jpg?background=000000&cropX1=1427&cropX2=2405&cropY1=14&cropY2=991",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tufts University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Zurich Polytechnic",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

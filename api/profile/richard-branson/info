@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Necker Island",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": "Necker Island"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Virgin"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/605e45a29181e87f594383bd/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

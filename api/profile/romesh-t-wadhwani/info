@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.128797,
+      "latitude": 37.38055
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/59dd2b81a7ea436b47b3ab9d/416x416.jpg?background=000000&cropX1=234&cropX2=3262&cropY1=636&cropY2=3663",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Indian Institute of Technology, Bombay",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Symphony Technology Group",
+    "title": "Founder and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

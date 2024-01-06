@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "_geo": {
+      "longitude": -74.007124,
+      "latitude": 40.71455
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "fashion"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/632f611c2bddfc8f0444b12c/416x416.jpg?background=000000&cropX1=2&cropX2=1080&cropY1=0&cropY2=1078",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Tory Burch",
+    "title": "Executive Chairman & Chief Creative Officer"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

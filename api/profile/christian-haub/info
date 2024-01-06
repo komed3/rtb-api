@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Greenwich",
-    "state": "Connecticut"
+    "country": "de",
+    "state": null,
+    "city": "Munich"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

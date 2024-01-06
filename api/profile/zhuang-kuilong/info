@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Jiaxing",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Jiaxing"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "polyester"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

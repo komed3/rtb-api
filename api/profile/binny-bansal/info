@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "flipkart"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61116090217cdebfc35a536a/416x416.jpg?background=000000&cropX1=0&cropX2=548&cropY1=0&cropY2=548",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Daytona Beach",
-    "state": "Florida"
+    "_geo": {
+      "longitude": -81.039404,
+      "latitude": 29.203575
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +20,21 @@
   "source": [
     "Nascar",
     "racing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/57e1991931358e16c589c119/416x416.jpg?background=000000&cropX1=35&cropX2=703&cropY1=29&cropY2=698",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Florida Southern College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "Cleveland",
-    "state": "Ohio"
+    "_geo": {
+      "longitude": -81.690459,
+      "latitude": 41.504365
+    }
   },
   "industry": [
     "finance-investments"
@@ -15,5 +20,25 @@
   "source": [
     "banking",
     "credit cards"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56ce276fe4b062f6b59a7ef3/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=81&cropY2=825",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Indian Hills",
-    "state": "Colorado"
+    "zipCode": "80454",
+    "_geo": {
+      "longitude": -105.245678,
+      "latitude": 39.620219
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "cheese"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": {
+    "name": "Leprino Foods",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

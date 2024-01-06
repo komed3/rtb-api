@@ -6,13 +6,38 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wisconsin",
     "city": "Afton",
-    "state": "Wisconsin"
+    "zipCode": "53501",
+    "_geo": {
+      "longitude": -89.131943,
+      "latitude": 42.69453
+    }
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "roofing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64a853a98e6fe5954491cf23/416x416.jpg?background=000000&cropX1=319&cropX2=1470&cropY1=22&cropY2=1174",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "ABC Supply",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

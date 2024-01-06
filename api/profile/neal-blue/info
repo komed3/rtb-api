@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Diego",
-    "state": "California"
+    "zipCode": "92037",
+    "_geo": {
+      "longitude": -117.255087,
+      "latitude": 32.84204
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "defense"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

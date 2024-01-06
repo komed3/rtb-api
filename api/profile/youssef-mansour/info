@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "eg",
   "residence": {
-    "city": "Cairo",
-    "state": null
+    "country": "eg",
+    "state": null,
+    "city": "Cairo"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/72835a43efc192956271eb1c1b055490/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=45&cropY2=789",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Auburn University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "North Carolina State University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,21 @@
   "source": [
     "banking",
     "development"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80b12331358e4955ad2bcf/416x416.jpg?background=000000&cropX1=657&cropX2=2828&cropY1=92&cropY2=2265",
+  "deceased": false,
+  "children": 23,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow International University of Business and Information Technologies",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

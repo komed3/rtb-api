@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ge",
   "residence": {
-    "city": "Tbilisi",
-    "state": null
+    "country": "ge",
+    "state": null,
+    "city": "Tbilisi"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75a7abc7b02d000666c47e/416x416.jpg?background=000000&cropX1=115&cropX2=1025&cropY1=39&cropY2=949",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Pacific Palisades",
-    "state": "California"
+    "zipCode": "90272",
+    "_geo": {
+      "longitude": -118.535949,
+      "latitude": 34.05145
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "movies"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f497384226032c2eb8faecb/416x416.jpg?background=000000&cropX1=377&cropX2=3114&cropY1=768&cropY2=3504",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "California State Long Beach",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

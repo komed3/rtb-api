@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "food",
     "beverages"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c72483c4bbe6f51818abb48/416x416.jpg?background=000000&cropX1=39&cropX2=2225&cropY1=252&cropY2=2439",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

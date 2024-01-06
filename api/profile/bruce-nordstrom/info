@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Seattle",
-    "state": "Washington"
+    "_geo": {
+      "longitude": -122.329439,
+      "latitude": 47.60356
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Nordstrom department stores"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56d0ba12e4b0c144a7f65ae3/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=47&cropY2=791",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Washington",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

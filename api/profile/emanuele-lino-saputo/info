@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": "Quebec"
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "cheese"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e74437e2a573300068fcd76/416x416.jpg?background=000000&cropX1=0&cropX2=1092&cropY1=284&cropY2=1376",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "Saputo",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

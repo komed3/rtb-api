@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Guangzhou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56c7548ee4b062f6b59a1c94/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

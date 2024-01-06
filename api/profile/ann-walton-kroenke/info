@@ -6,13 +6,31 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Electra",
-    "state": "Texas"
+    "zipCode": "76360"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Walmart"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba4d59031358e5690cda47f/416x416.jpg?background=000000&cropX1=21&cropX2=1217&cropY1=133&cropY2=1329",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Lincoln University",
+      "degree": "Registered Nurse"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

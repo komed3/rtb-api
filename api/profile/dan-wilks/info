@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Cisco",
-    "state": "Texas"
+    "zipCode": "76437",
+    "_geo": {
+      "longitude": -98.991632,
+      "latitude": 32.37968
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "natural gas"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/8fc970638be98f55b64ae148840cddad/416x416.jpg?background=000000&cropX1=106&cropX2=726&cropY1=48&cropY2=668",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

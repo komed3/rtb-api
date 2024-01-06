@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/7c49586f49000892959270e53710d139/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=44&cropY2=785",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

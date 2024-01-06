@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "76107",
+    "_geo": {
+      "longitude": -97.382484,
+      "latitude": 32.74043
+    }
   },
   "industry": [
     "finance-investments"
@@ -15,5 +21,21 @@
   "source": [
     "banks",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/572275fc31358e1869e2bbb5/416x416.jpg?background=000000&cropX1=23&cropX2=651&cropY1=24&cropY2=652",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Baylor University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

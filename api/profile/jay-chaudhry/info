@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Saratoga",
-    "state": "California"
+    "country": "us",
+    "state": "Nevada",
+    "city": "Reno",
+    "zipCode": "89501",
+    "_geo": {
+      "longitude": -119.8135266,
+      "latitude": 39.5254004
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "security software"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology, BHU",
+      "degree": "Bachelor of Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

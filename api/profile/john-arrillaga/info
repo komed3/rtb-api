@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Portola Valley",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/945fe0ddbac172f5cc502aa692162731/416x416.jpg?background=000000&cropX1=156&cropX2=668&cropY1=39&cropY2=551",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

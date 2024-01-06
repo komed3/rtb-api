@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Naples",
-    "state": "Florida"
+    "country": "us",
+    "state": "Connecticut",
+    "city": "East Lyme",
+    "zipCode": "06333",
+    "_geo": {
+      "longitude": -72.2482225,
+      "latitude": 41.3858115
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56d0b77de4b0c144a7f65a94/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=68&cropY2=811",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Marquette University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

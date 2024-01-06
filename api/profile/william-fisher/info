@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.419644,
+      "latitude": 37.777125
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Gap"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a84b89f31358e4955ad7c18/416x416.jpg?background=000000&cropX1=1610&cropX2=2325&cropY1=453&cropY2=1168",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Gap Inc.",
+    "title": "Director"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

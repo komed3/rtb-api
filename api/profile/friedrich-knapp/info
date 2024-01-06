@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Brunswick",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Brunswick"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "fashion retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c703af7a7ea43100043317b/416x416.jpg?background=000000&cropX1=48&cropX2=646&cropY1=10&cropY2=608",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

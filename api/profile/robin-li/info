@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "internet search"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/636e8d16e706e90387611973/416x416.jpg?background=000000&cropX1=979&cropX2=1819&cropY1=114&cropY2=953",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Peking University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University at Buffalo",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

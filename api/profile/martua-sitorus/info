@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "palm oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5834b29931358e698ada7d4b/416x416.jpg?background=000000&cropX1=50&cropX2=668&cropY1=53&cropY2=672",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

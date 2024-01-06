@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automotive"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

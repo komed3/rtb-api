@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "lb",
   "residence": {
-    "city": "Beirut",
-    "state": null
+    "country": "lb",
+    "state": null,
+    "city": "Beirut"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/589fcf4c31358e1a35ab2cd7/416x416.jpg?background=000000&cropX1=50&cropX2=647&cropY1=122&cropY2=720",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "American University of Beirut, Lebanon",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "American University of Beirut, Lebanon",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

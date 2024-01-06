@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "pe",
   "residence": {
-    "city": "Lima",
-    "state": null
+    "country": "pe",
+    "state": null,
+    "city": "Lima"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "cosmetics"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of North Carolina, Chapel Hill",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

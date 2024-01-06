@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "dk",
   "residence": {
-    "city": "Haderslev",
-    "state": null
+    "country": "dk",
+    "state": null,
+    "city": "Haderslev"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "shoes"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "La Coruna",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56cc1c31e4b062f6b59a4f50/416x416.jpg?background=000000&cropX1=103&cropX2=739&cropY1=0&cropY2=637",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

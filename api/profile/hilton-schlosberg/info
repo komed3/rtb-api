@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Irvine",
-    "state": "California"
+    "zipCode": "92602"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "energy drinks"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

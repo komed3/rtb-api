@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Fort Worth",
-    "state": "Texas"
+    "zipCode": "76102",
+    "_geo": {
+      "longitude": -97.3246534,
+      "latitude": 32.7579468
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "homebuilding"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Central Arkansas",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

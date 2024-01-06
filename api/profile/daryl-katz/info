@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Edmonton",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Edmonton"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "pharmacies"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/647dea5e9ae0b2118ad81907/416x416.jpg?background=000000&cropX1=313&cropX2=2067&cropY1=206&cropY2=1961",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Alberta",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Alberta",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Katz Group",
+    "title": "Founder and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64a6eb60923851b9584c321a/416x416.jpg?background=000000&cropX1=1151&cropX2=3617&cropY1=5&cropY2=2469",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Eastern Kentucky University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

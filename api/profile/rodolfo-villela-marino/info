@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "São Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "São Paulo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fundacao Getulio Vargas",
+      "degree": "Bachelor of Business Administration"
+    },
+    {
+      "school": "Fundacao Getulio Vargas",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "London School of Economics and Political Science",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

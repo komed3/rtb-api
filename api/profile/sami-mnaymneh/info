@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Miami Beachi",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami Beach",
+    "zipCode": "33139",
+    "_geo": {
+      "longitude": -80.1484407,
+      "latitude": 25.783312
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

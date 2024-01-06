@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wyoming",
     "city": "Jackson",
-    "state": "Wyoming"
+    "zipCode": "83002",
+    "_geo": {
+      "longitude": -110.7891704,
+      "latitude": 43.46952410000001
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Walmart"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/f12075ee278b0ce676c90b51cc5e60d6/416x416.jpg?background=000000&cropX1=13&cropX2=744&cropY1=29&cropY2=761",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

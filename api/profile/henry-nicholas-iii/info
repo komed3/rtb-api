@@ -6,13 +6,45 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newport Coast",
-    "state": "California"
+    "_geo": {
+      "longitude": -117.828564,
+      "latitude": 33.606443
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "semiconductors"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f49795b4ab4bd09fe628b58/416x416.jpg?background=000000&cropX1=208&cropX2=1476&cropY1=88&cropY2=1355",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Broadcom",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

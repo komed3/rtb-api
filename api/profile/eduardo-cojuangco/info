@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "food",
     "drinks"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/599b5f4431358e60d77698a8/416x416.jpg?background=000000&cropX1=105&cropX2=412&cropY1=53&cropY2=360",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

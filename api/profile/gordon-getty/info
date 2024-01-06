@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94115",
+    "_geo": {
+      "longitude": -122.435729,
+      "latitude": 37.78578
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "Getty Oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba67f0d4bbe6f79516f6c24/416x416.jpg?background=000000&cropX1=504&cropX2=1789&cropY1=108&cropY2=1394",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "San Francisco Conservatory of Music",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Ann & Gordon Getty Foundation",
+    "title": "President and Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

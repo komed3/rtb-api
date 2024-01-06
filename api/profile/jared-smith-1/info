@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Utah",
     "city": "Provo",
-    "state": "Utah"
+    "zipCode": "84601",
+    "_geo": {
+      "longitude": -111.7256936,
+      "latitude": 40.2128559
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cloud computing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

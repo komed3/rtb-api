@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Beverly Hills",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d961a574223bf0006b7a43b/416x416.jpg?background=000000&cropX1=49&cropX2=1347&cropY1=12&cropY2=1309",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

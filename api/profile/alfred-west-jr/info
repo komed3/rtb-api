@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Paoli",
-    "state": "Pennsylvania"
+    "_geo": {
+      "longitude": -75.479582,
+      "latitude": 40.040668
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "money management"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "money management"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e744a152a573300068fcd93/416x416.jpg?background=000000&cropX1=284&cropX2=1738&cropY1=0&cropY2=1455",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "The University of Chicago",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Jarislowsky & Fraser",
+    "title": "Cofounder and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Berkeley",
-    "state": "California"
+    "country": "us",
+    "state": "Washington",
+    "city": "Seattle",
+    "zipCode": "98101",
+    "_geo": {
+      "longitude": -122.336407,
+      "latitude": 47.6084921
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Tanium",
+    "title": "Executive Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

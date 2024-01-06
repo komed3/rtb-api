@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "zipCode": "85003",
+    "_geo": {
+      "longitude": -112.0789355,
+      "latitude": 33.4495511
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Berkshire Hathaway"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

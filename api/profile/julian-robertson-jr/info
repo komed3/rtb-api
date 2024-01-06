@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Locust Valley",
-    "state": "New York"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59d7ee3131358e542c036e4e/416x416.jpg?background=000000&cropX1=48&cropX2=666&cropY1=109&cropY2=727",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of North Carolina",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

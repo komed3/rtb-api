@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "San Antonio",
-    "state": "Texas"
+    "zipCode": "78209",
+    "_geo": {
+      "longitude": -98.458185,
+      "latitude": 29.489268
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "salsa"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a86c7ba4bbe6f2652f5bab3/416x416.jpg?background=000000&cropX1=1270&cropX2=3101&cropY1=106&cropY2=1936",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Trinity University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Silver Ventures",
+    "title": "Chief Executive Officer"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

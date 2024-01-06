@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Vancouver",
-    "state": "British Columbia"
+    "country": "ca",
+    "state": null,
+    "city": "Vancouver"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "alcoholic beverages"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of British Columbia",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

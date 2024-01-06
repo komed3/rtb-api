@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/615b2fcf94e5e17a6379c049/416x416.jpg?background=000000&cropX1=66&cropX2=744&cropY1=66&cropY2=744",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

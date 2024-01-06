@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "uz",
+    "state": null,
+    "city": "Tashkent"
   },
   "industry": [
     "metals-mining"
@@ -16,5 +17,28 @@
     "steel",
     "telecom",
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/607a044ee9910fe868a69505/416x416.jpg?background=000000&cropX1=183&cropX2=812&cropY1=23&cropY2=651",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Finance Academy under the Government of the Russian Federation",
+      "degree": "Master"
+    },
+    {
+      "school": "Moscow Institute of International Relations",
+      "degree": "Master of Laws"
+    }
+  ],
+  "organization": {
+    "name": "Metalloinvest",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

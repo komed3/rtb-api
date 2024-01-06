@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "pl",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "London School of Economics"
+    },
+    {
+      "school": "University of Poznan",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

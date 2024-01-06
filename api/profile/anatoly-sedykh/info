@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "steel pipes"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62290ce48f97aa9c397a7528/416x416.jpg?background=000000&cropX1=0&cropX2=1528&cropY1=0&cropY2=1528",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute of Steel and Alloys",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

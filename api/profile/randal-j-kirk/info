@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Manalapan",
-    "state": "Florida"
+    "zipCode": "33462",
+    "_geo": {
+      "longitude": -80.0590804,
+      "latitude": 26.5838179
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Radford",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "logistics"
@@ -15,5 +16,21 @@
   "source": [
     "ports",
     "railway transport"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71da8c4bbe6f24567aee8b/416x416.jpg?background=000000&cropX1=1158&cropX2=3954&cropY1=6&cropY2=2800",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Belarusian Academy of Physical Culture and Sports",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

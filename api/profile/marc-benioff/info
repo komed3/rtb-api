@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94118",
+    "_geo": {
+      "longitude": -122.462755,
+      "latitude": 37.77459
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "business software"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4e65f2f4c323e07eb167b8/416x416.jpg?background=000000&cropX1=939&cropX2=4439&cropY1=215&cropY2=3712",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Salesforce",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

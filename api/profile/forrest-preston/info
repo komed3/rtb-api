@@ -6,13 +6,36 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Cleveland",
-    "state": "Tennessee"
+    "zipCode": "37312",
+    "_geo": {
+      "longitude": -84.83593950000001,
+      "latitude": 35.2148165
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "health care"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Oregon State University"
+    },
+    {
+      "school": "Walla Walla College"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

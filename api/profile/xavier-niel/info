@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "telecom"
@@ -15,5 +16,16 @@
   "source": [
     "internet",
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75a6c2d8e1ae0007b716d8/416x416.jpg?background=000000&cropX1=1022&cropX2=3225&cropY1=122&cropY2=2324",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

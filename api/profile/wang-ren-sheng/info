@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Zhengzhou",
-    "state": "Henan"
+    "country": "cn",
+    "state": null,
+    "city": "Zhengzhou"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63a0cd2fc894b4f0c7e821b3/416x416.jpg?background=000000&cropX1=0&cropX2=2000&cropY1=197&cropY2=2201",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taitung University"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

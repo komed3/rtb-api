@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Foshan",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Foshan"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "soy sauce"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

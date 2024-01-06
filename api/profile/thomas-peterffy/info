@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.0367259,
+      "latitude": 26.6872579
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "discount brokerage"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a5c6218444200084e6532/416x416.jpg?background=000000&cropX1=466&cropX2=1132&cropY1=297&cropY2=962",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

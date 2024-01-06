@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Sydney",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Sydney"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "betting machines"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ea6d58965ffc80da2ed0f8/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

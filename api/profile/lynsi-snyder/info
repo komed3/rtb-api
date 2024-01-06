@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Glendora",
-    "state": "California"
+    "zipCode": "91741"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "In-N-Out Burger"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 3
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Missouri",
     "city": "St. Louis",
-    "state": "Missouri"
+    "zipCode": "63103"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "mobile payments"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Washington University in St. Louis",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "Washington University in St. Louis",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

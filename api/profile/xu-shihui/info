@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Quanzhou",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Quanzhou"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "snacks",
     "beverages"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a05f0a14bbe6f37dda22921/416x416.jpg?background=000000&cropX1=9&cropX2=4009&cropY1=480&cropY2=4484",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

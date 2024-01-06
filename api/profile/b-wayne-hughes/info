@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Lexington",
-    "state": "Kentucky"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "service"
   ],
   "source": [
     "self storage"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/57e11ce9a7ea430a8a1a093c/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=48&cropY2=792",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

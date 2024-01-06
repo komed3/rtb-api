@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Coconut Grove",
-    "state": "Florida"
+    "zipCode": "33133",
+    "_geo": {
+      "longitude": -80.254143,
+      "latitude": 25.73233
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b0ac36de3150009a509e0/416x416.jpg?background=000000&cropX1=10&cropX2=1359&cropY1=112&cropY2=1461",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "New York University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "W. R. Berkley",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

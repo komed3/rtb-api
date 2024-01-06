@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "li",
   "residence": {
-    "city": "Vaduz",
-    "state": null
+    "country": "li",
+    "state": null,
+    "city": "Vaduz"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "dental implants"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

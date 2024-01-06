@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30303",
+    "_geo": {
+      "longitude": -84.3883717,
+      "latitude": 33.755711
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "financial technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Auburn University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "GreenSky",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

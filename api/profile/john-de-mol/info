@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "city": "Blaricum",
-    "state": null
+    "country": "nl",
+    "state": null,
+    "city": "Blaricum"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "TV programs"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a241814bbe6f0e5586b932/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=327&cropY2=1071",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

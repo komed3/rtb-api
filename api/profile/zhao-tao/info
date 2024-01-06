@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Xi'an",
-    "state": "Shaanxi"
+    "country": "cn",
+    "state": null,
+    "city": "Xi'an"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80f59c4bbe6f2652f543c3/416x416.jpg?background=000000&cropX1=315&cropX2=2923&cropY1=563&cropY2=3172",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fordham University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

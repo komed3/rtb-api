@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Kanton Schwyz",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Kanton Schwyz"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,24 @@
   "source": [
     "mining",
     "commodities"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidad Comercial de Deusto",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Universidad Comercial de Deusto",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

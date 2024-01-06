@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Berlin",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Berlin"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "publishing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7624e2c7b02d000666c7a6/416x416.jpg?background=000000&cropX1=1201&cropX2=4255&cropY1=254&cropY2=3306",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

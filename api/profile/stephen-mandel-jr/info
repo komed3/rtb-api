@@ -6,13 +6,45 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "zipCode": "06830",
+    "_geo": {
+      "longitude": -73.629382,
+      "latitude": 41.033949
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Phillips Academy Exeter",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": {
+    "name": "Lone Pine Capital",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Zermatt",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zermatt"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75a44c10380d0006fbaa17/416x416.jpg?background=000000&cropX1=860&cropX2=2080&cropY1=61&cropY2=1280",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

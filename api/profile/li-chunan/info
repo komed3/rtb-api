@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Fushun",
-    "state": "Liaoning"
+    "country": "cn",
+    "state": null,
+    "city": "Fushun"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "renewable energy"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

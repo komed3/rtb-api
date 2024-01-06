@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "food",
     "beverages"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7d5afc4bbe6f5e1846588e/416x416.jpg?background=000000&cropX1=421&cropX2=724&cropY1=157&cropY2=460",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

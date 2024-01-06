@@ -6,13 +6,28 @@
   "gender": "f",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "smartphone screens"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/561f080ce4b0ffa7afe5df56/416x416.jpg?background=000000&cropX1=45&cropX2=723&cropY1=58&cropY2=736",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Lens Technology",
+    "title": "Founder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

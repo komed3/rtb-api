@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Velden am Wörther See",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "guns"
-  ]
+  ],
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

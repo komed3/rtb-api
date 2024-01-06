@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Madrid",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Madrid"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c72181e31358e35dd26fe41/416x416.jpg?background=000000&cropX1=610&cropX2=2601&cropY1=0&cropY2=1992",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidad Complutense de Madrid",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Madras",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

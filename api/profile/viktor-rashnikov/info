@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Magnitogorsk",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Magnitogorsk"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77906c10380d0006fbc0ec/416x416.jpg?background=000000&cropX1=534&cropX2=1689&cropY1=53&cropY2=1208",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Magnitogorsk Mining and Metallurgical Institute",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,31 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Hawaii",
     "city": "Kauai",
-    "state": "Hawaii"
+    "zipCode": "96703"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "uber"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a9093ac4bbe6f0fa8266912/416x416.jpg?background=000000&cropX1=646&cropX2=1389&cropY1=412&cropY2=1154",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Miami University of Ohio",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

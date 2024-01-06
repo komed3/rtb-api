@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75225",
+    "_geo": {
+      "longitude": -96.788167,
+      "latitude": 32.865472
+    }
   },
   "industry": [
     "service"
   ],
   "source": [
     "Xerox"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c6d108aa0562eb2d1cc12c2f9b4a345/416x416.jpg?background=000000&cropX1=191&cropX2=1035&cropY1=0&cropY2=845",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

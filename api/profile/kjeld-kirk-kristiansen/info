@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "dk",
   "residence": {
-    "city": "Billund",
-    "state": null
+    "country": "dk",
+    "state": null,
+    "city": "Billund"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Lego"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75910010380d0006fba934/416x416.jpg?background=000000&cropX1=1367&cropX2=2999&cropY1=0&cropY2=1634",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Aarhus Business School",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "International Institute for Management and Development",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

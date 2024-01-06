@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62680848cbf73520d8639f9a/416x416.jpg?background=000000&cropX1=474&cropX2=3143&cropY1=0&cropY2=2668",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Notre Dame University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Notre Dame University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

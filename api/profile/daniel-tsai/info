@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77d66a10380d0006fbc748/416x416.jpg?background=000000&cropX1=398&cropX2=3648&cropY1=821&cropY2=4073",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgetown University",
+      "degree": "LLM"
+    },
+    {
+      "school": "National Taiwan University",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

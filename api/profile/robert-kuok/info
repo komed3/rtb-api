@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "diversified"
@@ -16,5 +17,21 @@
     "palm oil",
     "shipping",
     "property"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70f2834bbe6f79c547439c/416x416.jpg?background=000000&cropX1=86&cropX2=2585&cropY1=350&cropY2=2851",
+  "deceased": false,
+  "children": 8,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Raffles College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

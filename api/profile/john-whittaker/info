@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Isle of Man",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Isle of Man"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

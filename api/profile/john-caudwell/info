@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Stoke-on-Trent",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Stoke-on-Trent"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "mobile phones"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77f52f10380d0006fbc978/416x416.jpg?background=000000&cropX1=2015&cropX2=5005&cropY1=158&cropY2=3146",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

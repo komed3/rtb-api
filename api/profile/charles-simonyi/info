@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Medina",
-    "state": "Washington"
+    "_geo": {
+      "longitude": -122.238922,
+      "latitude": 47.615825
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Microsoft"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8af04618444200084e7329/416x416.jpg?background=000000&cropX1=247&cropX2=1846&cropY1=21&cropY2=1620",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

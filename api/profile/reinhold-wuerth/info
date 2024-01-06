@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Kuenzelsau",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Kuenzelsau"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "fasteners"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76350710380d0006fbadf8/416x416.jpg?background=000000&cropX1=2132&cropX2=5568&cropY1=0&cropY2=3434",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

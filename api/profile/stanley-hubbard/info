@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Minnesota",
     "city": "St. Paul",
-    "state": "Minnesota"
+    "zipCode": "55043",
+    "_geo": {
+      "longitude": -92.771032,
+      "latitude": 44.93752
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "DirecTV"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/59de6c0f4bbe6f37dda056b5/416x416.jpg?background=000000&cropX1=163&cropX2=871&cropY1=150&cropY2=858",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Minnesota",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Hubbard Broadcasting, Inc.",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

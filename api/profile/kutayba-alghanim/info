@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "kw",
   "residence": {
-    "city": "Kuwait City",
-    "state": null
+    "country": "kw",
+    "state": null,
+    "city": "Kuwait City"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58d3cbeb4bbe6f0e5589280b/416x416.jpg?background=000000&cropX1=0&cropX2=1497&cropY1=57&cropY2=1554",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

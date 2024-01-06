@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "diversified"
@@ -16,5 +17,20 @@
     "telecom",
     "lotteries",
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a783104bbe6f0e5587106d/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=248&cropY2=992",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

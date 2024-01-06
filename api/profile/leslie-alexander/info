@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77024",
+    "_geo": {
+      "longitude": -95.514493,
+      "latitude": 29.77261379999999
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "sports team"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba6785831358e5690cdc0c6/416x416.jpg?background=000000&cropX1=56&cropX2=683&cropY1=53&cropY2=681",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Western State University College of Law",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

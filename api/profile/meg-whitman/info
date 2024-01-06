@@ -6,13 +6,39 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "94027",
+    "_geo": {
+      "longitude": -122.199117,
+      "latitude": 37.457732
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "eBay"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e8b63cae2bb040006428af5/416x416.jpg?background=000000&cropX1=0&cropX2=4162&cropY1=394&cropY2=4560",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

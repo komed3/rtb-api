@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Aspen",
-    "state": "Colorado"
+    "zipCode": "81611",
+    "_geo": {
+      "longitude": -106.8175387,
+      "latitude": 39.1910983
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "money management"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Michigan State University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Western Ontario",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

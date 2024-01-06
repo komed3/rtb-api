@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Spilamberto",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Spilamberto"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,20 @@
   "source": [
     "utilities",
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Bologna",
+      "degree": "Bachelor of Commerce"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

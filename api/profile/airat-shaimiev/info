@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Kazan",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Kazan"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "refinery",
     "chemicals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/c7fdc1b03060abf8c5b1b48d4ead44e5/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=89&cropY2=830",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Moscow Power Engineering Institute, Kazan",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

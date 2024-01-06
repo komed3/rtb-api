@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Zug",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zug"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f442c10a5307fdfae419369/416x416.jpg?background=000000&cropX1=1125&cropX2=3599&cropY1=204&cropY2=2678",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of St. Gallen",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

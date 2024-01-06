@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ae",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,16 @@
   "source": [
     "real estate",
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/e9477990f0df68ea92063acd9c7228d1/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=160&cropY2=904",
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

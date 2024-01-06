@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Baoding",
-    "state": "Hebei"
+    "country": "cn",
+    "state": null,
+    "city": "Baoding"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automobiles"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/654a48ab8b94b0dff4eabcd0/416x416.jpg?background=000000&cropX1=1310&cropX2=2186&cropY1=162&cropY2=1038",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hebei Province",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

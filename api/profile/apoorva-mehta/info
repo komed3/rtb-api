@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco "
   },
   "industry": [
     "technology"
   ],
   "source": [
     "grocery delivery service"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/619e64a07cab8383e9dadb64/416x416.jpg?background=000000&cropX1=0&cropX2=1538&cropY1=339&cropY2=1878",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "University of Waterloo",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Instacart",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

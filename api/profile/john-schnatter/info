@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kentucky",
     "city": "Louisville",
-    "state": "Kentucky"
+    "_geo": {
+      "longitude": -85.5457689,
+      "latitude": 38.2586184
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Papa John's"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58c1a1e731358e1a35acb5fa/416x416.jpg?background=000000&cropX1=34&cropX2=744&cropY1=23&cropY2=734",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ball State University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

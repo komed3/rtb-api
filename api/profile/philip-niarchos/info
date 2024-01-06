@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "art collection"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7041514bbe6f79679f066d/416x416.jpg?background=000000&cropX1=431&cropX2=1334&cropY1=22&cropY2=925",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

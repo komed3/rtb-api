@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Brussels",
-    "state": null
+    "country": "be",
+    "state": null,
+    "city": "Brussels"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,15 @@
   "source": [
     "Nutella",
     "chocolates"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

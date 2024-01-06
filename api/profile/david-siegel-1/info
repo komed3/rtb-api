@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Scarsdale",
-    "state": "New York"
+    "zipCode": "10583",
+    "_geo": {
+      "longitude": -73.78308609999999,
+      "latitude": 40.99263819999999
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f2c27c8ab47e40f4e4955ad/416x416.jpg?background=000000&cropX1=0&cropX2=1980&cropY1=293&cropY2=2274",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Two Sigma",
+    "title": "Co-Founder & Co-Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

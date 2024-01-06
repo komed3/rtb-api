@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "manufacturing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ea675b80bdafcc16d77e9c/416x416.jpg?background=000000&cropX1=94&cropX2=984&cropY1=43&cropY2=933",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Monash University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Monash University",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

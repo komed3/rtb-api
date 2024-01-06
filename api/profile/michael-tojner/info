@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Vienna",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Vienna"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,24 @@
   "source": [
     "batteries",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Vienna",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Vienna",
+      "degree": "Master of Laws"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

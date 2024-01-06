@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Las Vegas",
-    "state": "Nevada"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8bd5c218444200084e8854/416x416.jpg?background=000000&cropX1=692&cropX2=4407&cropY1=0&cropY2=3712",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "City College of New York",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Las Vegas Sands",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

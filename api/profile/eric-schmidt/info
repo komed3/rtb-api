@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Atherton",
-    "state": "California"
+    "zipCode": "94027",
+    "_geo": {
+      "longitude": -122.199117,
+      "latitude": 37.457732
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Google"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f4526a6f048a75b8e14e6b2/416x416.jpg?background=000000&cropX1=0&cropX2=3235&cropY1=381&cropY2=3615",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

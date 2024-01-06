@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "gas",
     "chemicals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6229141941920264022edc8a/416x416.jpg?background=000000&cropX1=81&cropX2=3456&cropY1=941&cropY2=4318",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kuybyshev Engineering and Construction Institute",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

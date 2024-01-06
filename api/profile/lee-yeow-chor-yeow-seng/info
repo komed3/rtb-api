@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,15 @@
   "source": [
     "palm oil",
     "property"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

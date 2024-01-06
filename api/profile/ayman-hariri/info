@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "lb",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
   },
   "industry": [
     "construction-engineering"
@@ -15,5 +16,21 @@
   "source": [
     "construction",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76eb7210380d0006fbb92c/416x416.jpg?background=000000&cropX1=84&cropX2=847&cropY1=64&cropY2=827",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Georgetown University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

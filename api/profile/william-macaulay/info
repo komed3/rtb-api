@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Greenwich",
-    "state": "Connecticut"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "energy"
   ],
   "source": [
     "energy investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/18db999fe5915716ab94c0cb138f19c5/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=68&cropY2=812",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "City College of New York",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Pennsylvania Wharton School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Laguna Beach",
-    "state": "California"
+    "zipCode": "92651",
+    "_geo": {
+      "longitude": -117.772116,
+      "latitude": 33.539177
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Saddleback College",
+      "degree": "Associate in Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

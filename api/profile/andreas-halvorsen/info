@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Darien",
-    "state": "Connecticut"
+    "_geo": {
+      "longitude": -73.482424,
+      "latitude": 41.065365
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e770248d8e1ae0007b72880/416x416.jpg?background=000000&cropX1=57&cropX2=2601&cropY1=0&cropY2=2543",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Williams College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Viking Global Investors",
+    "title": "Founding Partner & Chief Executive Officer"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

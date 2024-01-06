@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.1575745,
+      "latitude": 37.4457966
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "WhatsApp"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b0d2022254b0008e16873/416x416.jpg?background=000000&cropX1=908&cropX2=3880&cropY1=1140&cropY2=4114",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "WhatsApp Inc.",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

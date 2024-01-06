@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maryland",
     "city": "Annapolis",
-    "state": "Maryland"
+    "zipCode": "21403",
+    "_geo": {
+      "longitude": -76.5244135,
+      "latitude": 38.9456485
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Healthcare"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

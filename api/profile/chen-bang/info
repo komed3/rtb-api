@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Changsha",
-    "state": "Hunan"
+    "country": "cn",
+    "state": null,
+    "city": "Changsha"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/c0e911b1254c2a8ff552dcb819a51b50/416x416.jpg?background=000000&cropX1=29&cropX2=731&cropY1=61&cropY2=764",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hunan University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

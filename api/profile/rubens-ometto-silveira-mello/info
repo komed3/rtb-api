@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "sugar",
     "ethanol"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7b99144bbe6f2652f4f1ec/416x416.jpg?background=000000&cropX1=2137&cropX2=5492&cropY1=24&cropY2=3377",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Polytechnic School of the University of Sao Paulo",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

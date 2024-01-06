@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "drugstores"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

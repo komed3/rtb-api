@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "North Carolina",
     "city": "Cary",
-    "state": "North Carolina"
+    "zipCode": "27513",
+    "_geo": {
+      "longitude": -78.806059,
+      "latitude": 35.795631
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a6ffb22254b0008e15c68/416x416.jpg?background=000000&cropX1=754&cropX2=2040&cropY1=4&cropY2=1290",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "North Carolina State University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "North Carolina State University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "North Carolina State University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "SAS Institute",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

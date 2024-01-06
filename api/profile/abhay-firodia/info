@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Pune",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Pune"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automobiles"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/652560811652f530d3c4b1a6/416x416.jpg?background=000000&cropX1=520&cropX2=2013&cropY1=294&cropY2=1788",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

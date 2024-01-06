@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ar",
   "residence": {
-    "city": "Buenos Aires",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

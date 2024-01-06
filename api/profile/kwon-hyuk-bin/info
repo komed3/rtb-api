@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online games"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b11d466e6a8a5ae8e1625a/416x416.jpg?background=000000&cropX1=58&cropX2=799&cropY1=99&cropY2=840",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Separated",
+  "education": [
+    {
+      "school": "Sogang University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Smilegate Holdings",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

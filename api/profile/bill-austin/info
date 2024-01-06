@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Brownsville",
-    "state": "Texas"
+    "zipCode": "78520",
+    "_geo": {
+      "longitude": -97.5788975,
+      "latitude": 25.9964301
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "hearing aids"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

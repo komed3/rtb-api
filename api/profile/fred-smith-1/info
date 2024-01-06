@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Memphis",
-    "state": "Tennessee"
+    "zipCode": "38120",
+    "_geo": {
+      "longitude": -89.861328,
+      "latitude": 35.120603
+    }
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "FedEx"
-  ]
+  ],
+  "deceased": false,
+  "children": 10,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "FedEx",
+    "title": "Founder and Executive Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

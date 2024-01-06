@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Bielefeld",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Bielefeld"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7034b331358e35dd26df5c/416x416.jpg?background=000000&cropX1=153&cropX2=1254&cropY1=25&cropY2=1126",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

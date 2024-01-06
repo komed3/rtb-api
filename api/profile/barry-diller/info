@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10021",
+    "_geo": {
+      "longitude": -73.969924,
+      "latitude": 40.771403
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "online media"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4978612579aa24ec628b58/416x416.jpg?background=000000&cropX1=386&cropX2=4439&cropY1=1209&cropY2=5263",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

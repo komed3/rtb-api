@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": null
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60351d9a688e1407617b2595/416x416.jpg?background=000000&cropX1=1341&cropX2=2035&cropY1=411&cropY2=1105",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "CK Hutchison Holdings",
+    "title": "Senior Advisor"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

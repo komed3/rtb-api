@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": "Prague",
-    "state": null
+    "country": "cz",
+    "state": null,
+    "city": "Prague"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "agriculture"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7589f9c7b02d000666c352/416x416.jpg?background=000000&cropX1=665&cropX2=2628&cropY1=62&cropY2=2026",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Economics in Bratislava (UEB)",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

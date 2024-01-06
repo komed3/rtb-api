@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Highland Park",
-    "state": "Illinois"
+    "zipCode": "60035",
+    "_geo": {
+      "longitude": -87.807249,
+      "latitude": 42.18154
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/066ddf8d15e970b7c5b17d2962ac0b16/416x416.jpg?background=000000&cropX1=0&cropX2=788&cropY1=27&cropY2=815",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Sawdust Investment Management Corp.",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

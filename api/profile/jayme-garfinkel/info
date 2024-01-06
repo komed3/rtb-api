@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao Paulo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7b7e7fa7ea43169012eeaa/416x416.jpg?background=000000&cropX1=0&cropX2=2740&cropY1=22&cropY2=2760",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Fundacao Getulio Vargas",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Universidade de Sao Paulo",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

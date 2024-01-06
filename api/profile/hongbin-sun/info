@@ -6,13 +6,31 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Tianjin",
-    "state": "Tianjin"
+    "zipCode": "301900"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60c11dd14082164c4ca63610/416x416.jpg?background=000000&cropX1=757&cropX2=2671&cropY1=100&cropY2=2013",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Tsinghua University",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

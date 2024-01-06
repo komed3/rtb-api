@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75205",
+    "_geo": {
+      "longitude": -96.794659,
+      "latitude": 32.83771
+    }
   },
   "industry": [
     "service"
@@ -15,5 +21,25 @@
   "source": [
     "hotels",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59d6500131358e542c035c5d/416x416.jpg?background=000000&cropX1=64&cropX2=496&cropY1=48&cropY2=480",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Southern Methodist University",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

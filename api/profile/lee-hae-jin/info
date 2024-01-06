@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Internet"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/643e9b3d51ee8eed2ea008c1/416x416.jpg?background=000000&cropX1=834&cropX2=3371&cropY1=131&cropY2=2668",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Korea Advanced Institute of Science and Technology",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Naver",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

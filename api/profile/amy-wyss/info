@@ -6,13 +6,31 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wyoming",
     "city": "Wilson",
-    "state": "Wyoming"
+    "zipCode": "83014"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fb1546e4b0ffa7afe4b467/416x416.jpg?background=000000&cropX1=93&cropX2=632&cropY1=53&cropY2=593",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Skidmore College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "vn",
   "residence": {
-    "city": "Ho Chi Minh City",
-    "state": null
+    "country": "vn",
+    "state": null,
+    "city": "Ho Chi Minh City"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automotive"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

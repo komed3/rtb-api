@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Ahmedabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Ahmedabad"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "engineering"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c79af93a7ea431000441f81/416x416.jpg?background=000000&cropX1=2863&cropX2=4946&cropY1=1612&cropY2=3696",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

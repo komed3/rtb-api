@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shanghai",
-    "state": "Shanghai"
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "conglomerate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c6e1e8631358e35dd26b182/416x416.jpg?background=000000&cropX1=950&cropX2=4449&cropY1=0&cropY2=3497",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fudan University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Fudan University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

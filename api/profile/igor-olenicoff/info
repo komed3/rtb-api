@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Lighthouse Point",
-    "state": "Florida"
+    "zipCode": "33064",
+    "_geo": {
+      "longitude": -80.113289,
+      "latitude": 26.278147
+    }
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56d0d880e4b0c144a7f65d89/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=5&cropY2=745",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Southern California",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

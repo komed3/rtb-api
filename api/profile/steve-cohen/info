@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "zipCode": "06831",
+    "_geo": {
+      "longitude": -73.659569,
+      "latitude": 41.06298
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5a8d946e4bbe6f2652f61ca6/416x416.jpg?background=000000&cropX1=703&cropX2=3292&cropY1=80&cropY2=2667",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Point72 Asset Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

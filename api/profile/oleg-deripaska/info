@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,25 @@
   "source": [
     "aluminum",
     "utilities"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/622915346fb19ba3632edc8a/416x416.jpg?background=000000&cropX1=589&cropX2=3252&cropY1=6&cropY2=2667",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Moscow State University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Plekhanov Russian University of Economics",
+      "degree": "Master of Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

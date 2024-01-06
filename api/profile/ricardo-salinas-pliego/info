@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Mexico City"
   },
   "industry": [
     "fashion-retail"
@@ -15,5 +16,25 @@
   "source": [
     "retail",
     "media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76f7eed8e1ae0007b727e6/416x416.jpg?background=000000&cropX1=704&cropX2=1950&cropY1=125&cropY2=1371",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "A. B. Freeman School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Tecnológico de Monterrey",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

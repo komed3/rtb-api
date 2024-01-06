@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "technology"
@@ -15,5 +16,19 @@
   "source": [
     "computer services",
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c72021b4bbe6f51818ab6df/416x416.jpg?background=000000&cropX1=28&cropX2=466&cropY1=88&cropY2=526",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": {
+    "name": "SK Holdings",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

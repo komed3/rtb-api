@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90012",
+    "_geo": {
+      "longitude": -118.2398099,
+      "latitude": 34.053724
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Facebook"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f46b581068d03440a083f05/416x416.jpg?background=000000&cropX1=2246&cropX2=2932&cropY1=1020&cropY2=1706",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

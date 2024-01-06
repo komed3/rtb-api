@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Gstaad",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Gstaad"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/c1dbd4fa31b702a401ff195c647b54e4/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=73&cropY2=817",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

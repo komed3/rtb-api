@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Alameda",
-    "state": "California"
+    "zipCode": "94501"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "automotive technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Case Western Reserve University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Velodyne Lidar",
+    "title": "Cofounder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

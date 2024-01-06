@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Vienna",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Vienna"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "gambling"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/957d0594c392bd2f95bec45493d2be9c/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=97&cropY2=841",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Hunts Point",
-    "state": "Washington"
+    "zipCode": "98004",
+    "_geo": {
+      "longitude": -122.203138,
+      "latitude": 47.61836
+    }
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8ed8b831358e4955ae0801/416x416.jpg?background=000000&cropX1=2340&cropX2=3117&cropY1=334&cropY2=1110",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

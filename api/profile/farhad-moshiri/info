@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77f192c7b02d000666e1b7/416x416.jpg?background=000000&cropX1=1181&cropX2=2390&cropY1=138&cropY2=1346",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Separated",
+  "education": [
+    {
+      "school": "University of London",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

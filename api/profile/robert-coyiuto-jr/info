@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Manila",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Manila"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "power"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a449f18444200084e60f1/416x416.jpg?background=000000&cropX1=149&cropX2=781&cropY1=0&cropY2=633",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

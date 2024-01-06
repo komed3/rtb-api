@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,29 @@
   "source": [
     "music",
     "chemicals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c745d7b4bbe6f072958dac9/416x416.jpg?background=000000&cropX1=473&cropX2=2103&cropY1=123&cropY2=1753",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Moscow State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

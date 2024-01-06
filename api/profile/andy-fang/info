@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "MONTE VISTA",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Monte Vista",
+    "zipCode": "95014",
+    "_geo": {
+      "longitude": -122.0723816,
+      "latitude": 37.31317
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "food delivery app"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "DoorDash",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

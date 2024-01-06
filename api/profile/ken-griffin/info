@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Chicago",
-    "state": "Illinois"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6247575a5af6af682d503f2f/416x416.jpg?background=000000&cropX1=0&cropX2=1966&cropY1=0&cropY2=1966",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Citadel LLC",
+    "title": "Founder & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

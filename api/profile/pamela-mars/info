@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Alexandria",
-    "state": "Virginia"
+    "zipCode": "22302"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +17,20 @@
   "source": [
     "candy",
     "pet food"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Vassar College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

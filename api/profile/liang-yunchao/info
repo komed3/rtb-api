@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Guangzhou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "nutritional supplements"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/05045a69750222dbe55bce25e523ad1c/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=224&cropY2=965",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Sun Yat-sen University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Zhongnan University of Economics and Law",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

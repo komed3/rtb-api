@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "nz",
   "residence": {
-    "city": "Auckland",
-    "state": null
+    "country": "nz",
+    "state": null,
+    "city": "Auckland"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c715725a7ea4310004343b5/416x416.jpg?background=000000&cropX1=843&cropX2=3343&cropY1=11&cropY2=2513",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

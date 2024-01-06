@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Stuttgart",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Stuttgart"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "publishing"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70300731358e35dd26de72/416x416.jpg?background=000000&cropX1=56&cropX2=1972&cropY1=69&cropY2=1985",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Munich",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

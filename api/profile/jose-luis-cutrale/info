@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "orange juice"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e742d662a573300068fcc5a/416x416.jpg?background=000000&cropX1=720&cropX2=3366&cropY1=23&cropY2=2667",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

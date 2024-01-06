@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "torino",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "torino"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/6dc3c89409cd980592f213524b3184bb/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=24&cropY2=768",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

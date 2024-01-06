@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77e1f010380d0006fbc836/416x416.jpg?background=000000&cropX1=157&cropX2=1201&cropY1=35&cropY2=1080",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

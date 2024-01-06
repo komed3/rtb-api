@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Chicago",
-    "state": "Illinois"
+    "zipCode": "60614",
+    "_geo": {
+      "longitude": -87.645359,
+      "latitude": 41.92183
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8af40922254b0008e16667/416x416.jpg?background=000000&cropX1=490&cropX2=2190&cropY1=80&cropY2=1779",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Creighton University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Northwestern University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Guggenheim Partners LLC",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

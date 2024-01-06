@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Easton",
-    "state": "Pennsylvania"
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Easton"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "payment processing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Embry-Riddle Aeronautical University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

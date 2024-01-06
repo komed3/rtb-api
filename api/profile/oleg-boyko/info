@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Lipperswil",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lipperswil"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80ae4a4bbe6f2652f53f2e/416x416.jpg?background=000000&cropX1=312&cropX2=2475&cropY1=11&cropY2=2176",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Moscow Aviation University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Russian National Academy of National Economy and Public Administration",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

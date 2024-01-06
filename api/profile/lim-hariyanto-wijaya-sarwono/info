@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "energy"
@@ -15,5 +16,16 @@
   "source": [
     "palm oil",
     "nickel mining"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/1d675e162263166f77c91af6452294de/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=37&cropY2=781",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

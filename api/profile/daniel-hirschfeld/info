@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Kearney",
-    "state": null
+    "country": "us",
+    "state": "Nebraska",
+    "city": "Kearney"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "fashion retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.0367259,
+      "latitude": 26.6872579
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/58c3faf5fc4965181f190d24fe507787/416x416.jpg?background=000000&cropX1=222&cropX2=631&cropY1=85&cropY2=494",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Babson College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Babson College",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

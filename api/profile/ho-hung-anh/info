@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "vn",
   "residence": {
-    "city": "Hanoi",
-    "state": null
+    "country": "vn",
+    "state": null,
+    "city": "Hanoi"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,20 @@
   "source": [
     "consumer products",
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kiev Polytechnic Institute",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

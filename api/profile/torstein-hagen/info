@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": "Lucerne",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lucerne"
   },
   "industry": [
     "service"
   ],
   "source": [
     "cruises"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

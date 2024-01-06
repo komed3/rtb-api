@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Chestnut Hill",
-    "state": "Massachusetts"
+    "_geo": {
+      "longitude": -71.164564,
+      "latitude": 42.326095
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c82c7664bbe6f3f4f4beb9b/416x416.jpg?background=000000&cropX1=837&cropX2=2241&cropY1=330&cropY2=1733",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Baupost Group",
+    "title": "CEO & President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

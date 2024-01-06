@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Chicago",
-    "state": "Illinois"
+    "zipCode": "60614",
+    "_geo": {
+      "longitude": -87.645359,
+      "latitude": 41.92183
+    }
   },
   "industry": [
     "finance-investments"
@@ -15,5 +21,32 @@
   "source": [
     "hotels",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ad63e22254b0008e164cc/416x416.jpg?background=000000&cropX1=15&cropX2=1538&cropY1=54&cropY2=1577",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Claremont McKenna College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Chicago",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "University of Chicago",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Hyatt Hotels",
+    "title": "Executive Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

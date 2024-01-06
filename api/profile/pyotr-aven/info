@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "lv",
+    "state": null,
+    "city": null
   },
   "industry": [
     "energy"
@@ -16,5 +17,21 @@
     "oil",
     "banking",
     "telecom"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/622a50ed0ab694aca8e6e781/416x416.jpg?background=000000&cropX1=1157&cropX2=2565&cropY1=30&cropY2=1437",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow State University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

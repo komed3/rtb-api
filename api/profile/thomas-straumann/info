@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Basel",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Basel"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "dental implants"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77d3b6d8e1ae0007b736a4/416x416.jpg?background=000000&cropX1=1902&cropX2=5027&cropY1=82&cropY2=3208",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

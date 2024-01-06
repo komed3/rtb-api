@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/605e22fe6df966b3fcbd3e15/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hangzhou Teacher's Institute",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

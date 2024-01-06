@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Chennai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Chennai"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology Madras (IIT Madras)",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

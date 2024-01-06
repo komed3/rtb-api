@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "metals-mining"
@@ -16,5 +17,21 @@
     "mining",
     "metals",
     "machinery"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71a2faa7ea4310004348d4/416x416.jpg?background=000000&cropX1=457&cropX2=1515&cropY1=80&cropY2=1139",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tashkent State University",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

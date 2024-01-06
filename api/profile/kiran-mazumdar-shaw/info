@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biopharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5deec3bf25ab5d000700aa1a/416x416.jpg?background=000000&cropX1=136&cropX2=637&cropY1=0&cropY2=500",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Bangalore University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Melbourne University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Biocon",
+    "title": "Founder, Chair And Managing Director,"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

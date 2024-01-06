@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "city": "Marbella",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Marbella"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "shopping centers"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Separated",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

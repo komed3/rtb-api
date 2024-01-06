@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Pune",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Pune"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "engineering"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/652562145794e93b6b6e9b06/416x416.jpg?background=000000&cropX1=1173&cropX2=1977&cropY1=465&cropY2=1269",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "University of Mumbai",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

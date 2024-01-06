@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Port Washington",
-    "state": "New York"
+    "zipCode": "11050",
+    "_geo": {
+      "longitude": -73.69482339999999,
+      "latitude": 40.84700100000001
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beverages"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

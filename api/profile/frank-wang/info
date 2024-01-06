@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "drones"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56c6741ee4b062f6b59a13da/416x416.jpg?background=000000&cropX1=10&cropX2=665&cropY1=6&cropY2=662",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hong Kong University of Science and Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Hong Kong University of Science and Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "DJI Technology Co.",
+    "title": "Founder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

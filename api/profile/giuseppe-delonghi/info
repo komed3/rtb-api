@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Treviso",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Treviso"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "coffee makers"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Università Cà Foscari di Venezia",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "St. Gallen",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "St. Gallen"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beer"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade Federal do Rio de Janeiro",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

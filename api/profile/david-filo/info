@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.152332,
+      "latitude": 37.443002
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Yahoo"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8abc8018444200084e7092/416x416.jpg?background=000000&cropX1=117&cropX2=822&cropY1=24&cropY2=728",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Tulane University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Yahoo!",
+    "title": "Chief Yahoo"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

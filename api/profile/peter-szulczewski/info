@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7b971a08d8460006c88cad/416x416.jpg?background=000000&cropX1=609&cropX2=3687&cropY1=574&cropY2=3651",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "University of Waterloo",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "ContextLogic",
+    "title": "CEO and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

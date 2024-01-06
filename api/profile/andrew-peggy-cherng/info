@@ -6,13 +6,39 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Las Vegas",
-    "state": "Nevada"
+    "zipCode": "89101",
+    "_geo": {
+      "longitude": -115.1236952,
+      "latitude": 36.1697096
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "restaurants"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/57d80a5a4bbe6f6781c4e59f/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=85&cropY2=829",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Missouri",
+      "degree": "Master of Arts"
+    },
+    {
+      "school": "University of Missouri",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

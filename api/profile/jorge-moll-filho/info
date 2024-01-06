@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade Federal do Rio de Janeiro",
+      "degree": "Masters of Public Health"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

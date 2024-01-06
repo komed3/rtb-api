@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "fashion investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e74479010380d0006bdad4c/416x416.jpg?background=000000&cropX1=141&cropX2=2909&cropY1=91&cropY2=2857",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

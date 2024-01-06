@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "shipping"
-  ]
+  ],
+  "deceased": true,
+  "children": 14,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

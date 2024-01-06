@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ma",
   "residence": {
-    "city": "Casablanca",
-    "state": null
+    "country": "ma",
+    "state": null,
+    "city": "Casablanca"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,21 @@
   "source": [
     "petroleum",
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7fd2694bbe6f2652f536c4/416x416.jpg?background=000000&cropX1=286&cropX2=2317&cropY1=16&cropY2=2049",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universite de Sherbrooke",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami Beach",
-    "state": "Florida"
+    "zipCode": "33154",
+    "_geo": {
+      "longitude": -80.126412,
+      "latitude": 25.89234
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Sears"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/8cf1228c1a15189e60fb6041f47333eb/416x416.jpg?background=000000&cropX1=82&cropX2=744&cropY1=95&cropY2=757",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "ESL Investments Inc.",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,43 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Redlands",
-    "state": "California"
+    "zipCode": "92374",
+    "_geo": {
+      "longitude": -117.168359,
+      "latitude": 34.065205
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "mapping software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8aa41f22254b0008e161e8/416x416.jpg?background=000000&cropX1=85&cropX2=443&cropY1=0&cropY2=358",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "California State Polytechnical University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Minnesota",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

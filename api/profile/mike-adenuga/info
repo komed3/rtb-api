@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ng",
   "residence": {
-    "city": "Lagos",
-    "state": null
+    "country": "ng",
+    "state": null,
+    "city": "Lagos"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,21 @@
   "source": [
     "telecom",
     "oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c33a1a6a7ea4364f49fc5a6/416x416.jpg?background=000000&cropX1=18&cropX2=3978&cropY1=9&cropY2=3972",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Pace University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

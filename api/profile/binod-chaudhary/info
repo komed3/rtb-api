@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "np",
   "residence": {
-    "city": "Kathmandu",
-    "state": null
+    "country": "np",
+    "state": null,
+    "city": "Kathmandu"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76fc47c7b02d000666d3f6/416x416.jpg?background=000000&cropX1=1134&cropX2=4052&cropY1=350&cropY2=3265",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

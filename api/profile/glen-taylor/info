@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Minnesota",
     "city": "Mankato",
-    "state": "Minnesota"
+    "zipCode": "56001",
+    "_geo": {
+      "longitude": -93.991369,
+      "latitude": 44.156101
+    }
   },
   "industry": [
     "service"
   ],
   "source": [
     "printing"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6488cf3b8bd8133bec7d5722/416x416.jpg?background=000000&cropX1=190&cropX2=1291&cropY1=128&cropY2=1228",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Minnesota State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

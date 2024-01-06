@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Scottsdale",
-    "state": "Arizona"
+    "zipCode": "85262",
+    "_geo": {
+      "longitude": -111.834017,
+      "latitude": 33.769497
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "web hosting"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/612d1e07e74a8332931adcb0/416x416.jpg?background=000000&cropX1=121&cropX2=1005&cropY1=246&cropY2=1130",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Baltimore",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

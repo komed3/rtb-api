@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Monte Carlo",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monte Carlo"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "drugstores"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70cd5c31358e35dd26ecf4/416x416.jpg?background=000000&cropX1=305&cropX2=3948&cropY1=8&cropY2=3648",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Politecnico di Milano",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

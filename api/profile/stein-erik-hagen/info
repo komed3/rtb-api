@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
-    "city": "Oslo",
-    "state": null
+    "country": "no",
+    "state": null,
+    "city": "Oslo"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "consumer goods"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e770410c7b02d000666d40d/416x416.jpg?background=000000&cropX1=49&cropX2=880&cropY1=38&cropY2=870",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

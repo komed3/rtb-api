@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "North Salem"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b3c9322254b0008e16bb8/416x416.jpg?background=000000&cropX1=76&cropX2=1190&cropY1=58&cropY2=1172",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "York Capital Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

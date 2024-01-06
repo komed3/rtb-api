@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Auckland",
-    "state": null
+    "country": "nz",
+    "state": null,
+    "city": "Auckland"
   },
   "industry": [
     "service"
   ],
   "source": [
     "education"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56fc5638e4b0fd7369a3ba44/416x416.jpg?background=000000&cropX1=14&cropX2=744&cropY1=69&cropY2=799",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Waseda University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

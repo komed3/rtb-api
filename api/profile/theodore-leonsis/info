@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maryland",
     "city": "Bethesda",
-    "state": "Maryland"
+    "zipCode": "20817",
+    "_geo": {
+      "longitude": -77.1397979,
+      "latitude": 39.028173
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "sports teams"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

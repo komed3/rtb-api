@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Nanjing",
-    "state": "Jiangsu"
+    "zipCode": "210004"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/55faac1de4b0ffa7afe4aeac/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=16&cropY2=760",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Chinese Culture University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Southeastern Louisiana University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

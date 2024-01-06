@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Binningen",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Binningen"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "INSEAD",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

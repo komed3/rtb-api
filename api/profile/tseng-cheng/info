@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "petrochemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

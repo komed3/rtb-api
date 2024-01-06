@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Boston",
-    "state": "Massachusetts"
+    "zipCode": "02108",
+    "_geo": {
+      "longitude": -71.064719,
+      "latitude": 42.358359
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "cable television"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ae3eb22254b0008e16588/416x416.jpg?background=000000&cropX1=80&cropX2=348&cropY1=20&cropY2=288",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Amherst College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Pilot House Associates",
+    "title": "Chair"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

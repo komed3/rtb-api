@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
@@ -15,5 +16,21 @@
   "source": [
     "oil",
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5a80ad5c4bbe6f2652f53f26/416x416.jpg?background=000000&cropX1=754&cropX2=3423&cropY1=0&cropY2=2667",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kazakh Technological Institute",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

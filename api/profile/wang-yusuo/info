@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Langfang",
-    "state": "Hebei"
+    "country": "cn",
+    "state": null,
+    "city": "Langfang"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "natural gas distribution"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/636e8c974fa5680a03fa6445/416x416.jpg?background=000000&cropX1=1035&cropX2=3300&cropY1=296&cropY2=2560",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "People's University of China",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Tianjin University",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

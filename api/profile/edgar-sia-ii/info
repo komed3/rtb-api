@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Manila"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "fast food"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "fashion retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/629e5b3c7d9ce19405b62126/416x416.jpg?background=000000&cropX1=449&cropX2=3582&cropY1=90&cropY2=3219",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Waseda University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

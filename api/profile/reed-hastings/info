@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Santa Cruz",
-    "state": "California"
+    "zipCode": "95060",
+    "_geo": {
+      "longitude": -122.1178261,
+      "latitude": 37.0105307
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Netflix"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ae9ff18444200084e72df/416x416.jpg?background=000000&cropX1=980&cropX2=2430&cropY1=95&cropY2=1544",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Bowdoin College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Netflix",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

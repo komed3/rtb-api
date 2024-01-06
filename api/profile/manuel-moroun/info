@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Grosse Pointe Shores",
-    "state": "Michigan"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "transportation"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a84c06b4bbe6f2652f59aee/416x416.jpg?background=000000&cropX1=231&cropX2=2206&cropY1=325&cropY2=2302",
+  "deceased": true,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Notre Dame",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

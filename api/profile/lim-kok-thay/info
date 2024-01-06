@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "casinos"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/629fb93a5f305623cf1682ad/416x416.jpg?background=000000&cropX1=9&cropX2=940&cropY1=23&cropY2=954",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School"
+    },
+    {
+      "school": "University of London",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

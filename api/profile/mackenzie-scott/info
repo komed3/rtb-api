@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Seattle",
-    "state": "Washington"
+    "country": "us",
+    "state": "Washington",
+    "city": "Seattle"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Amazon"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

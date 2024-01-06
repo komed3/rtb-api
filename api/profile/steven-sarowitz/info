@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Highland Park",
-    "state": "Illinois"
+    "zipCode": "60035",
+    "_geo": {
+      "longitude": -87.807249,
+      "latitude": 42.18154
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "payroll software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

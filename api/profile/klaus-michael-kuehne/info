@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Schindellegi",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Schindellegi"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "shipping"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e762e4fc7b02d000666c89b/416x416.jpg?background=000000&cropX1=792&cropX2=4141&cropY1=0&cropY2=3347",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

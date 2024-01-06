@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "zipCode": "78746",
+    "_geo": {
+      "longitude": -97.803068,
+      "latitude": 30.285749
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "mutual funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5559e7a5e4b0bacdbd752599/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=98&cropY2=841",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Kansas",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Kansas",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Dimensional Fund Advisors",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

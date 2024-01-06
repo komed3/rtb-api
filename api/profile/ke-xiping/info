@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Xiamen",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Xiamen"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e754b3507adf00006dbbff7/416x416.jpg?background=000000&cropX1=1518&cropX2=4117&cropY1=274&cropY2=2872",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Xiamen University"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

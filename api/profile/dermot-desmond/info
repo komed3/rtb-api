@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "Dublin",
-    "state": null
+    "country": "ie",
+    "state": null,
+    "city": "Dublin"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "finance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76c7dc10380d0006fbb7db/416x416.jpg?background=000000&cropX1=79&cropX2=695&cropY1=2&cropY2=619",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

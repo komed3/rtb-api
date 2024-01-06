@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/63ef9f7b44628b662c2ed0fa/416x416.jpg?background=000000&cropX1=788&cropX2=2809&cropY1=0&cropY2=2020",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

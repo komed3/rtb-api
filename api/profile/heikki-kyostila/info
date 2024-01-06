@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fi",
   "residence": {
-    "city": "Helsinki",
-    "state": null
+    "country": "fi",
+    "state": null,
+    "city": "Helsinki"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "dental products"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

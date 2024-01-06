@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Ankara",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Ankara"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

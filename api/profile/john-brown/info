@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30303",
+    "_geo": {
+      "longitude": -84.3883717,
+      "latitude": 33.755711
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical equipment"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5b7570b5a32f0129b2a24f38d50637f6/416x416.jpg?background=000000&cropX1=65&cropX2=345&cropY1=0&cropY2=280",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Auburn University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

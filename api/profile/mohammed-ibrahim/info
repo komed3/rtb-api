@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "communications"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77f6d8d8e1ae0007b73902/416x416.jpg?background=000000&cropX1=1119&cropX2=2894&cropY1=6&cropY2=1780",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Alexandria",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Birmingham",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Bradford",
+      "degree": "Master"
+    }
+  ],
+  "organization": {
+    "name": "Mo Ibrahim Foundation",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

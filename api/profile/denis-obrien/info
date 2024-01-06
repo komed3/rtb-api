@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "Dublin",
-    "state": null
+    "country": "ie",
+    "state": null,
+    "city": "Dublin"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76c70fc7b02d000666d2ae/416x416.jpg?background=000000&cropX1=220&cropX2=1482&cropY1=50&cropY2=1311",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Carroll School of Management",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

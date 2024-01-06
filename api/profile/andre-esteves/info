@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Sao paulo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6cc7434bbe6f3a74231dba/416x416.jpg?background=000000&cropX1=238&cropX2=3600&cropY1=0&cropY2=3360",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Universidade Federal do Rio de Janeiro",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

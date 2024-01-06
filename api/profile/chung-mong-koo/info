@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "Hyundai"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/625f1307e00af37ba126f9f0/416x416.jpg?background=000000&cropX1=37&cropX2=578&cropY1=7&cropY2=548",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Hanyang University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

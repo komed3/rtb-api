@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "San Juan Islands",
-    "state": "Washington"
+    "zipCode": "98245",
+    "_geo": {
+      "longitude": -122.925299,
+      "latitude": 48.666844
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "sunglasses"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/31538b6d5294610d0ab110c04daf09a2/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=21&cropY2=765",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Altos",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.128797,
+      "latitude": 37.38055
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Google"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Separated",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Alphabet",
+    "title": "Cofounder and board member"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

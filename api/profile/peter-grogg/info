@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Liestal",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Liestal"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biochemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

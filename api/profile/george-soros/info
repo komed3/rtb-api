@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Katonah",
-    "state": "New York"
+    "zipCode": "10536",
+    "_geo": {
+      "longitude": -73.692049,
+      "latitude": 41.26621
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4e72bdd82a882a3012a595/416x416.jpg?background=000000&cropX1=886&cropX2=3035&cropY1=515&cropY2=2664",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Soros Fund Management LLC",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

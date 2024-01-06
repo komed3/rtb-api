@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10022",
+    "_geo": {
+      "longitude": -73.967359,
+      "latitude": 40.75848
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "drug distribution"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/632e0f5fbffd29114444b125/416x416.jpg?background=000000&cropX1=1154&cropX2=3011&cropY1=617&cropY2=2472",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "jewelry"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c723ad731358e35dd270010/416x416.jpg?background=000000&cropX1=3&cropX2=1305&cropY1=14&cropY2=1317",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

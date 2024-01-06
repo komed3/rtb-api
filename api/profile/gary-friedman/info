@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Belvedere",
-    "state": "California"
+    "zipCode": "94920",
+    "_geo": {
+      "longitude": -122.4669696,
+      "latitude": 37.8698143
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Furniture retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Santa Rosa Junior College",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

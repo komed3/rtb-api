@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "shipping"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76537510380d0006fbb0fb/416x416.jpg?background=000000&cropX1=62&cropX2=918&cropY1=53&cropY2=909",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Liverpool",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

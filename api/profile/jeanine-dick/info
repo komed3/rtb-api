@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "fr",
   "residence": {
-    "city": "Nice",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Nice"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "animal pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

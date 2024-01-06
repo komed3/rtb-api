@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Indiana",
     "city": "Carmel",
-    "state": "Indiana"
+    "zipCode": "46032",
+    "_geo": {
+      "longitude": -86.161589,
+      "latitude": 39.97108
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Indianapolis Colts"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8afd1522254b0008e16723/416x416.jpg?background=000000&cropX1=258&cropX2=2186&cropY1=65&cropY2=1991",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Southern Methodist University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Indianapolis Colts",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

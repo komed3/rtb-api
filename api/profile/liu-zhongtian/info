@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Liaoyang",
-    "state": "Liaoning"
+    "country": "cn",
+    "state": null,
+    "city": "Liaoyang"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "aluminum products"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/df84936e8fcbf434b70b70e60f5cfffc/416x416.jpg?background=000000&cropX1=97&cropX2=694&cropY1=297&cropY2=895",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Liaoning Radio and TV University",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

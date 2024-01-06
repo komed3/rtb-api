@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "lb",
   "residence": {
-    "city": "Manama",
-    "state": null
+    "country": "bh",
+    "state": null,
+    "city": "Manama"
   },
   "industry": [
     "service"
   ],
   "source": [
     "fine jewelry"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

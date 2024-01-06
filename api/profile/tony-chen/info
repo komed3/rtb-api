@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taichung",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taichung"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6091cca44ec54be5529d4448/416x416.jpg?background=000000&cropX1=0&cropX2=356&cropY1=2&cropY2=358",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Cheng Kung University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

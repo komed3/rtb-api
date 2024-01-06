@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Pinterest"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ced855acd1f12000a2a940f/416x416.jpg?background=000000&cropX1=458&cropX2=742&cropY1=96&cropY2=380",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

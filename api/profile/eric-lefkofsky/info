@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Glencoe",
-    "state": "Illinois"
+    "zipCode": "60022",
+    "_geo": {
+      "longitude": -87.76193,
+      "latitude": 42.133062
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Groupon"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b03f422254b0008e167e5/416x416.jpg?background=000000&cropX1=831&cropX2=4268&cropY1=154&cropY2=3589",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Groupon",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

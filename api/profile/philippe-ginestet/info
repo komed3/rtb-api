@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Pujols",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Pujols"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail stores"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "be",
   "residence": {
-    "city": "Almaty",
-    "state": null
+    "country": "kz",
+    "state": null,
+    "city": "Almaty"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,16 @@
   "source": [
     "mining",
     "metals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6cbe7d4bbe6f3a74231d28/416x416.jpg?background=000000&cropX1=1069&cropX2=3738&cropY1=0&cropY2=2667",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

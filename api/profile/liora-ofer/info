@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Separated",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

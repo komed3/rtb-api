@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/56cc361be4b062f6b59a4fe9/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=211&cropY2=955",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "National Cheng Kung University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

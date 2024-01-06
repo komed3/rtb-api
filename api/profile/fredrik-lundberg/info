@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,21 @@
   "source": [
     "real estate",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7221af4bbe6f51818ab8bd/416x416.jpg?background=000000&cropX1=8&cropX2=2047&cropY1=0&cropY2=2040",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stockholm School of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

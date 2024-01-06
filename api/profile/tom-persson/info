@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "H&M"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/d4e25dcb718d51f70610dc7f77137d50/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=105&cropY2=849",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

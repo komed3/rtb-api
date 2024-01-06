@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94123",
+    "_geo": {
+      "longitude": -122.43582,
+      "latitude": 37.802733
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/624e03ce0e62ac687c1c1f55/416x416.jpg?background=000000&cropX1=0&cropX2=1200&cropY1=0&cropY2=1200",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Christ Church, Oxford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Sequoia",
+    "title": "Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

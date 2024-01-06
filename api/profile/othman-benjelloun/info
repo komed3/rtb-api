@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ma",
   "residence": {
-    "city": "Casablanca",
-    "state": null
+    "country": "ma",
+    "state": null,
+    "city": "Casablanca"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,21 @@
   "source": [
     "banking",
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/589fd70c31358e1a35ab2cff/416x416.jpg?background=000000&cropX1=95&cropX2=744&cropY1=13&cropY2=662",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ecole Polytechnique de Lausanne",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

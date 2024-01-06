@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "fr",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ed4563bce65aef57ded29dc3a87eea7/416x416.jpg?background=000000&cropX1=2&cropX2=709&cropY1=5&cropY2=712",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Chestnut Hill",
-    "state": "Massachusetts"
+    "zipCode": "02467",
+    "_geo": {
+      "longitude": -71.161087,
+      "latitude": 42.320043
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

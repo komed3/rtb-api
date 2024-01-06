@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Anselmo",
-    "state": "California"
+    "zipCode": "94960",
+    "_geo": {
+      "longitude": -122.569318,
+      "latitude": 37.98482
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Star Wars"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f4d5df48198540283b331d8/416x416.jpg?background=000000&cropX1=358&cropX2=2199&cropY1=116&cropY2=1956",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

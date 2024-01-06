@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b6a4b0d26940920c26d510c6ec17bbf6/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=108&cropY2=852",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Institute of Chartered Accountants of India",
+      "degree": "Chartered Accountant"
+    },
+    {
+      "school": "Pune University",
+      "degree": "B.Com"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

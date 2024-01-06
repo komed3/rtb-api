@@ -6,13 +6,26 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "Stoke-On-Trent",
-    "state": null
+    "zipCode": "ST1 5SH"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "online gambling"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ab130dba7ea434a0c294b2e/416x416.jpg?background=000000&cropX1=696&cropX2=2026&cropY1=691&cropY2=2021",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

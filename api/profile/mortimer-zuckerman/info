@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10075",
+    "_geo": {
+      "longitude": -73.956672,
+      "latitude": 40.773126
+    }
   },
   "industry": [
     "real-estate"
@@ -15,5 +21,32 @@
   "source": [
     "real estate",
     "media"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f46b367c0fa61b273083f05/416x416.jpg?background=000000&cropX1=333&cropX2=2791&cropY1=105&cropY2=2564",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "LLM"
+    },
+    {
+      "school": "McGill University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Pennsylvania, The Wharton School",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Boston Properties",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

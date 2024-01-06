@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Delray Beach",
-    "state": "Florida"
+    "zipCode": "33444",
+    "_geo": {
+      "longitude": -80.0814292,
+      "latitude": 26.4569636
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "energy drinks"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8adc386de3150009a506b7/416x416.jpg?background=000000&cropX1=746&cropX2=1443&cropY1=226&cropY2=923",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "San Diego State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

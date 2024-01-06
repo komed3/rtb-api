@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Lake Worth",
-    "state": "Florida"
+    "zipCode": "33462",
+    "_geo": {
+      "longitude": -80.0590804,
+      "latitude": 26.5838179
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "City College of New York",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Princeton University",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

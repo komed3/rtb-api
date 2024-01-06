@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "The Plains",
-    "state": "Virginia"
+    "zipCode": "20198",
+    "_geo": {
+      "longitude": -77.782451,
+      "latitude": 38.875814
+    }
   },
   "industry": [
     "food-beverage"
@@ -15,5 +21,21 @@
   "source": [
     "candy",
     "pet food"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59d50d06a7ea436b47b36d84/416x416.jpg?background=000000&cropX1=147&cropX2=1649&cropY1=377&cropY2=1879",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Bryn Mawr College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 2
+  }
 }

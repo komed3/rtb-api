@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/65256679cd4895fa7365b15a/416x416.jpg?background=000000&cropX1=672&cropX2=1309&cropY1=40&cropY2=678",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "St Xavier's College Calcutta",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

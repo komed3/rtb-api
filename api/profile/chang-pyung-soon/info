@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "service"
   ],
   "source": [
     "educational services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d247733142c500008c89657/416x416.jpg?background=000000&cropX1=94&cropX2=513&cropY1=81&cropY2=500",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yonsei University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Kyowon Group",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

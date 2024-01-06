@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.1575745,
+      "latitude": 37.4457966
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Facebook"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8b003918444200084e7425/416x416.jpg?background=000000&cropX1=73&cropX2=985&cropY1=24&cropY2=937",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Vanderbilt University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Vanderbilt University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Meta Platforms",
+    "title": "Advisor"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

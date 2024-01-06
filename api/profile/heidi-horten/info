@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "at",
   "residence": {
-    "city": "Vienna",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c6cb657a7ea437e33f37579/416x416.jpg?background=000000&cropX1=375&cropX2=2931&cropY1=306&cropY2=2863",
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

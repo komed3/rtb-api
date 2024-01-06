@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Facebook"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61114d7c57eb065321419c4e/416x416.jpg?background=000000&cropX1=0&cropX2=2236&cropY1=0&cropY2=2235",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Meta Platforms",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

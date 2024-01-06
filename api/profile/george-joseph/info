@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90020",
+    "_geo": {
+      "longitude": -118.309109,
+      "latitude": 34.06623
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/f8b168c4a7bfccd92602385364f691b7/416x416.jpg?background=000000&cropX1=106&cropX2=641&cropY1=68&cropY2=603",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

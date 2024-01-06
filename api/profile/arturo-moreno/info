@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "_geo": {
+      "longitude": -112.075774,
+      "latitude": 33.44826
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +20,21 @@
   "source": [
     "billboards",
     "Anaheim Angels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59dd8c2731358e542c0394c7/416x416.jpg?background=000000&cropX1=212&cropX2=2610&cropY1=179&cropY2=2579",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Arizona",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

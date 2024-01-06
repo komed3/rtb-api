@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beverages"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6540974ac136788290e60773/416x416.jpg?background=000000&cropX1=430&cropX2=1503&cropY1=122&cropY2=1195",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Hangzhou Wahaha Group",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

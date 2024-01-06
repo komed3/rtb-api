@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "e-commerce"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/01ced083e93c20caaf0fcb876be45608/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=0&cropY2=743",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Zhejiang Gongshang University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Alibaba Group",
+    "title": "Ant Group"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Palisades",
-    "state": "New York"
+    "zipCode": "10964",
+    "_geo": {
+      "longitude": -73.9065883,
+      "latitude": 41.0152689
+    }
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +21,20 @@
   "source": [
     "media",
     "automotive"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Bard College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

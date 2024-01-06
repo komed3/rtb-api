@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "petrochemicals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/656f8476e94e04b7e93336c8/416x416.jpg?background=000000&cropX1=0&cropX2=2961&cropY1=0&cropY2=2961",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

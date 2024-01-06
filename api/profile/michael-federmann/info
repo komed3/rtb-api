@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "technology"
@@ -15,5 +16,16 @@
   "source": [
     "defense",
     "hotels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70c75931358e35dd26ecc7/416x416.jpg?background=000000&cropX1=378&cropX2=1419&cropY1=97&cropY2=1138",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

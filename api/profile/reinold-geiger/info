@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "beauty products"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e741c9807adf00006db9df9/416x416.jpg?background=000000&cropX1=287&cropX2=563&cropY1=98&cropY2=374",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "INSEAD",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

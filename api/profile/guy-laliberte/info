@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Cirque du Soleil"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e7b96a008d8460006c88c6e/416x416.jpg?background=000000&cropX1=1567&cropX2=3690&cropY1=1035&cropY2=3159",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": {
+    "name": "Cirque du Soleil",
+    "title": "Cofounder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "electronics"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/643ebfcf8fd46aba5b052dee/416x416.jpg?background=000000&cropX1=0&cropX2=1150&cropY1=0&cropY2=1150",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "Taipei University of Marine Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

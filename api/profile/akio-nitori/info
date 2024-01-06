@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Hokkaido",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Hokkaido"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "home furnishings"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/629e5bd55774db231ad8d399/416x416.jpg?background=000000&cropX1=60&cropX2=1445&cropY1=55&cropY2=1440",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

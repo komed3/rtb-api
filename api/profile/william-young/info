@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Ypsilanti",
-    "state": "Michigan"
+    "zipCode": "48197",
+    "_geo": {
+      "longitude": -83.6135572,
+      "latitude": 42.1966292
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "plastics"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Detroit Mercy",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

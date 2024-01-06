@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "se",
   "residence": {
-    "city": "Newmarket",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Newmarket"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "packaging"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a2898531358e1a35ab5427/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=0&cropY2=743",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

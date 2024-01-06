@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Chattanooga",
-    "state": "Tennessee"
+    "zipCode": "37411",
+    "_geo": {
+      "longitude": -85.2256635,
+      "latitude": 35.0277196
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "flooring"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/a5191b847bd677e5f6bd8591568872c4/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=300&cropY2=1044",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Denver",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

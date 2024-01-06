@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "confectionery"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/1f82b3af1ad2c089755e7ae4ff53a3da/416x416.jpg?background=000000&cropX1=105&cropX2=686&cropY1=37&cropY2=619",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ewha Womans University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Orion",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

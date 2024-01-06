@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Gräfelfing"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "3D printing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

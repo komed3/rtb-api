@@ -6,13 +6,25 @@
   "gender": "f",
   "citizenship": "es",
   "residence": {
-    "city": "La Coruna",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "La Coruna"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Zara"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/cf7804ae82275751814f94dc5378387a/416x416.jpg?background=000000&cropX1=31&cropX2=648&cropY1=15&cropY2=632",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

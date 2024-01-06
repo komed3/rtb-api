@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Weinheim",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Weinheim"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "SAP"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Saarland",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "financial services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c5b5b494bbe6f0688f2b7d4/416x416.jpg?background=000000&cropX1=306&cropX2=890&cropY1=59&cropY2=643",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Golden Gate University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

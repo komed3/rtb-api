@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Lanai",
-    "state": "Hawaii"
+    "country": "us",
+    "state": "California",
+    "city": "Woodside"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "University of Chicago",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Oracle",
+    "title": "CTO and Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

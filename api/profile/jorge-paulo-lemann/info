@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Zurich",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zurich"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beer"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5c6cc0bfa7ea437e33f375c1/416x416.jpg?background=000000&cropX1=1589&cropX2=3189&cropY1=0&cropY2=1599",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

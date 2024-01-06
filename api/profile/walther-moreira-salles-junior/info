@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,21 @@
   "source": [
     "banking",
     "minerals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6cc6b34bbe6f3a74231da2/416x416.jpg?background=000000&cropX1=266&cropX2=1269&cropY1=2&cropY2=1005",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

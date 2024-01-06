@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Twitter"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5f442fba6eb909db375d0172/416x416.jpg?background=000000&cropX1=669&cropX2=4226&cropY1=1080&cropY2=4637",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Nebraska Lincoln",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Twitter",
+    "title": "Cofounder and Director"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

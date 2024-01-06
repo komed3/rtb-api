@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": "Ontario"
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/b5db05ee754e520e9b3e3c6b12abd1a5/416x416.jpg?background=000000&cropX1=76&cropX2=673&cropY1=27&cropY2=625",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Orlando Corporation",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin",
+    "zipCode": "78746",
+    "_geo": {
+      "longitude": -97.8299383,
+      "latitude": 30.2962208
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "cloud storage service"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/618e793ad4b8f4524893c0c6/416x416.jpg?background=000000&cropX1=686&cropX2=3354&cropY1=0&cropY2=2667",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Dropbox",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

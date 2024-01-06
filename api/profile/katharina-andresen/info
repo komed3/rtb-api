@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "no",
   "residence": {
-    "city": "Oslo",
-    "state": null
+    "country": "no",
+    "state": null,
+    "city": "Oslo"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30328",
+    "_geo": {
+      "longitude": -84.376089,
+      "latitude": 33.933659
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Home Depot"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a76f66de3150009a4fb47/416x416.jpg?background=000000&cropX1=1374&cropX2=4427&cropY1=8&cropY2=3059",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Rutgers University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "The Home Depot",
+    "title": "Co-founder, ex chairman of the board"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

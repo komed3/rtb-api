@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Grebenhain",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Grebenhain"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "hospitals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e762fb5c7b02d000666c8d1/416x416.jpg?background=000000&cropX1=1673&cropX2=3786&cropY1=343&cropY2=2456",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

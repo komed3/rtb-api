@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75205",
+    "_geo": {
+      "longitude": -96.794659,
+      "latitude": 32.83771
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil & gas"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8ae0b218444200084e728b/416x416.jpg?background=000000&cropX1=464&cropX2=1110&cropY1=400&cropY2=1046",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Southern Methodist University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

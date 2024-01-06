@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Bruchsal",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/250c3eea55c826ca89f092951d0882b3/416x416.jpg?background=000000&cropX1=55&cropX2=680&cropY1=256&cropY2=881",
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

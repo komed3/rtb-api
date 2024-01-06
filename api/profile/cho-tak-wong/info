@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Fuqing",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Fuqing"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "auto parts"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76438cd8e1ae0007b71d2a/416x416.jpg?background=000000&cropX1=903&cropX2=3092&cropY1=319&cropY2=2508",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

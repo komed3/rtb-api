@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "hedge funds"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/1c400b27776030240a1380c018559a12/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=31&cropY2=775",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Imperial College London",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Brevan Howard Asset Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

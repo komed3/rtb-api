@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Nantes",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Nantes"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "laboratory services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

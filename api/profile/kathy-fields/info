@@ -6,13 +6,39 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94102",
+    "_geo": {
+      "longitude": -122.4212424,
+      "latitude": 37.7786871
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "skin care"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5bbbc6494bbe6f67d2e8d8eb/416x416.jpg?background=000000&cropX1=36&cropX2=2637&cropY1=158&cropY2=2760",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Miami",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

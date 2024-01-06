@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Pune",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Pune"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "engineering"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/652562b21ed0a8cab2e36ddc/416x416.jpg?background=000000&cropX1=1079&cropX2=2596&cropY1=21&cropY2=1536",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

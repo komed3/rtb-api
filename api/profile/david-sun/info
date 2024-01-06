@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Irvine",
-    "state": "California"
+    "zipCode": "92603",
+    "_geo": {
+      "longitude": -117.804006,
+      "latitude": 33.638267
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "computer hardware"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56dbf33ff9a34972aa0637c95ea9c36b/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=85&cropY2=829",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tatung University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Kingston Technology Corporation",
+    "title": "COO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Nantes",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Nantes"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "laboratory services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ecole centrale de Paris",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Syracuse University",
+      "degree": "Master"
+    },
+    {
+      "school": "Syracuse University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

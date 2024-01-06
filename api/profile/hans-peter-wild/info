@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Zug",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Zug"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "flavorings"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77cf7ed8e1ae0007b7365e/416x416.jpg?background=000000&cropX1=1552&cropX2=3419&cropY1=63&cropY2=1929",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

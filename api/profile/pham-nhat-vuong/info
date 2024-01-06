@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "vn",
   "residence": {
-    "city": "Hanoi",
-    "state": null
+    "country": "vn",
+    "state": null,
+    "city": "Hanoi"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "diversified"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64e7640cfb10a26d2f4af6bf/416x416.jpg?background=000000&cropX1=389&cropX2=1225&cropY1=106&cropY2=944",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

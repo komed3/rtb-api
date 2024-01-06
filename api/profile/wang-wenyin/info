@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shenzhen",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
   },
   "industry": [
     "metals-mining"
@@ -15,5 +16,16 @@
   "source": [
     "mining",
     "copper products"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6182bd42a164f1e8dbe9678e/416x416.jpg?background=000000&cropX1=281&cropX2=1717&cropY1=66&cropY2=1502",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

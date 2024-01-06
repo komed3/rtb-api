@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "dk",
   "residence": {
-    "city": "Humlebaek",
-    "state": null
+    "country": "dk",
+    "state": null,
+    "city": "Humlebaek"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/d0b9926c84cb83dc19638faf3e09ff04/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=11&cropY2=754",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

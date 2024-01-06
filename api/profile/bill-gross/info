@@ -6,13 +6,41 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Laguna Beach",
-    "state": "California"
+    "_geo": {
+      "longitude": -117.781537,
+      "latitude": 33.545375
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59dd8a2831358e542c0394b0/416x416.jpg?background=000000&cropX1=914&cropX2=3337&cropY1=246&cropY2=2667",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Anderson School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Duke University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Pacific Investment Management Company LLC",
+    "title": "Cofounder and Co-Chief Investment Officer"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

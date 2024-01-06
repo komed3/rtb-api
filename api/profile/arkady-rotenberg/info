@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "construction-engineering"
@@ -16,5 +17,21 @@
     "construction",
     "pipes",
     "banking"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62290e4dba04e4c27c2edc8a/416x416.jpg?background=000000&cropX1=1162&cropX2=4822&cropY1=141&cropY2=3804",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Leningrad Institute of Physical Culture",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

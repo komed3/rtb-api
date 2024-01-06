@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Montana",
     "city": "Missoula",
-    "state": "Montana"
+    "zipCode": "59802",
+    "_geo": {
+      "longitude": -113.965502,
+      "latitude": 46.884027
+    }
   },
   "industry": [
     "logistics"
@@ -15,5 +21,21 @@
   "source": [
     "construction",
     "mining"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba4dae34bbe6f79516f5042/416x416.jpg?background=000000&cropX1=2&cropX2=923&cropY1=2&cropY2=923",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

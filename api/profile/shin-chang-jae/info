@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "insurance"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/60b125e1d0e7e6be96564f27/416x416.jpg?background=000000&cropX1=547&cropX2=985&cropY1=138&cropY2=575",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Seoul National University",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": {
+    "name": "Kyobo Life Insurance",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

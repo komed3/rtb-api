@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "us",
+    "state": "New York",
+    "city": "New York",
+    "zipCode": "10036",
+    "_geo": {
+      "longitude": -73.9852354,
+      "latitude": 40.7548825
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Stifel",
+    "title": "Wealth Advisor"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
 }

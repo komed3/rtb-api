@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ua",
   "residence": {
-    "city": "Kiev",
-    "state": null
+    "country": "ua",
+    "state": null,
+    "city": "Kiev"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "steel"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7266e44bbe6f51818abcba/416x416.jpg?background=000000&cropX1=192&cropX2=2252&cropY1=27&cropY2=2087",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Academy of Civil Aviation (Leningrad)",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

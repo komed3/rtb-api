@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "manufacturing"
@@ -15,5 +16,15 @@
   "source": [
     "manufacturing",
     "investment"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

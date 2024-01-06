@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Tel Aviv",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "gambling software"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a2357231358e1a35ab4fc2/416x416.jpg?background=000000&cropX1=81&cropX2=566&cropY1=77&cropY2=562",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "In Relationship",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
+    "country": "us",
+    "state": "North Carolina",
     "city": "Durham",
-    "state": "North Carolina"
+    "zipCode": "27701"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "drug testing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

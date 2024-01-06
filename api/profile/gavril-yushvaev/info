@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,16 @@
   "source": [
     "precious metals",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c71cb414bbe6f24567aed4e/416x416.jpg?background=000000&cropX1=397&cropX2=1325&cropY1=197&cropY2=1125",
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

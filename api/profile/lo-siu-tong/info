@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,16 @@
   "source": [
     "real estate",
     "hotels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/568bb227e4b0ffa7afe8b57d/416x416.jpg?background=000000&cropX1=60&cropX2=661&cropY1=3&cropY2=604",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

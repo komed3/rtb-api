@@ -6,13 +6,39 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "West Virginia",
     "city": "Lewisburg",
-    "state": "West Virginia"
+    "zipCode": "24901",
+    "_geo": {
+      "longitude": -80.446229,
+      "latitude": 37.80163
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "coal"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5942b95e4bbe6f1b730ba19b/416x416.jpg?background=000000&cropX1=1979&cropX2=4083&cropY1=424&cropY2=2527",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Marshall University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Marshall University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

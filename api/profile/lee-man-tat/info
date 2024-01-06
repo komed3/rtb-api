@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56898008e4b0ffa7afe8a698/416x416.jpg?background=000000&cropX1=227&cropX2=547&cropY1=219&cropY2=540",
+  "deceased": true,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

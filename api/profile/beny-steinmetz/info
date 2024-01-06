@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Netanya",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Netanya"
   },
   "industry": [
     "metals-mining"
@@ -16,5 +17,16 @@
     "mining",
     "diamonds",
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c70caec4bbe6f79c54740b7/416x416.jpg?background=000000&cropX1=527&cropX2=2624&cropY1=11&cropY2=2109",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

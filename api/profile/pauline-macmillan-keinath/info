@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Missouri",
     "city": "St. Louis",
-    "state": "Missouri"
+    "zipCode": "63131",
+    "_geo": {
+      "longitude": -90.439112,
+      "latitude": 38.617561
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

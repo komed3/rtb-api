@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ve",
   "residence": {
-    "city": "La Romana",
-    "state": null
+    "country": "do",
+    "state": null,
+    "city": "La Romana"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "media"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7179714bbe6f79c54748c0/416x416.jpg?background=000000&cropX1=228&cropX2=2374&cropY1=111&cropY2=2258",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Babson College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

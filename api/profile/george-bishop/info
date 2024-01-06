@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "The Woodlands",
-    "state": "Texas"
+    "zipCode": "77380",
+    "_geo": {
+      "longitude": -95.455772,
+      "latitude": 30.15752
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "oil & gas"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

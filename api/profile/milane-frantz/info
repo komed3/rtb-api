@@ -6,13 +6,35 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77024",
+    "_geo": {
+      "longitude": -95.516549,
+      "latitude": 29.77228
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "pipelines"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/087ea54ecfa62609c6cafe4bd4410588/416x416.jpg?background=000000&cropX1=1&cropX2=548&cropY1=9&cropY2=556",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Houston",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

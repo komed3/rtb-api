@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Clearwater",
-    "state": "Florida"
+    "zipCode": "33766",
+    "_geo": {
+      "longitude": -82.78,
+      "latitude": 27.98
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "hair care products"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

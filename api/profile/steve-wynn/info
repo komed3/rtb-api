@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Las Vegas",
-    "state": "Nevada"
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach"
   },
   "industry": [
     "gambling-casinos"
@@ -15,5 +16,24 @@
   "source": [
     "casinos",
     "hotels"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f492f19b83ec6ab5858e438/416x416.jpg?background=000000&cropX1=777&cropX2=3114&cropY1=80&cropY2=2418",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Wynn Resorts",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

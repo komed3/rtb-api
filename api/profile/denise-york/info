@@ -6,13 +6,32 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "Youngstown",
-    "state": "Ohio"
+    "_geo": {
+      "longitude": -80.650789,
+      "latitude": 41.0981
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "San Francisco 49ers"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d890b8522254b0008e134fc/416x416.jpg?background=000000&cropX1=0&cropX2=1500&cropY1=243&cropY2=1743",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "San Francisco 49ers",
+    "title": "Co-Chairman"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

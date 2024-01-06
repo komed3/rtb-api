@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Monaco",
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,21 @@
   "source": [
     "real estate",
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77f9a510380d0006fbc995/416x416.jpg?background=000000&cropX1=922&cropX2=2645&cropY1=72&cropY2=1796",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Sir John Cass College, London",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

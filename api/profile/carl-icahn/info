@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Indian Creek",
-    "state": "Florida"
+    "zipCode": "33154",
+    "_geo": {
+      "longitude": -80.1361853,
+      "latitude": 25.8735341
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba424d431358e5690cd9c64/416x416.jpg?background=000000&cropX1=390&cropX2=1701&cropY1=116&cropY2=1427",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Icahn Capital Management",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

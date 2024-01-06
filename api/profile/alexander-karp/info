@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94301",
+    "_geo": {
+      "longitude": -122.1575745,
+      "latitude": 37.4457966
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software firm"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a8eee0da7ea431690141ab3/416x416.jpg?background=000000&cropX1=914&cropX2=2463&cropY1=177&cropY2=1725",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Haverford College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "Palantir Technologies",
+    "title": "Cofounder and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

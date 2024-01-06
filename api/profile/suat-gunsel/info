@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
-    "city": "Lefkosa",
-    "state": null
+    "country": "cy",
+    "state": null,
+    "city": "Lefkosa"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,16 @@
   "source": [
     "real estate",
     "education"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/32ae3665d79edb059b0d655c2f4ac964/416x416.jpg?background=000000&cropX1=118&cropX2=664&cropY1=127&cropY2=673",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

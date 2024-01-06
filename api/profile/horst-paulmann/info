@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cl",
   "residence": {
-    "city": "Santiago",
-    "state": null
+    "country": "cl",
+    "state": null,
+    "city": "Santiago"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/56c659a5e4b062f6b59a0fbe/416x416.jpg?background=000000&cropX1=77&cropX2=591&cropY1=2&cropY2=516",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Hunts Point",
-    "state": "Washington"
+    "zipCode": "98004",
+    "_geo": {
+      "longitude": -122.203138,
+      "latitude": 47.61836
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Microsoft"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/59d50c47a7ea436b47b36d66/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Los Angeles Clippers",
+    "title": "Owner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
 }

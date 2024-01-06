@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munich",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Munich"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "tech investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7e055ea7ea431690131ce8/416x416.jpg?background=000000&cropX1=8&cropX2=1711&cropY1=127&cropY2=1829",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Oxford University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Rocket Internet",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

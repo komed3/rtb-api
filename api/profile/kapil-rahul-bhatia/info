@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "service"
   ],
   "source": [
     "airlines"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6345c0072a29645c22b5c039/416x416.jpg?background=000000&cropX1=1010&cropX2=1564&cropY1=761&cropY2=1315",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Waterloo",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

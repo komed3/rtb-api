@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Graz",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Graz"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "engineering"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/603e8f5d4a2df75cef4fb25a/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

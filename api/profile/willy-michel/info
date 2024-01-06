@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Burgdorf",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Burgdorf"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c723cfa4bbe6f51818aba88/416x416.jpg?background=000000&cropX1=42&cropX2=3300&cropY1=431&cropY2=3688",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

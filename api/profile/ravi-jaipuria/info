@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,16 @@
   "source": [
     "soft drinks",
     "fast food"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/65256f6471dfe97f6fd37064/416x416.jpg?background=000000&cropX1=76&cropX2=1233&cropY1=321&cropY2=1479",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

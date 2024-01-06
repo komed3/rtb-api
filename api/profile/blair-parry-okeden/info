@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "au",
+    "state": null,
     "city": "New South Wales",
-    "state": null
+    "zipCode": "2337"
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +17,24 @@
   "source": [
     "media",
     "automotive"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    },
+    {
+      "school": "University of Denver",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 1
+  }
 }

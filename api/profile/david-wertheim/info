@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Coca Cola Israel"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

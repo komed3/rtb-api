@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Farmington Hills",
-    "state": "Michigan"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "auto loans"
-  ]
+  ],
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

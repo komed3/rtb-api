@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "online payment service"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/eb0f2e7c5736b370425f7365da5bacad/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=76&cropY2=820",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

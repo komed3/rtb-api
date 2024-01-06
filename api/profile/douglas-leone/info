@@ -6,13 +6,46 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Atherton",
-    "state": "California"
+    "zipCode": "94027",
+    "_geo": {
+      "longitude": -122.2029832,
+      "latitude": 37.45117949999999
+    }
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "venture capital"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e907d342b720000076d9406/416x416.jpg?background=000000&cropX1=910&cropX2=2570&cropY1=200&cropY2=1859",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "MIT Sloan School of Management",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Sequoia",
+    "title": "Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": null,
   "residence": {
-    "city": "Chongqing",
-    "state": "Chongqing"
+    "country": "cn",
+    "state": null,
+    "city": "Chongqing"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Chongqing Universtiy",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

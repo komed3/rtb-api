@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Stockholm",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Stockholm"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "computer games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c7227ada7ea4310004351c2/416x416.jpg?background=000000&cropX1=680&cropX2=2462&cropY1=560&cropY2=2343",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

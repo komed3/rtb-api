@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Yekaterinburg",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Yekaterinburg"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "metals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e777d9cc7b02d000666d7b3/416x416.jpg?background=000000&cropX1=594&cropX2=3031&cropY1=64&cropY2=2500",
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ekaterinburg Institute of Economics",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

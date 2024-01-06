@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Delray Beach",
-    "state": "Florida"
+    "zipCode": "33444",
+    "_geo": {
+      "longitude": -80.0814292,
+      "latitude": 26.4569636
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "liquor"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of North Carolina",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Vermont",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Paris",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "service"
   ],
   "source": [
     "food services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/58a1c18ba7ea431f32196354/416x416.jpg?background=000000&cropX1=3&cropX2=718&cropY1=129&cropY2=844",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

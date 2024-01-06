@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Chicago",
-    "state": "Illinois"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,25 @@
   "source": [
     "real estate",
     "private equity"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5efcbaa10f34010007451ef7/416x416.jpg?background=000000&cropX1=149&cropX2=1355&cropY1=446&cropY2=1652",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ie",
   "residence": {
-    "city": "Dublin",
-    "state": null
+    "country": "ie",
+    "state": null,
+    "city": "Dublin"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Campbell Soup"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

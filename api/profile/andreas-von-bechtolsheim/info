@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.160794,
+      "latitude": 37.44466
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Google"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e761636d8e1ae0007b718e0/416x416.jpg?background=000000&cropX1=240&cropX2=1726&cropY1=407&cropY2=1894",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Arista Networks",
+    "title": "Cofounder, Chief Development Officer and Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

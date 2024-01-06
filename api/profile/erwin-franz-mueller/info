@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Ulm",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Ulm"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "drugstores"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7e1092a7ea431690131f98/416x416.jpg?background=000000&cropX1=66&cropX2=1197&cropY1=93&cropY2=1224",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Far Hills",
-    "state": "New Jersey"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e88e05501879f000703d681/416x416.jpg?background=000000&cropX1=433&cropX2=2734&cropY1=535&cropY2=2835",
+  "deceased": true,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Oklahoma",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "MFP Investors Inc.",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

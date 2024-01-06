@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Ankara",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Ankara"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "construction"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77e041c7b02d000666e08f/416x416.jpg?background=000000&cropX1=1180&cropX2=2828&cropY1=33&cropY2=1679",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

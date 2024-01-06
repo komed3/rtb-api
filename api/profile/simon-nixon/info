@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "St. Brelade, Jersey",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "St. Brelade, Jersey"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "price comparison website"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Nottingham University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

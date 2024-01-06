@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software services"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e76a94ed8e1ae0007b724cc/416x416.jpg?background=000000&cropX1=239&cropX2=1918&cropY1=59&cropY2=1739",
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

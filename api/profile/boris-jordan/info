@@ -6,11 +6,22 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

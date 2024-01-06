@@ -6,13 +6,38 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94118",
+    "_geo": {
+      "longitude": -122.462755,
+      "latitude": 37.77459
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Gap"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/8f509677141935bbb172e12367d1e853/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=106&cropY2=850",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Gap Inc.",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

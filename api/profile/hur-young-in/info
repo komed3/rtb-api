@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,24 @@
   "source": [
     "bakeries",
     "fast food"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d2477e9142c500008c8968d/416x416.jpg?background=000000&cropX1=276&cropX2=510&cropY1=185&cropY2=419",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kyung Hee University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": {
+    "name": "Paris-Croissant Food",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

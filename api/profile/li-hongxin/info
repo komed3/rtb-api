@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Yanzhou",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Yanzhou"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "paper & related products"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

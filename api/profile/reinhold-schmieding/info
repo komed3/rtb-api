@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Naples",
-    "state": "Florida"
+    "zipCode": "34102",
+    "_geo": {
+      "longitude": -81.7951054,
+      "latitude": 26.132433
+    }
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a751e22254b0008e15d32/416x416.jpg?background=000000&cropX1=2&cropX2=397&cropY1=5&cropY2=400",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Michigan State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

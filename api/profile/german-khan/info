@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
@@ -16,5 +17,21 @@
     "oil",
     "banking",
     "telecom"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62471c96d9d016541f503f31/416x416.jpg?background=000000&cropX1=640&cropX2=3303&cropY1=0&cropY2=2660",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute of Steel and Alloys",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

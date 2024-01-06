@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "dk",
   "residence": {
-    "city": "Nordborg",
-    "state": null
+    "country": "dk",
+    "state": null,
+    "city": "Nordborg"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "electric linear systems"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Southern Denmark",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

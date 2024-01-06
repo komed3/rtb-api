@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Chevy Chase",
-    "state": "Maryland"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ba5182d4bbe6f79516f57f2/416x416.jpg?background=000000&cropX1=12&cropX2=2627&cropY1=6&cropY2=2621",
+  "deceased": true,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "George Washington University",
+      "degree": "Associate in Arts/Science"
+    },
+    {
+      "school": "George Washington University",
+      "degree": "LLB"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Atherton",
-    "state": "California"
+    "zipCode": "95050",
+    "_geo": {
+      "longitude": -121.937018,
+      "latitude": 37.351709
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "WhatsApp"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a61aa22254b0008e15a3f/416x416.jpg?background=000000&cropX1=46&cropX2=1310&cropY1=63&cropY2=1329",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "San Jose State University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "WhatsApp Inc.",
+    "title": "CEO, cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

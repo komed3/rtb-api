@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Detmold",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Detmold"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "footwear"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a7e182aa7ea431690132282/416x416.jpg?background=000000&cropX1=99&cropX2=859&cropY1=82&cropY2=841",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

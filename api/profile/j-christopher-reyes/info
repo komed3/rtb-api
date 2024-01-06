@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Hobe Sound",
-    "state": "Florida"
+    "zipCode": "33455",
+    "_geo": {
+      "longitude": -80.1651854,
+      "latitude": 27.0867813
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food distribution"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/033ba8ea1f4e0697e1ca957753400dc9/416x416.jpg?background=000000&cropX1=35&cropX2=698&cropY1=3&cropY2=667",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Maryland",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Reyes Holdings",
+    "title": "Co-Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

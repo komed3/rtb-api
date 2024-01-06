@@ -6,13 +6,42 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75205",
+    "_geo": {
+      "longitude": -96.794659,
+      "latitude": 32.83771
+    }
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Dallas Cowboys"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d8a639e6de3150009a4f883/416x416.jpg?background=000000&cropX1=943&cropX2=2577&cropY1=0&cropY2=1633",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Arkansas",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Arkansas",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Dallas Cowboys",
+    "title": "President and General Manager"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

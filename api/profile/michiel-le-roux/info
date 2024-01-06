@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Stellenbosch",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Stellenbosch"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "banking"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

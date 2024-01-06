@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Wilen",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Wilen"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e77d16410380d0006fbc6bb/416x416.jpg?background=000000&cropX1=1938&cropX2=3845&cropY1=86&cropY2=1992",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Zurich",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }
