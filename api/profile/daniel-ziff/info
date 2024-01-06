@@ -6,14 +6,8 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "New York",
     "city": "New York",
-    "zipCode": "10012",
-    "_geo": {
-      "longitude": -73.997128,
-      "latitude": 40.72635
-    }
+    "state": "New York"
   },
   "industry": [
     "finance-investments"

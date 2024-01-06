@@ -6,16 +6,11 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Pennsylvania",
     "city": "Philadelphia",
-    "_geo": {
-      "longitude": -75.162369,
-      "latitude": 39.95227
-    }
+    "state": "Pennsylvania"
   },
   "industry": [
-    "service"
+    "media-entertainment"
   ],
   "source": [
     "Comcast"

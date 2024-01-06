@@ -6,14 +6,8 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "country": "cn",
-    "state": null,
     "city": "Beijing",
-    "zipCode": "100039",
-    "_geo": {
-      "longitude": 116.33643,
-      "latitude": 39.957561
-    }
+    "state": "Beijing"
   },
   "industry": [
     "technology"

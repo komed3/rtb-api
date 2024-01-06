@@ -6,15 +6,15 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "country": "es",
-    "state": null,
-    "city": "Madrid"
+    "city": "Madrid",
+    "state": null
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
-    "steel"
+    "steel",
+    "investments"
   ],
   "deceased": false,
   "children": 5,

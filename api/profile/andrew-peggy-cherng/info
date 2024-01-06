@@ -6,14 +6,8 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Nevada",
     "city": "Las Vegas",
-    "zipCode": "89101",
-    "_geo": {
-      "longitude": -115.1236952,
-      "latitude": 36.1697096
-    }
+    "state": "Nevada"
   },
   "industry": [
     "food-beverage"

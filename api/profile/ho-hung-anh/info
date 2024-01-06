@@ -1,14 +1,13 @@
 {
   "uri": "ho-hung-anh",
   "name": "Ho Hung Anh",
-  "birthDate": null,
+  "birthDate": "1970-06-08",
   "family": false,
   "gender": "m",
   "citizenship": "vn",
   "residence": {
-    "country": "vn",
-    "state": null,
-    "city": "Hanoi"
+    "city": "Hanoi",
+    "state": null
   },
   "industry": [
     "finance-investments"

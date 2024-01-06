@@ -4,16 +4,10 @@
   "birthDate": "1973-08-23",
   "family": false,
   "gender": "m",
-  "citizenship": "de",
+  "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
     "city": "Atherton",
-    "zipCode": "94027",
-    "_geo": {
-      "longitude": -122.2029832,
-      "latitude": 37.45117949999999
-    }
+    "state": "California"
   },
   "industry": [
     "finance-investments"

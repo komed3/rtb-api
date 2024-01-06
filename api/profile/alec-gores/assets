@@ -1,16 +1,6 @@
 [
   {
     "exchange": "NASDAQ",
-    "ticker": "GHIV-US",
-    "companyName": "Gores Holdings IV",
-    "numberOfShares": 10550000,
-    "sharePrice": 13.08,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
     "ticker": "GMHI-US",
     "companyName": "Gores Metropoulos",
     "numberOfShares": 4962500,
@@ -35,7 +25,7 @@
     "ticker": "TWNK-US",
     "companyName": "Hostess Brands, Inc",
     "numberOfShares": 2000000,
-    "sharePrice": 14.5,
+    "sharePrice": 15.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -46,7 +36,7 @@
     "companyName": "Hostess Brands, Inc",
     "numberOfShares": 3401000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 14.5,
+    "sharePrice": 15.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +46,7 @@
     "ticker": "LAZR-US",
     "companyName": "Luminar Technologies",
     "numberOfShares": 16890000,
-    "sharePrice": 36.14,
+    "sharePrice": 32.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -66,7 +56,7 @@
     "ticker": "PAE-US",
     "companyName": "PAE, Inc",
     "numberOfShares": 9115000,
-    "sharePrice": 9.09,
+    "sharePrice": 8.3,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -77,7 +67,17 @@
     "companyName": "PAE, Inc",
     "numberOfShares": 5021000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 9.09,
+    "sharePrice": 8.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UWMC-US",
+    "companyName": "UWM Holdings Corporation Class A",
+    "numberOfShares": 10550000,
+    "sharePrice": 0,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -87,7 +87,7 @@
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
     "numberOfShares": 3796000,
-    "sharePrice": 13.48,
+    "sharePrice": 12.8,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -98,7 +98,7 @@
     "companyName": "Verra Mobility",
     "numberOfShares": 2970000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 13.48,
+    "sharePrice": 12.8,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

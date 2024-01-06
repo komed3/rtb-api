@@ -6,17 +6,11 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
     "city": "Marin County",
-    "zipCode": "94904",
-    "_geo": {
-      "longitude": -122.534237,
-      "latitude": 37.949749
-    }
+    "state": "California"
   },
   "industry": [
-    "service"
+    "finance-investments"
   ],
   "source": [
     "hotels",
