@@ -1,0 +1,33 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "PSA-US",
+    "companyName": "Public Storage",
+    "numberOfShares": 2000,
+    "sharePrice": 228.93,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SNOW-US",
+    "companyName": "Snowflake",
+    "numberOfShares": 1523000,
+    "sharePrice": 300.92,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SNOW-US",
+    "companyName": "Snowflake",
+    "numberOfShares": 3845000,
+    "exerciseOptionPrice": 8.8,
+    "sharePrice": 300.92,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]
