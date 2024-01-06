@@ -1,0 +1,18 @@
+{
+  "uri": "john-bicket",
+  "name": "John Bicket",
+  "birthDate": "1980-03-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "San Francisco",
+    "state": "California"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "sensor systems"
+  ]
+}

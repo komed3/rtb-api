@@ -1,0 +1,18 @@
+{
+  "uri": "scott-smith-1",
+  "name": "Scott Smith",
+  "birthDate": "1949-04-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "city": "Provo",
+    "state": "Utah"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "cloud computing"
+  ]
+}
