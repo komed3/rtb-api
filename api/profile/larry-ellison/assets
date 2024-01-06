@@ -15,11 +15,11 @@
     "ticker": "ORCL-US",
     "companyName": "Oracle Corp.",
     "numberOfShares": 1059000000,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -27,11 +27,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 14.57,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -39,11 +39,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 20.73,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -51,11 +51,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 20.49,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -63,11 +63,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 21.04,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -75,11 +75,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 21.55,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -87,11 +87,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 2250000,
     "exerciseOptionPrice": 40.47,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -99,11 +99,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 32.43,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -111,11 +111,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 7000000,
     "exerciseOptionPrice": 29.72,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -123,11 +123,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 7000000,
     "exerciseOptionPrice": 30.11,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -135,11 +135,11 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 40.36,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
   },
   {
     "exchange": "NYSE",
@@ -147,22 +147,34 @@
     "companyName": "Oracle Corp.",
     "numberOfShares": 0,
     "exerciseOptionPrice": 40.93,
-    "sharePrice": 89.45,
+    "sharePrice": 91.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 89.13
+    "currentPrice": 87.13
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle Corp.",
+    "numberOfShares": 2500000,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 91.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 87.13
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 15000000,
-    "sharePrice": 730.91,
+    "sharePrice": 781.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 735.72
+    "currentPrice": 775.48
   },
   {
     "exchange": "NASDAQ",
@@ -170,10 +182,10 @@
     "companyName": "Tesla",
     "numberOfShares": 41670,
     "exerciseOptionPrice": 66.99,
-    "sharePrice": 730.91,
+    "sharePrice": 781.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 735.72
+    "currentPrice": 775.48
   }
 ]
