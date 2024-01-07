@@ -35,20 +35,20 @@ This data can be used unlimited and without any limitation.
 
 ### Stats
 
-* ``/api/stats/count`` Daily count of billionaires (CSV)
+* ``/api/stats/count`` Daily number of billionaires (CSV)
 * ``/api/stats/total`` Daily total net worth (CSV)
-* ``/api/stats/woman`` Daily count of woman billionaires (CSV)
-* ``/api/stats/country/_index``  (CSV)
-* ``/api/stats/country/_list``  (CSV)
-* ``/api/stats/country/{KEY}``  (CSV)
-* ``/api/stats/industry/_index``  (CSV)
-* ``/api/stats/industry/_list``  (CSV)
-* ``/api/stats/industry/{KEY}``  (CSV)
-* ``/api/stats/agePyramid``  (JSON)
-* ``/api/stats/children``  (JSON)
-* ``/api/stats/maritalStatus``  (JSON)
-* ``/api/stats/scatter``  (JSON)
-* ``/api/stats/selfMade``  (JSON)
+* ``/api/stats/woman`` Daily number of woman billionaires (CSV)
+* ``/api/stats/country/_index`` Countries index (CSV)
+* ``/api/stats/country/_list`` List of countries by number, fortune and richest individual (CSV)
+* ``/api/stats/country/{KEY}`` Daily list with number, total net worth and richest individual (CSV)
+* ``/api/stats/industry/_index`` Industries index (CSV)
+* ``/api/stats/industry/_list`` List of industries by number, fortune and richest individual (CSV)
+* ``/api/stats/industry/{KEY}`` Daily list with number, total net worth and richest individual (CSV)
+* ``/api/stats/agePyramid`` Age pyramide (male/female) (JSON)
+* ``/api/stats/children`` Number of billionaires by their children (JSON)
+* ``/api/stats/maritalStatus`` Number of billionaires by their marital status (JSON)
+* ``/api/stats/scatter`` Scatter data by age and net worth (JSON)
+* ``/api/stats/selfMade`` Number of billionaires by their self-made score (JSON)
 
 ### Movers
 
