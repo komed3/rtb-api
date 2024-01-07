@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "th",
   "residence": {
-    "city": "Bangkok",
-    "state": null
+    "country": "th",
+    "state": null,
+    "city": "Bangkok"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "energy equipment"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/62bca8596eb93e6fd470f110/416x416.jpg?background=000000&cropX1=0&cropX2=529&cropY1=0&cropY2=529",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

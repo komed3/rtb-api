@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Kunshan",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Kunshan"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "stainless steel products"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

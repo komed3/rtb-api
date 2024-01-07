@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Basketball"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/645ea883114af95d5d539e4f/416x416.jpg?background=000000&cropX1=707&cropX2=2313&cropY1=0&cropY2=1608",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "NBA",
+    "title": "Athlete"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

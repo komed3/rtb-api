@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Foshan",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Foshan"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/654a6b60d2364755efda1b81/416x416.jpg?background=000000&cropX1=165&cropX2=627&cropY1=61&cropY2=524",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ohio State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

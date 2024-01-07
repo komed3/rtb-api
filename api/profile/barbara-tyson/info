@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Fayetteville",
-    "state": "Arkansas"
+    "country": "us",
+    "state": "Arkansas",
+    "city": "Fayetteville"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food processing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": 3
+  }
 }

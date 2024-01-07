@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Shanghai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Massachusetts Institue of Technology",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Rochester",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Science and Technology of China",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

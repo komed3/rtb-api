@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Surabaya",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Surabaya"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "chemicals"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61b126ce2b09f25babd56fb4/416x416.jpg?background=000000&cropX1=163&cropX2=646&cropY1=100&cropY2=583",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

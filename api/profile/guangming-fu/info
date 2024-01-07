@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Nanping",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Nanping"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "poultry"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/562e5762e4b0ffa7afe645e2/416x416.jpg?background=000000&cropX1=0&cropX2=676&cropY1=171&cropY2=848",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

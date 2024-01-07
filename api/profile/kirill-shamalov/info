@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "petrochemicals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80a9b54bbe6f2652f53e96/416x416.jpg?background=000000&cropX1=769&cropX2=3201&cropY1=0&cropY2=2432",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Saint Petersburg State University",
+      "degree": "Law Degree"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

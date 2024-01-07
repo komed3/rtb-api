@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Atlanta",
-    "state": "Georgia"
+    "country": "us",
+    "state": "Georgia",
+    "city": "Atlanta"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "The University Of Georgia",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": {
+    "name": "Calendly",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "nz",
   "residence": {
-    "city": "Wellington",
-    "state": null
+    "country": "nz",
+    "state": null,
+    "city": "Wellington"
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +16,19 @@
   "source": [
     "movies",
     "digital effects"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6244745e2f6e3bb59831a3b8/416x416.jpg?background=000000&cropX1=1343&cropX2=3326&cropY1=29&cropY2=2011",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Film",
+    "title": "Director"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

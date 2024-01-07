@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Ningde",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "batteries"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
 }

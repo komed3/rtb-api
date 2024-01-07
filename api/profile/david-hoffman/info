@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Naples",
-    "state": "Florida"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipCode": "90067",
+    "_geo": {
+      "longitude": -118.4171318,
+      "latitude": 34.0588788
+    }
   },
   "industry": [
     "diversified"
@@ -15,5 +21,18 @@
   "source": [
     "executive search",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Wells Fargo Advisors",
+    "title": "Wealth Advisor"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
 }

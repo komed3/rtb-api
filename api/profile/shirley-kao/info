@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "tw",
   "residence": {
-    "city": "Tainan",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Tainan"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "food & beverage retailing"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Marymount California University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

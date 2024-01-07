@@ -6,13 +6,38 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Menlo Park",
-    "state": "California"
+    "zipCode": "94025",
+    "_geo": {
+      "longitude": -122.1885733,
+      "latitude": 37.4326004
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "mobile games"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Tufts University",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "Tufts University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

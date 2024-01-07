@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "eg",
   "residence": {
-    "city": "Cairo",
-    "state": null
+    "country": "eg",
+    "state": null,
+    "city": "Cairo"
   },
   "industry": [
     "service"
@@ -15,5 +16,20 @@
   "source": [
     "real estate",
     "hotels"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Technical University of Berlin",
+      "degree": "Bachelor of Arts / Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

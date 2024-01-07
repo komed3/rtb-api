@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
-    "city": "Nicosia",
-    "state": null
+    "country": "cy",
+    "state": null,
+    "city": "Nicosia"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "apparel"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Hofstra University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

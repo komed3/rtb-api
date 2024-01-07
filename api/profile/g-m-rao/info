@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "infrastructure"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e768ac5d8e1ae0007b722de/416x416.jpg?background=000000&cropX1=287&cropX2=2431&cropY1=24&cropY2=2169",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Andhra University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

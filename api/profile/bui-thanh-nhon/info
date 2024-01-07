@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "vn",
   "residence": {
-    "city": "Ho Chi Minh",
-    "state": null
+    "country": "vn",
+    "state": null,
+    "city": "Ho Chi Minh"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

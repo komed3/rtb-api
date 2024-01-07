@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "uy",
   "residence": {
-    "city": "Montevideo",
-    "state": null
+    "country": "uy",
+    "state": null,
+    "city": "Montevideo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "fintech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "INSEAD",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Technion-Israel Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Technion-Israel Institute of Technology",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

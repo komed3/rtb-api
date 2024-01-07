@@ -6,13 +6,36 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Irvine",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Irvine"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "medical devices"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "San Diego State University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "San Diego State University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": {
+    "name": "Masimo",
+    "title": "Chairman and CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

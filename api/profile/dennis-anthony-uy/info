@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ph",
   "residence": {
-    "city": "Angeles",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Angeles"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "telecom"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

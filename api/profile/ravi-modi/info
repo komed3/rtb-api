@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Kolkata",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Kolkata"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "readymade garments"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "St Xavier's College Calcutta",
+      "degree": "B.Com"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

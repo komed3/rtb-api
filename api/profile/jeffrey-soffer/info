@@ -6,13 +6,29 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
-    "city": "Aventura",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Aventura"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Miami",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shaoxing",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Shaoxing"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e75419a07adf00006dbbf3b/416x416.jpg?background=000000&cropX1=1416&cropX2=3826&cropY1=1033&cropY2=3441",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Shaoxing University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Zhejiang University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

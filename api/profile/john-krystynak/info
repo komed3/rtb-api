@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Incline Village",
-    "state": "Nevada"
+    "zipCode": "89451",
+    "_geo": {
+      "longitude": -119.9669395,
+      "latitude": 39.2476517
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "mobile games"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of California, Santa Barbara",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

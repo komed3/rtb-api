@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Paradise Valley",
-    "state": "Arizona"
+    "country": "us",
+    "state": "Arizona",
+    "city": "Paradise Valley"
   },
   "industry": [
     "sports"
@@ -15,5 +16,15 @@
   "source": [
     "banking",
     "sports team"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

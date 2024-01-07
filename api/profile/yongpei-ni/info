@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Liuan",
-    "state": "Anhui"
+    "country": "cn",
+    "state": null,
+    "city": "Liuan"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "beverages"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/624432ad291e60a5c7b1927f/416x416.jpg?background=000000&cropX1=460&cropX2=2350&cropY1=155&cropY2=2046",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

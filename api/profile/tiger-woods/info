@@ -6,13 +6,32 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Jupiter Island",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Jupiter Island"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Golf"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/627bed95471ba72af4c88a13/416x416.jpg?background=000000&cropX1=1467&cropX2=2459&cropY1=128&cropY2=1119",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Stanford University"
+    }
+  ],
+  "organization": {
+    "name": "PGA",
+    "title": "Athlete"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

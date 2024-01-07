@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Yinchuan",
-    "state": "Ningxia"
+    "country": "cn",
+    "state": null,
+    "city": "Yinchuan"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "non-ferrous metals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

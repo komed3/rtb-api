@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "ro",
   "residence": {
-    "city": "Berkeley",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Berkeley"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "data analytics"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Waterloo",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

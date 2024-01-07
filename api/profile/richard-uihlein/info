@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Lake Forest",
-    "state": "Illinois"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Lake Forest"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "packaging materials"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

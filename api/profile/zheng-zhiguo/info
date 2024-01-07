@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Taizhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Taizhou"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "drugs"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

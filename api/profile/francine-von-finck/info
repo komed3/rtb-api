@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "de",
   "residence": {
-    "city": "Thurgau",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Thurgau"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

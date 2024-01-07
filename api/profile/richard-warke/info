@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Vancouver",
-    "state": "British Columbia"
+    "country": "ca",
+    "state": null,
+    "city": "Vancouver"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "Mining"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

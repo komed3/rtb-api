@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "kr",
   "residence": {
-    "city": "Jeju-do",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Jeju-do"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "online games"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

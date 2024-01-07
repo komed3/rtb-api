@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Nanjing",
-    "state": "Jiangsu"
+    "country": "cn",
+    "state": null,
+    "city": "Nanjing"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "biotechnology"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Duke University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Nanjing University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

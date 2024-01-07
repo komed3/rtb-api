@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "uy",
   "residence": {
-    "city": "Montevideo",
-    "state": null
+    "country": "uy",
+    "state": null,
+    "city": "Montevideo"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "fintech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University Of Northampton",
+      "degree": "Bachelor of Technology"
+    },
+    {
+      "school": "University ORT Uruguay",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

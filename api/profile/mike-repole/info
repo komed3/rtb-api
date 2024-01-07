@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Windermere",
-    "state": "Florida"
+    "zipCode": "34786",
+    "_geo": {
+      "longitude": -81.55754309999999,
+      "latitude": 28.4692332
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "sports drink"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "St. John's University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "bz",
   "residence": {
-    "city": "George Town",
-    "state": null
+    "country": "ky",
+    "state": null,
+    "city": "George Town"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

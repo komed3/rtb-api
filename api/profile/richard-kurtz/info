@@ -6,11 +6,22 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Palm Beach",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach"
   },
   "industry": [],
   "source": [
     "real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

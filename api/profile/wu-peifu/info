@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Suqian",
-    "state": "Jiangsu"
+    "zipCode": "223808",
+    "_geo": {
+      "longitude": 118.292545,
+      "latitude": 33.96158
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "plastic"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

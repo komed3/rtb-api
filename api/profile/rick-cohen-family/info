@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Keene",
-    "state": "New Hampshire"
+    "country": "us",
+    "state": "New Hampshire",
+    "city": "Keene"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "warehouse automation"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
 }

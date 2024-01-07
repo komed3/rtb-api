@@ -6,13 +6,28 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Beverly Hills",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "agriculture"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5cf6ee7acd1f12000a2b6f33/416x416.jpg?background=000000&cropX1=0&cropX2=3223&cropY1=0&cropY2=3223",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Wonderful Company",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

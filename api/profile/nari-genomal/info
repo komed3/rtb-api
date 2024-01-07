@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
-    "city": "Nicosia",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "apparel"
-  ]
+  ],
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Colegio de San Juan de Letran",
+      "degree": "M.Com"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,38 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Las Vegas",
-    "state": "Nevada"
+    "country": "us",
+    "state": "Nevada",
+    "city": "Las Vegas"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "fast food"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6515c02bb60321c4d48932a1/416x416.jpg?background=000000&cropX1=493&cropX2=1296&cropY1=687&cropY2=1490",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Oregon State University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Missouri",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Missouri",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

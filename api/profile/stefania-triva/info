@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "it",
   "residence": {
-    "city": "Brescia",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Brescia"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "microbiology"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florence",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Bintulu",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Bintulu"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "aluminum"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Wales",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

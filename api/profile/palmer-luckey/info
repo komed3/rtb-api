@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Newport Beach",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Newport Beach"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "virtual reality"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/642b380e8cd52817a9deb166/416x416.jpg?background=000000&cropX1=333&cropX2=1684&cropY1=0&cropY2=1352",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "California State University, Long Beach",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Oculus VR",
+    "title": "Founder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

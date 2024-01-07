@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Midland",
-    "state": "Texas"
+    "zipCode": "79705",
+    "_geo": {
+      "longitude": -102.1286509,
+      "latitude": 32.051512
+    }
   },
   "industry": [
     "energy"
   ],
   "source": [
     "Energy"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Texas Tech University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

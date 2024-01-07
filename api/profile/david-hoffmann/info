@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Naples",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Naples"
   },
   "industry": [
     "diversified"
@@ -15,5 +16,20 @@
   "source": [
     "executive search",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Central Missouri State University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

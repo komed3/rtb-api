@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Darien",
-    "state": "Connecticut"
+    "country": "us",
+    "state": "Connecticut",
+    "city": "Darien"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Finance"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "College of William & Mary",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
 }

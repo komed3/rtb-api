@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "coal"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61b11f6448cf6d0407d56fb4/416x416.jpg?background=000000&cropX1=192&cropX2=572&cropY1=147&cropY2=527",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Beijing University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }
