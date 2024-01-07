@@ -1,14 +1,13 @@
 {
   "uri": "elizabeth-holmes",
   "name": "Elizabeth Holmes",
-  "birthDate": "1984-02-01",
+  "birthDate": "1984-02-03",
   "family": false,
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
-    "city": null
+    "city": "Palo Alto",
+    "state": "California"
   },
   "industry": [
     "healthcare"

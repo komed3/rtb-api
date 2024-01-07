@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "JD-US",
+    "companyName": "JD.com Inc.",
+    "numberOfShares": 11300000,
+    "sharePrice": 37.86,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "HONG KONG",
     "ticker": "700-HK",
     "companyName": "Tencent",
-    "numberOfShares": 263250000,
-    "sharePrice": 34.47177671053135,
+    "numberOfShares": 237150000,
+    "sharePrice": 25.581573113868576,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8499,
+    "exchangeRate": 7.8494,
     "interactive": false
   }
 ]
