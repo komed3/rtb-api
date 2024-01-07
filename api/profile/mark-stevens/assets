@@ -4,7 +4,7 @@
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
     "numberOfShares": 118000,
-    "sharePrice": 120.5,
+    "sharePrice": 93.93,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "AOSL-US",
     "companyName": "Alpha & Omega Semiconductor, Ltd.",
     "numberOfShares": 40000,
-    "sharePrice": 46,
+    "sharePrice": 33.09,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 201000,
-    "sharePrice": 2246.33,
+    "sharePrice": 2234.03,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -33,8 +33,8 @@
     "exchange": "NASDAQ",
     "ticker": "AMZN-US",
     "companyName": "Amazon",
-    "numberOfShares": 21086,
-    "sharePrice": 2302.93,
+    "numberOfShares": 421720,
+    "sharePrice": 108.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "BKNG-US",
     "companyName": "Booking Holdings",
     "numberOfShares": 2880,
-    "sharePrice": 2265.98,
+    "sharePrice": 1810.33,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,7 +54,7 @@
     "ticker": "CSCO-US",
     "companyName": "Cisco Systems Inc.",
     "numberOfShares": 655000,
-    "sharePrice": 45.62,
+    "sharePrice": 42.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "DBX-US",
     "companyName": "Dropbox, Inc.",
     "numberOfShares": 423000,
-    "sharePrice": 21.13,
+    "sharePrice": 21.32,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,17 +74,7 @@
     "ticker": "EBAY-US",
     "companyName": "eBay",
     "numberOfShares": 18000,
-    "sharePrice": 48.82,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FB-US",
-    "companyName": "Facebook",
-    "numberOfShares": 1250,
-    "sharePrice": 195.13,
+    "sharePrice": 42.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,7 +84,7 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 235000,
-    "sharePrice": 2255.98,
+    "sharePrice": 2245.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -134,7 +124,7 @@
     "ticker": "JNPR-US",
     "companyName": "Juniper Networks Inc.",
     "numberOfShares": 204000,
-    "sharePrice": 31.22,
+    "sharePrice": 28.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -144,7 +134,7 @@
     "ticker": "MGTA-US",
     "companyName": "Magenta Therapeutics",
     "numberOfShares": 277900,
-    "sharePrice": 1.19,
+    "sharePrice": 1.16,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -154,7 +144,7 @@
     "ticker": "MNDT-US",
     "companyName": "Mandiant, Inc.",
     "numberOfShares": 327000,
-    "sharePrice": 22.12,
+    "sharePrice": 21.73,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -164,9 +154,19 @@
     "ticker": "3690-HK",
     "companyName": "Meituan Dianping",
     "numberOfShares": 833000,
-    "sharePrice": 20.881108902818124,
+    "sharePrice": 25.845918562416365,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8492,
+    "exchangeRate": 7.8465,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "META-US",
+    "companyName": "Meta Platforms",
+    "numberOfShares": 1250,
+    "sharePrice": 163.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -174,7 +174,7 @@
     "ticker": "MCHP-US",
     "companyName": "Microchip Technology",
     "numberOfShares": 20000,
-    "sharePrice": 72.79,
+    "sharePrice": 58.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -184,7 +184,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 86000,
-    "sharePrice": 273.24,
+    "sharePrice": 260.26,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -194,7 +194,7 @@
     "ticker": "MOMO-US",
     "companyName": "Momo Inc",
     "numberOfShares": 2000,
-    "sharePrice": 5.52,
+    "sharePrice": 5.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -204,7 +204,7 @@
     "ticker": "NTAP-US",
     "companyName": "NetApp",
     "numberOfShares": 201000,
-    "sharePrice": 73.05,
+    "sharePrice": 65.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -214,7 +214,7 @@
     "ticker": "NOAH-US",
     "companyName": "Noah Holdings Ltd ",
     "numberOfShares": 38260,
-    "sharePrice": 17.24,
+    "sharePrice": 19.8,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -224,7 +224,7 @@
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
     "numberOfShares": 6364000,
-    "sharePrice": 188.11,
+    "sharePrice": 155.42,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -244,7 +244,7 @@
     "ticker": "OKTA-US",
     "companyName": "Okta,  Inc",
     "numberOfShares": 8700,
-    "sharePrice": 86.06,
+    "sharePrice": 93.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -254,7 +254,7 @@
     "ticker": "PANW-US",
     "companyName": "Palo Alto Networks Inc.",
     "numberOfShares": 191000,
-    "sharePrice": 506.8,
+    "sharePrice": 491.8,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -264,7 +264,7 @@
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
     "numberOfShares": 18000,
-    "sharePrice": 85.21,
+    "sharePrice": 71.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -274,7 +274,7 @@
     "ticker": "PDCE-US",
     "companyName": "PDC Energy",
     "numberOfShares": 94300,
-    "sharePrice": 77.99,
+    "sharePrice": 62.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -294,7 +294,7 @@
     "ticker": "RNG-US",
     "companyName": "RingCentral",
     "numberOfShares": 0,
-    "sharePrice": 65.84,
+    "sharePrice": 55.39,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -304,7 +304,7 @@
     "ticker": "NOW-US",
     "companyName": "ServiceNow",
     "numberOfShares": 8700,
-    "sharePrice": 476.29,
+    "sharePrice": 477.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -314,7 +314,7 @@
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
     "numberOfShares": 10700,
-    "sharePrice": 129.91,
+    "sharePrice": 143.03,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -324,7 +324,7 @@
     "ticker": "U-US",
     "companyName": "Unity Software",
     "numberOfShares": 41600,
-    "sharePrice": 41.32,
+    "sharePrice": 39.52,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -334,7 +334,7 @@
     "ticker": "VIPS-US",
     "companyName": "Vipshop Holdings Limited",
     "numberOfShares": 482000,
-    "sharePrice": 9.11,
+    "sharePrice": 10.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -344,9 +344,9 @@
     "ticker": "VIV-FR",
     "companyName": "Vivendi S.A.",
     "numberOfShares": 31585.000000000004,
-    "sharePrice": 11.813216236478526,
+    "sharePrice": 10.14565650214817,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9337,
+    "exchangeRate": 0.9543,
     "interactive": false
   }
 ]

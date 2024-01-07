@@ -1,20 +1,10 @@
 [
   {
-    "exchange": "NASDAQ",
-    "ticker": "FB-US",
-    "companyName": "Facebook",
-    "numberOfShares": 0,
-    "sharePrice": 195.13,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "NYSE",
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
     "numberOfShares": 2252000,
-    "sharePrice": 1.4,
+    "sharePrice": 0.758,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +14,17 @@
     "ticker": "JOBY-US",
     "companyName": "Joby Aviation",
     "numberOfShares": 6852000,
-    "sharePrice": 6.01,
+    "sharePrice": 4.69,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "META-US",
+    "companyName": "Meta Platforms",
+    "numberOfShares": 0,
+    "sharePrice": 163.94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
