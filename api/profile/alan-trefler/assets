@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "PEGA-US",
     "companyName": "Pegasystems Inc.",
-    "numberOfShares": 39524000,
-    "sharePrice": 40.15,
+    "numberOfShares": 39526000,
+    "sharePrice": 36.46,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,9 +13,20 @@
     "exchange": "NASDAQ",
     "ticker": "PEGA-US",
     "companyName": "Pegasystems Inc.",
-    "numberOfShares": 47000,
+    "numberOfShares": 73000,
     "exerciseOptionPrice": 64.35,
-    "sharePrice": 40.15,
+    "sharePrice": 36.46,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PEGA-US",
+    "companyName": "Pegasystems Inc.",
+    "numberOfShares": 39000,
+    "exerciseOptionPrice": 90.05,
+    "sharePrice": 36.46,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

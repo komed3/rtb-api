@@ -4,7 +4,7 @@
     "ticker": "ABCL-US",
     "companyName": "AbCellera Therapeutics",
     "numberOfShares": 40119,
-    "sharePrice": 10.04,
+    "sharePrice": 10.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
     "numberOfShares": 16822984,
-    "sharePrice": 3.86,
+    "sharePrice": 4.28,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,7 +25,7 @@
     "companyName": "ATAI Life Sciences",
     "numberOfShares": 2367200,
     "exerciseOptionPrice": 17,
-    "sharePrice": 3.86,
+    "sharePrice": 4.28,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -35,7 +35,7 @@
     "ticker": "BNOX-US",
     "companyName": "Bionomics",
     "numberOfShares": 1520552,
-    "sharePrice": 6.55,
+    "sharePrice": 7.555,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -45,7 +45,7 @@
     "ticker": "CMMB-US",
     "companyName": "Chemomab Therapeutics",
     "numberOfShares": 770388,
-    "sharePrice": 3.05,
+    "sharePrice": 3.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -55,19 +55,19 @@
     "ticker": "CORE-DE",
     "companyName": "Coreo AG",
     "numberOfShares": 8646394,
-    "sharePrice": 0.8616294483532171,
+    "sharePrice": 0.9938074310827006,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
-    "exchange": "FRANKFURT",
+    "exchange": "XETRA",
     "ticker": "CAP-DE",
     "companyName": "Cryptology Asset Group PLC",
     "numberOfShares": 29230307,
-    "sharePrice": 5.2819414703783005,
+    "sharePrice": 5.053935277666799,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
@@ -75,7 +75,7 @@
     "ticker": "MYNA-US",
     "companyName": "Mynaric AG",
     "numberOfShares": 1461600,
-    "sharePrice": 9.04,
+    "sharePrice": 7.68,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -85,9 +85,9 @@
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
     "numberOfShares": 2153000,
-    "sharePrice": 24.288773325175896,
+    "sharePrice": 22.91250499400719,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
@@ -95,9 +95,9 @@
     "ticker": "RCK-CA",
     "companyName": "Rock Tech Lithium",
     "numberOfShares": 12669867,
-    "sharePrice": 3.4652306251463356,
+    "sharePrice": 2.733450408490494,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2813,
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
@@ -105,10 +105,10 @@
     "ticker": "RCK-CA",
     "companyName": "Rock Tech Lithium",
     "numberOfShares": 111113,
-    "exerciseOptionPrice": 0.6633887458050417,
-    "sharePrice": 3.4652306251463356,
+    "exerciseOptionPrice": 0.6490035886080782,
+    "sharePrice": 2.733450408490494,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2813,
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
@@ -116,10 +116,10 @@
     "ticker": "RCK-CA",
     "companyName": "Rock Tech Lithium",
     "numberOfShares": 150000,
-    "exerciseOptionPrice": 0.5463201436041519,
-    "sharePrice": 3.4652306251463356,
+    "exerciseOptionPrice": 0.5344735435595938,
+    "sharePrice": 2.733450408490494,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2813,
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
@@ -127,10 +127,10 @@
     "ticker": "RCK-CA",
     "companyName": "Rock Tech Lithium",
     "numberOfShares": 3000000,
-    "exerciseOptionPrice": 0.7804573480059314,
-    "sharePrice": 3.4652306251463356,
+    "exerciseOptionPrice": 0.7635336336565626,
+    "sharePrice": 2.733450408490494,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2813,
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
@@ -148,9 +148,9 @@
     "ticker": "SBX-DE",
     "companyName": "SynBiotic SE",
     "numberOfShares": 1003300.0000000001,
-    "sharePrice": 14.173549505455288,
+    "sharePrice": 14.782261286456253,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9807,
+    "exchangeRate": 1.0012,
     "interactive": false
   }
 ]

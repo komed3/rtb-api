@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "HPK-US",
+    "companyName": "Highpeak Energy Inc",
+    "numberOfShares": 5500000,
+    "sharePrice": 26.52,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "HPK-US",
+    "companyName": "Highpeak Energy Inc",
+    "numberOfShares": 5500000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 26.52,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

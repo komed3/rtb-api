@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "AN-US",
     "companyName": "AutoNation Inc.",
-    "numberOfShares": 6273000,
-    "sharePrice": 118.74,
+    "numberOfShares": 2601298,
+    "sharePrice": 125.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,8 @@
     "exchange": "NYSE",
     "ticker": "CNI-US",
     "companyName": "Canadian National Railway Co.",
-    "numberOfShares": 23613000,
-    "sharePrice": 126.68,
+    "numberOfShares": 15328169,
+    "sharePrice": 119.06,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +23,8 @@
     "exchange": "NYSE",
     "ticker": "KOF-US",
     "companyName": "Coca-Cola FEMSA S.A.B de C.V.",
-    "numberOfShares": 2579000,
-    "sharePrice": 60.23,
+    "numberOfShares": 2512067,
+    "sharePrice": 61.94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "DE-US",
     "companyName": "Deere & Co",
     "numberOfShares": 5065000,
-    "sharePrice": 343.18,
+    "sharePrice": 368.74,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "TV-US",
     "companyName": "Grupo Televisa, S.A.B.",
     "numberOfShares": 31070000,
-    "sharePrice": 7.82,
+    "sharePrice": 6.52,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,10 +53,20 @@
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
-    "numberOfShares": 424000,
-    "sharePrice": 280.74,
+    "numberOfShares": 381600,
+    "sharePrice": 262.97,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "OCI-NL",
+    "companyName": "OCI NV",
+    "numberOfShares": 17686000,
+    "sharePrice": 38.01438274071115,
+    "currencyCode": "EUR",
+    "exchangeRate": 1.0012,
     "interactive": false
   },
   {
@@ -64,7 +74,7 @@
     "ticker": "OC-AE",
     "companyName": "Orascom Construction Ltd",
     "numberOfShares": 6524444,
-    "sharePrice": 4.465,
+    "sharePrice": 3.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

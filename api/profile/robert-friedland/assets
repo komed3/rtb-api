@@ -3,20 +3,51 @@
     "exchange": "ASX",
     "ticker": "SRL-AU",
     "companyName": "Clean Teq Holdings",
-    "numberOfShares": 11500000,
-    "sharePrice": 1.9049612727653338,
+    "numberOfShares": 11978000,
+    "sharePrice": 2.0260989010989015,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4331,
+    "exchangeRate": 1.456,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "CNQ-AU",
+    "companyName": "Clean Teq Water",
+    "numberOfShares": 5980000,
+    "sharePrice": 0.38461538461538464,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.456,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "IE-CA",
+    "companyName": "Ivanhoe Electric",
+    "numberOfShares": 42141000,
+    "sharePrice": 9.849583874169657,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3097,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "IE-CA",
+    "companyName": "Ivanhoe Electric",
+    "numberOfShares": 688000,
+    "exerciseOptionPrice": 0.6337329159349468,
+    "sharePrice": 9.849583874169657,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "IVN-CA",
     "companyName": "Ivanhoe Mines Ltd.",
-    "numberOfShares": 162560000,
-    "sharePrice": 6.212440490127214,
+    "numberOfShares": 162630000,
+    "sharePrice": 6.52821256776361,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2813,
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
@@ -24,9 +55,9 @@
     "ticker": "PGD-CA",
     "companyName": "Peregrine Diamonds Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.18340747678139388,
+    "sharePrice": 0.17943040390929219,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2813,
+    "exchangeRate": 1.3097,
     "interactive": false
   },
   {
@@ -34,7 +65,7 @@
     "ticker": "TRQ-US",
     "companyName": "Turquoise Hill Resources",
     "numberOfShares": 7171000,
-    "sharePrice": 26.14,
+    "sharePrice": 27.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
