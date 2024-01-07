@@ -1,10 +1,18 @@
 [
   {
-    "companyName": "Central Petroleum",
-    "numberOfShares": 17572000,
-    "sharePrice": 0.11240909794213215,
+    "companyName": "Carawine Resources",
+    "numberOfShares": 0,
+    "sharePrice": 0.1451738545428794,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2926,
+    "exchangeRate": 1.4121,
+    "interactive": false
+  },
+  {
+    "companyName": "Central Petroleum",
+    "numberOfShares": 19526000,
+    "sharePrice": 0.10289639543941649,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
@@ -12,29 +20,39 @@
     "ticker": "COY-AU",
     "companyName": "Coppermoly Limited",
     "numberOfShares": 5500000,
-    "sharePrice": 0.013925421630821598,
+    "sharePrice": 0.007789816585227675,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2926,
+    "exchangeRate": 1.4121,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "MAH-AU",
+    "companyName": "Macmahon Holdings",
+    "numberOfShares": 11400000,
+    "sharePrice": 0.10976559733729907,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "OEC-AU",
     "companyName": "Orbital Corporation Ltd.",
-    "numberOfShares": 689200,
-    "sharePrice": 0.6498530094383413,
+    "numberOfShares": 1044000,
+    "sharePrice": 0.13809220310176334,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2926,
+    "exchangeRate": 1.4121,
     "interactive": false
   },
   {
     "exchange": "ASX",
-    "ticker": "SMC-AU",
-    "companyName": "Strategic Minerals Corp NL",
-    "numberOfShares": 69170548,
-    "sharePrice": 0.3790809221723658,
+    "ticker": "VMC-AU",
+    "companyName": "Venus Metals",
+    "numberOfShares": 29064000,
+    "sharePrice": 0.10268394589618299,
     "currencyCode": "AUD",
-    "exchangeRate": 1.2926,
+    "exchangeRate": 1.4121,
     "interactive": false
   }
 ]
