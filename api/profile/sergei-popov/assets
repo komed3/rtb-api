@@ -4,9 +4,19 @@
     "ticker": "HYDR-RU",
     "companyName": "RusHydro OJSC",
     "numberOfShares": 3912768000,
-    "sharePrice": 0.00790403964105508,
+    "sharePrice": 0.0070857142857142855,
     "currencyCode": "RUB",
-    "exchangeRate": 82.7425,
+    "exchangeRate": 87.5,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "SFTL-GB",
+    "companyName": "Softline Holding",
+    "numberOfShares": 20366619,
+    "sharePrice": 1.5,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

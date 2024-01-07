@@ -3,20 +3,30 @@
     "exchange": "SIX SWISS",
     "ticker": "AFP-CH",
     "companyName": "Aluflexpack",
-    "numberOfShares": 9047000,
-    "sharePrice": 20.14869087382825,
+    "numberOfShares": 9180000,
+    "sharePrice": 17.39317156968005,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9281,
+    "exchangeRate": 0.9314,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "AERO-CH",
+    "companyName": "Montana Aerospace",
+    "numberOfShares": 32078000.000000004,
+    "sharePrice": 17.736740390809533,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9314,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "VAR1-DE",
     "companyName": "Varta",
-    "numberOfShares": 23004000,
-    "sharePrice": 100,
+    "numberOfShares": 22366000,
+    "sharePrice": 99.36715887642946,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   }
 ]

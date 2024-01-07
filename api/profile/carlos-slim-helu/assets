@@ -4,7 +4,7 @@
     "ticker": "AMX-US",
     "companyName": "America Movil SAB de CV (ADR)",
     "numberOfShares": 2261900000,
-    "sharePrice": 18.04,
+    "sharePrice": 20.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,9 +14,9 @@
     "ticker": "FCC-ES",
     "companyName": "Fomento de Construcciones y Contrata",
     "numberOfShares": 345300000,
-    "sharePrice": 11.808367071524966,
+    "sharePrice": 12.168313533918065,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "GCARSOA1-MX",
     "companyName": "Grupo Carso S.A.B. de C.V. (Series A",
     "numberOfShares": 1809000000,
-    "sharePrice": 3.056866821572704,
+    "sharePrice": 3.7157633595422443,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "GFINBURO-MX",
     "companyName": "Grupo Financiero Inbursa S.A.B. de C",
     "numberOfShares": 3853500000,
-    "sharePrice": 1.5756389874036933,
+    "sharePrice": 2.0536982574075187,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "IDEALB.1-MX",
     "companyName": "Impulsora del Desarrollo y el Empleo",
     "numberOfShares": 628390000,
-    "sharePrice": 1.958175369940076,
+    "sharePrice": 2.1007142428425665,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "INM-GB",
     "companyName": "Independent News & Media PLC",
     "numberOfShares": 5674048,
-    "sharePrice": 0.1158344579397211,
+    "sharePrice": 0.11435550127678472,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
@@ -66,7 +66,7 @@
     "numberOfShares": 0,
     "sharePrice": 0,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "MFRISCOA.1-MX",
     "companyName": "Minera Frisco SAB de CV",
     "numberOfShares": 5138600000,
-    "sharePrice": 0.16387428152134037,
+    "sharePrice": 0.1800612208150771,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
@@ -84,7 +84,17 @@
     "ticker": "NYT-US",
     "companyName": "New York Times Co.",
     "numberOfShares": 0,
-    "sharePrice": 43.78,
+    "sharePrice": 46.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "PBF-US",
+    "companyName": "PBF Energy Inc  (PBF)",
+    "numberOfShares": 1200000,
+    "sharePrice": 22.43,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,9 +104,9 @@
     "ticker": "PRS-ES",
     "companyName": "Promotora de Informaciones S.A.",
     "numberOfShares": 933331,
-    "sharePrice": 0.7298695456590194,
+    "sharePrice": 0.7216609303874765,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
@@ -104,19 +114,19 @@
     "ticker": "RLIA-ES",
     "companyName": "Realia Business",
     "numberOfShares": 601500000,
-    "sharePrice": 0.899685110211426,
+    "sharePrice": 0.9281669812368158,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
     "exchange": "MEXICO",
-    "ticker": "SITESB.1-MX",
-    "companyName": "Telesites SAB Class B",
+    "ticker": "SITES1A.1-MX",
+    "companyName": "Telesites SAB Class A",
     "numberOfShares": 2960200000,
-    "sharePrice": 1.1123884065060536,
+    "sharePrice": 1.328951843626833,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
@@ -124,7 +134,7 @@
     "ticker": "YPF-US",
     "companyName": "YPF",
     "numberOfShares": 19975000,
-    "sharePrice": 4.38,
+    "sharePrice": 4.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

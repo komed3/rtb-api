@@ -1,52 +1,42 @@
 [
   {
-    "exchange": "US OTC",
-    "ticker": "AREXQ-US",
-    "companyName": "Approach Resources",
-    "numberOfShares": 22620000,
-    "sharePrice": 0.008,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "CFW-CA",
-    "companyName": "Calfrac Well Services",
-    "numberOfShares": 173860,
-    "sharePrice": 4.058403328361724,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.2739,
-    "interactive": false
-  },
-  {
-    "exchange": "US OTC",
-    "ticker": "CRRTQ-US",
-    "companyName": "Carbo Ceramics Inc.",
-    "numberOfShares": 1807457,
-    "sharePrice": 0.014,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "TORONTO",
     "ticker": "CET-CA",
     "companyName": "Cathedral Energy Services",
     "numberOfShares": 79000,
-    "sharePrice": 0.5573435905487086,
+    "sharePrice": 0.6389776357827477,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2739,
+    "exchangeRate": 1.252,
     "interactive": false
   },
   {
-    "exchange": "TORONTO",
-    "ticker": "TCW-CA",
-    "companyName": "Trican Well Service",
-    "numberOfShares": 12625000,
-    "sharePrice": 2.5826202998665515,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.2739,
+    "exchange": "NASDAQ",
+    "ticker": "DWSN-US",
+    "companyName": "Dawson Geophysical",
+    "numberOfShares": 8821000,
+    "sharePrice": 2.29,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "FTK-US",
+    "companyName": "FTK Flotek Industries Inc",
+    "numberOfShares": 9190000,
+    "sharePrice": 1.39,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "USWS-US",
+    "companyName": "US Well Services",
+    "numberOfShares": 14955000,
+    "sharePrice": 1.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

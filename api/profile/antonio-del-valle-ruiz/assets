@@ -1,32 +1,42 @@
 [
   {
     "exchange": "MEXICO",
+    "ticker": "ELEMAT-MX",
+    "companyName": "Elementia Materiales",
+    "numberOfShares": 239800000,
+    "sharePrice": 0.9508232799151711,
+    "currencyCode": "MXN",
+    "exchangeRate": 19.9932,
+    "interactive": false
+  },
+  {
+    "exchange": "MEXICO",
     "ticker": "FORTALE-MX",
     "companyName": "Fortaleza Materiales",
-    "numberOfShares": 247890000,
-    "sharePrice": 0.9049773755656109,
+    "numberOfShares": 239800000,
+    "sharePrice": 0.9503231098573515,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
     "exchange": "MEXICO",
     "ticker": "POCHTECB-MX",
     "companyName": "Grupo Pochteca ",
-    "numberOfShares": 21020000,
-    "sharePrice": 0.34242387183563655,
+    "numberOfShares": 46700000,
+    "sharePrice": 0.3496188704159414,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   },
   {
     "exchange": "MEXICO",
     "ticker": "ORBIA-MX",
     "companyName": "Orbia Advance Corp. SAB de CV",
-    "numberOfShares": 901110000,
-    "sharePrice": 2.5246422893481717,
+    "numberOfShares": 946100000,
+    "sharePrice": 2.628893823900126,
     "currencyCode": "MXN",
-    "exchangeRate": 20.4425,
+    "exchangeRate": 19.9932,
     "interactive": false
   }
 ]

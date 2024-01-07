@@ -4,9 +4,9 @@
     "ticker": "ATC-NL",
     "companyName": "Altice NV (Class A)",
     "numberOfShares": 0,
-    "sharePrice": 6.005398110661268,
+    "sharePrice": 5.928722105029422,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
@@ -14,19 +14,29 @@
     "ticker": "ATCB-NL",
     "companyName": "Altice NV (Class B)",
     "numberOfShares": 0,
-    "sharePrice": 5.994152046783626,
+    "sharePrice": 5.917619629177307,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8892,
+    "exchangeRate": 0.9007,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ATUS-US",
     "companyName": "Altice USA",
-    "numberOfShares": 226587220,
-    "sharePrice": 11.57,
+    "numberOfShares": 202447000,
+    "sharePrice": 12.28,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "BT.A-GB",
+    "companyName": "BT Group",
+    "numberOfShares": 1785476000,
+    "sharePrice": 2.479968474977013,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7613,
     "interactive": false
   }
 ]

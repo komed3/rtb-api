@@ -6,11 +6,12 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Texas",
-    "city": "Midland"
+    "city": "Midland",
+    "state": "Texas"
   },
-  "industry": [],
+  "industry": [
+    "energy"
+  ],
   "source": [
     "oil"
   ],

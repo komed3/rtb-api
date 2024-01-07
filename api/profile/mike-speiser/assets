@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "PSTG-US",
+    "companyName": "Pure Storage",
+    "numberOfShares": 130000,
+    "sharePrice": 36,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
-    "numberOfShares": 4341000,
-    "sharePrice": 269.42,
+    "numberOfShares": 3749000,
+    "sharePrice": 239.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

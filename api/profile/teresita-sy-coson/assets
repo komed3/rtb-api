@@ -1,32 +1,82 @@
 [
   {
     "exchange": "PHILIPPINES",
+    "ticker": "AC-PH",
+    "companyName": "Ayala Corp.",
+    "numberOfShares": 120000,
+    "sharePrice": 15.092165898617512,
+    "currencyCode": "PHP",
+    "exchangeRate": 52.08,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
     "ticker": "BDO-PH",
     "companyName": "Banco De Oro Unibank Inc.",
-    "numberOfShares": 394947,
-    "sharePrice": 2.5334696460737063,
+    "numberOfShares": 206000,
+    "sharePrice": 2.5345622119815667,
     "currencyCode": "PHP",
-    "exchangeRate": 51.3525,
+    "exchangeRate": 52.08,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
+    "ticker": "BEL-PH",
+    "companyName": "Belle Corp.",
+    "numberOfShares": 218130000,
+    "sharePrice": 0.02476958525345622,
+    "currencyCode": "PHP",
+    "exchangeRate": 52.08,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
+    "ticker": "CHIB-PH",
+    "companyName": "China Banking Corp.",
+    "numberOfShares": 36210000,
+    "sharePrice": 0.5136328725038403,
+    "currencyCode": "PHP",
+    "exchangeRate": 52.08,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
+    "ticker": "DMW-PH",
+    "companyName": "D.M. Wenceslao & Associates",
+    "numberOfShares": 130000,
+    "sharePrice": 0.130568356374808,
+    "currencyCode": "PHP",
+    "exchangeRate": 52.08,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
+    "ticker": "FEU-PH",
+    "companyName": "Far Eastern University Inc.",
+    "numberOfShares": 440000,
+    "sharePrice": 10.186251920122888,
+    "currencyCode": "PHP",
+    "exchangeRate": 52.08,
     "interactive": false
   },
   {
     "exchange": "PHILIPPINES",
     "ticker": "SM-PH",
     "companyName": "SM Investments Corp.",
-    "numberOfShares": 98080800,
-    "sharePrice": 16.961199552115282,
+    "numberOfShares": 92100000,
+    "sharePrice": 17.204301075268816,
     "currencyCode": "PHP",
-    "exchangeRate": 51.3525,
+    "exchangeRate": 52.08,
     "interactive": false
   },
   {
     "exchange": "PHILIPPINES",
     "ticker": "SMPH-PH",
     "companyName": "SM Prime Holdings Inc.",
-    "numberOfShares": 723047175,
-    "sharePrice": 0.739983447738669,
+    "numberOfShares": 728370000,
+    "sharePrice": 0.7286866359447005,
     "currencyCode": "PHP",
-    "exchangeRate": 51.3525,
+    "exchangeRate": 52.08,
     "interactive": false
   }
 ]

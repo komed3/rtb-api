@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SHENZHEN",
+    "ticker": "000758-CN",
+    "companyName": "China Nonferrous Metal Industry's Foreign Engineering and Construction ",
+    "numberOfShares": 26000000,
+    "sharePrice": 0.7140054923499412,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.3725,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
     "ticker": "000848-CN",
     "companyName": "Hebei Chengde Lolo",
     "numberOfShares": 0,
-    "sharePrice": 1.5663852769286812,
+    "sharePrice": 1.2710867006669282,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3139,
+    "exchangeRate": 6.3725,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "300027-CN",
     "companyName": "Huayi Brothers Media Corp",
     "numberOfShares": 27988000,
-    "sharePrice": 0.5242401685170813,
+    "sharePrice": 0.48332679482149865,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3139,
+    "exchangeRate": 6.3725,
     "interactive": false
   },
   {
@@ -24,9 +34,19 @@
     "ticker": "600371-CN",
     "companyName": "Wanxiang Doneed",
     "numberOfShares": 0,
-    "sharePrice": 2.0367760021539776,
+    "sharePrice": 2.264417418595528,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3139,
+    "exchangeRate": 6.3725,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000559-CN",
+    "companyName": "Wanxiang Qianchao",
+    "numberOfShares": 1922000000,
+    "sharePrice": 0.8442526480972931,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.3725,
     "interactive": false
   }
 ]

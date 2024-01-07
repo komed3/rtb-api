@@ -3,10 +3,10 @@
     "exchange": "TEL AVIV",
     "ticker": "BRAN-IL",
     "companyName": "Baran Group",
-    "numberOfShares": 1411200,
-    "sharePrice": 3.1408590172051,
+    "numberOfShares": 2494358,
+    "sharePrice": 3.4278552404825318,
     "currencyCode": "ILS",
-    "exchangeRate": 3.2316,
+    "exchangeRate": 3.1915,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "POLY-GB",
     "companyName": "Polymetal International Plc",
     "numberOfShares": 56587000,
-    "sharePrice": 10.712464779283511,
+    "sharePrice": 4.4529094969131755,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7453,
+    "exchangeRate": 0.7613,
+    "interactive": false
+  },
+  {
+    "exchange": "MILAN",
+    "ticker": "TIS-IT",
+    "companyName": "Tiscali S.p.A.",
+    "numberOfShares": 130579000.00000001,
+    "sharePrice": 0.014433218607749529,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9007,
     "interactive": false
   }
 ]
