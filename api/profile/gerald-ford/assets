@@ -4,7 +4,7 @@
     "ticker": "FACO-US",
     "companyName": "First Acceptance Corp.",
     "numberOfShares": 21852000,
-    "sharePrice": 1.86,
+    "sharePrice": 1.71,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "FCX-US",
     "companyName": "Freeport-McMoRan Copper & Gold Inc.",
     "numberOfShares": 0,
-    "sharePrice": 40.55,
+    "sharePrice": 39.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +24,17 @@
     "ticker": "HTH-US",
     "companyName": "Hilltop Holdings",
     "numberOfShares": 15763000,
-    "sharePrice": 25.49,
+    "sharePrice": 29.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LNW-US",
+    "companyName": "Light &amp; Wonder",
+    "numberOfShares": 0,
+    "sharePrice": 52.63,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -35,16 +45,6 @@
     "companyName": "Mechanics Bank",
     "numberOfShares": 4300,
     "sharePrice": 25250,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SGMS-US",
-    "companyName": "Scientific Games Corp.",
-    "numberOfShares": 0,
-    "sharePrice": 0,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

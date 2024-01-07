@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "companyName": "Bitcoin",
+    "numberOfShares": 722,
+    "sharePrice": 30753.403659,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "FTT (FTX Token)",
+    "numberOfShares": 176000000,
+    "sharePrice": 28.604814,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "HOOD-US",
+    "companyName": "Robinhood",
+    "numberOfShares": 56273000,
+    "sharePrice": 10.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "Solana",
+    "numberOfShares": 21011000,
+    "sharePrice": 46.062028,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]
