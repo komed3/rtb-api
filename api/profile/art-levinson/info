@@ -1,15 +1,17 @@
 {
   "uri": "art-levinson",
   "name": "Art Levinson",
-  "birthDate": null,
+  "birthDate": "1950-03-31",
   "family": false,
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "Hillsborough",
+    "state": "California"
   },
-  "industry": [],
+  "industry": [
+    "diversified"
+  ],
   "source": [
     "Genentech",
     "Apple"

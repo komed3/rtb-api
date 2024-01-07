@@ -1,0 +1,19 @@
+{
+  "uri": "peter-jackson",
+  "name": "Peter Jackson",
+  "birthDate": "1961-10-31",
+  "family": false,
+  "gender": "m",
+  "citizenship": "nz",
+  "residence": {
+    "city": "Wellington",
+    "state": null
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "movies",
+    "digital effects"
+  ]
+}

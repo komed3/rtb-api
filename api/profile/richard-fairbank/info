@@ -1,17 +1,19 @@
 {
   "uri": "richard-fairbank",
   "name": "Richard Fairbank",
-  "birthDate": null,
+  "birthDate": "1950-09-01",
   "family": false,
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "McLean",
+    "state": "Virginia"
   },
-  "industry": [],
+  "industry": [
+    "finance-investments"
+  ],
   "source": [
-    ""
+    "banking"
   ],
   "deceased": false,
   "children": 8,
