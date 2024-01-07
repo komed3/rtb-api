@@ -1,42 +1,22 @@
 [
   {
-    "exchange": "LONDON",
-    "ticker": "EVR-GB",
-    "companyName": "Evraz PLC",
-    "numberOfShares": 417767000,
-    "sharePrice": 1.0016095084808716,
-    "currencyCode": "GBP",
-    "exchangeRate": 0.8077,
-    "interactive": false
-  },
-  {
     "exchange": "MICEX",
     "ticker": "GMKN-RU",
     "companyName": "Norilsk Nickel Mining & Metallurgica",
-    "numberOfShares": 2904072,
-    "sharePrice": 273.4453781512605,
+    "numberOfShares": 3226747,
+    "sharePrice": 227.55244755244755,
     "currencyCode": "RUB",
-    "exchangeRate": 59.5,
-    "interactive": false
-  },
-  {
-    "exchange": "MICEX",
-    "ticker": "RASP-RU",
-    "companyName": "Raspadskaya OJSC",
-    "numberOfShares": 177780000,
-    "sharePrice": 4.8428571428571425,
-    "currencyCode": "RUB",
-    "exchangeRate": 59.5,
+    "exchangeRate": 71.5,
     "interactive": false
   },
   {
     "exchange": "MICEX",
     "ticker": "RENI-RU",
     "companyName": "Renaissance Insurance Group",
-    "numberOfShares": 54217038,
-    "sharePrice": 0.7981512605042017,
+    "numberOfShares": 54217000,
+    "sharePrice": 0.6641958041958043,
     "currencyCode": "RUB",
-    "exchangeRate": 59.5,
+    "exchangeRate": 71.5,
     "interactive": false
   },
   {
@@ -44,9 +24,9 @@
     "ticker": "VLS-GB",
     "companyName": "Velocys",
     "numberOfShares": 137856000,
-    "sharePrice": 0.056951838553918534,
+    "sharePrice": 0.05014925373134328,
     "currencyCode": "GBP",
-    "exchangeRate": 0.8077,
+    "exchangeRate": 0.8375,
     "interactive": false
   }
 ]

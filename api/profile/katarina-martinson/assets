@@ -1,12 +1,32 @@
 [
   {
     "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "INDU.A-SE",
+    "companyName": "Industrivarden Class A",
+    "numberOfShares": 3436000,
+    "sharePrice": 27.07828971196554,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.4918,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "INDU.C-SE",
+    "companyName": "Industrivarden Class C",
+    "numberOfShares": 1200000,
+    "sharePrice": 27.021102194094436,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.4918,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "LUND.B-SE",
     "companyName": "L.E. Lundbergfoeretagen AB",
-    "numberOfShares": 34677204,
-    "sharePrice": 47.086390943367114,
+    "numberOfShares": 36677000,
+    "sharePrice": 45.40688918965287,
     "currencyCode": "SEK",
-    "exchangeRate": 10.3703,
+    "exchangeRate": 10.4918,
     "interactive": false
   }
 ]

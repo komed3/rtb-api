@@ -3,30 +3,30 @@
     "exchange": "MILAN",
     "ticker": "G-IT",
     "companyName": "Assicurazioni Generali ",
-    "numberOfShares": 15700000,
-    "sharePrice": 19.578215023372106,
+    "numberOfShares": 18825000,
+    "sharePrice": 19.13345983554712,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "ATL-IT",
     "companyName": "Atlantia S.p.A.",
-    "numberOfShares": 68355250,
-    "sharePrice": 24.991846939884766,
+    "numberOfShares": 0,
+    "sharePrice": 24.23571579169302,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "AGL-IT",
     "companyName": "Autogrill S.p.A.",
-    "numberOfShares": 48432669,
-    "sharePrice": 7.28122622024133,
+    "numberOfShares": 0,
+    "sharePrice": 6.936538056082648,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   },
   {
@@ -34,19 +34,29 @@
     "ticker": "CED-IT",
     "companyName": "Caltagirone Editore S.p.A.",
     "numberOfShares": 0,
-    "sharePrice": 1.0870746820306554,
+    "sharePrice": 1.0225595614589922,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "CLNX-ES",
     "companyName": "Cellnex Telecom",
-    "numberOfShares": 14490714,
-    "sharePrice": 39.51516469181433,
+    "numberOfShares": 14491000,
+    "sharePrice": 37.83470377398271,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "DUFN-CH",
+    "companyName": "Dufry AG",
+    "numberOfShares": 8340832.000000001,
+    "sharePrice": 43.04107256863163,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9398,
     "interactive": false
   },
   {
@@ -54,9 +64,9 @@
     "ticker": "S24-IT",
     "companyName": "Il Sole 24 Ore SpA",
     "numberOfShares": 0,
-    "sharePrice": 0.5272312207848678,
+    "sharePrice": 0.5481762597512123,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   },
   {
@@ -64,9 +74,9 @@
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
     "numberOfShares": 4656000,
-    "sharePrice": 10.803348190020655,
+    "sharePrice": 10.362639679527724,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   },
   {
@@ -74,9 +84,9 @@
     "ticker": "PRY-IT",
     "companyName": "Prysmian",
     "numberOfShares": 0,
-    "sharePrice": 40.36308294379824,
+    "sharePrice": 37.760910815939276,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9199,
+    "exchangeRate": 0.9486,
     "interactive": false
   }
 ]
