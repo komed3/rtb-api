@@ -6,6 +6,10 @@ This data can be used unlimited and without any limitation.
 
 ## API
 
+* ``/api/availableDays`` Available days (real-time list) (CSV)
+* ``/api/latest`` Latest day (real-time list) (String)
+* ``/api/updated`` Latest update timestamp (String)
+
 ### Profiles
 
 * ``/api/profile/_index`` List of all profiles (JSON)
