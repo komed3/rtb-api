@@ -4,9 +4,19 @@
     "ticker": "318-DE",
     "companyName": "Bank of Cyprus Holdings PLC",
     "numberOfShares": 41363000,
-    "sharePrice": 2.6987138941598143,
+    "sharePrice": 2.4044189320914113,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9486,
+    "exchangeRate": 0.9233,
+    "interactive": false
+  },
+  {
+    "exchange": "MICEX",
+    "ticker": "MRKU-RU",
+    "companyName": "Interregional Distribution Grid",
+    "numberOfShares": 6109578000,
+    "sharePrice": 0.0025032905094986703,
+    "currencyCode": "RUB",
+    "exchangeRate": 75.9001,
     "interactive": false
   },
   {
@@ -14,19 +24,9 @@
     "ticker": "MEDX-CH",
     "companyName": "Medmix",
     "numberOfShares": 15056000,
-    "sharePrice": 18.727388806128968,
+    "sharePrice": 19.564980967917347,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9398,
-    "interactive": false
-  },
-  {
-    "exchange": "MICEX",
-    "ticker": "MRKU-RU",
-    "companyName": "MRSK Urala",
-    "numberOfShares": 6109578000,
-    "sharePrice": 0.0021258741258741256,
-    "currencyCode": "RUB",
-    "exchangeRate": 71.5,
+    "exchangeRate": 0.9195,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "OERL-CH",
     "companyName": "OC Oerlikon Corporation AG",
     "numberOfShares": 64501194.99999999,
-    "sharePrice": 5.9321132155777825,
+    "sharePrice": 5.5573681348559,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9398,
+    "exchangeRate": 0.9195,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "STLN-CH",
     "companyName": "SCHMOLZ + BICKENBACH AG",
     "numberOfShares": 225449000,
-    "sharePrice": 0.1436475845924665,
+    "sharePrice": 0.1435562805872757,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9398,
+    "exchangeRate": 0.9195,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "SUN-CH",
     "companyName": "Sulzer",
     "numberOfShares": 15056000,
-    "sharePrice": 85.92253670993829,
+    "sharePrice": 83.30614464382816,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9398,
+    "exchangeRate": 0.9195,
     "interactive": false
   },
   {
@@ -64,9 +64,9 @@
     "ticker": "486-HK",
     "companyName": "United Co. RUSAL Plc",
     "numberOfShares": 1437726000,
-    "sharePrice": 0.5160155951379863,
+    "sharePrice": 0.4879043045134333,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8486,
+    "exchangeRate": 7.8499,
     "interactive": false
   }
 ]

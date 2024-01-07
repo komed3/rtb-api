@@ -3,10 +3,10 @@
     "exchange": "TORONTO",
     "ticker": "CET-CA",
     "companyName": "Cathedral Energy Services",
-    "numberOfShares": 79000,
-    "sharePrice": 0.8135444151275286,
+    "numberOfShares": 24215000,
+    "sharePrice": 0.728744939271255,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3644,
+    "exchangeRate": 1.3585,
     "interactive": false
   },
   {
@@ -14,7 +14,7 @@
     "ticker": "DWSN-US",
     "companyName": "Dawson Geophysical",
     "numberOfShares": 8821000,
-    "sharePrice": 1.38,
+    "sharePrice": 1.63,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +23,18 @@
     "exchange": "NYSE",
     "ticker": "FTK-US",
     "companyName": "FTK Flotek Industries Inc",
-    "numberOfShares": 9190000,
-    "sharePrice": 1.1,
+    "numberOfShares": 19189000,
+    "sharePrice": 0.695,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ACDC-US",
+    "companyName": "ProFrac Holding Corp.",
+    "numberOfShares": 12537000,
+    "sharePrice": 12.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

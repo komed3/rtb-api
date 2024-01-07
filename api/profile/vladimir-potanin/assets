@@ -4,19 +4,27 @@
     "ticker": "GMKN-RU",
     "companyName": "Norilsk Nickel Mining & Metallurgica",
     "numberOfShares": 55239000,
-    "sharePrice": 227.55244755244755,
+    "sharePrice": 192.3317624087452,
     "currencyCode": "RUB",
-    "exchangeRate": 71.5,
+    "exchangeRate": 75.9001,
     "interactive": false
   },
   {
     "exchange": "MICEX",
     "ticker": "ROSB-RU",
     "companyName": "Rosbank",
-    "numberOfShares": 680100000,
-    "sharePrice": 1.5552447552447553,
+    "numberOfShares": 480000000,
+    "sharePrice": 1.5573102011723305,
     "currencyCode": "RUB",
-    "exchangeRate": 71.5,
+    "exchangeRate": 75.9001,
+    "interactive": false
+  },
+  {
+    "companyName": "TCS Group Holding (MICEX)",
+    "numberOfShares": 69914043,
+    "sharePrice": 33.18177446406527,
+    "currencyCode": "RUB",
+    "exchangeRate": 75.9001,
     "interactive": false
   }
 ]

@@ -1,12 +1,40 @@
 [
   {
+    "companyName": "Cool Co",
+    "numberOfShares": 31200000,
+    "sharePrice": 12.412000433228638,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9233,
+    "interactive": false
+  },
+  {
+    "exchange": "OSLO",
+    "ticker": "EWIND-NO",
+    "companyName": "Edda Wind",
+    "numberOfShares": 6800000,
+    "sharePrice": 2.2159761326899647,
+    "currencyCode": "NOK",
+    "exchangeRate": 10.4243,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "INSW-US",
+    "companyName": "International Seaways",
+    "numberOfShares": 2475000,
+    "sharePrice": 41.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "TEL AVIV",
     "ticker": "ILCO-IL",
     "companyName": "Israel Corp. Ltd.",
-    "numberOfShares": 3717000,
-    "sharePrice": 338.1506830638344,
+    "numberOfShares": 3874000,
+    "sharePrice": 334.6001229531102,
     "currencyCode": "ILS",
-    "exchangeRate": 3.6673,
+    "exchangeRate": 3.5786,
     "interactive": false
   },
   {
@@ -14,7 +42,7 @@
     "ticker": "KEN-US",
     "companyName": "Kenon Holdings",
     "numberOfShares": 32497000,
-    "sharePrice": 27.97,
+    "sharePrice": 29.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

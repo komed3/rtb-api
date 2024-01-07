@@ -1,22 +1,20 @@
 [
   {
+    "companyName": "Noventiq Holdings (Softline) (MICEX)",
+    "numberOfShares": 20367000,
+    "sharePrice": 1.4927516564536807,
+    "currencyCode": "RUB",
+    "exchangeRate": 75.9001,
+    "interactive": false
+  },
+  {
     "exchange": "MICEX",
     "ticker": "HYDR-RU",
     "companyName": "RusHydro OJSC",
     "numberOfShares": 3912768000,
-    "sharePrice": 0.011216783216783217,
+    "sharePrice": 0.010276666302152435,
     "currencyCode": "RUB",
-    "exchangeRate": 71.5,
-    "interactive": false
-  },
-  {
-    "exchange": "LONDON",
-    "ticker": "SFTL-GB",
-    "companyName": "Softline Holding",
-    "numberOfShares": 32729157,
-    "sharePrice": 1.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 75.9001,
     "interactive": false
   }
 ]

@@ -3,10 +3,10 @@
     "exchange": "MALAYSIA",
     "ticker": "3182-MY",
     "companyName": "Genting Bhd",
-    "numberOfShares": 1581500000,
-    "sharePrice": 1.0596325104272348,
+    "numberOfShares": 1552250000,
+    "sharePrice": 1.0320244426841687,
     "currencyCode": "MYR",
-    "exchangeRate": 4.4355,
+    "exchangeRate": 4.4185,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "678-HK",
     "companyName": "Genting Hong Kong Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.052875672094386254,
+    "sharePrice": 0.05286691550210831,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8486,
+    "exchangeRate": 7.8499,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "4715-MY",
     "companyName": "Genting Malaysia Bhd",
     "numberOfShares": 26341000,
-    "sharePrice": 0.6132341336940593,
+    "sharePrice": 0.5884349892497455,
     "currencyCode": "MYR",
-    "exchangeRate": 4.4355,
+    "exchangeRate": 4.4185,
     "interactive": false
   },
   {
@@ -34,9 +34,19 @@
     "ticker": "G13-SG",
     "companyName": "Genting Singapore PLC",
     "numberOfShares": 14950000,
-    "sharePrice": 0.7561156412157154,
+    "sharePrice": 0.820103829659168,
     "currencyCode": "SGD",
-    "exchangeRate": 1.349,
+    "exchangeRate": 1.3291,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
+    "ticker": "G50-SG",
+    "companyName": "Grand Banks Yachts",
+    "numberOfShares": 52600000,
+    "sharePrice": 0.2257166503649086,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.3291,
     "interactive": false
   }
 ]

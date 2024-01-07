@@ -4,9 +4,9 @@
     "ticker": "BRPT-ID",
     "companyName": "Barito Pacific Timber",
     "numberOfShares": 66688689992,
-    "sharePrice": 0.06141215106732348,
+    "sharePrice": 0.05343511450381679,
     "currencyCode": "IDR",
-    "exchangeRate": 15225,
+    "exchangeRate": 15065,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "TPIA-ID",
     "companyName": "Chandra Asri Petro",
     "numberOfShares": 6732000000,
-    "sharePrice": 0.15172413793103448,
+    "sharePrice": 0.15399933620975773,
     "currencyCode": "IDR",
-    "exchangeRate": 15225,
+    "exchangeRate": 15065,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
+    "ticker": "CUAN-ID",
+    "companyName": "Petrindo Jaya Kreasi",
+    "numberOfShares": 9551800000,
+    "sharePrice": 0.04878858280783273,
+    "currencyCode": "IDR",
+    "exchangeRate": 15065,
     "interactive": false
   }
 ]
