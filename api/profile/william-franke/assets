@@ -3,10 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "ULCC-US",
     "companyName": "Frontier Group Holdings, Inc.",
-    "numberOfShares": 86734506,
-    "sharePrice": 9.51,
+    "numberOfShares": 86741598,
+    "sharePrice": 14.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VLRS-US",
+    "companyName": "Volaris",
+    "numberOfShares": 55159,
+    "sharePrice": 9.7,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "Wizz Air",
+    "numberOfShares": 1044739.0000000001,
+    "sharePrice": 30.06767016197779,
+    "currencyCode": "GBX",
+    "exchangeRate": 62.276192,
     "interactive": false
   }
 ]
