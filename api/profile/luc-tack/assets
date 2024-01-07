@@ -4,19 +4,29 @@
     "ticker": "PIC-BE",
     "companyName": "Picanol",
     "numberOfShares": 15812000,
-    "sharePrice": 71.61473087818698,
+    "sharePrice": 73.69361322018759,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8825,
+    "exchangeRate": 0.8956,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "RIEN-CH",
+    "companyName": "Rieter Holding AG",
+    "numberOfShares": 700000,
+    "sharePrice": 197.16190066652334,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.9302,
     "interactive": false
   },
   {
     "exchange": "EURONEXT BRUSSELS",
     "ticker": "TESB-BE",
     "companyName": "Tessenderlo Chemie",
-    "numberOfShares": 1832000,
-    "sharePrice": 38.41359773371105,
+    "numberOfShares": 23108000,
+    "sharePrice": 38.1308619919607,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8825,
+    "exchangeRate": 0.8956,
     "interactive": false
   }
 ]

@@ -4,7 +4,7 @@
     "ticker": "CLS-US",
     "companyName": "Celestica, Inc.",
     "numberOfShares": 121000,
-    "sharePrice": 11.03,
+    "sharePrice": 12.48,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,19 +14,19 @@
     "ticker": "IDG-CA",
     "companyName": "Indigo Books and Music, Inc.",
     "numberOfShares": 15502000,
-    "sharePrice": 2.9558961526431027,
+    "sharePrice": 2.662073285311619,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2788,
+    "exchangeRate": 1.2772,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
-    "numberOfShares": 10711000,
-    "sharePrice": 78.04191429465124,
+    "numberOfShares": 10060640,
+    "sharePrice": 69.86376448481053,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2788,
+    "exchangeRate": 1.2772,
     "interactive": false
   },
   {
@@ -34,10 +34,10 @@
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
     "numberOfShares": 3950000,
-    "exerciseOptionPrice": 44.92492962152018,
-    "sharePrice": 78.04191429465124,
+    "exerciseOptionPrice": 44.98120889445663,
+    "sharePrice": 69.86376448481053,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2788,
+    "exchangeRate": 1.2772,
     "interactive": false
   },
   {
@@ -45,10 +45,21 @@
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
     "numberOfShares": 327000,
-    "exerciseOptionPrice": 64.20081326243353,
-    "sharePrice": 78.04191429465124,
+    "exerciseOptionPrice": 64.28124021296587,
+    "sharePrice": 69.86376448481053,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2788,
+    "exchangeRate": 1.2772,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+    "numberOfShares": 230000,
+    "exerciseOptionPrice": 56.545568430942694,
+    "sharePrice": 69.86376448481053,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2772,
     "interactive": false
   }
 ]

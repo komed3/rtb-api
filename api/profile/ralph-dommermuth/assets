@@ -1,12 +1,22 @@
 [
   {
     "exchange": "XETRA",
+    "ticker": "BVB-DE",
+    "companyName": "Borussia Dortmund",
+    "numberOfShares": 4603522,
+    "sharePrice": 4.736489504242966,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8956,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
     "ticker": "UTDI-DE",
     "companyName": "United Internet AG",
-    "numberOfShares": 82000000,
-    "sharePrice": 39.59206798866855,
+    "numberOfShares": 97194000,
+    "sharePrice": 38.26485037963377,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8825,
+    "exchangeRate": 0.8956,
     "interactive": false
   }
 ]
