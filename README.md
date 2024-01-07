@@ -35,6 +35,21 @@ This data can be used unlimited and without any limitation.
 
 ### Stats
 
+* ``/api/stats/count`` Daily count of billionaires (CSV)
+* ``/api/stats/total`` Daily total net worth (CSV)
+* ``/api/stats/woman`` Daily count of woman billionaires (CSV)
+* ``/api/stats/country/_index``  (CSV)
+* ``/api/stats/country/_list``  (CSV)
+* ``/api/stats/country/{KEY}``  (CSV)
+* ``/api/stats/industry/_index``  (CSV)
+* ``/api/stats/industry/_list``  (CSV)
+* ``/api/stats/industry/{KEY}``  (CSV)
+* ``/api/stats/agePyramid``  (JSON)
+* ``/api/stats/children``  (JSON)
+* ``/api/stats/maritalStatus``  (JSON)
+* ``/api/stats/scatter``  (JSON)
+* ``/api/stats/selfMade``  (JSON)
+
 ### Movers
 
 * ``/api/movers/pct/winner/{DATE}`` Winners in percent as of date (JSON)
