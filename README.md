@@ -1,6 +1,6 @@
 # Real-time billionaires API
 
-This repository contains profile and list data from Forbes real-time billionaires. It will be updated few time a year.
+This repository contains profile and list data from Forbes’ real-time billionaires. It will be updated few time a year.
 
 This data can be used unlimited and without any limitation.
 
@@ -15,7 +15,7 @@ This data can be used unlimited and without any limitation.
 * ``/api/profile/_index`` List of all profiles (JSON)
 * ``/api/profile/_alias`` List of profile aliases (JSON)
 
-### Profile
+### Single profile
 
 * ``/api/profile/{URI}/info`` Profile info (JSON)
 * ``/api/profile/{URI}/bio`` Biography and about profile (JSON)
@@ -26,6 +26,25 @@ This data can be used unlimited and without any limitation.
 * ``/api/profile/{URI}/related`` Related profiles (JSON)
 * ``/api/profile/{URI}/annual`` Annual report (JSON)
 * ``/api/profile/{URI}/updated`` Profile info update timestamp (String)
+
+### Lists
+
+* ``/api/list/_index`` Available lists index (JSON)
+* ``/api/list/rtb/{DATE}`` Real-time list as of passed date (JSON)
+* ``/api/list/rtb/latest`` Latest real-time list (JSON)
+
+### Stats
+
+### Movers
+
+* ``/api/movers/pct/winner/{DATE}`` Winners in percent as of date (JSON)
+* ``/api/movers/pct/winner/loser`` Latest winners in percent (JSON)
+* ``/api/movers/pct/loser/{DATE}`` Losers in percent as of date (JSON)
+* ``/api/movers/pct/loser/latest`` Latest losers in percent (JSON)
+* ``/api/movers/value/winner/{DATE}`` Winners in net worth as of date (JSON)
+* ``/api/movers/value/winner/loser`` Latest winners in net worth (JSON)
+* ``/api/movers/value/loser/{DATE}`` Losers in net worth as of date (JSON)
+* ``/api/movers/value/loser/latest`` Latest losers in net worth (JSON)
 
 ### Filter
 
