@@ -1,12 +1,32 @@
 [
   {
+    "exchange": "COLOMBIA",
+    "ticker": "NUTRESA-CO",
+    "companyName": "Grupo Nutresa",
+    "numberOfShares": 63399318,
+    "sharePrice": 10.293953838530884,
+    "currencyCode": "COP",
+    "exchangeRate": 3905.205,
+    "interactive": false
+  },
+  {
+    "exchange": "COLOMBIA",
+    "ticker": "GRUPOSURA-CO",
+    "companyName": "Grupo Sura",
+    "numberOfShares": 118431908,
+    "sharePrice": 9.090431872334488,
+    "currencyCode": "COP",
+    "exchangeRate": 3905.205,
+    "interactive": false
+  },
+  {
     "exchange": "LONDON",
     "ticker": "MTRO-GB",
     "companyName": "Metro Bank",
     "numberOfShares": 15200000,
-    "sharePrice": 1.2904091213950368,
+    "sharePrice": 1.2303770293841407,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7455,
+    "exchangeRate": 0.7453,
     "interactive": false
   }
 ]

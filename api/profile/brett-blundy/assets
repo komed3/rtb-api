@@ -3,40 +3,50 @@
     "exchange": "ASX",
     "ticker": "AX1-AU",
     "companyName": "Accent Group Ltd",
-    "numberOfShares": 97540000,
-    "sharePrice": 1.3988948730502904,
+    "numberOfShares": 98542000,
+    "sharePrice": 1.4452955629426218,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "ADH-AU",
     "companyName": "Adairs Ltd.",
-    "numberOfShares": 1311047,
-    "sharePrice": 2.091347835210184,
+    "numberOfShares": 0,
+    "sharePrice": 2.0739991328226624,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "AVN-AU",
     "companyName": "Aventus Retail Property Fund",
-    "numberOfShares": 158603000,
-    "sharePrice": 2.203259425054207,
+    "numberOfShares": 94800000,
+    "sharePrice": 2.46422893481717,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "BST-AU",
+    "companyName": "Best & Less Group",
+    "numberOfShares": 20618000,
+    "sharePrice": 2.529267235149588,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "DSK-AU",
     "companyName": "Dusk Group",
-    "numberOfShares": 4531258,
-    "sharePrice": 1.937469399174652,
+    "numberOfShares": 2700000,
+    "sharePrice": 1.849978320566556,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
     "interactive": false
   },
   {
@@ -44,19 +54,29 @@
     "ticker": "LOV-AU",
     "companyName": "Lovisa Holdings",
     "numberOfShares": 43208000,
-    "sharePrice": 12.030495908232496,
+    "sharePrice": 14.351784940020234,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PLBY-US",
+    "companyName": "PLBY Group",
+    "numberOfShares": 1364000,
+    "sharePrice": 16.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "UNI-AU",
     "companyName": "Universal Store",
-    "numberOfShares": 12000000,
-    "sharePrice": 4.231656990977128,
+    "numberOfShares": 0,
+    "sharePrice": 4.617719323601676,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4297,
+    "exchangeRate": 1.3838,
     "interactive": false
   }
 ]

@@ -1,12 +1,22 @@
 [
   {
     "exchange": "THAILAND",
+    "ticker": "SWC-TH",
+    "companyName": "Sherwood Corp",
+    "numberOfShares": 178700000,
+    "sharePrice": 0.23084025854108955,
+    "currencyCode": "THB",
+    "exchangeRate": 32.49,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
     "ticker": "STARK-TH",
     "companyName": "STARK Corporation",
     "numberOfShares": 0,
-    "sharePrice": 0.13368302735106782,
+    "sharePrice": 0.14158202523853491,
     "currencyCode": "THB",
-    "exchangeRate": 33.3625,
+    "exchangeRate": 32.49,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "TOA-TH",
     "companyName": "TOA Paint (Thailand)",
     "numberOfShares": 1247540000,
-    "sharePrice": 0.9142000749344324,
+    "sharePrice": 0.8925823330255462,
     "currencyCode": "THB",
-    "exchangeRate": 33.3625,
+    "exchangeRate": 32.49,
     "interactive": false
   }
 ]

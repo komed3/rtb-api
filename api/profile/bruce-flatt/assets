@@ -3,10 +3,20 @@
     "exchange": "TORONTO",
     "ticker": "BAM.A-CA",
     "companyName": "Brookfield Asset Management",
-    "numberOfShares": 10924000,
-    "sharePrice": 53.16316943313499,
+    "numberOfShares": 11850186,
+    "sharePrice": 54.61967187377345,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2772,
+    "exchangeRate": 1.2739,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "BAMR-CA",
+    "companyName": "Brookfield Asset Management Reinsurance Partners",
+    "numberOfShares": 1056291,
+    "sharePrice": 55.43606248528142,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.2739,
     "interactive": false
   },
   {
@@ -16,17 +26,7 @@
     "numberOfShares": 35000,
     "sharePrice": 0,
     "currencyCode": "CAD",
-    "exchangeRate": 1.2772,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "OSB-CA",
-    "companyName": "Norbord",
-    "numberOfShares": 500,
-    "sharePrice": 44.605386783589104,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.2772,
+    "exchangeRate": 1.2739,
     "interactive": false
   }
 ]

@@ -4,19 +4,19 @@
     "ticker": "AIR-FR",
     "companyName": "Airbus SE",
     "numberOfShares": 250000,
-    "sharePrice": 124.36355515855293,
+    "sharePrice": 130.36437246963564,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8956,
+    "exchangeRate": 0.8892,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "AML-GB",
     "companyName": "Aston Martin Lagonda Global Holdings",
-    "numberOfShares": 1110000,
-    "sharePrice": 15.586854460093894,
+    "numberOfShares": 820000,
+    "sharePrice": 13.379847041459815,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7455,
+    "exchangeRate": 0.7453,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "BZU-IT",
     "companyName": "Buzzi Unicem",
     "numberOfShares": 1105000,
-    "sharePrice": 20.13175524787852,
+    "sharePrice": 19.78744939271255,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8956,
+    "exchangeRate": 0.8892,
     "interactive": false
   },
   {
@@ -34,9 +34,19 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 20000,
-    "sharePrice": 2665.79,
+    "sharePrice": 2690.39,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT AMSTERDAM",
+    "ticker": "JDEP-NL",
+    "companyName": "JDE Peet?s",
+    "numberOfShares": 350000,
+    "sharePrice": 32.60796221322537,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8892,
     "interactive": false
   },
   {
@@ -44,17 +54,27 @@
     "ticker": "KAR-SE",
     "companyName": "Karnov  Group",
     "numberOfShares": 0,
-    "sharePrice": 6.140890482150055,
+    "sharePrice": 5.695437286553678,
     "currencyCode": "SEK",
     "exchangeRate": 9.4286,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "KDP-US",
+    "companyName": "Keurig Dr Pepper Group",
+    "numberOfShares": 650000,
+    "sharePrice": 38.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PHG-US",
     "companyName": "Koninklijke Philips Electrs NV",
-    "numberOfShares": 150000,
-    "sharePrice": 32.62,
+    "numberOfShares": 570000,
+    "sharePrice": 34.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -63,8 +83,8 @@
     "exchange": "NASDAQ",
     "ticker": "LAUR-US",
     "companyName": "Laureate Education",
-    "numberOfShares": 6000000,
-    "sharePrice": 12.07,
+    "numberOfShares": 6010000,
+    "sharePrice": 11.34,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +94,7 @@
     "ticker": "OI-US",
     "companyName": "Owens-Illinois",
     "numberOfShares": 0,
-    "sharePrice": 13.06,
+    "sharePrice": 13.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -83,10 +103,10 @@
     "exchange": "MADRID",
     "ticker": "CASH-ES",
     "companyName": "Prosegur Cash",
-    "numberOfShares": 15610000,
-    "sharePrice": 0.7268870031263958,
+    "numberOfShares": 12460000,
+    "sharePrice": 0.7422402159244265,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8956,
+    "exchangeRate": 0.8892,
     "interactive": false
   },
   {
@@ -94,9 +114,9 @@
     "ticker": "TLGO-ES",
     "companyName": "Talgo",
     "numberOfShares": 4652000,
-    "sharePrice": 5.281375614113444,
+    "sharePrice": 4.9482681061628435,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8956,
+    "exchangeRate": 0.8892,
     "interactive": false
   }
 ]

@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "MADRID",
+    "ticker": "DIA-ES",
+    "companyName": "DIA",
+    "numberOfShares": 5504547597,
+    "sharePrice": 0.015744489428699954,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8892,
+    "interactive": false
+  },
+  {
     "exchange": "ISTANBUL",
     "ticker": "TCELL.E-TR",
     "companyName": "Turkcell Iletisim Hizmetleri A.S.",
     "numberOfShares": 53143000,
-    "sharePrice": 1.387116052917002,
+    "sharePrice": 1.4305255579553635,
     "currencyCode": "TRY",
-    "exchangeRate": 13.5533,
+    "exchangeRate": 13.89,
     "interactive": false
   },
   {
@@ -14,7 +24,7 @@
     "ticker": "VEON-US",
     "companyName": "VEON Ltd. ADR",
     "numberOfShares": 120362000,
-    "sharePrice": 1.43,
+    "sharePrice": 0.805,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

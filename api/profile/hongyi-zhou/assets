@@ -1,0 +1,32 @@
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "QFIN-US",
+    "companyName": "360 Finance",
+    "numberOfShares": 20733000,
+    "sharePrice": 19.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "601360-CN",
+    "companyName": "SJEC Corporation",
+    "numberOfShares": 1394250000,
+    "sharePrice": 1.6598298991114842,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.3139,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "601360-CN",
+    "companyName": "SJEC Corporation",
+    "numberOfShares": -285870000,
+    "sharePrice": 1.6598298991114842,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.3139,
+    "interactive": false
+  }
+]
