@@ -4,7 +4,7 @@
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
     "numberOfShares": 4000000,
-    "sharePrice": 62.48,
+    "sharePrice": 63.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "EXPE-US",
     "companyName": "Expedia",
     "numberOfShares": 5464000,
-    "sharePrice": 102.45,
+    "sharePrice": 87.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,7 +25,7 @@
     "companyName": "Expedia",
     "numberOfShares": 150000,
     "exerciseOptionPrice": 119.04,
-    "sharePrice": 102.45,
+    "sharePrice": 87.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -36,17 +36,7 @@
     "companyName": "Expedia",
     "numberOfShares": 150000,
     "exerciseOptionPrice": 91.75,
-    "sharePrice": 102.45,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "IAC-US",
-    "companyName": "IAC/InterActiveCorp.",
-    "numberOfShares": 7098000,
-    "sharePrice": 48.59,
+    "sharePrice": 87.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -57,7 +47,7 @@
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 500000,
     "exerciseOptionPrice": 13.7121,
-    "sharePrice": 48.59,
+    "sharePrice": 44.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -68,7 +58,17 @@
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 500000,
     "exerciseOptionPrice": 17.1397,
-    "sharePrice": 48.59,
+    "sharePrice": 44.4,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IAC-US",
+    "companyName": "IAC/InterActiveCorp.",
+    "numberOfShares": 7098000,
+    "sharePrice": 44.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -78,7 +78,7 @@
     "ticker": "VMEO-US",
     "companyName": "Vimeo",
     "numberOfShares": 11525000,
-    "sharePrice": 3.87,
+    "sharePrice": 3.43,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

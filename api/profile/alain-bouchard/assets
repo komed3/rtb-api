@@ -3,54 +3,11 @@
     "exchange": "TORONTO",
     "ticker": "ATD-CA",
     "companyName": "Alimentation Couche Tard Inc. Cl A",
-    "numberOfShares": 122270000,
-    "sharePrice": 45.11970534069982,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ATD-CA",
-    "companyName": "Alimentation Couche Tard Inc. Cl A",
-    "numberOfShares": 100000,
-    "exerciseOptionPrice": 30.924493554327807,
-    "sharePrice": 45.11970534069982,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ATD-CA",
-    "companyName": "Alimentation Couche Tard Inc. Cl A",
-    "numberOfShares": 98000,
-    "exerciseOptionPrice": 31.896869244935544,
-    "sharePrice": 45.11970534069982,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ATD-CA",
-    "companyName": "Alimentation Couche Tard Inc. Cl A",
-    "numberOfShares": 100000,
-    "exerciseOptionPrice": 31.07182320441989,
-    "sharePrice": 45.11970534069982,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ATD-CA",
-    "companyName": "Alimentation Couche Tard Inc. Cl A",
     "numberOfShares": 95000,
-    "exerciseOptionPrice": 22.784530386740332,
-    "sharePrice": 45.11970534069982,
+    "exerciseOptionPrice": 22.826568265682656,
+    "sharePrice": 43.91143911439114,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
     "interactive": false
   },
   {
@@ -58,10 +15,10 @@
     "ticker": "ATD-CA",
     "companyName": "Alimentation Couche Tard Inc. Cl A",
     "numberOfShares": 93000,
-    "exerciseOptionPrice": 22.61510128913444,
-    "sharePrice": 45.11970534069982,
+    "exerciseOptionPrice": 22.656826568265682,
+    "sharePrice": 43.91143911439114,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
     "interactive": false
   },
   {
@@ -69,10 +26,10 @@
     "ticker": "ATD-CA",
     "companyName": "Alimentation Couche Tard Inc. Cl A",
     "numberOfShares": 97000,
-    "exerciseOptionPrice": 21.679558011049725,
-    "sharePrice": 45.11970534069982,
+    "exerciseOptionPrice": 21.719557195571955,
+    "sharePrice": 43.91143911439114,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
     "interactive": false
   },
   {
@@ -80,10 +37,10 @@
     "ticker": "ATD-CA",
     "companyName": "Alimentation Couche Tard Inc. Cl A",
     "numberOfShares": 96000,
-    "exerciseOptionPrice": 21.17863720073665,
-    "sharePrice": 45.11970534069982,
+    "exerciseOptionPrice": 21.217712177121772,
+    "sharePrice": 43.91143911439114,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
     "interactive": false
   },
   {
@@ -91,10 +48,53 @@
     "ticker": "ATD-CA",
     "companyName": "Alimentation Couche Tard Inc. Cl A",
     "numberOfShares": 161000,
-    "exerciseOptionPrice": 12.707182320441989,
-    "sharePrice": 45.11970534069982,
+    "exerciseOptionPrice": 12.730627306273062,
+    "sharePrice": 43.91143911439114,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ATD-CA",
+    "companyName": "Alimentation Couche Tard Inc. Cl A",
+    "numberOfShares": 122270000,
+    "sharePrice": 43.91143911439114,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.355,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ATD-CA",
+    "companyName": "Alimentation Couche Tard Inc. Cl A",
+    "numberOfShares": 100000,
+    "exerciseOptionPrice": 30.981549815498152,
+    "sharePrice": 43.91143911439114,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.355,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ATD-CA",
+    "companyName": "Alimentation Couche Tard Inc. Cl A",
+    "numberOfShares": 98000,
+    "exerciseOptionPrice": 31.95571955719557,
+    "sharePrice": 43.91143911439114,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.355,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ATD-CA",
+    "companyName": "Alimentation Couche Tard Inc. Cl A",
+    "numberOfShares": 100000,
+    "exerciseOptionPrice": 31.129151291512915,
+    "sharePrice": 43.91143911439114,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.355,
     "interactive": false
   },
   {
@@ -102,9 +102,9 @@
     "ticker": "GIB.A-CA",
     "companyName": "CGI Group",
     "numberOfShares": 25000,
-    "sharePrice": 85.17863720073665,
+    "sharePrice": 86.13284132841328,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3575,
+    "exchangeRate": 1.355,
     "interactive": false
   }
 ]
