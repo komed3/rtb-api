@@ -1,12 +1,22 @@
 [
   {
     "exchange": "BSE INDIA",
+    "ticker": "500429-IN",
+    "companyName": "Uniphos Enterprises Limited",
+    "numberOfShares": 51300000,
+    "sharePrice": 1.6565372751427785,
+    "currencyCode": "INR",
+    "exchangeRate": 81.8575,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
     "ticker": "512070-IN",
     "companyName": "United Phosphorus",
     "numberOfShares": 177860000,
-    "sharePrice": 9.676786033411277,
+    "sharePrice": 8.013926640808723,
     "currencyCode": "INR",
-    "exchangeRate": 79.4582,
+    "exchangeRate": 81.8575,
     "interactive": false
   }
 ]

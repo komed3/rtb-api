@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "DHR-US",
     "companyName": "Danaher",
-    "numberOfShares": 21559256,
-    "sharePrice": 273.37,
+    "numberOfShares": 20060000,
+    "sharePrice": 262.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,18 @@
     "exchange": "NYSE",
     "ticker": "ENOV-US",
     "companyName": "Enovis Corporation",
-    "numberOfShares": 2800756,
-    "sharePrice": 51.34,
+    "numberOfShares": 2803000,
+    "sharePrice": 46.93,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESAB-US",
+    "companyName": "esab",
+    "numberOfShares": 2803000,
+    "sharePrice": 33.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +33,8 @@
     "exchange": "NYSE",
     "ticker": "FTV-US",
     "companyName": "Fortive",
-    "numberOfShares": 4472000,
-    "sharePrice": 63.62,
+    "numberOfShares": 4025000.0000000005,
+    "sharePrice": 59.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +44,7 @@
     "ticker": "VNT-US",
     "companyName": "Vontier Corp",
     "numberOfShares": 3204962,
-    "sharePrice": 22.09,
+    "sharePrice": 17.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

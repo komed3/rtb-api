@@ -1,40 +1,10 @@
 [
   {
-    "exchange": "NASDAQ",
-    "ticker": "AAPL-US",
-    "companyName": "Apple",
-    "numberOfShares": 29160000,
-    "sharePrice": 158.91,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "NYSE",
-    "ticker": "BAC-US",
-    "companyName": "Bank of America Corp.",
-    "numberOfShares": 21870000,
-    "sharePrice": 34.09,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "META-US",
-    "companyName": "Meta Platforms",
-    "numberOfShares": 1800000,
-    "sharePrice": 157.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "DIS-US",
-    "companyName": "Walt Disney",
-    "numberOfShares": 1800000,
-    "sharePrice": 112.43,
+    "ticker": "T-US",
+    "companyName": "AT&T Inc.",
+    "numberOfShares": 20000000,
+    "sharePrice": 15.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

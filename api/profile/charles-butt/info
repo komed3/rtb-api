@@ -1,19 +1,13 @@
 {
   "uri": "charles-butt",
-  "name": "Charles Butt & family",
+  "name": "Charles Butt",
   "birthDate": "1938-02-03",
   "family": false,
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Texas",
     "city": "San Antonio",
-    "zipCode": "78204",
-    "_geo": {
-      "longitude": -98.505351,
-      "latitude": 29.403311
-    }
+    "state": "Texas"
   },
   "industry": [
     "fashion-retail"
