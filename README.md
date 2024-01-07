@@ -26,3 +26,13 @@ This data can be used unlimited and without any limitation.
 * ``/api/profile/{URI}/related`` Related profiles (JSON)
 * ``/api/profile/{URI}/annual`` Annual report (JSON)
 * ``/api/profile/{URI}/updated`` Profile info update timestamp (String)
+
+### Filter
+
+* ``/api/filter/woman`` List of woman billionaires (CSV)
+* ``/api/filter/young`` List of young billionaires (under 50) (CSV)
+* ``/api/filter/old`` List of old billionaires (over 80) (CSV)
+* ``/api/filter/country/_index`` Countries index (CSV)
+* ``/api/filter/country/{KEY}`` List of billionaires in country (CSV)
+* ``/api/filter/industry/_index`` Industries index (CSV)
+* ``/api/filter/industry/{KEY}`` List of billionaires in industry (CSV)
