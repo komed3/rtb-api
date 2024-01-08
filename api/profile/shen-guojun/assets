@@ -6,27 +6,57 @@
     "numberOfShares": 262970000.00000003,
     "sharePrice": 0,
     "currencyCode": "HKD",
-    "exchangeRate": 7.828,
+    "exchangeRate": 7.8209,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "603506-CN",
+    "companyName": "Nacity Property Service Group",
+    "numberOfShares": 4700000,
+    "sharePrice": 1.5605356654823723,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.318,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600628-CN",
+    "companyName": "Shanghai New World",
+    "numberOfShares": 11336000,
+    "sharePrice": 0.9797758950532933,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.318,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000501-CN",
+    "companyName": "Wushang Group",
+    "numberOfShares": 14718000,
+    "sharePrice": 1.1847499316753212,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.318,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "000975-CN",
     "companyName": "Yintai Resources Co.",
-    "numberOfShares": 543000000,
-    "sharePrice": 1.9482208622554456,
+    "numberOfShares": 0,
+    "sharePrice": 1.8174364580486473,
     "currencyCode": "CNY",
-    "exchangeRate": 7.3041,
+    "exchangeRate": 7.318,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
-    "ticker": "000975-CN",
-    "companyName": "Yintai Resources Co.",
-    "numberOfShares": -141000000,
-    "sharePrice": 1.9482208622554456,
+    "ticker": "300459-CN",
+    "companyName": "Zhejiang Jinke Tom Culture Industry",
+    "numberOfShares": 2860000,
+    "sharePrice": 0.6313200327958459,
     "currencyCode": "CNY",
-    "exchangeRate": 7.3041,
+    "exchangeRate": 7.318,
     "interactive": false
   }
 ]
