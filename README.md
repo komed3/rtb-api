@@ -93,14 +93,14 @@ Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 
 | REQUEST | Description | String | JSON | CSV |
 |---------|-------------|:------:|:----:|:---:|
+| ``/api/filter/country/_index`` | Countries index | | x | |
+| ``/api/filter/country/{KEY}`` | List of billionaires by country | | x | |
+| ``/api/filter/industry/_index`` | Industries index | | x | |
+| ``/api/filter/industry/{KEY}`` | List of billionaires by industry | | x | |
 | ``/api/filter/woman`` | List of woman billionaires | | x | |
 | ``/api/filter/young`` | List of young billionaires (under 50) | | x | |
 | ``/api/filter/old`` | List of old billionaires (over 80) | | x | |
 | ``/api/filter/deceased`` | List of deceased billionaires | | x | |
 | ``/api/filter/selfMade`` | List of self-made billionaires | | x | |
-| ``/api/filter/country/_index`` | Countries index | | x | |
-| ``/api/filter/country/{KEY}`` | List of billionaires in country | | x | |
-| ``/api/filter/industry/_index`` | Industries index | | x | |
-| ``/api/filter/industry/{KEY}`` | List of billionaires in industry | | x | |
 
 The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
