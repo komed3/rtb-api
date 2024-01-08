@@ -4,7 +4,7 @@
     "ticker": "DBX-US",
     "companyName": "Dropbox, Inc.",
     "numberOfShares": 88000,
-    "sharePrice": 20.34,
+    "sharePrice": 22.69,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -22,7 +22,7 @@
     "ticker": "EBAY-US",
     "companyName": "eBay",
     "numberOfShares": 12189000,
-    "sharePrice": 46.43,
+    "sharePrice": 43.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -32,7 +32,17 @@
     "ticker": "GPS-US",
     "companyName": "Gap Inc.",
     "numberOfShares": 7000,
-    "sharePrice": 9.6,
+    "sharePrice": 8.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "GM-US",
+    "companyName": "General Motors",
+    "numberOfShares": 4000,
+    "sharePrice": 33.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -43,7 +53,7 @@
     "companyName": "Hewlett Packard Enterprise",
     "numberOfShares": 136000,
     "exerciseOptionPrice": 7.69,
-    "sharePrice": 14.32,
+    "sharePrice": 15.52,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,7 +63,7 @@
     "ticker": "HPQ-US",
     "companyName": "HP Inc.",
     "numberOfShares": 457000,
-    "sharePrice": 29.71,
+    "sharePrice": 30.93,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -62,7 +72,7 @@
     "exchange": "NASDAQ",
     "ticker": "LEGA-US",
     "companyName": "Lead Edge Growth Opportunities",
-    "numberOfShares": 70000,
+    "numberOfShares": 0,
     "sharePrice": 10.22,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -72,8 +82,8 @@
     "exchange": "NASDAQ",
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
-    "numberOfShares": 12189000,
-    "sharePrice": 76,
+    "numberOfShares": 11932000,
+    "sharePrice": 62.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -82,8 +92,8 @@
     "exchange": "NYSE",
     "ticker": "PG-US",
     "companyName": "Procter & Gamble Co.",
-    "numberOfShares": 11080,
-    "sharePrice": 156.38,
+    "numberOfShares": 0,
+    "sharePrice": 143.18,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
