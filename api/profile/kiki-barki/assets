@@ -1,22 +1,42 @@
 [
   {
     "exchange": "INDONESIA",
+    "ticker": "AMMN-ID",
+    "companyName": "Amman Mineral Internasional",
+    "numberOfShares": 354127000,
+    "sharePrice": 0.5050341019811627,
+    "currencyCode": "IDR",
+    "exchangeRate": 15395,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
     "ticker": "HRUM-ID",
     "companyName": "Harum Energy",
-    "numberOfShares": 10799000000,
-    "sharePrice": 0.10069225928256766,
+    "numberOfShares": 10798874000,
+    "sharePrice": 0.0932120818447548,
     "currencyCode": "IDR",
-    "exchangeRate": 15890,
+    "exchangeRate": 15395,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
+    "ticker": "MEDC-ID",
+    "companyName": "Medco Energi International",
+    "numberOfShares": 1737104000,
+    "sharePrice": 0.07827216628775577,
+    "currencyCode": "IDR",
+    "exchangeRate": 15395,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "NIC-AU",
     "companyName": "Nickel Mines",
-    "numberOfShares": 175418000,
-    "sharePrice": 0.4843232220239613,
+    "numberOfShares": 187649000,
+    "sharePrice": 0.47675804529201427,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5692,
+    "exchangeRate": 1.5102,
     "interactive": false
   }
 ]

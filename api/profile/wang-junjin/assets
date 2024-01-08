@@ -4,9 +4,19 @@
     "ticker": "605388-CN",
     "companyName": "Hubei Juneyao Great Health Dairy",
     "numberOfShares": 154754000,
-    "sharePrice": 2.829729432640819,
+    "sharePrice": 1.923022935908593,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3681,
+    "exchangeRate": 7.1242,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "605388-CN",
+    "companyName": "Hubei Juneyao Great Health Dairy",
+    "numberOfShares": -4300000,
+    "sharePrice": 1.923022935908593,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.1242,
     "interactive": false
   },
   {
@@ -14,19 +24,39 @@
     "ticker": "603885-CN",
     "companyName": "Juneyao Airlines",
     "numberOfShares": 380553000,
-    "sharePrice": 2.925519385688039,
+    "sharePrice": 1.908986272142837,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3681,
+    "exchangeRate": 7.1242,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "603885-CN",
     "companyName": "Juneyao Airlines",
-    "numberOfShares": -4155999.9999999995,
-    "sharePrice": 2.925519385688039,
+    "numberOfShares": -56660000,
+    "sharePrice": 1.908986272142837,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3681,
+    "exchangeRate": 7.1242,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600643-CN",
+    "companyName": "Shanghai AJ Group",
+    "numberOfShares": 174600000,
+    "sharePrice": 0.7397321804553493,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.1242,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600643-CN",
+    "companyName": "Shanghai AJ Group",
+    "numberOfShares": -69780000,
+    "sharePrice": 0.7397321804553493,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.1242,
     "interactive": false
   },
   {
@@ -34,9 +64,9 @@
     "ticker": "600327-CN",
     "companyName": "Wuxi Commercial Mansion",
     "numberOfShares": 142953000,
-    "sharePrice": 0.9704621472652752,
+    "sharePrice": 0.7972825018949495,
     "currencyCode": "CNY",
-    "exchangeRate": 6.3681,
+    "exchangeRate": 7.1242,
     "interactive": false
   }
 ]
