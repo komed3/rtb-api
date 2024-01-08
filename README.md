@@ -69,7 +69,6 @@ Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 | ``/api/stats/agePyramid`` | Age pyramide (male/female) | | x | |
 | ``/api/stats/children`` | Number of billionaires by their children | | x | |
 | ``/api/stats/maritalStatus`` | Number of billionaires by their marital status | | x | |
-| ``/api/stats/scatter`` | Scatter data by age and net worth | | x | |
 | ``/api/stats/selfMade`` | Number of billionaires by their self-made score | | x | |
 
 The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
