@@ -3,10 +3,10 @@
     "exchange": "HONG KONG",
     "ticker": "3309-HK",
     "companyName": "C-MER Eye Care Holdings",
-    "numberOfShares": 21517000,
-    "sharePrice": 0.4766031195840555,
+    "numberOfShares": 0,
+    "sharePrice": 0.4752171691364333,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
+    "exchangeRate": 7.828,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
     "numberOfShares": 33802000,
-    "sharePrice": 34.5,
+    "sharePrice": 28.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "3690-HK",
+    "companyName": "Meituan Dianping",
+    "numberOfShares": 71000000,
+    "sharePrice": 14.154317833418498,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.828,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 709860000,
-    "sharePrice": 41.976756040371086,
+    "sharePrice": 37.99182422074603,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
+    "exchangeRate": 7.828,
     "interactive": false
   }
 ]

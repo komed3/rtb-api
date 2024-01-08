@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "IOT-US",
     "companyName": "Samsara Inc.",
-    "numberOfShares": 113836000,
-    "sharePrice": 25.92,
+    "numberOfShares": 111644000,
+    "sharePrice": 25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,9 +13,20 @@
     "exchange": "NYSE",
     "ticker": "IOT-US",
     "companyName": "Samsara Inc.",
-    "numberOfShares": 5011868,
+    "numberOfShares": 3051000,
     "exerciseOptionPrice": 7.59,
-    "sharePrice": 25.92,
+    "sharePrice": 25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "IOT-US",
+    "companyName": "Samsara Inc.",
+    "numberOfShares": 1140000,
+    "exerciseOptionPrice": 3.51,
+    "sharePrice": 25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "DKNG-US",
     "companyName": "DraftKings",
-    "numberOfShares": 13190000,
-    "sharePrice": 28.89,
+    "numberOfShares": 13300000,
+    "sharePrice": 28.93,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,18 @@
     "exchange": "NASDAQ",
     "ticker": "LCA-US",
     "companyName": "Lancadia Holdings IV",
-    "numberOfShares": 6250000,
-    "sharePrice": 10.32,
+    "numberOfShares": 6200000,
+    "sharePrice": 10.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WYNN-US",
+    "companyName": "Wynn Resorts",
+    "numberOfShares": 6918000,
+    "sharePrice": 91.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

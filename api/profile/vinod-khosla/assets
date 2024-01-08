@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "AFRM-US",
     "companyName": "Affirm Holdings",
-    "numberOfShares": 2830000,
-    "sharePrice": 19.15,
+    "numberOfShares": 3114000,
+    "sharePrice": 20.85,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 15200000,
-    "sharePrice": 134.57,
+    "sharePrice": 132.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,17 +34,17 @@
     "ticker": "SQ-US",
     "companyName": "Block Inc Class A",
     "numberOfShares": 2570000,
-    "sharePrice": 57.76,
+    "sharePrice": 44.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
-    "exchange": "NYSE",
+    "exchange": "NASDAQ",
     "ticker": "DASH-US",
     "companyName": "DoorDash, Inc",
     "numberOfShares": 3260000,
-    "sharePrice": 81.96,
+    "sharePrice": 77.8,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,8 +53,8 @@
     "exchange": "NASDAQ",
     "ticker": "GTLB-US",
     "companyName": "GitLab, Inc",
-    "numberOfShares": 8400000,
-    "sharePrice": 45.99,
+    "numberOfShares": 8035000,
+    "sharePrice": 43.99,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 10840000,
-    "sharePrice": 135.49,
+    "sharePrice": 133.13,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -73,8 +73,8 @@
     "exchange": "NASDAQ",
     "ticker": "GH-US",
     "companyName": "Guardant Health",
-    "numberOfShares": 227000,
-    "sharePrice": 39,
+    "numberOfShares": 204000,
+    "sharePrice": 30.06,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -83,8 +83,8 @@
     "exchange": "NYSE",
     "ticker": "JNPR-US",
     "companyName": "Juniper Networks Inc.",
-    "numberOfShares": 1970000,
-    "sharePrice": 28.51,
+    "numberOfShares": 1776000,
+    "sharePrice": 27.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,7 +94,7 @@
     "ticker": "KIND-US",
     "companyName": "NextDoor",
     "numberOfShares": 3033000,
-    "sharePrice": 2.2,
+    "sharePrice": 1.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -103,8 +103,8 @@
     "exchange": "NASDAQ",
     "ticker": "OKTA-US",
     "companyName": "Okta,  Inc",
-    "numberOfShares": 262000,
-    "sharePrice": 71.86,
+    "numberOfShares": 235000,
+    "sharePrice": 81.46,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -114,7 +114,7 @@
     "ticker": "OPEN-US",
     "companyName": "Opendoor Technologies",
     "numberOfShares": 11530000,
-    "sharePrice": 3.75,
+    "sharePrice": 2.61,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -123,8 +123,8 @@
     "exchange": "NYSE",
     "ticker": "QS-US",
     "companyName": "QuantumScape",
-    "numberOfShares": 7080000,
-    "sharePrice": 7.27,
+    "numberOfShares": 8690000,
+    "sharePrice": 6.54,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -133,8 +133,28 @@
     "exchange": "NYSE",
     "ticker": "RNG-US",
     "companyName": "RingCentral",
-    "numberOfShares": 836000,
-    "sharePrice": 30.15,
+    "numberOfShares": 752000,
+    "sharePrice": 29.02,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "RKLB-US",
+    "companyName": "Rocket Lab USA",
+    "numberOfShares": 36130000,
+    "sharePrice": 4.34,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VLD-US",
+    "companyName": "Velo3D",
+    "numberOfShares": 7676000,
+    "sharePrice": 1.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

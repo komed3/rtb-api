@@ -3,20 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
-    "numberOfShares": 11300000,
-    "sharePrice": 34.5,
+    "numberOfShares": 11290000,
+    "sharePrice": 28.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
+    "ticker": "3690-HK",
+    "companyName": "Meituan Dianping",
+    "numberOfShares": 22530000,
+    "sharePrice": 14.154317833418498,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.828,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
     "ticker": "700-HK",
     "companyName": "Tencent",
-    "numberOfShares": 237150000,
-    "sharePrice": 41.976756040371086,
+    "numberOfShares": 225290000,
+    "sharePrice": 37.99182422074603,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
+    "exchangeRate": 7.828,
     "interactive": false
   }
 ]

@@ -4,7 +4,7 @@
     "ticker": "LLY-US",
     "companyName": "Eli Lilly & Co.",
     "numberOfShares": 4257000,
-    "sharePrice": 553.9,
+    "sharePrice": 544.45,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,17 @@
     "ticker": "HD-US",
     "companyName": "Home Depot",
     "numberOfShares": 11500000,
-    "sharePrice": 329.38,
+    "sharePrice": 303.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TKO-US",
+    "companyName": "TKO Group Holdings",
+    "numberOfShares": 45000,
+    "sharePrice": 82.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,18 +33,8 @@
     "exchange": "NYSE",
     "ticker": "UFI-US",
     "companyName": "Unifi Incorporated",
-    "numberOfShares": 1610825,
-    "sharePrice": 6.73,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "WWE-US",
-    "companyName": "World Wrestling Entertainment Inc. (",
-    "numberOfShares": 45000,
-    "sharePrice": 115.34,
+    "numberOfShares": 1721000,
+    "sharePrice": 6.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "YUM-US",
     "companyName": "Yum! Brands",
     "numberOfShares": 660000,
-    "sharePrice": 128.9,
+    "sharePrice": 124.08,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
