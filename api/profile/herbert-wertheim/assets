@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "AMZN-US",
+    "companyName": "Amazon",
+    "numberOfShares": 500000,
+    "sharePrice": 132.21,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
     "numberOfShares": 5000000,
-    "sharePrice": 189.59,
+    "sharePrice": 195.83,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "BAC-US",
     "companyName": "Bank of America Corp.",
     "numberOfShares": 1750000,
-    "sharePrice": 28.66,
+    "sharePrice": 31.9,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "BBXIA-US",
     "companyName": "BBX Capital",
     "numberOfShares": 877000,
-    "sharePrice": 7.25,
+    "sharePrice": 8.19,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +44,17 @@
     "ticker": "BVH-US",
     "companyName": "Bluegreen Vacations",
     "numberOfShares": 877000,
-    "sharePrice": 34.94,
+    "sharePrice": 38.79,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BP-US",
+    "companyName": "BP PLC",
+    "numberOfShares": 1100000,
+    "sharePrice": 36.71,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -52,7 +72,7 @@
     "ticker": "HEI-US",
     "companyName": "Heico",
     "numberOfShares": 4019999.9999999995,
-    "sharePrice": 175.98,
+    "sharePrice": 174.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -62,7 +82,7 @@
     "ticker": "HEI.A-US",
     "companyName": "Heico Corporation Class A",
     "numberOfShares": 5880000,
-    "sharePrice": 140.01,
+    "sharePrice": 138.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -72,7 +92,17 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 1300000,
-    "sharePrice": 335.05,
+    "sharePrice": 338.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TEVA-US",
+    "companyName": "Teva Pharmaceutical Industries Ltd.",
+    "numberOfShares": 2000000,
+    "sharePrice": 8.56,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
