@@ -3,8 +3,9 @@
     "exchange": "NYSE",
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
-    "numberOfShares": 9768750,
-    "sharePrice": 3.84,
+    "numberOfShares": 6250000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 3.78,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NYSE",
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
-    "numberOfShares": 6250000,
-    "exerciseOptionPrice": 11.5,
-    "sharePrice": 3.84,
+    "numberOfShares": 9768750,
+    "sharePrice": 3.78,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "exchange": "NASDAQ",
     "ticker": "GIIXU-US",
     "companyName": "Gores Holdings VIII",
-    "numberOfShares": 6873000,
+    "numberOfShares": 9450000,
     "sharePrice": 10.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -44,7 +44,7 @@
     "exchange": "NASDAQ",
     "ticker": "GIIXU-US",
     "companyName": "Gores Holdings VIII",
-    "numberOfShares": 9450000,
+    "numberOfShares": 6873000,
     "sharePrice": 10.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -96,7 +96,7 @@
     "ticker": "LAZR-US",
     "companyName": "Luminar Technologies",
     "numberOfShares": 10730000,
-    "sharePrice": 3.37,
+    "sharePrice": 3.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -107,17 +107,7 @@
     "companyName": "Luminar Technologies",
     "numberOfShares": 1386325,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 3.37,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "MTTR-US",
-    "companyName": "Matterport",
-    "numberOfShares": 8730000,
-    "sharePrice": 2.69,
+    "sharePrice": 3.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -128,7 +118,17 @@
     "companyName": "Matterport",
     "numberOfShares": 1708000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 2.69,
+    "sharePrice": 2.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MTTR-US",
+    "companyName": "Matterport",
+    "numberOfShares": 8730000,
+    "sharePrice": 2.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -159,7 +159,7 @@
     "ticker": "PSNY-US",
     "companyName": "Polestar Automotive Holding UK",
     "numberOfShares": 8892000,
-    "sharePrice": 2.26,
+    "sharePrice": 2.09,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -170,17 +170,7 @@
     "companyName": "Polestar Automotive Holding UK",
     "numberOfShares": 4500000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 2.26,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SOND-US",
-    "companyName": "Sonder Holdings",
-    "numberOfShares": 864000,
-    "sharePrice": 3.39,
+    "sharePrice": 2.09,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -191,7 +181,17 @@
     "companyName": "Sonder Holdings",
     "numberOfShares": 137500,
     "exerciseOptionPrice": 230,
-    "sharePrice": 3.39,
+    "sharePrice": 2.91,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SOND-US",
+    "companyName": "Sonder Holdings",
+    "numberOfShares": 864000,
+    "sharePrice": 2.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -201,7 +201,7 @@
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
     "numberOfShares": 5465000,
-    "sharePrice": 7.15,
+    "sharePrice": 6.68,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -212,7 +212,7 @@
     "companyName": "United Wholesale Mortgage",
     "numberOfShares": 2310000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 7.15,
+    "sharePrice": 6.68,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -222,7 +222,7 @@
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
     "numberOfShares": 3416000,
-    "sharePrice": 23.03,
+    "sharePrice": 21.04,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -233,7 +233,7 @@
     "companyName": "Verra Mobility",
     "numberOfShares": 2970000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 23.03,
+    "sharePrice": 21.04,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

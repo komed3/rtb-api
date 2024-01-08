@@ -1,0 +1,30 @@
+{
+  "uri": "femi-otedola",
+  "name": "Femi Otedola",
+  "birthDate": "1962-11-04",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ng",
+  "residence": {
+    "country": "ng",
+    "state": null,
+    "city": "Lagos"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "gas stations",
+    "utilities"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
