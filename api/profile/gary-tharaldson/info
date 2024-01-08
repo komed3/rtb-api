@@ -6,19 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "North Dakota",
     "city": "Fargo",
-    "_geo": {
-      "longitude": -96.781764,
-      "latitude": 46.87591
-    }
+    "state": "North Dakota"
   },
   "industry": [
     "service"
   ],
   "source": [
-    "hotels"
+    "Hotels"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5afdc6b631358e612fb94f8f/416x416.jpg?background=000000&cropX1=167&cropX2=1463&cropY1=0&cropY2=1297",
   "deceased": false,
