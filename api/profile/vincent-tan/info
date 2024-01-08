@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "diversified"
@@ -16,5 +17,21 @@
     "retail",
     "gaming",
     "property"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e5fdd9a7d6f2600068ea6cc/416x416.jpg?background=000000&cropX1=105&cropX2=842&cropY1=16&cropY2=754",
+  "deceased": false,
+  "children": 11,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Paradise Valley",
-    "state": "Arizona"
+    "country": "us",
+    "state": "Arizona",
+    "city": "Paradise Valley"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of California Berkeley",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

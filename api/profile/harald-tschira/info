@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Heidelberg",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Heidelberg"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

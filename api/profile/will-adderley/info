@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Home furnishings"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Fashion"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "Parsons School of Design",
+      "degree": "Bachelor of Architecture"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

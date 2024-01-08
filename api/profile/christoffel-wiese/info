@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "za",
   "residence": {
-    "city": "Cape Town",
-    "state": null
+    "country": "za",
+    "state": null,
+    "city": "Cape Town"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5a80fb33a7ea431690133f0a/416x416.jpg?background=000000&cropX1=1537&cropX2=3611&cropY1=0&cropY2=2074",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Stellenbosch",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Stellenbosch",
+      "degree": "LLB"
+    }
+  ],
+  "organization": {
+    "name": "Shoprite Holdings",
+    "title": "Chairman"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

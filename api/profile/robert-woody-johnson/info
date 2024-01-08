@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Palm Beach",
-    "state": "Florida"
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.037774,
+      "latitude": 26.71463
+    }
   },
   "industry": [
     "sports"
@@ -15,5 +21,15 @@
   "source": [
     "Johnson & Johnson",
     "sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

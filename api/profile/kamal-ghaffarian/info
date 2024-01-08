@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Naples",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Naples"
   },
   "industry": [
     "energy"
@@ -15,5 +16,24 @@
   "source": [
     "Space",
     "energy"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Engaged",
+  "education": [
+    {
+      "school": "Catholic University of America",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "George Washington University",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

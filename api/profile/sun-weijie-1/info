@@ -6,13 +6,34 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Yantai",
-    "state": "Shandong"
+    "zipCode": "264003 ",
+    "_geo": {
+      "longitude": 104.165657,
+      "latitude": 34.668
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Oilfield equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Shandong Institute of Business and Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

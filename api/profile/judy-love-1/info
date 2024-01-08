@@ -6,13 +6,41 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "_geo": {
+      "longitude": -97.520354,
+      "latitude": 35.472015
+    }
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Gas stations"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5b3fa7d1a7ea4341970ddbf3/416x416.jpg?background=000000&cropX1=45&cropX2=1128&cropY1=83&cropY2=1167",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "St. John's University (MN)",
+      "degree": "Drop Out"
+    },
+    {
+      "school": "University of Central Oklahoma",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Love's Travel Stops and Country Stores",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
 }

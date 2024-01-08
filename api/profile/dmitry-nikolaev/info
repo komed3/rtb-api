@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Kemerovo",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Kemerovo"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "Coal"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Real Estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Kings College London",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Massachusetts Institute of Technology (MIT)",
+      "degree": "Masters of Science in Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

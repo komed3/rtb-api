@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Healthcare"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64f5e814b9eb0e67e885cc97/416x416.jpg?background=000000&cropX1=889&cropX2=3223&cropY1=352&cropY2=2683",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

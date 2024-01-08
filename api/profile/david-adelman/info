@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Haverford",
-    "state": "Pennsylvania"
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Haverford"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,15 @@
   "source": [
     "Real estate",
     "asset management"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

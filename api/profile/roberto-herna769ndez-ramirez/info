@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "mx",
   "residence": {
-    "city": "Mexico City",
-    "state": null
+    "country": "mx",
+    "state": null,
+    "city": "Mexico City"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,20 @@
   "source": [
     "Banking",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ibero-American University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

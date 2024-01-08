@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Coral Gables",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Coral Gables"
   },
   "industry": [
     "service"
   ],
   "source": [
     "Healthcare services"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Nova Southeastern University",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "University of Miami",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

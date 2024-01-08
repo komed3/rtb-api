@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Bangalore",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Financial services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

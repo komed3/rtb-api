@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Hotels"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d60040968cb0a000917ec5f/416x416.jpg?background=000000&cropX1=0&cropX2=3607&cropY1=271&cropY2=3881",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

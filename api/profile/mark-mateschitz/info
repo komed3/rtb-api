@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": "Salzburg",
-    "state": null
+    "country": "at",
+    "state": null,
+    "city": "Salzburg"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Red Bull"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

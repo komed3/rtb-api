@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

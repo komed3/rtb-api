@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Qingdao",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Qingdao"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharma retailing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Peking University",
+      "degree": "Bachelor of Pharmacy"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

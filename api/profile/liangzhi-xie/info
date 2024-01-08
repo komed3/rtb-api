@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

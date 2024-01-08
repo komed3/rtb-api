@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Eyeglasses"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Bocconi Univerisity",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

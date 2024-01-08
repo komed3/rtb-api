@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Palm Beach",
-    "state": "Florida"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +16,16 @@
   "source": [
     "Entertainment",
     "Margaritaville"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/642b3621641e50b0dfdeb170/416x416.jpg?background=000000&cropX1=0&cropX2=3393&cropY1=250&cropY2=3642",
+  "deceased": true,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

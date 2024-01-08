@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Fort Lauderdale",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Fort Lauderdale"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Finance"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Miami",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Panjab",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

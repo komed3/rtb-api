@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": "Ontario"
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

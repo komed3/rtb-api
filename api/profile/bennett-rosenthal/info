@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Finance"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Pennsylvania",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "University of Pennsylvania, Wharton School of Business",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

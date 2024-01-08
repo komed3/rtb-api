@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Reggio Emilia",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Reggio Emilia"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Hydraulic pumps"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

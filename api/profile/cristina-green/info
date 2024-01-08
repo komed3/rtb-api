@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Fashion retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

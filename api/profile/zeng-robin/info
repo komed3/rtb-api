@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Ningde",
-    "state": "Fujian"
+    "country": "cn",
+    "state": null,
+    "city": "Ningde"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "Batteries"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Chinese Academy of Social Sciences",
+      "degree": "Doctorate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

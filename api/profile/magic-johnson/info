@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": null,
     "city": null,
-    "state": null
+    "_geo": {
+      "longitude": -98.58,
+      "latitude": 39.83
+    }
   },
   "industry": [
     "diversified"
   ],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
 }

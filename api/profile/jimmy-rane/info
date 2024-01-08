@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Abbeville",
-    "state": "Alabama"
+    "country": "us",
+    "state": "Alabama",
+    "city": "Abbeville"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Lumber"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Auburn University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

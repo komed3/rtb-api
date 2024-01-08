@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "it",
   "residence": {
-    "city": "Rome",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Rome"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Eyeglasses"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

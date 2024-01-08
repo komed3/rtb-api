@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "mc",
+    "state": null,
+    "city": null
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Vienna University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

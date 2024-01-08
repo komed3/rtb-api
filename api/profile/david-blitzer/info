@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "The Wharton School at the University of Pennsylvania"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

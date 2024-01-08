@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Nyack",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "Nyack"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Finance"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Yale University",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

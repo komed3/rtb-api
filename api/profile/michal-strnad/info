@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Defense Contracting"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

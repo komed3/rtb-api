@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Gladwyne",
-    "state": "Pennsylvania"
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Gladwyne"
   },
   "industry": [
     "finance-investments"
@@ -15,5 +16,15 @@
   "source": [
     "Trading",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,15 @@
   "source": [
     "Real estate",
     "hotels"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

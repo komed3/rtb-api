@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "service"
   ],
   "source": [
     "Aviation"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Waterloo",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

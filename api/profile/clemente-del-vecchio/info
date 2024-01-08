@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Eyeglases"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

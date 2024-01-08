@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cz",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "E-commerce"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

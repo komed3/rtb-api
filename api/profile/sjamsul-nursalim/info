@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "automotive"
@@ -15,5 +16,16 @@
   "source": [
     "Tires",
     "retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/61b1264227c4ce2a25d56fb6/416x416.jpg?background=000000&cropX1=306&cropX2=1296&cropY1=0&cropY2=989",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "city": "Istanbul",
-    "state": null
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
   },
   "industry": [
     "energy"
   ],
   "source": [
     "Energy"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

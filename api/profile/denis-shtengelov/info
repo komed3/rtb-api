@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Gold Coast",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Gold Coast"
   },
   "industry": [
     "food-beverage"
@@ -15,5 +16,20 @@
   "source": [
     "Food",
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tomsk State University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

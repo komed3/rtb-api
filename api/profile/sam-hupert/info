@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Monash University",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

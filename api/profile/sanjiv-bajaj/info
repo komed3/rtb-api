@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Pune",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Pune"
   },
   "industry": [
     "diversified"
   ],
   "source": [
     "Diversified"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Pune University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "The University of Warwick",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

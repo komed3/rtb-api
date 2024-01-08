@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "Birmingham",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "Birmingham"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Fitness clothing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Aston University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

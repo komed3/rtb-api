@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Atlanta",
-    "state": "Georgia"
+    "country": "us",
+    "state": "Georgia",
+    "city": "Atlanta"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Technology services"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

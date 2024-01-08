@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Milan",
-    "state": null
+    "country": "it",
+    "state": null,
+    "city": "Milan"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Financial services"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Milan",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

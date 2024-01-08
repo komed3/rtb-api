@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
+    "country": "us",
+    "state": "GA",
     "city": "Atlanta",
-    "state": "Georgia"
+    "_geo": {
+      "longitude": -84.391109,
+      "latitude": 33.748315
+    }
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "broadcasting"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

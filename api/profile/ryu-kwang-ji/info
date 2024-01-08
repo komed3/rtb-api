@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Busan",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Busan"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Korea University",
+      "degree": "Bachelor of Law"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,35 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Atherton",
-    "state": "California"
+    "zipCode": "94027",
+    "_geo": {
+      "longitude": -122.199117,
+      "latitude": 37.457732
+    }
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Online games"
-  ]
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5e74f5d12a573300068fdc94/416x416.jpg?background=000000&cropX1=1469&cropX2=2338&cropY1=611&cropY2=1479",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fudan University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

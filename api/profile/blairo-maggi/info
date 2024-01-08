@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Cuiaba",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Cuiaba"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Agribusiness"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Dubai",
-    "state": null
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "healthcare"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/57d990b54bbe6f6781c4fb29/416x416.jpg?background=000000&cropX1=2&cropX2=545&cropY1=66&cropY2=609",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

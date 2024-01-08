@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Online games"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/65496210455fdb2807b461fc/416x416.jpg?background=000000&cropX1=376&cropX2=1713&cropY1=341&cropY2=1679",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Electronic Science and Technology of China",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

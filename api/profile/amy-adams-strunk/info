@@ -6,13 +6,32 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Nashville",
-    "state": "Tennessee"
+    "country": "us",
+    "state": "Tennessee",
+    "city": "Nashville"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Tennessee Titans"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed, Remarried",
+  "education": [
+    {
+      "school": "The University of Texas at Austin",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": {
+    "name": "Tennessee Titans",
+    "title": "Owner"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

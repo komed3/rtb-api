@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Trading"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow State University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Moscow State University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "New Economic School",
+      "degree": "Master of Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

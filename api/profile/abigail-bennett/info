@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Rochester",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "Rochester"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Liquor"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

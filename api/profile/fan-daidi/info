@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Xian",
-    "state": "Shaanxi"
+    "country": "cn",
+    "state": null,
+    "city": "Xian"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Skincare"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

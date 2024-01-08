@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": "Jakarta",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Cinemas"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

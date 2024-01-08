@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Delray Beach",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Delray Beach"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Biotech investing"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "George Washington University",
+      "degree": "Master of Arts"
+    },
+    {
+      "school": "State University of New York at Binghamton",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

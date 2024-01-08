@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "be",
   "residence": {
-    "city": "Anzere",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Anzere"
   },
   "industry": [
     "automotive"
@@ -15,5 +16,15 @@
   "source": [
     "Auto parts",
     "distribution"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

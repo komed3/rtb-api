@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
+    "country": "id",
+    "state": null,
     "city": "Jakarta",
-    "state": null
+    "zipCode": "12120"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "Coal"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "automotive"
   ],
   "source": [
     "Two wheelers"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

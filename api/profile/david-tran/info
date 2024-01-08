@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Arcadia",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Arcadia"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Hot sauce"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Chicago",
-    "state": "Illinois"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
   },
   "industry": [
     "technology"
@@ -15,5 +16,24 @@
   "source": [
     "Software",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "University of Michigan",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Michigan",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Taipei",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Taipei"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Food"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Colorado State University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Colorado State University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "National Cheng Kung University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

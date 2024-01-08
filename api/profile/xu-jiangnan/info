@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Leping",
-    "state": "Jiangxi"
+    "country": "cn",
+    "state": null,
+    "city": "Leping"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Vitamins"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

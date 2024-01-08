@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "jp",
   "residence": {
-    "city": "Yokohama City",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Yokohama City"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Video games"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

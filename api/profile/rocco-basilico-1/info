@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Eyeglasses"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Catholic University of the Sacred Heart",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

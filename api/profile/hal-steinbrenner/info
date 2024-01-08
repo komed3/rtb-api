@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Tampa",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Tampa"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Masters in Finance"
+    },
+    {
+      "school": "Williams College",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

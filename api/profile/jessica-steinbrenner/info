@@ -6,13 +6,28 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Tampa",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Tampa"
   },
   "industry": [
     "sports"
   ],
   "source": [
     "Sports"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Sweet Briar College"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,36 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Belle Vernon",
-    "state": "Pennsylvania"
+    "_geo": {
+      "longitude": -79.875584,
+      "latitude": 40.12864
+    }
   },
   "industry": [
     "service"
   ],
   "source": [
     "Building materials"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "West Virginia University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "84 Lumber",
+    "title": "CEO, Owner"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
 }

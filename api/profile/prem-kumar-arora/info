@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "city": null,
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Real estate"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

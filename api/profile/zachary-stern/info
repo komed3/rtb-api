@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Jackson",
-    "state": "Wyoming"
+    "country": "us",
+    "state": "Wyoming",
+    "city": "Jackson"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Liquor"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Geneva",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Geneva"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "Shipping"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Anyang",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Anyang"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Sungkyunkwan University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Texas State University",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

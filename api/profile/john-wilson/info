@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Retailing"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

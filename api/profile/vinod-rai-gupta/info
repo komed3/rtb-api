@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Electrical equipment"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

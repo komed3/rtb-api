@@ -6,13 +6,30 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Nashville",
-    "state": "Tennessee"
+    "country": "us",
+    "state": "Tennessee",
+    "city": "Nashville"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "music"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/646e6affb9a2a85595a62c39/416x416.jpg?background=000000&cropX1=239&cropX2=1812&cropY1=256&cropY2=1830",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

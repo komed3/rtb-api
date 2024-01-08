@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Montreal",
-    "state": "Quebec"
+    "country": "ca",
+    "state": null,
+    "city": "Montreal"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cheese"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,28 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Denver",
-    "state": "Colorado"
+    "_geo": {
+      "longitude": -104.992259,
+      "latitude": 39.74001
+    }
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Solar panels"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

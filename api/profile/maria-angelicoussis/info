@@ -6,13 +6,32 @@
   "gender": "f",
   "citizenship": "gr",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "gr",
+    "state": null,
+    "city": null
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "Shipping"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Cambridge",
+      "degree": "Medical Doctor"
+    },
+    {
+      "school": "University College London"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

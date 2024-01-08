@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Wenzhou",
-    "state": "Zhejiang"
+    "country": "cn",
+    "state": null,
+    "city": "Wenzhou"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Fashion retail"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5809442131358e238315e7b8/416x416.jpg?background=000000&cropX1=360&cropX2=1683&cropY1=908&cropY2=2232",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

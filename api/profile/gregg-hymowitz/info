@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Asset management"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard Law School",
+      "degree": "Doctor of Jurisprudence"
+    },
+    {
+      "school": "State University of New York at Binghamton",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

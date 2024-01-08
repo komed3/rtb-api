@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "it",
   "residence": {
-    "city": "Luxembourg",
-    "state": null
+    "country": "lu",
+    "state": null,
+    "city": "Luxembourg"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Eyeglasses"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

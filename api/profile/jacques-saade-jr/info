@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "city": "Marseille",
-    "state": null
+    "country": "fr",
+    "state": null,
+    "city": "Marseille"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "Shipping"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

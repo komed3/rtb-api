@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "city": "Muttontown",
-    "state": "New York"
+    "country": "us",
+    "state": "New York",
+    "city": "Muttontown"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Eyeglasses"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

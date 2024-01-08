@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Shanghai",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Pharmaceuticals"
-  ]
+  ],
+  "deceased": true,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Columbia University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Peking University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

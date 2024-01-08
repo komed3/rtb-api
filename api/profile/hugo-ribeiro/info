@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rondonopolis",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rondonopolis"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Agribusiness"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }
