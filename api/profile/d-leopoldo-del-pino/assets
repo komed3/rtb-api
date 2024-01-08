@@ -3,10 +3,20 @@
     "exchange": "MADRID",
     "ticker": "FER-ES",
     "companyName": "Ferrovial",
-    "numberOfShares": 28418000,
-    "sharePrice": 34.613696224758556,
+    "numberOfShares": 30924000,
+    "sharePrice": 36.47409698442505,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9112,
+    "exchangeRate": 0.9053,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
+    "ticker": "FER-ES",
+    "companyName": "Ferrovial",
+    "numberOfShares": -1250000,
+    "sharePrice": 36.47409698442505,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9053,
     "interactive": false
   }
 ]

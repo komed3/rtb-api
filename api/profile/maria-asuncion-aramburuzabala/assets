@@ -1,12 +1,22 @@
 [
   {
-    "exchange": "MEXICO",
-    "ticker": "ICA-MX",
-    "companyName": "Empresas ICA S.A.B. de C.V.",
-    "numberOfShares": 8186999.999999999,
-    "sharePrice": 0.08609406358162938,
-    "currencyCode": "MXN",
-    "exchangeRate": 17.1905,
+    "exchange": "NYSE",
+    "ticker": "BUD-US",
+    "companyName": "ANHEUSER BUSCH INBEV SA SPON",
+    "numberOfShares": 20800000,
+    "sharePrice": 64.62,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "COTY-US",
+    "companyName": "Coty Inc",
+    "numberOfShares": 1425000,
+    "sharePrice": 12.42,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
