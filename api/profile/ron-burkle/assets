@@ -1,20 +1,10 @@
 [
   {
-    "exchange": "NYSE",
-    "ticker": "SHCO-US",
-    "companyName": "Membership Collective Group",
-    "numberOfShares": 91794000,
-    "sharePrice": 0,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "NASDAQ",
     "ticker": "MESA-US",
     "companyName": "Mesa Air Group Inc (Airlines)",
     "numberOfShares": 2964800,
-    "sharePrice": 2.355,
+    "sharePrice": 2.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +14,17 @@
     "ticker": "SSU-US",
     "companyName": "SIGNA Sports United",
     "numberOfShares": 8565000,
-    "sharePrice": 3.91,
+    "sharePrice": 3.31,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SHCO-US",
+    "companyName": "Soho House & Co Inc.",
+    "numberOfShares": 91794000,
+    "sharePrice": 6.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
