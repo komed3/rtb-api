@@ -41,6 +41,8 @@ As ``{REQUEST}`` use one of the links below.
 | ``/api/profile/{URI}/annual`` | Annual report | | x | |
 | ``/api/profile/{URI}/updated`` | Profile info update timestamp | x | | |
 
+The ``{URI}`` argument is described in the profiles index and is unique to each profile.
+
 ### Lists
 
 | REQUEST | Description | String | JSON | CSV |
@@ -48,6 +50,8 @@ As ``{REQUEST}`` use one of the links below.
 | ``/api/list/_index`` | Available lists index | | x | |
 | ``/api/list/rtb/{DATE}`` | Real-time list as of passed date | | x | |
 | ``/api/list/rtb/latest`` | Latest real-time list | | x | |
+
+Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 
 ### Stats
 
@@ -68,6 +72,8 @@ As ``{REQUEST}`` use one of the links below.
 | ``/api/stats/scatter`` | Scatter data by age and net worth | | x | |
 | ``/api/stats/selfMade`` | Number of billionaires by their self-made score | | x | |
 
+The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
+
 ### Movers
 
 | REQUEST | Description | String | JSON | CSV |
@@ -81,6 +87,8 @@ As ``{REQUEST}`` use one of the links below.
 | ``/api/movers/value/loser/{DATE}`` | Losers in net worth as of date | | x | |
 | ``/api/movers/value/loser/latest`` | Latest losers in net worth | | x | |
 
+Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
+
 ### Filter
 
 | REQUEST | Description | String | JSON | CSV |
@@ -92,3 +100,5 @@ As ``{REQUEST}`` use one of the links below.
 | ``/api/filter/country/{KEY}`` | List of billionaires in country | | x | |
 | ``/api/filter/industry/_index`` | Industries index | | x | |
 | ``/api/filter/industry/{KEY}`` | List of billionaires in industry | | x | |
+
+The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
