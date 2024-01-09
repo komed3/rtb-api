@@ -92,6 +92,7 @@ Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 
 | REQUEST | Description | String | JSON | CSV |
 |---------|-------------|:------:|:----:|:---:|
+| ``/api/filter/_index`` | Global filter index | | x | |
 | ``/api/filter/country/_index`` | Countries index | | x | |
 | ``/api/filter/country/{KEY}`` | List of billionaires by country | | x | |
 | ``/api/filter/industry/_index`` | Industries index | | x | |
