@@ -44,7 +44,7 @@
     "ticker": "LBRDB-US",
     "companyName": "Liberty Broadband B",
     "numberOfShares": 1760000,
-    "sharePrice": 76.195,
+    "sharePrice": 92.995,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -55,6 +55,16 @@
     "companyName": "Liberty Broadband C shares",
     "numberOfShares": 5176000,
     "sharePrice": 77.01,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LBTYK-US",
+    "companyName": "Liberty Global Inc C",
+    "numberOfShares": 11318000,
+    "sharePrice": 18.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -171,10 +181,10 @@
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "LBTYK-US",
-    "companyName": "Liberty Global Inc C",
-    "numberOfShares": 11318000,
-    "sharePrice": 18.82,
+    "ticker": "LBTYA-US",
+    "companyName": "Liberty Global Inc.  (Cl A)",
+    "numberOfShares": 4526000,
+    "sharePrice": 17.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -229,16 +239,6 @@
     "companyName": "Liberty Global Inc.  (Cl A)",
     "numberOfShares": 21000,
     "exerciseOptionPrice": 42.01,
-    "sharePrice": 17.81,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "LBTYA-US",
-    "companyName": "Liberty Global Inc.  (Cl A)",
-    "numberOfShares": 4526000,
     "sharePrice": 17.81,
     "currencyCode": "USD",
     "exchangeRate": 1,
