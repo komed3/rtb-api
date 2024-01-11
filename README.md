@@ -70,7 +70,7 @@ Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 | ``/api/stats/children`` | Number of billionaires by their children | | x | |
 | ``/api/stats/maritalStatus`` | Number of billionaires by their marital status | | x | |
 | ``/api/stats/selfMade`` | Number of billionaires by their self-made score | | x | |
-| ``/api/stats/top10`` | Top 10 richest billionaires list for each day | | x | |
+| ``/api/stats/top10`` | Top 10 richest billionaires list for each month | | x | |
 
 The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
 
