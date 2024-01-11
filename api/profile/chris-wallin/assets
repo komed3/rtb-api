@@ -1,18 +1,20 @@
 [
   {
+    "exchange": "ASX",
+    "ticker": "CWX-AU",
     "companyName": "Carawine Resources",
-    "numberOfShares": 0,
-    "sharePrice": 0.13758389261744966,
+    "numberOfShares": 213900000,
+    "sharePrice": 0.07018247443352717,
     "currencyCode": "AUD",
-    "exchangeRate": 1.49,
+    "exchangeRate": 1.4961,
     "interactive": false
   },
   {
     "companyName": "Central Petroleum",
     "numberOfShares": 19526000,
-    "sharePrice": 0.09751677852348994,
+    "sharePrice": 0.09711917652563332,
     "currencyCode": "AUD",
-    "exchangeRate": 1.49,
+    "exchangeRate": 1.4961,
     "interactive": false
   },
   {
@@ -20,9 +22,9 @@
     "ticker": "COY-AU",
     "companyName": "Coppermoly Limited",
     "numberOfShares": 5500000,
-    "sharePrice": 0.00738255033557047,
+    "sharePrice": 0.008689258739389078,
     "currencyCode": "AUD",
-    "exchangeRate": 1.49,
+    "exchangeRate": 1.4961,
     "interactive": false
   },
   {
@@ -30,9 +32,9 @@
     "ticker": "MAH-AU",
     "companyName": "Macmahon Holdings",
     "numberOfShares": 11400000,
-    "sharePrice": 0.13087248322147652,
+    "sharePrice": 0.1336809036829089,
     "currencyCode": "AUD",
-    "exchangeRate": 1.49,
+    "exchangeRate": 1.4961,
     "interactive": false
   },
   {
@@ -40,9 +42,19 @@
     "ticker": "OEC-AU",
     "companyName": "Orbital Corporation Ltd.",
     "numberOfShares": 1044000,
-    "sharePrice": 0.060402684563758385,
+    "sharePrice": 0.060156406657309,
     "currencyCode": "AUD",
-    "exchangeRate": 1.49,
+    "exchangeRate": 1.4961,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "RXL-AU",
+    "companyName": "Rox Resources",
+    "numberOfShares": 9615000,
+    "sharePrice": 0.120312813314618,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4961,
     "interactive": false
   },
   {
@@ -50,9 +62,9 @@
     "ticker": "VMC-AU",
     "companyName": "Venus Metals",
     "numberOfShares": 33800000,
-    "sharePrice": 0.06711409395973154,
+    "sharePrice": 0.07018247443352717,
     "currencyCode": "AUD",
-    "exchangeRate": 1.49,
+    "exchangeRate": 1.4961,
     "interactive": false
   }
 ]
