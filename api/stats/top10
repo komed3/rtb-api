@@ -1,22 +1,144 @@
 {
   "profiles": {
-    "jeff-bezos": "Jeff Bezos",
-    "bernard-arnault": "Bernard Arnault & family",
-    "bill-gates": "Bill Gates",
-    "warren-buffett": "Warren Buffett",
-    "mark-zuckerberg": "Mark Zuckerberg",
-    "amancio-ortega": "Amancio Ortega",
-    "larry-ellison": "Larry Ellison",
-    "carlos-slim-helu": "Carlos Slim Helu & family",
-    "larry-page": "Larry Page",
-    "sergey-brin": "Sergey Brin",
-    "steve-ballmer": "Steve Ballmer",
-    "michael-bloomberg": "Michael Bloomberg",
-    "francoise-bettencourt-meyers": "Francoise Bettencourt Meyers & family",
-    "mukesh-ambani": "Mukesh Ambani",
-    "elon-musk": "Elon Musk",
-    "zhong-shanshan": "Zhong Shanshan",
-    "gautam-adani-1": "Gautam Adani"
+    "jeff-bezos": {
+      "name": "Jeff Bezos",
+      "image": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
+      "gender": "m",
+      "source": [
+        "Amazon"
+      ]
+    },
+    "bernard-arnault": {
+      "name": "Bernard Arnault & family",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+      "gender": "m",
+      "source": [
+        "LVMH"
+      ]
+    },
+    "bill-gates": {
+      "name": "Bill Gates",
+      "image": "https://specials-images.forbesimg.com/imageserve/62d599ede3ff49f348f9b9b4/416x416.jpg?background=000000&cropX1=155&cropX2=976&cropY1=340&cropY2=1161",
+      "gender": "m",
+      "source": [
+        "Microsoft"
+      ]
+    },
+    "warren-buffett": {
+      "name": "Warren Buffett",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+      "gender": "m",
+      "source": [
+        "Berkshire Hathaway"
+      ]
+    },
+    "mark-zuckerberg": {
+      "name": "Mark Zuckerberg",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c76b7d331358e35dd2773a9/416x416.jpg?background=000000&cropX1=0&cropX2=4401&cropY1=0&cropY2=4401",
+      "gender": "m",
+      "source": [
+        "Facebook"
+      ]
+    },
+    "amancio-ortega": {
+      "name": "Amancio Ortega",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c76b94131358e35dd27748e/416x416.jpg?background=000000&cropX1=179&cropX2=2232&cropY1=216&cropY2=2269",
+      "gender": "m",
+      "source": [
+        "Zara"
+      ]
+    },
+    "larry-ellison": {
+      "name": "Larry Ellison",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5e8b62cfc095010007bffea0/416x416.jpg?background=000000&cropX1=0&cropX2=4529&cropY1=652&cropY2=5184",
+      "gender": "m",
+      "source": [
+        "Oracle"
+      ]
+    },
+    "carlos-slim-helu": {
+      "name": "Carlos Slim Helu & family",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c76ba144bbe6f24ad99c613/416x416.jpg?background=000000&cropX1=0&cropX2=3005&cropY1=389&cropY2=3395",
+      "gender": "m",
+      "source": [
+        "Telecom"
+      ]
+    },
+    "larry-page": {
+      "name": "Larry Page",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c76bcaaa7ea43100043c836/416x416.jpg?background=000000&cropX1=227&cropX2=2022&cropY1=22&cropY2=1817",
+      "gender": "m",
+      "source": [
+        "Google"
+      ]
+    },
+    "sergey-brin": {
+      "name": "Sergey Brin",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c7d7c254bbe6f78090d831f/416x416.jpg?background=000000&cropX1=475&cropX2=2887&cropY1=168&cropY2=2582",
+      "gender": "m",
+      "source": [
+        "Google"
+      ]
+    },
+    "steve-ballmer": {
+      "name": "Steve Ballmer",
+      "image": "https:////specials-images.forbesimg.com/imageserve/59d50c47a7ea436b47b36d66/416x416.jpg?background=000000&cropX1=553&cropX2=2940&cropY1=322&cropY2=2708",
+      "gender": "m",
+      "source": [
+        "Microsoft"
+      ]
+    },
+    "michael-bloomberg": {
+      "name": "Michael Bloomberg",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c76b4104bbe6f24ad99c35d/416x416.jpg?background=000000&cropX1=165&cropX2=5613&cropY1=321&cropY2=5769",
+      "gender": "m",
+      "source": [
+        "Bloomberg LP"
+      ]
+    },
+    "francoise-bettencourt-meyers": {
+      "name": "Francoise Bettencourt Meyers & family",
+      "image": null,
+      "gender": "f",
+      "source": [
+        "L'Oréal"
+      ]
+    },
+    "mukesh-ambani": {
+      "name": "Mukesh Ambani",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c7d7829a7ea434b351ba0b6/416x416.jpg?background=000000&cropX1=206&cropX2=2043&cropY1=250&cropY2=2089",
+      "gender": "m",
+      "source": [
+        "Diversified"
+      ]
+    },
+    "elon-musk": {
+      "name": "Elon Musk",
+      "image": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+      "gender": "m",
+      "source": [
+        "Tesla",
+        "SpaceX"
+      ]
+    },
+    "zhong-shanshan": {
+      "name": "Zhong Shanshan",
+      "image": null,
+      "gender": "m",
+      "source": [
+        "Beverages",
+        "pharmaceuticals"
+      ]
+    },
+    "gautam-adani-1": {
+      "name": "Gautam Adani",
+      "image": null,
+      "gender": "m",
+      "source": [
+        "Infrastructure",
+        "commodities"
+      ]
+    }
   },
   "list": {
     "2019-11": [
