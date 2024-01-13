@@ -4,11 +4,11 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 64902000,
-    "sharePrice": 142.28,
+    "sharePrice": 142.08,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 142.08
+    "currentPrice": 142.65
   },
   {
     "exchange": "NASDAQ",
@@ -16,33 +16,33 @@
     "companyName": "Alphabet",
     "numberOfShares": 0,
     "exerciseOptionPrice": 306.612,
-    "sharePrice": 142.28,
+    "sharePrice": 142.08,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 142.08
+    "currentPrice": 142.65
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
     "numberOfShares": 302400,
-    "sharePrice": 186.19,
+    "sharePrice": 185.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 185.59
+    "currentPrice": 185.92
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 49333975,
-    "sharePrice": 143.8,
+    "sharePrice": 143.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 143.67
+    "currentPrice": 144.24
   },
   {
     "exchange": "NASDAQ",
@@ -50,10 +50,10 @@
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 0,
     "exerciseOptionPrice": 305.39,
-    "sharePrice": 143.8,
+    "sharePrice": 143.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 143.67
+    "currentPrice": 144.24
   }
 ]

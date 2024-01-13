@@ -4,7 +4,7 @@
     "ticker": "KRRO-US",
     "companyName": "Korro Bio",
     "numberOfShares": 4800,
-    "sharePrice": 45.34,
+    "sharePrice": 43.79,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "LYRA-US",
     "companyName": "Lyra Therapeutics",
     "numberOfShares": 15167,
-    "sharePrice": 5.22,
+    "sharePrice": 5.26,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,18 +24,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11510000,
-    "sharePrice": 109.46,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 18691,
-    "exerciseOptionPrice": 19,
-    "sharePrice": 1.9,
+    "sharePrice": 106.795,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -45,7 +34,7 @@
     "ticker": "SEER-US",
     "companyName": "Seer",
     "numberOfShares": 702000,
-    "sharePrice": 1.9,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +45,7 @@
     "companyName": "Seer",
     "numberOfShares": 104048,
     "exerciseOptionPrice": 0.05,
-    "sharePrice": 1.9,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -67,7 +56,7 @@
     "companyName": "Seer",
     "numberOfShares": 36085,
     "exerciseOptionPrice": 2.7,
-    "sharePrice": 1.9,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -78,7 +67,18 @@
     "companyName": "Seer",
     "numberOfShares": 278580,
     "exerciseOptionPrice": 3.47,
-    "sharePrice": 1.9,
+    "sharePrice": 1.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 18691,
+    "exerciseOptionPrice": 19,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

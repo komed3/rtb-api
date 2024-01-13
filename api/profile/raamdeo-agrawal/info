@@ -1,0 +1,38 @@
+{
+  "uri": "raamdeo-agrawal",
+  "name": "Raamdeo Agrawal",
+  "birthDate": "1956-07-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "financial services"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Bombay University",
+      "degree": "B.Com"
+    },
+    {
+      "school": "Institute of Chartered Accountants of India",
+      "degree": "Chartered Accountant"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
