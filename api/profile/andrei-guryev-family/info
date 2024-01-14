@@ -1,0 +1,38 @@
+{
+  "uri": "andrei-guryev-family",
+  "name": "Andrei Guryev & family",
+  "birthDate": "1960-03-24",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Fertilizers"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Saint Petersburg Mining University",
+      "degree": "Master"
+    },
+    {
+      "school": "State Central Institute of Physical Culture",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
