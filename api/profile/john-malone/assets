@@ -63,16 +63,6 @@
     "exchange": "NASDAQ",
     "ticker": "LBTYK-US",
     "companyName": "Liberty Global Inc C",
-    "numberOfShares": 11318000,
-    "sharePrice": 20.17,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "LBTYK-US",
-    "companyName": "Liberty Global Inc C",
     "numberOfShares": 6000,
     "exerciseOptionPrice": 2.05,
     "sharePrice": 20.17,
@@ -174,6 +164,16 @@
     "companyName": "Liberty Global Inc C",
     "numberOfShares": 13000,
     "exerciseOptionPrice": 29.94,
+    "sharePrice": 20.17,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LBTYK-US",
+    "companyName": "Liberty Global Inc C",
+    "numberOfShares": 11318000,
     "sharePrice": 20.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -329,7 +329,7 @@
     "ticker": "LILAB-US",
     "companyName": "LiLAC Group (Class B)",
     "numberOfShares": 29000,
-    "sharePrice": 7.665,
+    "sharePrice": 9,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

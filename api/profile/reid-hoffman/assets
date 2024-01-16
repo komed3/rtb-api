@@ -3,16 +3,6 @@
     "exchange": "NYSE",
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
-    "numberOfShares": 22520,
-    "sharePrice": 8.35,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "HIPO-US",
-    "companyName": "Hippo Holdings",
     "numberOfShares": 70400,
     "exerciseOptionPrice": 287.5,
     "sharePrice": 8.35,
@@ -22,10 +12,10 @@
   },
   {
     "exchange": "NYSE",
-    "ticker": "JOBY-US",
-    "companyName": "Joby Aviation",
-    "numberOfShares": 8859000,
-    "sharePrice": 5.89,
+    "ticker": "HIPO-US",
+    "companyName": "Hippo Holdings",
+    "numberOfShares": 22520,
+    "sharePrice": 8.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -36,6 +26,16 @@
     "companyName": "Joby Aviation",
     "numberOfShares": 4613000,
     "exerciseOptionPrice": 11.5,
+    "sharePrice": 5.89,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 8859000,
     "sharePrice": 5.89,
     "currencyCode": "USD",
     "exchangeRate": 1,

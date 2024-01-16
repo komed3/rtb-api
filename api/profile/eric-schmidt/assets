@@ -37,23 +37,23 @@
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
-    "numberOfShares": 49333975,
-    "sharePrice": 144.24,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 144.24
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "GOOG-US",
-    "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 0,
     "exerciseOptionPrice": 305.39,
     "sharePrice": 144.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
+    "currentPrice": 144.24
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOG-US",
+    "companyName": "Google Inc. (Cl C)",
+    "numberOfShares": 49333975,
+    "sharePrice": 144.24,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": true,
     "currentPrice": 144.24
   }
 ]
