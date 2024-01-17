@@ -3,24 +3,12 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 5000000,
-    "exerciseOptionPrice": 51.13,
-    "sharePrice": 106.6,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 106.6
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
     "numberOfShares": 1068982353.0000001,
     "sharePrice": 106.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 106.6
+    "currentPrice": 106.57
   },
   {
     "exchange": "NYSE",
@@ -32,7 +20,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 106.6
+    "currentPrice": 106.57
   },
   {
     "exchange": "NYSE",
@@ -44,7 +32,30 @@
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 106.6
+    "currentPrice": 106.57
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
+    "numberOfShares": 5000000,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 106.6,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 106.57
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 45019000,
+    "sharePrice": 218.89,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false,
+    "currentPrice": 219.91
   },
   {
     "exchange": "NASDAQ",
@@ -56,7 +67,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 218.89
+    "currentPrice": 219.91
   },
   {
     "exchange": "NASDAQ",
@@ -68,17 +79,6 @@
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 218.89
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "TSLA-US",
-    "companyName": "Tesla",
-    "numberOfShares": 45019000,
-    "sharePrice": 218.89,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 218.89
+    "currentPrice": 219.91
   }
 ]
