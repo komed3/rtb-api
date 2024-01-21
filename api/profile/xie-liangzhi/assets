@@ -3,20 +3,30 @@
     "exchange": "SHENZHEN",
     "ticker": "301047-CN",
     "companyName": "Sino Biological",
-    "numberOfShares": 70579300,
-    "sharePrice": 10.045998415764533,
+    "numberOfShares": 70579000,
+    "sharePrice": 9.958021739734786,
     "currencyCode": "CNY",
-    "exchangeRate": 7.1959,
+    "exchangeRate": 7.1942,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "301047-CN",
+    "companyName": "Sino Biological",
+    "numberOfShares": -1800000,
+    "sharePrice": 9.958021739734786,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.1942,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "688520-CN",
     "companyName": "Sinocelltech Group",
-    "numberOfShares": 307500000,
-    "sharePrice": 6.414763962812157,
+    "numberOfShares": 308200000,
+    "sharePrice": 6.57752078062884,
     "currencyCode": "CNY",
-    "exchangeRate": 7.1959,
+    "exchangeRate": 7.1942,
     "interactive": false
   }
 ]
