@@ -4,9 +4,9 @@
     "ticker": "AX1-AU",
     "companyName": "Accent Group Ltd",
     "numberOfShares": 107502000,
-    "sharePrice": 1.3630078356489101,
+    "sharePrice": 1.344316309719934,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5187,
+    "exchangeRate": 1.5175,
     "interactive": false
   },
   {
@@ -14,19 +14,19 @@
     "ticker": "BST-AU",
     "companyName": "Best & Less Group",
     "numberOfShares": 20618000,
-    "sharePrice": 1.2346085467834333,
+    "sharePrice": 1.2355848434925865,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5187,
+    "exchangeRate": 1.5175,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "DSK-AU",
     "companyName": "Dusk Group",
-    "numberOfShares": 2717000,
-    "sharePrice": 0.6716270494501877,
+    "numberOfShares": 0,
+    "sharePrice": 0.672158154859967,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5187,
+    "exchangeRate": 1.5175,
     "interactive": false
   },
   {
@@ -34,17 +34,27 @@
     "ticker": "LOV-AU",
     "companyName": "Lovisa Holdings",
     "numberOfShares": 44100000,
-    "sharePrice": 14.953578718640944,
+    "sharePrice": 15.103789126853378,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5187,
+    "exchangeRate": 1.5175,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "QRC-CA",
+    "companyName": "Queens Road Capital",
+    "numberOfShares": 62426000,
+    "sharePrice": 0.5577867023650156,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3446,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "VSCO-US",
     "companyName": "Victoria's Secret & Company",
-    "numberOfShares": 8228000,
-    "sharePrice": 23.44,
+    "numberOfShares": 7247000,
+    "sharePrice": 24.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
