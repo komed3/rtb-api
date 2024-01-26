@@ -4,9 +4,9 @@
     "ticker": "600297-CN",
     "companyName": "China Grand Automotive",
     "numberOfShares": 1263000000,
-    "sharePrice": 0.20641562064156208,
+    "sharePrice": 0.212142358688067,
     "currencyCode": "CNY",
-    "exchangeRate": 7.17,
+    "exchangeRate": 7.165,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "600297-CN",
     "companyName": "China Grand Automotive",
     "numberOfShares": -299000000,
-    "sharePrice": 0.20641562064156208,
+    "sharePrice": 0.212142358688067,
     "currencyCode": "CNY",
-    "exchangeRate": 7.17,
+    "exchangeRate": 7.165,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "600256-CN",
     "companyName": "GUANGHUI ENERGY CO",
     "numberOfShares": 1123000000,
-    "sharePrice": 0.9721059972105996,
+    "sharePrice": 0.9923237962316819,
     "currencyCode": "CNY",
-    "exchangeRate": 7.17,
+    "exchangeRate": 7.165,
     "interactive": false
   },
   {
@@ -34,19 +34,9 @@
     "ticker": "600256-CN",
     "companyName": "GUANGHUI ENERGY CO",
     "numberOfShares": -61600000,
-    "sharePrice": 0.9721059972105996,
+    "sharePrice": 0.9923237962316819,
     "currencyCode": "CNY",
-    "exchangeRate": 7.17,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600603-CN",
-    "companyName": "Guanghui Logistics",
-    "numberOfShares": -84750000,
-    "sharePrice": 1.00139470013947,
-    "currencyCode": "CNY",
-    "exchangeRate": 7.17,
+    "exchangeRate": 7.165,
     "interactive": false
   },
   {
@@ -54,9 +44,19 @@
     "ticker": "600603-CN",
     "companyName": "Guanghui Logistics",
     "numberOfShares": 287062000,
-    "sharePrice": 1.00139470013947,
+    "sharePrice": 1.0048848569434752,
     "currencyCode": "CNY",
-    "exchangeRate": 7.17,
+    "exchangeRate": 7.165,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600603-CN",
+    "companyName": "Guanghui Logistics",
+    "numberOfShares": -84750000,
+    "sharePrice": 1.0048848569434752,
+    "currencyCode": "CNY",
+    "exchangeRate": 7.165,
     "interactive": false
   }
 ]

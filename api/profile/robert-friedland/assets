@@ -4,9 +4,9 @@
     "ticker": "SRL-AU",
     "companyName": "Clean Teq Holdings",
     "numberOfShares": 11978000,
-    "sharePrice": 0.24945841265673208,
+    "sharePrice": 0.24763917321534704,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5233,
+    "exchangeRate": 1.5143,
     "interactive": false
   },
   {
@@ -14,20 +14,9 @@
     "ticker": "CNQ-AU",
     "companyName": "Clean Teq Water",
     "numberOfShares": 11384000,
-    "sharePrice": 0.18381146195759207,
+    "sharePrice": 0.1948094829294063,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5233,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "IE-CA",
-    "companyName": "Ivanhoe Electric",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 0.6156813292782434,
-    "sharePrice": 9.034938060974705,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3481,
+    "exchangeRate": 1.5143,
     "interactive": false
   },
   {
@@ -35,19 +24,20 @@
     "ticker": "IE-CA",
     "companyName": "Ivanhoe Electric",
     "numberOfShares": 10984000,
-    "sharePrice": 9.034938060974705,
+    "sharePrice": 9.26887142221563,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3481,
+    "exchangeRate": 1.3486,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
-    "ticker": "IVN-CA",
-    "companyName": "Ivanhoe Mines Ltd.",
-    "numberOfShares": -8125000,
-    "sharePrice": 10.140197314739263,
+    "ticker": "IE-CA",
+    "companyName": "Ivanhoe Electric",
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 0.6154530624351179,
+    "sharePrice": 9.26887142221563,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3481,
+    "exchangeRate": 1.3486,
     "interactive": false
   },
   {
@@ -55,9 +45,19 @@
     "ticker": "IVN-CA",
     "companyName": "Ivanhoe Mines Ltd.",
     "numberOfShares": 162832000,
-    "sharePrice": 10.140197314739263,
+    "sharePrice": 10.625834198427999,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3481,
+    "exchangeRate": 1.3486,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "IVN-CA",
+    "companyName": "Ivanhoe Mines Ltd.",
+    "numberOfShares": -8125000,
+    "sharePrice": 10.625834198427999,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3486,
     "interactive": false
   },
   {
@@ -65,9 +65,9 @@
     "ticker": "PGD-CA",
     "companyName": "Peregrine Diamonds Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 0.1743194125064906,
+    "sharePrice": 0.17425478273765385,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3481,
+    "exchangeRate": 1.3486,
     "interactive": false
   },
   {

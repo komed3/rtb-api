@@ -4,9 +4,9 @@
     "ticker": "028260-KR",
     "companyName": "Cheil Industries",
     "numberOfShares": 6893000,
-    "sharePrice": 88.19889751378108,
+    "sharePrice": 87.80524288545679,
     "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
+    "exchangeRate": 1337.05,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "002810-KR",
     "companyName": "Sam Yung Trading Company",
     "numberOfShares": 0,
-    "sharePrice": 9.397382532718341,
+    "sharePrice": 9.356418982087432,
     "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
-    "interactive": false
-  },
-  {
-    "exchange": "KOREA",
-    "ticker": "005930-KR",
-    "companyName": "Samsung Electronics",
-    "numberOfShares": -13200000,
-    "sharePrice": 56.399295008812395,
-    "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
+    "exchangeRate": 1337.05,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "005930-KR",
     "companyName": "Samsung Electronics",
     "numberOfShares": 55532000,
-    "sharePrice": 56.399295008812395,
+    "sharePrice": 55.34572379492166,
     "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
+    "exchangeRate": 1337.05,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "005930-KR",
+    "companyName": "Samsung Electronics",
+    "numberOfShares": -13200000,
+    "sharePrice": 55.34572379492166,
+    "currencyCode": "KRW",
+    "exchangeRate": 1337.05,
     "interactive": false
   },
   {
@@ -44,19 +44,9 @@
     "ticker": "032830-KR",
     "companyName": "Samsung Life Insurance",
     "numberOfShares": 3460000,
-    "sharePrice": 46.57441781977725,
+    "sharePrice": 46.81949066975805,
     "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
-    "interactive": false
-  },
-  {
-    "exchange": "KOREA",
-    "ticker": "018260-KR",
-    "companyName": "Samsung SDS",
-    "numberOfShares": -717000,
-    "sharePrice": 122.62346720665992,
-    "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
+    "exchangeRate": 1337.05,
     "interactive": false
   },
   {
@@ -64,9 +54,19 @@
     "ticker": "018260-KR",
     "companyName": "Samsung SDS",
     "numberOfShares": 1511000,
-    "sharePrice": 122.62346720665992,
+    "sharePrice": 118.61934856587263,
     "currencyCode": "KRW",
-    "exchangeRate": 1333.35,
+    "exchangeRate": 1337.05,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "018260-KR",
+    "companyName": "Samsung SDS",
+    "numberOfShares": -717000,
+    "sharePrice": 118.61934856587263,
+    "currencyCode": "KRW",
+    "exchangeRate": 1337.05,
     "interactive": false
   }
 ]

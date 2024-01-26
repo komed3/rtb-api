@@ -4,7 +4,7 @@
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
     "numberOfShares": 4000000,
-    "sharePrice": 59.85,
+    "sharePrice": 58.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "EXPE-US",
     "companyName": "Expedia",
     "numberOfShares": 5184000,
-    "sharePrice": 148.5,
+    "sharePrice": 148.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,18 +25,7 @@
     "companyName": "Expedia",
     "numberOfShares": 150000,
     "exerciseOptionPrice": 119.04,
-    "sharePrice": 148.5,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "IAC-US",
-    "companyName": "IAC/InterActiveCorp.",
-    "numberOfShares": 500000,
-    "exerciseOptionPrice": 17.1397,
-    "sharePrice": 51.75,
+    "sharePrice": 148.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -46,7 +35,7 @@
     "ticker": "IAC-US",
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 6099000,
-    "sharePrice": 51.75,
+    "sharePrice": 50.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -57,7 +46,18 @@
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 500000,
     "exerciseOptionPrice": 13.7121,
-    "sharePrice": 51.75,
+    "sharePrice": 50.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IAC-US",
+    "companyName": "IAC/InterActiveCorp.",
+    "numberOfShares": 500000,
+    "exerciseOptionPrice": 17.1397,
+    "sharePrice": 50.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -67,7 +67,7 @@
     "ticker": "VMEO-US",
     "companyName": "Vimeo",
     "numberOfShares": 9902000,
-    "sharePrice": 3.68,
+    "sharePrice": 3.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -78,7 +78,7 @@
     "companyName": "Vimeo",
     "numberOfShares": 811750,
     "exerciseOptionPrice": 4.2488,
-    "sharePrice": 3.68,
+    "sharePrice": 3.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -89,7 +89,7 @@
     "companyName": "Vimeo",
     "numberOfShares": 811750,
     "exerciseOptionPrice": 5.3109,
-    "sharePrice": 3.68,
+    "sharePrice": 3.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
