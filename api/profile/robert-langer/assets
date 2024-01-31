@@ -4,7 +4,7 @@
     "ticker": "KRRO-US",
     "companyName": "Korro Bio",
     "numberOfShares": 4800,
-    "sharePrice": 50.38,
+    "sharePrice": 49.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "LYRA-US",
     "companyName": "Lyra Therapeutics",
     "numberOfShares": 15167,
-    "sharePrice": 4.83,
+    "sharePrice": 4.85,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,17 +24,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11510000,
-    "sharePrice": 101.81,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 702000,
-    "sharePrice": 1.77,
+    "sharePrice": 104.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -45,7 +35,7 @@
     "companyName": "Seer",
     "numberOfShares": 104048,
     "exerciseOptionPrice": 0.05,
-    "sharePrice": 1.77,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +46,7 @@
     "companyName": "Seer",
     "numberOfShares": 36085,
     "exerciseOptionPrice": 2.7,
-    "sharePrice": 1.77,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -67,7 +57,7 @@
     "companyName": "Seer",
     "numberOfShares": 278580,
     "exerciseOptionPrice": 3.47,
-    "sharePrice": 1.77,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -78,7 +68,17 @@
     "companyName": "Seer",
     "numberOfShares": 18691,
     "exerciseOptionPrice": 19,
-    "sharePrice": 1.77,
+    "sharePrice": 1.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 702000,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -98,7 +98,7 @@
     "ticker": "SQZB-US",
     "companyName": "SQZ Biotechnologies",
     "numberOfShares": 244000,
-    "sharePrice": 0.035,
+    "sharePrice": 0.036,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
