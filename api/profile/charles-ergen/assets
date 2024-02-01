@@ -3,8 +3,7 @@
     "exchange": "NASDAQ",
     "ticker": "CONX-US",
     "companyName": "CONX Corp.",
-    "numberOfShares": 10200000,
-    "exerciseOptionPrice": 11.5,
+    "numberOfShares": 16875000,
     "sharePrice": 10.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -14,19 +13,9 @@
     "exchange": "NASDAQ",
     "ticker": "CONX-US",
     "companyName": "CONX Corp.",
-    "numberOfShares": 16875000,
+    "numberOfShares": 10200000,
+    "exerciseOptionPrice": 11.5,
     "sharePrice": 10.6,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "DISH-US",
-    "companyName": "DISH Network Corp. (Cl A)",
-    "numberOfShares": 2500000,
-    "exerciseOptionPrice": 27.71,
-    "sharePrice": 5.77,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,10 +43,21 @@
   },
   {
     "exchange": "NASDAQ",
+    "ticker": "DISH-US",
+    "companyName": "DISH Network Corp. (Cl A)",
+    "numberOfShares": 2500000,
+    "exerciseOptionPrice": 27.71,
+    "sharePrice": 5.77,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "SATS-US",
     "companyName": "Echostar Communications Corp",
     "numberOfShares": 49899432,
-    "sharePrice": 13.8,
+    "sharePrice": 13.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -68,7 +68,7 @@
     "companyName": "Echostar Communications Corp",
     "numberOfShares": 575000,
     "exerciseOptionPrice": 56.95,
-    "sharePrice": 13.8,
+    "sharePrice": 13.65,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
