@@ -4,9 +4,19 @@
     "ticker": "BTI-AU",
     "companyName": "Bailador Technology Investments",
     "numberOfShares": 2000000,
-    "sharePrice": 0.8494744496595491,
+    "sharePrice": 0.844406624337239,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5127,
+    "exchangeRate": 1.5277,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "DHG-AU",
+    "companyName": "Domain Holdings Australia",
+    "numberOfShares": 250000,
+    "sharePrice": 2.1862931203770373,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.5277,
     "interactive": false
   },
   {
@@ -14,7 +24,7 @@
     "ticker": "DPZ-US",
     "companyName": "Domino's Pizza",
     "numberOfShares": 100000,
-    "sharePrice": 426.22,
+    "sharePrice": 433.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,9 +34,9 @@
     "ticker": "DMP-AU",
     "companyName": "Domino's Pizza Enterprises",
     "numberOfShares": 23066000,
-    "sharePrice": 26.211410061479473,
+    "sharePrice": 26.582444197159127,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5127,
+    "exchangeRate": 1.5277,
     "interactive": false
   },
   {
@@ -34,29 +44,9 @@
     "ticker": "DOM-GB",
     "companyName": "Domino's Pizza Group Plc",
     "numberOfShares": 96000,
-    "sharePrice": 4.474723035782503,
+    "sharePrice": 4.403855910705226,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7853,
-    "interactive": false
-  },
-  {
-    "exchange": "ASX",
-    "ticker": "FXJ-AU",
-    "companyName": "Fairfax Media",
-    "numberOfShares": 3000000,
-    "sharePrice": 0.4363059430157996,
-    "currencyCode": "AUD",
-    "exchangeRate": 1.5127,
-    "interactive": false
-  },
-  {
-    "exchange": "ASX",
-    "ticker": "MAF-AU",
-    "companyName": "MA Financial Group",
-    "numberOfShares": 0,
-    "sharePrice": 3.867257222185496,
-    "currencyCode": "AUD",
-    "exchangeRate": 1.5127,
+    "exchangeRate": 0.7884,
     "interactive": false
   },
   {
@@ -64,19 +54,19 @@
     "ticker": "NEC-AU",
     "companyName": "Nine Entertainment Co. Holdings",
     "numberOfShares": 1000000,
-    "sharePrice": 1.3089178290473988,
+    "sharePrice": 1.2633370426130783,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5127,
+    "exchangeRate": 1.5277,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "QRC-CA",
     "companyName": "Queens Road Capital",
-    "numberOfShares": 71458000,
-    "sharePrice": 0.5988023952095808,
+    "numberOfShares": 114563000,
+    "sharePrice": 0.6411212166393321,
     "currencyCode": "CAD",
-    "exchangeRate": 1.336,
+    "exchangeRate": 1.3414,
     "interactive": false
   }
 ]
