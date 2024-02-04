@@ -101,7 +101,8 @@ Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 | ``/api/filter/woman`` | List of woman billionaires | | x | |
 | ``/api/filter/young`` | List of young billionaires (under 50) | | x | |
 | ``/api/filter/old`` | List of old billionaires (over 80) | | x | |
-| ``/api/filter/deceased`` | List of deceased billionaires | | x | |
 | ``/api/filter/selfMade`` | List of self-made billionaires | | x | |
+| ``/api/filter/dropped`` | List of dropped off billionaires | | x | |
+| ``/api/filter/deceased`` | List of deceased billionaires | | x | |
 
 The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
