@@ -4,19 +4,27 @@
     "ticker": "CSU-CA",
     "companyName": "Constellation Software",
     "numberOfShares": 1430000,
-    "sharePrice": 2793.2458625316835,
+    "sharePrice": 2817.2229242548133,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3414,
+    "exchangeRate": 1.3453,
+    "interactive": false
+  },
+  {
+    "companyName": "Lumine Group",
+    "numberOfShares": 4291000,
+    "sharePrice": 0,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3453,
     "interactive": false
   },
   {
     "exchange": "TSX VENTURE",
     "ticker": "TOI-CA",
     "companyName": "Topicus.com",
-    "numberOfShares": 2663000,
-    "sharePrice": 78.328611898017,
+    "numberOfShares": 0,
+    "sharePrice": 79.61792908644912,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3414,
+    "exchangeRate": 1.3453,
     "interactive": false
   }
 ]
