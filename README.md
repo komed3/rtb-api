@@ -79,13 +79,17 @@ The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are d
 | REQUEST | Description | String | JSON | CSV |
 |---------|-------------|:------:|:----:|:---:|
 | ``/api/movers/pct/winner/{DATE}`` | Winners in percent as of date | | x | |
-| ``/api/movers/pct/winner/loser`` | Latest winners in percent | | x | |
+| ``/api/movers/pct/winner/latest`` | Latest winners in percent | | x | |
+| ``/api/movers/pct/winner/_list`` | List of daily top winners in percent | | | x |
 | ``/api/movers/pct/loser/{DATE}`` | Losers in percent as of date | | x | |
 | ``/api/movers/pct/loser/latest`` | Latest losers in percent | | x | |
+| ``/api/movers/pct/loser/_list`` | List of daily top losers in percent | | | x |
 | ``/api/movers/value/winner/{DATE}`` | Winners in net worth as of date | | x | |
-| ``/api/movers/value/winner/loser`` | Latest winners in net worth | | x | |
+| ``/api/movers/value/winner/latest`` | Latest winners in net worth | | x | |
+| ``/api/movers/value/winner/_list`` | List of daily top winners in net worth | | | x |
 | ``/api/movers/value/loser/{DATE}`` | Losers in net worth as of date | | x | |
 | ``/api/movers/value/loser/latest`` | Latest losers in net worth | | x | |
+| ``/api/movers/value/loser/_list`` | List of daily top losers in net worth | | | x |
 
 Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 
