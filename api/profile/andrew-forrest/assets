@@ -3,20 +3,20 @@
     "exchange": "ASX",
     "ticker": "ASB-AU",
     "companyName": "Austal",
-    "numberOfShares": 64459999.99999999,
-    "sharePrice": 1.2756279253741183,
+    "numberOfShares": 35537000,
+    "sharePrice": 1.3298565840938723,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "AAC-AU",
     "companyName": "Australian Agricultural Co. Ltd.",
-    "numberOfShares": 113396000,
-    "sharePrice": 0.9624892873623838,
+    "numberOfShares": 111397000,
+    "sharePrice": 0.9485006518904824,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
@@ -24,19 +24,19 @@
     "ticker": "BGA-AU",
     "companyName": "Bega Cheese",
     "numberOfShares": 34877000,
-    "sharePrice": 2.458962357439515,
+    "sharePrice": 2.4445893089960884,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "BWX-AU",
     "companyName": "BWX Ltd.",
-    "numberOfShares": 36586000,
-    "sharePrice": 0.1318478475838882,
+    "numberOfShares": 0,
+    "sharePrice": 0.1303780964797914,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "EMD-AU",
     "companyName": "Emyria",
     "numberOfShares": 20140000,
-    "sharePrice": 0.03428044037181093,
+    "sharePrice": 0.035202086049543675,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
@@ -54,37 +54,47 @@
     "ticker": "FMG-AU",
     "companyName": "Fortescue Metals Group, Australia",
     "numberOfShares": 1131365000,
-    "sharePrice": 19.28274770914365,
+    "sharePrice": 19.38070404172099,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "IXC-AU",
+    "companyName": "Invex Therapeutics",
+    "numberOfShares": 8846000,
+    "sharePrice": 0.05410691003911343,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "MCR-AU",
     "companyName": "Mincor Resources",
-    "numberOfShares": 105756000,
-    "sharePrice": 0.9130463445184258,
+    "numberOfShares": 0,
+    "sharePrice": 0.9028683181225554,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "POS-AU",
     "companyName": "Poseidon Nickel",
-    "numberOfShares": 95817000,
-    "sharePrice": 0.005273913903355528,
+    "numberOfShares": 0,
+    "sharePrice": 0.0045632333767926985,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "QRC-CA",
     "companyName": "Queens Road Capital",
-    "numberOfShares": 114473000,
-    "sharePrice": 0.5426298966773211,
+    "numberOfShares": 112844000,
+    "sharePrice": 0.6318293317475656,
     "currencyCode": "CAD",
     "exchangeRate": 1.3453,
     "interactive": false
@@ -93,20 +103,20 @@
     "exchange": "ASX",
     "ticker": "SWP-AU",
     "companyName": "Swoop Holdings",
-    "numberOfShares": 31600000,
-    "sharePrice": 0.1384402399630826,
+    "numberOfShares": 0,
+    "sharePrice": 0.14993481095176012,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "VMY-AU",
     "companyName": "Vimy Resources",
-    "numberOfShares": 52550000,
-    "sharePrice": 0.1252554552046938,
+    "numberOfShares": 0,
+    "sharePrice": 0.12385919165580182,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5169,
+    "exchangeRate": 1.534,
     "interactive": false
   }
 ]
