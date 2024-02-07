@@ -4,7 +4,7 @@
     "ticker": "KRRO-US",
     "companyName": "Korro Bio",
     "numberOfShares": 4800,
-    "sharePrice": 53.35,
+    "sharePrice": 69.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "LYRA-US",
     "companyName": "Lyra Therapeutics",
     "numberOfShares": 15167,
-    "sharePrice": 4.68,
+    "sharePrice": 4.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,50 +24,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11510000,
-    "sharePrice": 97.5,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 702000,
-    "sharePrice": 1.71,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 104048,
-    "exerciseOptionPrice": 0.05,
-    "sharePrice": 1.71,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 36085,
-    "exerciseOptionPrice": 2.7,
-    "sharePrice": 1.71,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 278580,
-    "exerciseOptionPrice": 3.47,
-    "sharePrice": 1.71,
+    "sharePrice": 95.49,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -78,7 +35,50 @@
     "companyName": "Seer",
     "numberOfShares": 18691,
     "exerciseOptionPrice": 19,
-    "sharePrice": 1.71,
+    "sharePrice": 1.67,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 702000,
+    "sharePrice": 1.67,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 104048,
+    "exerciseOptionPrice": 0.05,
+    "sharePrice": 1.67,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 36085,
+    "exerciseOptionPrice": 2.7,
+    "sharePrice": 1.67,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 278580,
+    "exerciseOptionPrice": 3.47,
+    "sharePrice": 1.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
