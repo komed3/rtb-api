@@ -4,6 +4,8 @@ This repository contains profile and list data from Forbes’ real-time billiona
 
 This data can be used unlimited and without any limitation.
 
+Take a look on how the API data can be used by visiting [realtimebillionaires.de](https://realtimebillionaires.de)
+
 ## API
 
 Requests can be done by using jsDelivr:
