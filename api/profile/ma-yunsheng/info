@@ -1,17 +1,19 @@
 {
   "uri": "ma-yunsheng",
   "name": "Ma Yunsheng",
-  "birthDate": null,
+  "birthDate": "1962-12-01",
   "family": false,
-  "gender": null,
-  "citizenship": null,
+  "gender": "m",
+  "citizenship": "cn",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "Binzhou",
+    "state": "Shandong"
   },
-  "industry": [],
+  "industry": [
+    "diversified"
+  ],
   "source": [
-    ""
+    "energy"
   ],
   "deceased": false,
   "children": 0,
