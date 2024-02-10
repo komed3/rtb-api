@@ -10,7 +10,7 @@ Take a look on how the API data can be used by visiting [realtimebillionaires.de
 
 Requests can be done by using jsDelivr:
 
-``https://cdn.jsdelivr.net/gh/komed3/rtb-api@main{REQUEST}/api/``
+``https://cdn.jsdelivr.net/gh/komed3/rtb-api@main/api/{REQUEST}``
 
 As ``{REQUEST}`` use one of the paths below.
 
