@@ -50,10 +50,10 @@ The ``{URI}`` argument is described in the profiles index and is unique to each 
 | REQUEST | Description | String | JSON | CSV |
 |---------|-------------|:------:|:----:|:---:|
 | ``/api/list/_index`` | Available lists index | | x | |
-| ``/api/list/rtb/{DATE}`` | Real-time list as of passed date | | x | |
-| ``/api/list/rtb/latest`` | Latest real-time list | | x | |
+| ``/api/list/{LIST}/{DATE}`` | Real-time list as of passed date | | x | |
+| ``/api/list/{LIST}/latest`` | Latest real-time list | | x | |
 
-Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
+The ``{LIST}`` argument is described in the lists index. Use ``{DATE}`` format ``YYYY-MM-DD`` for available days.
 
 ### Stats
 
