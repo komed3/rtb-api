@@ -4,21 +4,21 @@
     "ticker": "AAPL-US",
     "companyName": "Apple",
     "numberOfShares": 45000000,
-    "sharePrice": 189.3,
+    "sharePrice": 182.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 189.41
+    "currentPrice": 182.31
   },
   {
     "exchange": "NYSE",
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
     "numberOfShares": 5940000,
-    "sharePrice": 99.29,
+    "sharePrice": 111.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 99.14
+    "currentPrice": 111.6
   }
 ]

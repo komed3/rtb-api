@@ -1,0 +1,39 @@
+{
+  "uri": "fung-victor",
+  "name": "Fung Victor",
+  "birthDate": "1945-10-16",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong",
+    "zipCode": "518010"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Sourcing"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
+}

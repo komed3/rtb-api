@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "BIRK-US",
+    "companyName": "Birkenstock Holding",
+    "numberOfShares": 10352863,
+    "sharePrice": 49.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "EURONEXT PARIS",
     "ticker": "CA-FR",
     "companyName": "Carrefour S.A.",
     "numberOfShares": 0,
-    "sharePrice": 16.958530296519125,
+    "sharePrice": 16.383024558380008,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9308,
+    "exchangeRate": 0.9284,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "RMS-FR",
     "companyName": "Hermes International S.C.A.",
     "numberOfShares": 1974000,
-    "sharePrice": 2167.490330898152,
+    "sharePrice": 2368.591124515295,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9308,
+    "exchangeRate": 0.9284,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "MC-FR",
     "companyName": "LVMH Moet Hennessy Louis Vuitton",
     "numberOfShares": 238595432,
-    "sharePrice": 837.4516544907607,
+    "sharePrice": 878.7160706591985,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9308,
+    "exchangeRate": 0.9284,
     "interactive": false
   }
 ]

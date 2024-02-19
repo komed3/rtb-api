@@ -1,0 +1,39 @@
+{
+  "uri": "william-fung",
+  "name": "William Fung",
+  "birthDate": "1949-02-21",
+  "family": false,
+  "gender": "m",
+  "citizenship": "hk",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Sourcing"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c705c7aa7ea431000433675/416x416.jpg?background=000000&cropX1=147&cropX2=776&cropY1=0&cropY2=629",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Princeton University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

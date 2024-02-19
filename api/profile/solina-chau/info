@@ -1,0 +1,38 @@
+{
+  "uri": "solina-chau",
+  "name": "Solina Chau",
+  "birthDate": "1961-07-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "hk",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Investment"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5deeca06afc4a40007e734bc/416x416.jpg?background=000000&cropX1=46&cropX2=285&cropY1=21&cropY2=260",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of New South Wales",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Li Ka Shing Foundation",
+    "title": "Director"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

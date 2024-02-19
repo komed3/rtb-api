@@ -1,0 +1,29 @@
+{
+  "uri": "naresh-jain",
+  "name": "Naresh Jain",
+  "birthDate": "1935-02-11",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "Auto components"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
+}

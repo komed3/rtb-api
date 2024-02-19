@@ -3,8 +3,18 @@
     "exchange": "NYSE",
     "ticker": "MNSO-US",
     "companyName": "Miniso Group Holdings ADR",
-    "numberOfShares": 66450000,
-    "sharePrice": 16.72,
+    "numberOfShares": 132000000,
+    "sharePrice": 17.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MNSO-US",
+    "companyName": "Miniso Group Holdings ADR",
+    "numberOfShares": -65200000,
+    "sharePrice": 17.96,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
