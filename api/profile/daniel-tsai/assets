@@ -1,12 +1,32 @@
 [
   {
     "exchange": "TAIWAN",
+    "ticker": "6901-TW",
+    "companyName": "Diamond Biofund",
+    "numberOfShares": 117319000,
+    "sharePrice": 1.408539866426107,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.593,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
     "ticker": "2881-TW",
     "companyName": "Fubon Financial Holding",
-    "numberOfShares": 1502302200,
-    "sharePrice": 2.1017046451180814,
+    "numberOfShares": 1509567000,
+    "sharePrice": 2.117557686829361,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MOMO-US",
+    "companyName": "Momo Inc",
+    "numberOfShares": 500000,
+    "sharePrice": 6.73,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -14,9 +34,9 @@
     "ticker": "3045-TW",
     "companyName": "Taiwan Mobile",
     "numberOfShares": 204725000,
-    "sharePrice": 3.1254484859115625,
+    "sharePrice": 3.1367708036590383,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   }
 ]

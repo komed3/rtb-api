@@ -14,9 +14,9 @@
     "ticker": "CLIS-IL",
     "companyName": "Clal Insurance Enterprises Holdings",
     "numberOfShares": 0,
-    "sharePrice": 16.76417579370581,
+    "sharePrice": 18.5074876134276,
     "currencyCode": "ILS",
-    "exchangeRate": 3.6065,
+    "exchangeRate": 3.5926,
     "interactive": false
   },
   {
@@ -24,7 +24,7 @@
     "ticker": "DOCN-US",
     "companyName": "DigitalOcean",
     "numberOfShares": 762000,
-    "sharePrice": 40.3,
+    "sharePrice": 37.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "KROS-US",
     "companyName": "Keros Therapeutics",
     "numberOfShares": 1602000,
-    "sharePrice": 59.49,
+    "sharePrice": 68.07,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,9 +44,19 @@
     "ticker": "NVLG-IL",
     "companyName": "Novolog",
     "numberOfShares": 42308000,
-    "sharePrice": 0.39539719950090113,
+    "sharePrice": 0.39637031676223344,
     "currencyCode": "ILS",
-    "exchangeRate": 3.6065,
+    "exchangeRate": 3.5926,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "ODYS-US",
+    "companyName": "Odysight.ai Inc.",
+    "numberOfShares": 372000,
+    "sharePrice": 2.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -60,21 +70,11 @@
     "interactive": false
   },
   {
-    "exchange": "US OTC",
-    "ticker": "ODYS-US",
-    "companyName": "ScoutCam",
-    "numberOfShares": 372000,
-    "sharePrice": 0,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "NASDAQ",
     "ticker": "SLGL-US",
     "companyName": "Sol-Gel Technologies",
     "numberOfShares": 14155000,
-    "sharePrice": 1.17,
+    "sharePrice": 1.18,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "SG-US",
     "companyName": "Sweetgreen",
     "numberOfShares": 372000,
-    "sharePrice": 12.32,
+    "sharePrice": 12.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,7 +94,7 @@
     "ticker": "URGN-US",
     "companyName": "UroGen Pharma",
     "numberOfShares": 1369000,
-    "sharePrice": 19.33,
+    "sharePrice": 18.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

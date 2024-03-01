@@ -1,0 +1,34 @@
+{
+  "uri": "park-soon-jae",
+  "name": "Park Soon-jae",
+  "birthDate": "1954-12-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "kr",
+  "residence": {
+    "country": "kr",
+    "state": null,
+    "city": "Daejeon"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Biopharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Purdue University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

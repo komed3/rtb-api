@@ -3,8 +3,19 @@
     "exchange": "NASDAQ",
     "ticker": "CRWD-US",
     "companyName": "CrowdStrike Holdings",
-    "numberOfShares": 13037000,
-    "sharePrice": 329.24,
+    "numberOfShares": 8500000,
+    "sharePrice": 320.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRWD-US",
+    "companyName": "CrowdStrike Holdings",
+    "numberOfShares": 351000,
+    "exerciseOptionPrice": 11.13,
+    "sharePrice": 320.94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +25,7 @@
     "ticker": "HPE-US",
     "companyName": "Hewlett Packard Enterprise",
     "numberOfShares": 35400,
-    "sharePrice": 14.93,
+    "sharePrice": 14.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

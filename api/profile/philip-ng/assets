@@ -1,52 +1,62 @@
 [
   {
     "exchange": "SINGAPORE",
+    "ticker": "B58-SG",
+    "companyName": "Banyan Tree Holdings Ltd.",
+    "numberOfShares": 21750000,
+    "sharePrice": 0.24134858161295114,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.3466,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
     "ticker": "Q5T-SG",
     "companyName": "Far East Hospitality Trust",
-    "numberOfShares": 614986000,
-    "sharePrice": 0.48284058832268606,
+    "numberOfShares": 469621000,
+    "sharePrice": 0.4567057775137383,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3462,
+    "exchangeRate": 1.3466,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "O10-SG",
     "companyName": "Far East Orchard",
-    "numberOfShares": 73108000,
-    "sharePrice": 0.7651166245728718,
+    "numberOfShares": 75158000,
+    "sharePrice": 0.7648893509579682,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3462,
+    "exchangeRate": 1.3466,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "1221-HK",
     "companyName": "Sino Hotels Ltd.",
-    "numberOfShares": 276591000,
-    "sharePrice": 0.21990385598854453,
+    "numberOfShares": 275568000,
+    "sharePrice": 0.22229035719760845,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8216,
+    "exchangeRate": 7.8276,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "83-HK",
     "companyName": "Sino Land Co. Ltd.",
-    "numberOfShares": 122720000,
-    "sharePrice": 1.035593740411169,
+    "numberOfShares": 126848000,
+    "sharePrice": 1.0820685778527264,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8216,
+    "exchangeRate": 7.8276,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "247-HK",
     "companyName": "Tsim Sha Tsui Properties Ltd.",
-    "numberOfShares": 739576000,
-    "sharePrice": 2.45474071801166,
+    "numberOfShares": 761620000,
+    "sharePrice": 2.440083806019725,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8216,
+    "exchangeRate": 7.8276,
     "interactive": false
   },
   {
@@ -54,9 +64,9 @@
     "ticker": "Y03-SG",
     "companyName": "Yeo Hiap Seng Ltd.",
     "numberOfShares": 137609000,
-    "sharePrice": 0.41969989600356555,
+    "sharePrice": 0.4270013366998366,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3462,
+    "exchangeRate": 1.3466,
     "interactive": false
   }
 ]

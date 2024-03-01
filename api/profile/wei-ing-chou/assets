@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "TAIWAN",
+    "ticker": "3045-TW",
+    "companyName": "Taiwan Mobile",
+    "numberOfShares": 45220000,
+    "sharePrice": 3.1367708036590383,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.593,
+    "interactive": false
+  },
+  {
     "exchange": "HONG KONG",
     "ticker": "322-HK",
     "companyName": "Tingyi",
-    "numberOfShares": 478600000,
-    "sharePrice": 1.0228086325048584,
+    "numberOfShares": 484670000,
+    "sharePrice": 1.079513516275742,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8216,
+    "exchangeRate": 7.8276,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "1201-TW",
     "companyName": "Wei-Chuan",
     "numberOfShares": 50831000,
-    "sharePrice": 0.5947919822678637,
+    "sharePrice": 0.5934858987750451,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   }
 ]

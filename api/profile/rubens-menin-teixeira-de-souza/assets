@@ -1,22 +1,32 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "INTR-US",
+    "companyName": "Inter & Co.",
+    "numberOfShares": 117037000,
+    "sharePrice": 5.7,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "SAO PAULO",
     "ticker": "LOGG3-BR",
     "companyName": "LOG Commercial Properties",
-    "numberOfShares": 33605000,
-    "sharePrice": 4.118831822759315,
+    "numberOfShares": 36753000,
+    "sharePrice": 4.4190645304491705,
     "currencyCode": "BRL",
-    "exchangeRate": 4.965,
+    "exchangeRate": 4.9558,
     "interactive": false
   },
   {
     "exchange": "SAO PAULO",
     "ticker": "MRVE3-BR",
     "companyName": "MRV Engenharia e Participacoes S/A",
-    "numberOfShares": 174859000,
-    "sharePrice": 1.4702920443101712,
+    "numberOfShares": 181900000,
+    "sharePrice": 1.5840025828322368,
     "currencyCode": "BRL",
-    "exchangeRate": 4.965,
+    "exchangeRate": 4.9558,
     "interactive": false
   }
 ]

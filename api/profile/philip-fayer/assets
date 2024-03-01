@@ -3,10 +3,21 @@
     "exchange": "TORONTO",
     "ticker": "NVEI-CA",
     "companyName": "Nuvei Corp",
-    "numberOfShares": 27857000,
-    "sharePrice": 26.557522779465145,
+    "numberOfShares": 27982000,
+    "sharePrice": 26.087277016069585,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3499,
+    "exchangeRate": 1.3566,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "NVEI-CA",
+    "companyName": "Nuvei Corp",
+    "numberOfShares": 139000,
+    "exerciseOptionPrice": 34.80023588382721,
+    "sharePrice": 26.087277016069585,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3566,
     "interactive": false
   }
 ]

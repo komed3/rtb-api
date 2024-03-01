@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "TAIWAN",
+    "ticker": "6901-TW",
+    "companyName": "Diamond Biofund",
+    "numberOfShares": 6100000,
+    "sharePrice": 1.408539866426107,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.593,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "GGR-US",
     "companyName": "Gogoro",
     "numberOfShares": 27176000,
-    "sharePrice": 1.98,
+    "sharePrice": 1.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,10 +23,10 @@
     "exchange": "TAIWAN",
     "ticker": "9945-TW",
     "companyName": "Ruentex Development Co. Ltd.",
-    "numberOfShares": 554967900,
-    "sharePrice": 1.1545023998979447,
+    "numberOfShares": 558000000,
+    "sharePrice": 1.1458234419016873,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
@@ -24,19 +34,19 @@
     "ticker": "9945-TW",
     "companyName": "Ruentex Development Co. Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 1.1545023998979447,
+    "sharePrice": 1.1458234419016873,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "2597-TW",
     "companyName": "Ruentex Engineering & Construction",
-    "numberOfShares": 37748000,
-    "sharePrice": 3.811133612922773,
+    "numberOfShares": 39358000,
+    "sharePrice": 3.8774412053302947,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
@@ -44,19 +54,19 @@
     "ticker": "2597-TW",
     "companyName": "Ruentex Engineering & Construction",
     "numberOfShares": 0,
-    "sharePrice": 3.811133612922773,
+    "sharePrice": 3.8774412053302947,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "2915-TW",
     "companyName": "Ruentex Industries Ltd.",
-    "numberOfShares": 287785000,
-    "sharePrice": 1.9262968219291672,
+    "numberOfShares": 273150000,
+    "sharePrice": 1.8833285854461432,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
@@ -64,9 +74,9 @@
     "ticker": "2915-TW",
     "companyName": "Ruentex Industries Ltd.",
     "numberOfShares": 0,
-    "sharePrice": 1.9262968219291672,
+    "sharePrice": 1.8833285854461432,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
@@ -74,9 +84,9 @@
     "ticker": "8463-TW",
     "companyName": "Ruentex Materials",
     "numberOfShares": 21064000,
-    "sharePrice": 0.8036867535201161,
+    "sharePrice": 0.7913145317000602,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
     "interactive": false
   },
   {
@@ -84,19 +94,29 @@
     "ticker": "6808-HK",
     "companyName": "Sun Art Retail Group Limited",
     "numberOfShares": 0,
-    "sharePrice": 0.16492789199140842,
+    "sharePrice": 0.1584138177730083,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8216,
+    "exchangeRate": 7.8276,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "8341-TW",
     "companyName": "Sunny Friend Environmental Technology",
-    "numberOfShares": 5627610,
-    "sharePrice": 3.3646409720782637,
+    "numberOfShares": 5400000,
+    "sharePrice": 3.2918684518722503,
     "currencyCode": "TWD",
-    "exchangeRate": 31.3555,
+    "exchangeRate": 31.593,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "6541-TW",
+    "companyName": "Tanvex BioPharma",
+    "numberOfShares": 35080000,
+    "sharePrice": 2.009938910518153,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.593,
     "interactive": false
   }
 ]
