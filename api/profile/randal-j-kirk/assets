@@ -1,10 +1,60 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "ABBV-US",
+    "companyName": "AbbVie Inc.",
+    "numberOfShares": 33000,
+    "sharePrice": 180.57,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "TCRT-US",
     "companyName": "Alaunos Therapeutics",
-    "numberOfShares": 1139,
-    "sharePrice": 2.35,
+    "numberOfShares": 0,
+    "sharePrice": 1.89,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOGL-US",
+    "companyName": "Alphabet",
+    "numberOfShares": 37000,
+    "sharePrice": 134.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MO-US",
+    "companyName": "Altria Group Inc.",
+    "numberOfShares": 95000,
+    "sharePrice": 41.55,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AMZN-US",
+    "companyName": "Amazon",
+    "numberOfShares": 22000,
+    "sharePrice": 176.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AAPL-US",
+    "companyName": "Apple",
+    "numberOfShares": 30000,
+    "sharePrice": 169,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +63,48 @@
     "exchange": "NASDAQ",
     "ticker": "AQB-US",
     "companyName": "Aquabounty Technologies",
-    "numberOfShares": 605750,
-    "sharePrice": 2.44,
+    "numberOfShares": 4496000,
+    "sharePrice": 2.29,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CVX-US",
+    "companyName": "Chevron Corp.",
+    "numberOfShares": 18000,
+    "sharePrice": 149.37,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CSCO-US",
+    "companyName": "Cisco Systems Inc.",
+    "numberOfShares": 30000,
+    "sharePrice": 48.9,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "D-US",
+    "companyName": "Dominion Resources Inc. (Virginia)",
+    "numberOfShares": 34000,
+    "sharePrice": 47.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "DOW-US",
+    "companyName": "DOW - Dow Chemical Company",
+    "numberOfShares": 36000,
+    "sharePrice": 56.94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -23,8 +113,8 @@
     "exchange": "NYSE",
     "ticker": "EBS-US",
     "companyName": "Emergent Biosolutions",
-    "numberOfShares": 3000,
-    "sharePrice": 3.2,
+    "numberOfShares": 0,
+    "sharePrice": 2.77,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -33,8 +123,8 @@
     "exchange": "NYSE",
     "ticker": "ET-US",
     "companyName": "Energy Transfer Equity L.P.",
-    "numberOfShares": 913000,
-    "sharePrice": 14.53,
+    "numberOfShares": 0,
+    "sharePrice": 15.19,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -43,8 +133,18 @@
     "exchange": "NYSE",
     "ticker": "EPD-US",
     "companyName": "Enterprise Products Partners L.P.",
-    "numberOfShares": 965000,
-    "sharePrice": 27.39,
+    "numberOfShares": 0,
+    "sharePrice": 28.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "XOM-US",
+    "companyName": "Exxon Mobil Corp.",
+    "numberOfShares": 23000,
+    "sharePrice": 107.37,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,8 +153,58 @@
     "exchange": "NASDAQ",
     "ticker": "HALO-US",
     "companyName": "Halozyme Therapeutics",
-    "numberOfShares": 5991000,
-    "sharePrice": 39.69,
+    "numberOfShares": 0,
+    "sharePrice": 41.71,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "IBM-US",
+    "companyName": "International Business Machines Corp",
+    "numberOfShares": 37000,
+    "sharePrice": 196.54,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "KMB-US",
+    "companyName": "Kimberly-Clark",
+    "numberOfShares": 14000,
+    "sharePrice": 125.9,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "KMI-US",
+    "companyName": "Kinder Morgan Inc",
+    "numberOfShares": 269000,
+    "sharePrice": 17.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MRK-US",
+    "companyName": "Merck & Co",
+    "numberOfShares": 26000,
+    "sharePrice": 123.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MSFT-US",
+    "companyName": "Microsoft",
+    "numberOfShares": 17000,
+    "sharePrice": 409.14,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -63,8 +213,8 @@
     "exchange": "NYSE",
     "ticker": "NS-US",
     "companyName": "NuStar Energy LP",
-    "numberOfShares": 123000,
-    "sharePrice": 23.38,
+    "numberOfShares": 0,
+    "sharePrice": 23.94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -73,8 +223,18 @@
     "exchange": "NYSE AMERICAN",
     "ticker": "OGEN-US",
     "companyName": "Oragenics",
-    "numberOfShares": 66640,
-    "sharePrice": 1.42,
+    "numberOfShares": 0,
+    "sharePrice": 1.48,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "PNC-US",
+    "companyName": "PNC Financial Services",
+    "numberOfShares": 14000,
+    "sharePrice": 150.44,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -83,8 +243,8 @@
     "exchange": "NASDAQ",
     "ticker": "PGEN-US",
     "companyName": "Precigen",
-    "numberOfShares": 70372000,
-    "sharePrice": 1.52,
+    "numberOfShares": 70946000,
+    "sharePrice": 1.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -93,8 +253,8 @@
     "exchange": "NASDAQ",
     "ticker": "PTCT-US",
     "companyName": "PTC Therapeutics",
-    "numberOfShares": 117000,
-    "sharePrice": 28.2,
+    "numberOfShares": 0,
+    "sharePrice": 30.76,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -103,8 +263,18 @@
     "exchange": "NYSE",
     "ticker": "TCP-US",
     "companyName": "TC Pipelines",
-    "numberOfShares": 82000,
+    "numberOfShares": 0,
     "sharePrice": 30.21,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VZ-US",
+    "companyName": "Verizon Communications Inc.",
+    "numberOfShares": 102000,
+    "sharePrice": 39.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

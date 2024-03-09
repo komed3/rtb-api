@@ -3,10 +3,20 @@
     "exchange": "ASX",
     "ticker": "ABG-AU",
     "companyName": "Abacus Group",
-    "numberOfShares": 462900000,
-    "sharePrice": 0.740307812195597,
+    "numberOfShares": 446700000,
+    "sharePrice": 0.7675003308191081,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5399,
+    "exchangeRate": 1.5114,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "ASK-AU",
+    "companyName": "Abacus Storage King",
+    "numberOfShares": 781500000,
+    "sharePrice": 0.8270477702792113,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.5114,
     "interactive": false
   }
 ]

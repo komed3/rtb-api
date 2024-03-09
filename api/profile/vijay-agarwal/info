@@ -1,0 +1,29 @@
+{
+  "uri": "vijay-agarwal",
+  "name": "Vijay Agarwal",
+  "birthDate": "1949-01-13",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "Construction equipment"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CART-US",
+    "companyName": "Instacart",
+    "numberOfShares": 24109751,
+    "sharePrice": 34.39,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CART-US",
+    "companyName": "Instacart",
+    "numberOfShares": 4867000,
+    "exerciseOptionPrice": 9.55,
+    "sharePrice": 34.39,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

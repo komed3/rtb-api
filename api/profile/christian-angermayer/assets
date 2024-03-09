@@ -4,17 +4,17 @@
     "ticker": "Z29-DE",
     "companyName": "029 Group",
     "numberOfShares": 1800000,
-    "sharePrice": 18.191841234840133,
+    "sharePrice": 16.721311475409838,
     "currencyCode": "EUR",
-    "exchangeRate": 0.907,
+    "exchangeRate": 0.915,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
-    "numberOfShares": 18010088,
-    "sharePrice": 2.09,
+    "numberOfShares": 19836583,
+    "sharePrice": 2.19,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,7 +25,7 @@
     "companyName": "ATAI Life Sciences",
     "numberOfShares": 2367200,
     "exerciseOptionPrice": 17,
-    "sharePrice": 2.09,
+    "sharePrice": 2.19,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,8 +34,8 @@
     "exchange": "NASDAQ",
     "ticker": "BNOX-US",
     "companyName": "Bionomics",
-    "numberOfShares": 731663,
-    "sharePrice": 1.64,
+    "numberOfShares": 1017341,
+    "sharePrice": 1.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -46,7 +46,7 @@
     "companyName": "Bionomics",
     "numberOfShares": 788889,
     "exerciseOptionPrice": 3.15,
-    "sharePrice": 1.64,
+    "sharePrice": 1.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,29 +56,29 @@
     "ticker": "CORE-DE",
     "companyName": "Coreo AG",
     "numberOfShares": 8594825,
-    "sharePrice": 0.4895259095920617,
+    "sharePrice": 0.41092896174863386,
     "currencyCode": "EUR",
-    "exchangeRate": 0.907,
+    "exchangeRate": 0.915,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "SRAG-DE",
     "companyName": "Cryptology Asset Group PLC",
-    "numberOfShares": 29230307,
-    "sharePrice": 2.3594266813671445,
+    "numberOfShares": 72560000,
+    "sharePrice": 1.80327868852459,
     "currencyCode": "EUR",
-    "exchangeRate": 0.907,
+    "exchangeRate": 0.915,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
-    "numberOfShares": 2152577,
-    "sharePrice": 21.719955898566703,
+    "numberOfShares": 4385800,
+    "sharePrice": 32.076502732240435,
     "currencyCode": "EUR",
-    "exchangeRate": 0.907,
+    "exchangeRate": 0.915,
     "interactive": false
   },
   {
@@ -86,19 +86,9 @@
     "ticker": "RCK-CA",
     "companyName": "Rock Tech Lithium",
     "numberOfShares": 15930980,
-    "sharePrice": 1.5271235374563135,
+    "sharePrice": 0.9422763021219764,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3162,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SNSE-US",
-    "companyName": "Sensei Biotherapeutics",
-    "numberOfShares": 1422124,
-    "sharePrice": 1.26,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.3478,
     "interactive": false
   },
   {
@@ -106,9 +96,9 @@
     "ticker": "SBX-DE",
     "companyName": "SynBiotic SE",
     "numberOfShares": 1003300.0000000001,
-    "sharePrice": 5.512679162072767,
+    "sharePrice": 8.612021857923496,
     "currencyCode": "EUR",
-    "exchangeRate": 0.907,
+    "exchangeRate": 0.915,
     "interactive": false
   },
   {
@@ -116,7 +106,7 @@
     "ticker": "HLCO-US",
     "companyName": "The Healing Company",
     "numberOfShares": 3750000,
-    "sharePrice": 3.6,
+    "sharePrice": 0.73,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -126,9 +116,9 @@
     "ticker": "9AUA-DE",
     "companyName": "The New Meat Company AG",
     "numberOfShares": 750000,
-    "sharePrice": 2.7563395810363835,
+    "sharePrice": 0.3169398907103825,
     "currencyCode": "EUR",
-    "exchangeRate": 0.907,
+    "exchangeRate": 0.915,
     "interactive": false
   }
 ]

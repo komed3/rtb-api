@@ -1,12 +1,32 @@
 [
   {
+    "exchange": "TAIWAN",
+    "ticker": "4956-TW",
+    "companyName": "Epileds Technologies",
+    "numberOfShares": 440000,
+    "sharePrice": 0.6106071179344034,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.526,
+    "interactive": false
+  },
+  {
     "exchange": "TAIPEI",
     "ticker": "3707-TW",
     "companyName": "Episil Holdings",
-    "numberOfShares": 7662000,
-    "sharePrice": 1.946633747982148,
+    "numberOfShares": 11475000,
+    "sharePrice": 1.76045169066802,
     "currencyCode": "TWD",
-    "exchangeRate": 31.593,
+    "exchangeRate": 31.526,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "6288-TW",
+    "companyName": "Excellence Optoelectronics",
+    "numberOfShares": 1136000,
+    "sharePrice": 1.0721309395419654,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.526,
     "interactive": false
   }
 ]

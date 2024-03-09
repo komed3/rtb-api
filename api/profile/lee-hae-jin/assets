@@ -1,12 +1,12 @@
 [
   {
-    "exchange": "US OTC",
-    "ticker": "LN-US",
-    "companyName": "Line Corp",
-    "numberOfShares": 0,
-    "sharePrice": 51.98,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchange": "TOKYO",
+    "ticker": "4689-JP",
+    "companyName": "LY Corporation",
+    "numberOfShares": 19526100,
+    "sharePrice": 2.6063183475091134,
+    "currencyCode": "JPY",
+    "exchangeRate": 148.14,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "035420-KR",
     "companyName": "NAVER Corp.",
     "numberOfShares": 6130000,
-    "sharePrice": 152.97514153949984,
+    "sharePrice": 142.01450200999363,
     "currencyCode": "KRW",
-    "exchangeRate": 1333.55,
-    "interactive": false
-  },
-  {
-    "exchange": "KOREA",
-    "ticker": "181710-KR",
-    "companyName": "NHN Entertainment",
-    "numberOfShares": 0,
-    "sharePrice": 20.996588054441155,
-    "currencyCode": "KRW",
-    "exchangeRate": 1333.55,
+    "exchangeRate": 1330.85,
     "interactive": false
   }
 ]
