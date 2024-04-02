@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Montana",
     "city": "Missoula",
-    "state": "Montana"
+    "zipCode": "59802",
+    "_geo": {
+      "longitude": -113.965502,
+      "latitude": 46.884027
+    }
   },
   "industry": [
     "logistics"

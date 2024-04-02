@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Katonah",
-    "state": "New York"
+    "zipCode": "10536",
+    "_geo": {
+      "longitude": -73.692049,
+      "latitude": 41.26621
+    }
   },
   "industry": [
     "finance-investments"

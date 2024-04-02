@@ -1,0 +1,29 @@
+{
+  "uri": "sam-chong",
+  "name": "Sam Chong",
+  "birthDate": "1942-12-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "au",
+  "residence": {
+    "country": "au",
+    "state": null,
+    "city": "Brisbane"
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "Mining"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

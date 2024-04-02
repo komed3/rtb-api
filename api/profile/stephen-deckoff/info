@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "U.S. Virgin Islands",
     "city": "St. John",
-    "state": "U.S. Virgin Islands"
+    "zipCode": "00830"
   },
   "industry": [
     "finance-investments"

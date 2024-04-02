@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": null,
     "city": null,
-    "state": null
+    "_geo": {
+      "longitude": -98.58,
+      "latitude": 39.83
+    }
   },
   "industry": [
     "diversified"
@@ -21,8 +26,8 @@
   "education": [],
   "organization": null,
   "selfMade": {
-    "_is": false,
-    "type": null,
+    "_is": true,
+    "type": "self-made",
     "rank": null
   }
 }

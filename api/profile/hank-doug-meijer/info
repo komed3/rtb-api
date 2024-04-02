@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Grand Rapids",
-    "state": "Michigan"
+    "_geo": {
+      "longitude": -85.671179,
+      "latitude": 42.96641
+    }
   },
   "industry": [
     "fashion-retail"

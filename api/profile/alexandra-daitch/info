@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Old Lyme",
-    "state": "Connecticut"
+    "zipCode": "06371",
+    "_geo": {
+      "longitude": -72.3074326,
+      "latitude": 41.3466014
+    }
   },
   "industry": [
     "food-beverage"
@@ -17,7 +23,7 @@
   ],
   "deceased": false,
   "children": 1,
-  "maritalStatus": null,
+  "maritalStatus": "Married",
   "education": [],
   "organization": null,
   "selfMade": {

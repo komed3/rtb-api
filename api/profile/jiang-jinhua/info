@@ -1,0 +1,29 @@
+{
+  "uri": "jiang-jinhua",
+  "name": "Jiang Jinhua",
+  "birthDate": "1961-01-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Jiaxing"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Glass"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

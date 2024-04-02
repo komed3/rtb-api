@@ -1,12 +1,42 @@
 [
   {
     "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "ALLEI-SE",
+    "companyName": "Alleima",
+    "numberOfShares": 100000,
+    "sharePrice": 6.746722032059555,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "HUFV.A-SE",
+    "companyName": "Hufvudstaden AB Class A",
+    "numberOfShares": 700000,
+    "sharePrice": 12.157941005929334,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "HUSQ.A-SE",
+    "companyName": "Husqvarna Class A",
+    "numberOfShares": 492000,
+    "sharePrice": 8.61343358958532,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "INDU.A-SE",
     "companyName": "Industrivarden Class A",
     "numberOfShares": 3436000,
-    "sharePrice": 34.79424229995508,
+    "sharePrice": 34.42567757140452,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2402,
+    "exchangeRate": 10.6926,
     "interactive": false
   },
   {
@@ -14,19 +44,49 @@
     "ticker": "INDU.C-SE",
     "companyName": "Industrivarden Class C",
     "numberOfShares": 1200000,
-    "sharePrice": 34.83330403703053,
+    "sharePrice": 34.42567757140452,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2402,
+    "exchangeRate": 10.6926,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "LUND.B-SE",
     "companyName": "L.E. Lundbergfoeretagen AB",
-    "numberOfShares": 36677000,
-    "sharePrice": 54.53018495732505,
+    "numberOfShares": 28677000,
+    "sharePrice": 54.187007837195814,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2402,
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "LIFCO.B-SE",
+    "companyName": "Lifco AB",
+    "numberOfShares": 765000,
+    "sharePrice": 26.148925425060323,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SAND-SE",
+    "companyName": "Sandvik",
+    "numberOfShares": 500000,
+    "sharePrice": 22.230327516226172,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SHB.A-SE",
+    "companyName": "Svenska Handelsbanken",
+    "numberOfShares": 2830000,
+    "sharePrice": 10.123823953014234,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
     "interactive": false
   }
 ]

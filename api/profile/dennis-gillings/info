@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
+    "country": "us",
+    "state": "North Carolina",
     "city": "Durham",
-    "state": "North Carolina"
+    "zipCode": "27701"
   },
   "industry": [
     "healthcare"

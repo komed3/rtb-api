@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Miami Beach",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami Beach"
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "Cell phone distribution"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

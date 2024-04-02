@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Shantou",
-    "state": "Guangdong"
+    "country": "cn",
+    "state": null,
+    "city": "Shantou"
   },
   "industry": [
     "construction-engineering"
@@ -24,5 +25,6 @@
     "_is": true,
     "type": "self-made",
     "rank": null
-  }
+  },
+  "image": "https:////specials-images.forbesimg.com/imageserve/102108d15afa7dd7e7a7e1fbcda3d866/416x416.jpg?background=000000&cropX1=129&cropX2=694&cropY1=151&cropY2=717"
 }

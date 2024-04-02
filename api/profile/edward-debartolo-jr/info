@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Tampa",
-    "state": "Florida"
+    "zipCode": "33613",
+    "_geo": {
+      "longitude": -82.444598,
+      "latitude": 28.07893
+    }
   },
   "industry": [
     "real-estate"

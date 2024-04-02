@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Seoul",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
   },
   "industry": [
     "diversified"
@@ -23,10 +24,6 @@
     {
       "school": "Rochester Institute of Technology",
       "degree": "Bachelor of Arts/Science"
-    },
-    {
-      "school": "Stanford Graduate School of Business",
-      "degree": "Master"
     }
   ],
   "organization": null,

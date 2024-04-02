@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": "Toronto",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
   },
   "industry": [
     "media-entertainment"
@@ -31,7 +32,7 @@
   },
   "selfMade": {
     "_is": false,
-    "type": "inherited",
+    "type": "inherited and growing",
     "rank": null
   }
 }

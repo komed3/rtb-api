@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Minnesota",
     "city": "Plymouth",
-    "state": "Minnesota"
+    "zipCode": "55447"
   },
   "industry": [
     "food-beverage"

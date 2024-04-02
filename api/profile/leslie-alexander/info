@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77024",
+    "_geo": {
+      "longitude": -95.514493,
+      "latitude": 29.77261379999999
+    }
   },
   "industry": [
     "sports"

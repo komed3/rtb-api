@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Rancho Santa Fe",
-    "state": "California"
+    "zipCode": "92067",
+    "_geo": {
+      "longitude": -117.19175,
+      "latitude": 33.01834
+    }
   },
   "industry": [
     "food-beverage"

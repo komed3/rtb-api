@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Louisiana",
     "city": "New Orleans",
-    "state": "Louisiana"
+    "zipCode": "70112",
+    "_geo": {
+      "longitude": -90.082148,
+      "latitude": 29.952874
+    }
   },
   "industry": [
     "sports"

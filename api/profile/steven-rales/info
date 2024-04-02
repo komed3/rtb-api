@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Santa Barbara",
-    "state": "California"
+    "zipCode": "93101",
+    "_geo": {
+      "longitude": -119.7107494,
+      "latitude": 34.420334
+    }
   },
   "industry": [
     "manufacturing"

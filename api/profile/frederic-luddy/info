@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Diego",
-    "state": "California"
+    "zipCode": "92101",
+    "_geo": {
+      "longitude": -117.156013,
+      "latitude": 32.706551
+    }
   },
   "industry": [
     "technology"

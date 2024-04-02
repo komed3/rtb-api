@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Tokyo",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Tokyo"
   },
   "industry": [
     "real-estate"
@@ -23,7 +24,7 @@
   "organization": null,
   "selfMade": {
     "_is": false,
-    "type": "inherited",
+    "type": "inherited and growing",
     "rank": null
   }
 }

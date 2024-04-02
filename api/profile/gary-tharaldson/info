@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "North Dakota",
     "city": "Fargo",
-    "state": "North Dakota"
+    "_geo": {
+      "longitude": -96.781764,
+      "latitude": 46.87591
+    }
   },
   "industry": [
     "service"

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Altos",
-    "state": "California"
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.128797,
+      "latitude": 37.38055
+    }
   },
   "industry": [
     "finance-investments"

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Ruzhou",
-    "state": "Henan"
+    "country": "cn",
+    "state": null,
+    "city": "Ruzhou"
   },
   "industry": [
     "diversified"
@@ -30,5 +31,6 @@
     "_is": true,
     "type": "self-made",
     "rank": null
-  }
+  },
+  "image": "https:////specials-images.forbesimg.com/imageserve/5c6e95414bbe6f2fbddc4d0a/416x416.jpg?background=000000&cropX1=1343&cropX2=3700&cropY1=11&cropY2=2369"
 }

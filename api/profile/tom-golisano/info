@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Naples",
-    "state": "Florida"
+    "zipCode": "34102",
+    "_geo": {
+      "longitude": -81.797189,
+      "latitude": 26.143819
+    }
   },
   "industry": [
     "service"

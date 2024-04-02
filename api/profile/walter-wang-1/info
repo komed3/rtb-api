@@ -1,0 +1,29 @@
+{
+  "uri": "walter-wang-1",
+  "name": "Walter Wang",
+  "birthDate": "1965-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Manufacturing"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

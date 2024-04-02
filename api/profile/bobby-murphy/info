@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Venice",
-    "state": "California"
+    "zipCode": "90291"
   },
   "industry": [
     "technology"

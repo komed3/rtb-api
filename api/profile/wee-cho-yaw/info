@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
@@ -16,9 +17,9 @@
     "Banking"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/64f5e6b804838f40abb0157e/416x416.jpg?background=000000&cropX1=700&cropX2=2191&cropY1=246&cropY2=1736",
-  "deceased": false,
+  "deceased": true,
   "children": 5,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

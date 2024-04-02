@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Birmingham",
-    "state": "Michigan"
+    "zipCode": "48009",
+    "_geo": {
+      "longitude": -83.215989,
+      "latitude": 42.54409
+    }
   },
   "industry": [
     "automotive"

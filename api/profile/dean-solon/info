@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Gallatin",
-    "state": "Tennessee"
+    "zipCode": "37066",
+    "_geo": {
+      "longitude": -86.4466599,
+      "latitude": 36.3883809
+    }
   },
   "industry": [
     "energy"

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Minnesota",
     "city": "St. Paul",
-    "state": "Minnesota"
+    "zipCode": "55043",
+    "_geo": {
+      "longitude": -92.771032,
+      "latitude": 44.93752
+    }
   },
   "industry": [
     "media-entertainment"

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Fort Worth",
-    "state": "Texas"
+    "zipCode": "76126",
+    "_geo": {
+      "longitude": -97.485116,
+      "latitude": 32.65769
+    }
   },
   "industry": [
     "energy"

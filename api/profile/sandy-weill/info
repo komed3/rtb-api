@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Sonoma",
-    "state": "California"
+    "zipCode": "95476",
+    "_geo": {
+      "longitude": -122.4693688,
+      "latitude": 38.2315738
+    }
   },
   "industry": [
     "finance-investments"

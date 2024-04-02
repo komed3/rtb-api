@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "cy",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami",
-    "state": "Florida"
+    "zipCode": "33130"
   },
   "industry": [
     "energy"

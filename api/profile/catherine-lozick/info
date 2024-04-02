@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Fort Lauderdale ",
-    "state": "Florida"
+    "zipCode": "33316",
+    "_geo": {
+      "longitude": -80.127029,
+      "latitude": 26.09287
+    }
   },
   "industry": [
     "manufacturing"
@@ -16,7 +22,7 @@
     "Valve manufacturing"
   ],
   "deceased": false,
-  "children": 0,
+  "children": 3,
   "maritalStatus": "Widowed",
   "education": [],
   "organization": null,

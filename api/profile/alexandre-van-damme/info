@@ -1,0 +1,29 @@
+{
+  "uri": "alexandre-van-damme",
+  "name": "Alexandre Van Damme",
+  "birthDate": "1962-08-02",
+  "family": false,
+  "gender": "m",
+  "citizenship": "be",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": "Chesereux"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "ABInBev"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

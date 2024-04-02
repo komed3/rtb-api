@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "finance-investments"
@@ -17,7 +18,7 @@
   ],
   "deceased": false,
   "children": 2,
-  "maritalStatus": null,
+  "maritalStatus": "Married",
   "education": [],
   "organization": null,
   "selfMade": {

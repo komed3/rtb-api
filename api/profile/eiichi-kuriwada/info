@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Osaka",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Osaka"
   },
   "industry": [
     "logistics"
@@ -26,8 +27,8 @@
   ],
   "organization": null,
   "selfMade": {
-    "_is": true,
-    "type": "self-made",
+    "_is": false,
+    "type": "inherited and growing",
     "rank": null
   }
 }

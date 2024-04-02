@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Hampton",
-    "state": "Georgia"
+    "zipCode": "30228",
+    "_geo": {
+      "longitude": -84.308639,
+      "latitude": 33.40239
+    }
   },
   "industry": [
     "food-beverage"

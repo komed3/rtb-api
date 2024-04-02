@@ -1,0 +1,34 @@
+{
+  "uri": "denis-frolov",
+  "name": "Denis Frolov",
+  "birthDate": "1982-12-30",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "IT"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "National Research University Higher School of Economics",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

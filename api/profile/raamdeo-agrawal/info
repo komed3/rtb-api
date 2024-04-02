@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "finance-investments"
@@ -20,12 +21,12 @@
   "maritalStatus": "Married",
   "education": [
     {
-      "school": "Bombay University",
-      "degree": "B.Com"
-    },
-    {
       "school": "Institute of Chartered Accountants of India",
       "degree": "Chartered Accountant"
+    },
+    {
+      "school": "University of Mumbai",
+      "degree": "B.Com"
     }
   ],
   "organization": null,

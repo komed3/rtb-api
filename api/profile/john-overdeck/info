@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New Jersey",
     "city": "Millburn",
-    "state": "New Jersey"
+    "zipCode": "07041",
+    "_geo": {
+      "longitude": -74.2971543,
+      "latitude": 40.727549
+    }
   },
   "industry": [
     "finance-investments"

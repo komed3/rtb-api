@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"

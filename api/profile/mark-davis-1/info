@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Henderson",
-    "state": "Nevada"
+    "zipCode": "89012",
+    "_geo": {
+      "longitude": -115.0631874,
+      "latitude": 35.9977535
+    }
   },
   "industry": [
     "sports"

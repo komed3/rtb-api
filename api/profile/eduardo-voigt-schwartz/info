@@ -1,0 +1,29 @@
+{
+  "uri": "eduardo-voigt-schwartz",
+  "name": "Eduardo Voigt Schwartz",
+  "birthDate": "1990-01-05",
+  "family": false,
+  "gender": "m",
+  "citizenship": "br",
+  "residence": {
+    "country": "br",
+    "state": null,
+    "city": "Florianópolis"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Industrial Machinery"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

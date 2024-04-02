@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Boston",
-    "state": "Massachusetts"
+    "zipCode": "02199",
+    "_geo": {
+      "longitude": -71.082631,
+      "latitude": 42.348654
+    }
   },
   "industry": [
     "automotive"

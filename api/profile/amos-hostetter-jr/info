@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Boston",
-    "state": "Massachusetts"
+    "zipCode": "02108",
+    "_geo": {
+      "longitude": -71.064719,
+      "latitude": 42.358359
+    }
   },
   "industry": [
     "media-entertainment"

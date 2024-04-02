@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Delray Beach",
-    "state": "Florida"
+    "zipCode": "33444",
+    "_geo": {
+      "longitude": -80.0814292,
+      "latitude": 26.4569636
+    }
   },
   "industry": [
     "food-beverage"

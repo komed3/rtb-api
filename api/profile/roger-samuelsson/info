@@ -1,0 +1,29 @@
+{
+  "uri": "roger-samuelsson",
+  "name": "Roger Samuelsson",
+  "birthDate": "1963-12-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "se",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": "Oberägeri"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Drug delivery devices"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

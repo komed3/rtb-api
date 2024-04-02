@@ -1,0 +1,36 @@
+{
+  "uri": "andrei-kuzyaev",
+  "name": "Andrei Kuzyaev",
+  "birthDate": "1965-10-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "telecom"
+  ],
+  "source": [
+    "telecom",
+    "oil service",
+    "real estate"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Perm State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

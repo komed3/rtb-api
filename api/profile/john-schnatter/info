@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kentucky",
     "city": "Louisville",
-    "state": "Kentucky"
+    "_geo": {
+      "longitude": -85.5457689,
+      "latitude": 38.2586184
+    }
   },
   "industry": [
     "food-beverage"

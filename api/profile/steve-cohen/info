@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "zipCode": "06831",
+    "_geo": {
+      "longitude": -73.659569,
+      "latitude": 41.06298
+    }
   },
   "industry": [
     "finance-investments"

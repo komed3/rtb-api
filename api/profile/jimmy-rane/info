@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Abbeville",
-    "state": "Alabama"
+    "country": "us",
+    "state": "Alabama",
+    "city": "Abbeville"
   },
   "industry": [
     "manufacturing"
@@ -22,6 +23,10 @@
     {
       "school": "Auburn University",
       "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Samford University",
+      "degree": "Doctor of Jurisprudence"
     }
   ],
   "organization": null,

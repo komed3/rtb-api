@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Truckee",
-    "state": "California"
+    "zipCode": "96161"
   },
   "industry": [
     "finance-investments"

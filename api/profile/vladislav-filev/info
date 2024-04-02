@@ -1,0 +1,34 @@
+{
+  "uri": "vladislav-filev",
+  "name": "Vladislav Filev & family",
+  "birthDate": "1963-08-31",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "service"
+  ],
+  "source": [
+    "Airlines"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "Mozhaisky Military Space Academy",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,13 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Chicago",
-    "state": "Illinois"
+    "_geo": {
+      "longitude": -87.632409,
+      "latitude": 41.88415
+    }
   },
   "industry": [
     "finance-investments"

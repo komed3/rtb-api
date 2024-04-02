@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Virginia Beach",
-    "state": "Virginia"
+    "zipCode": "23451",
+    "_geo": {
+      "longitude": -76.001324,
+      "latitude": 36.860459
+    }
   },
   "industry": [
     "manufacturing"

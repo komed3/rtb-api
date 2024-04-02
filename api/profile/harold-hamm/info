@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "zipCode": "73120",
+    "_geo": {
+      "longitude": -97.56911,
+      "latitude": 35.58357
+    }
   },
   "industry": [
     "energy"

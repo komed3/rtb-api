@@ -1,0 +1,38 @@
+{
+  "uri": "wang-jinhua",
+  "name": "Wang Jinhua",
+  "birthDate": "1963-04-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "metals and mining"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "China University of Mining and Technology",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "University of Science and Technology Beijing",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

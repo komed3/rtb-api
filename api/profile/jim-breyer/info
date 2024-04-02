@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Austin",
-    "state": "Texas"
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin"
   },
   "industry": [
     "technology"
@@ -18,7 +19,7 @@
   "image": "https:////specials-images.forbesimg.com/imageserve/58d13bcea7ea431f321b80b8/416x416.jpg?background=000000&cropX1=26&cropX2=664&cropY1=55&cropY2=693",
   "deceased": false,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": "Widowed",
   "education": [
     {
       "school": "Harvard Business School",

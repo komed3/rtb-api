@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "São Paulo",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "São Paulo"
   },
   "industry": [
     "manufacturing"
@@ -21,7 +22,7 @@
   "education": [
     {
       "school": "Universidade Presbiteriana Mackenzie",
-      "degree": "Law Degree"
+      "degree": "Bachelor of Business Administration"
     }
   ],
   "organization": null,

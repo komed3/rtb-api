@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Hobe Sound",
-    "state": "Florida"
+    "zipCode": "33455",
+    "_geo": {
+      "longitude": -80.1651854,
+      "latitude": 27.0867813
+    }
   },
   "industry": [
     "food-beverage"

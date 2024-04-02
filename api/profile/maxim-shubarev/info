@@ -1,0 +1,34 @@
+{
+  "uri": "maxim-shubarev",
+  "name": "Maxim Shubarev",
+  "birthDate": "1968-05-25",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Saint Petersburg"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Real Estate"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Peter the Great St. Petersburg Polytechnic University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

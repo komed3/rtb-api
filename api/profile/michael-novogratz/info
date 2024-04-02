@@ -1,0 +1,39 @@
+{
+  "uri": "michael-novogratz",
+  "name": "Michael Novogratz",
+  "birthDate": "1964-11-26",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York",
+    "_geo": {
+      "longitude": -74.007124,
+      "latitude": 40.71455
+    }
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Investments",
+    "cryptocurrency"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Princeton University",
+      "degree": "Associate in Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

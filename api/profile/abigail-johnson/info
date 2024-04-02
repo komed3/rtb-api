@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Milton",
-    "state": "Massachusetts"
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Milton"
   },
   "industry": [
     "finance-investments"
@@ -30,7 +31,7 @@
     }
   ],
   "organization": {
-    "name": "Fidelity",
+    "name": "Fidelity Investments",
     "title": "Chairman & CEO"
   },
   "selfMade": {

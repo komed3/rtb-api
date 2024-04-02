@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Scarsdale",
-    "state": "New York"
+    "zipCode": "10583",
+    "_geo": {
+      "longitude": -73.78308609999999,
+      "latitude": 40.99263819999999
+    }
   },
   "industry": [
     "finance-investments"

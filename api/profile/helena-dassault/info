@@ -1,0 +1,29 @@
+{
+  "uri": "helena-dassault",
+  "name": "Helena Dassault",
+  "birthDate": "1989-10-30",
+  "family": false,
+  "gender": "f",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Inherited"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

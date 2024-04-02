@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "CA",
     "city": "Portola Valley",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.226507,
+      "latitude": 37.380964
+    }
   },
   "industry": [
     "technology"

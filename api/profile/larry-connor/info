@@ -1,0 +1,34 @@
+{
+  "uri": "larry-connor",
+  "name": "Larry Connor & family",
+  "birthDate": "1950-01-07",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Ohio",
+    "city": "Miamisburg"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Real estate"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ohio University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

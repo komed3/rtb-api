@@ -1,0 +1,34 @@
+{
+  "uri": "alexander-mikhalskiy",
+  "name": "Alexander Mikhalskiy",
+  "birthDate": "1959-06-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "retail"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Moscow Institute of Physics and Technology",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

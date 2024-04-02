@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "_geo": {
+      "longitude": -118.245319,
+      "latitude": 34.05349
+    }
   },
   "industry": [
     "healthcare"

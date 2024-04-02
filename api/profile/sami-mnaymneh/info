@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami Beach",
-    "state": "Florida"
+    "zipCode": "33139",
+    "_geo": {
+      "longitude": -80.1484407,
+      "latitude": 25.783312
+    }
   },
   "industry": [
     "finance-investments"

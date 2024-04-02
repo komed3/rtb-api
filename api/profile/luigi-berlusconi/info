@@ -1,0 +1,29 @@
+{
+  "uri": "luigi-berlusconi",
+  "name": "Luigi Berlusconi",
+  "birthDate": "1988-09-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "it",
+  "residence": {
+    "country": "it",
+    "state": null,
+    "city": "Macherio"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Media"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Oyster Bay",
-    "state": "New York"
+    "zipCode": "11771",
+    "_geo": {
+      "longitude": -73.52996399999999,
+      "latitude": 40.8722643
+    }
   },
   "industry": [
     "finance-investments"

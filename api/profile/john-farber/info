@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "New York",
-    "state": "New York"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "manufacturing"
@@ -15,9 +16,9 @@
   "source": [
     "Chemicals"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 1,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Polytechnic Institute",

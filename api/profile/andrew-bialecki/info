@@ -1,0 +1,34 @@
+{
+  "uri": "andrew-bialecki",
+  "name": "Andrew Bialecki",
+  "birthDate": null,
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Marketing software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.419644,
+      "latitude": 37.777125
+    }
   },
   "industry": [
     "fashion-retail"

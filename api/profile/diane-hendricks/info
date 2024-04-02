@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wisconsin",
     "city": "Afton",
-    "state": "Wisconsin"
+    "zipCode": "53501",
+    "_geo": {
+      "longitude": -89.131943,
+      "latitude": 42.69453
+    }
   },
   "industry": [
     "construction-engineering"

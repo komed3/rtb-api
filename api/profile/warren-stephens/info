@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Little Rock",
-    "state": "Arkansas"
+    "zipCode": "72207",
+    "_geo": {
+      "longitude": -92.342209,
+      "latitude": 34.772185
+    }
   },
   "industry": [
     "finance-investments"

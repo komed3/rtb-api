@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "AUR-US",
+    "companyName": "Aurora Innovation",
+    "numberOfShares": 4640000,
+    "sharePrice": 2.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NYSE",
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
     "numberOfShares": 22520,
-    "sharePrice": 18.45,
+    "sharePrice": 18.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -15,7 +25,7 @@
     "companyName": "Hippo Holdings",
     "numberOfShares": 70400,
     "exerciseOptionPrice": 287.5,
-    "sharePrice": 18.45,
+    "sharePrice": 18.27,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,8 +34,8 @@
     "exchange": "NYSE",
     "ticker": "JOBY-US",
     "companyName": "Joby Aviation",
-    "numberOfShares": 8859000,
-    "sharePrice": 5.35,
+    "numberOfShares": 8852000,
+    "sharePrice": 5.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -36,17 +46,7 @@
     "companyName": "Joby Aviation",
     "numberOfShares": 4613000,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 5.35,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "META-US",
-    "companyName": "Meta Platforms",
-    "numberOfShares": 1685000,
-    "sharePrice": 512.19,
+    "sharePrice": 5.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -56,7 +56,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 16000,
-    "sharePrice": 409.14,
+    "sharePrice": 420.72,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

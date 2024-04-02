@@ -1,0 +1,39 @@
+{
+  "uri": "john-abele",
+  "name": "John Abele",
+  "birthDate": "1937-02-02",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Vermont",
+    "city": "Shelburne",
+    "_geo": {
+      "longitude": -73.226054,
+      "latitude": 44.376075
+    }
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Healthcare"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/594983144bbe6f18d786ce70/416x416.jpg?background=000000&cropX1=0&cropX2=996&cropY1=0&cropY2=997",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Amherst College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

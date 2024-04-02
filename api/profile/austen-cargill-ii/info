@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Montana",
     "city": "Livingston",
-    "state": "Montana"
+    "zipCode": "59047",
+    "_geo": {
+      "longitude": -110.554456,
+      "latitude": 45.635627
+    }
   },
   "industry": [
     "food-beverage"

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Vienna",
-    "state": "Virginia"
+    "_geo": {
+      "longitude": -77.263654,
+      "latitude": 38.900375
+    }
   },
   "industry": [
     "technology"

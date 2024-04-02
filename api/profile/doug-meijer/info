@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Grand Rapids",
-    "state": "Michigan"
+    "zipCode": "49546",
+    "_geo": {
+      "longitude": -85.54448,
+      "latitude": 42.92805
+    }
   },
   "industry": [
     "fashion-retail"

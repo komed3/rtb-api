@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Yantai",
-    "state": "Shandong"
+    "zipCode": "264003 ",
+    "_geo": {
+      "longitude": 104.165657,
+      "latitude": 34.668
+    }
   },
   "industry": [
     "manufacturing"

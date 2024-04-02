@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kansas",
     "city": "Wichita",
-    "state": "Kansas"
+    "zipCode": "67201",
+    "_geo": {
+      "longitude": -97.334698,
+      "latitude": 37.686064
+    }
   },
   "industry": [
     "diversified"

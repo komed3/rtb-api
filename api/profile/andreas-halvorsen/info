@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "no",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Darien",
-    "state": "Connecticut"
+    "_geo": {
+      "longitude": -73.482424,
+      "latitude": 41.065365
+    }
   },
   "industry": [
     "finance-investments"

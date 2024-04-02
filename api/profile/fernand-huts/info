@@ -1,0 +1,30 @@
+{
+  "uri": "fernand-huts",
+  "name": "Fernand Huts",
+  "birthDate": "1950-06-18",
+  "family": false,
+  "gender": "m",
+  "citizenship": "be",
+  "residence": {
+    "country": "gb",
+    "state": null,
+    "city": "Kent"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Logistics",
+    "transportation"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

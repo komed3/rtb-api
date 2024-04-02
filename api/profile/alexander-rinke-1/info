@@ -1,0 +1,29 @@
+{
+  "uri": "alexander-rinke-1",
+  "name": "Alexander Rinke",
+  "birthDate": "1989-04-23",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Munich"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Enterprise software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uri": "liesel-pritzker-simmons",
+  "name": "Liesel Pritzker Simmons",
+  "birthDate": "1984-03-15",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Concord"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Hotels",
+    "investments"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

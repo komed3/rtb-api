@@ -1,0 +1,30 @@
+{
+  "uri": "athanasios-martinos",
+  "name": "Athanasios Martinos & family",
+  "birthDate": "1950-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "gr",
+  "residence": {
+    "country": "gr",
+    "state": null,
+    "city": "Athens"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Shipping",
+    "real estate"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

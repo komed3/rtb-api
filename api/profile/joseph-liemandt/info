@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -97.742984,
+      "latitude": 30.267605
+    }
   },
   "industry": [
     "technology"

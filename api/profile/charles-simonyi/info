@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Medina",
-    "state": "Washington"
+    "_geo": {
+      "longitude": -122.238922,
+      "latitude": 47.615825
+    }
   },
   "industry": [
     "technology"

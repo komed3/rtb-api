@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "East Aurora",
-    "state": "New York"
+    "_geo": {
+      "longitude": -78.612614,
+      "latitude": 42.767925
+    }
   },
   "industry": [
     "service"

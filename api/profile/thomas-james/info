@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Saint Petersburg",
-    "state": "Florida"
+    "zipCode": "33701",
+    "_geo": {
+      "longitude": -82.6321376,
+      "latitude": 27.7696063
+    }
   },
   "industry": [
     "finance-investments"

@@ -1,0 +1,32 @@
+{
+  "uri": "sam-altman",
+  "name": "Sam Altman",
+  "birthDate": "1985-04-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Investments"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Y Combinator",
+    "title": "President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

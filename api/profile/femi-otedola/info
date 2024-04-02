@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ng",
   "residence": {
-    "city": "Lagos                   ",
-    "state": null
+    "country": "ng",
+    "state": null,
+    "city": "Lagos                   "
   },
   "industry": [
     "energy"
@@ -24,5 +25,6 @@
     "_is": true,
     "type": "self-made",
     "rank": null
-  }
+  },
+  "image": "https://specials-images.forbesimg.com/imageserve/65aab8a62af0e05000b4136e/416x416.jpg?background=000000&cropX1=9&cropX2=1280&cropY1=121&cropY2=1392"
 }

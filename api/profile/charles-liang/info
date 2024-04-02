@@ -1,0 +1,38 @@
+{
+  "uri": "charles-liang",
+  "name": "Charles Liang",
+  "birthDate": "1958-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Jose"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Computer hardware"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Taiwan University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "University Of Texas At Arlington",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

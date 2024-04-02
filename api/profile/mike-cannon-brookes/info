@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Sydney",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Sydney"
   },
   "industry": [
     "technology"
@@ -15,10 +16,10 @@
   "source": [
     "Software"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/63ea5b4baa9467975fe3c457/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "image": "https://specials-images.forbesimg.com/imageserve/65ca4a6f507e657332d1e7e2/416x416.jpg?background=000000&cropX1=76&cropX2=742&cropY1=0&cropY2=666",
   "deceased": false,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": "Separated",
   "education": [
     {
       "school": "University of New South Wales",

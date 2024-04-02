@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "automotive"
@@ -21,8 +22,8 @@
   "education": [],
   "organization": null,
   "selfMade": {
-    "_is": false,
-    "type": null,
+    "_is": true,
+    "type": "self-made",
     "rank": null
   }
 }

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "New Albany",
-    "state": "Ohio"
+    "zipCode": "43054",
+    "_geo": {
+      "longitude": -82.817758,
+      "latitude": 40.08104
+    }
   },
   "industry": [
     "fashion-retail"

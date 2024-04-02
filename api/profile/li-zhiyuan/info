@@ -1,0 +1,29 @@
+{
+  "uri": "li-zhiyuan",
+  "name": "Li Zhiyuan",
+  "birthDate": "1955-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Haikou"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Electrical components"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Knoxville",
-    "state": "Tennessee"
+    "_geo": {
+      "longitude": -83.920914,
+      "latitude": 35.960495
+    }
   },
   "industry": [
     "fashion-retail"

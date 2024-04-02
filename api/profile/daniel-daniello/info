@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Vienna",
-    "state": "Virginia"
+    "zipCode": "22182",
+    "_geo": {
+      "longitude": -77.25784,
+      "latitude": 38.926569
+    }
   },
   "industry": [
     "finance-investments"

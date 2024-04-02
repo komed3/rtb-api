@@ -1,0 +1,29 @@
+{
+  "uri": "james-tisch",
+  "name": "James Tisch",
+  "birthDate": "1953-01-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Loews"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

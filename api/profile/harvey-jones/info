@@ -1,0 +1,29 @@
+{
+  "uri": "harvey-jones",
+  "name": "Harvey Jones",
+  "birthDate": "1953-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Nvidia"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

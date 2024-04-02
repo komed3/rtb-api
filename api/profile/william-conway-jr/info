@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "McLean",
-    "state": "Virginia"
+    "zipCode": "22101",
+    "_geo": {
+      "longitude": -77.168839,
+      "latitude": 38.93329
+    }
   },
   "industry": [
     "finance-investments"

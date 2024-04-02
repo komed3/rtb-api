@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Franklin",
-    "state": "Michigan"
+    "zipCode": "48025",
+    "_geo": {
+      "longitude": -83.260929,
+      "latitude": 42.522558
+    }
   },
   "industry": [
     "finance-investments"

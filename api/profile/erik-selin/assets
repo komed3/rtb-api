@@ -1,22 +1,82 @@
 [
   {
     "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SAGA.A-SE",
+    "companyName": "AB Sagax--Class A",
+    "numberOfShares": 1175000,
+    "sharePrice": 26.27985709743187,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SAGA.B-SE",
+    "companyName": "AB Sagax--Class B",
+    "numberOfShares": 2480000,
+    "sharePrice": 26.41078876980341,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SAGA.D-SE",
+    "companyName": "AB Sagax--Class D",
+    "numberOfShares": 2020000,
+    "sharePrice": 2.7963264313637466,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "BALD.B-SE",
     "companyName": "Fastighets AB Balder",
     "numberOfShares": 393121000,
-    "sharePrice": 6.697134821585516,
+    "sharePrice": 7.358359987280924,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2402,
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "HOFI-SE",
+    "companyName": "Hoist Finance",
+    "numberOfShares": 17770000,
+    "sharePrice": 4.96605128780652,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "KFAST.B-SE",
     "companyName": "K-Fast Holding",
-    "numberOfShares": 75000000,
-    "sharePrice": 1.8944942481592155,
+    "numberOfShares": 79800000,
+    "sharePrice": 1.9920318725099602,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2402,
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SLP.B-SE",
+    "companyName": "Swedish Logistic Property",
+    "numberOfShares": 30794000,
+    "sharePrice": 3.034809120326207,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "TFBANK-SE",
+    "companyName": "TF BANK",
+    "numberOfShares": 2700000,
+    "sharePrice": 15.636982586087573,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.6926,
     "interactive": false
   }
 ]

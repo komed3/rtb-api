@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Pune",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Pune"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Software"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology (MIT)",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

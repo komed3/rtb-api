@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Rhinebeck",
-    "state": "New York"
+    "zipCode": "12572",
+    "_geo": {
+      "longitude": -73.86542949999999,
+      "latitude": 41.9309816
+    }
   },
   "industry": [
     "real-estate"

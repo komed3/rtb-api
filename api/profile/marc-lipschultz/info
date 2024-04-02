@@ -1,0 +1,29 @@
+{
+  "uri": "marc-lipschultz",
+  "name": "Marc Lipschultz",
+  "birthDate": "1969-01-25",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private equity"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

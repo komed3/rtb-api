@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Islamorada",
-    "state": "Florida"
+    "zipCode": "33036",
+    "_geo": {
+      "longitude": -80.63447,
+      "latitude": 24.919509
+    }
   },
   "industry": [
     "food-beverage"

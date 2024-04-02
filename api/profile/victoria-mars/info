@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Philadelphia ",
-    "state": "Pennsylvania"
+    "zipCode": "19107"
   },
   "industry": [
     "food-beverage"

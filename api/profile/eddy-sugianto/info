@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
+    "country": "id",
+    "state": null,
     "city": "Jakarta",
-    "state": null
+    "zipCode": "12120"
   },
   "industry": [
     "metals-mining"

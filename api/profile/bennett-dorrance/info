@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Paradise Valley",
-    "state": "Arizona"
+    "zipCode": "85253",
+    "_geo": {
+      "longitude": -111.957951,
+      "latitude": 33.545992
+    }
   },
   "industry": [
     "food-beverage"

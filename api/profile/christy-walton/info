@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wyoming",
     "city": "Jackson",
-    "state": "Wyoming"
+    "zipCode": "83002",
+    "_geo": {
+      "longitude": -110.7891704,
+      "latitude": 43.46952410000001
+    }
   },
   "industry": [
     "fashion-retail"

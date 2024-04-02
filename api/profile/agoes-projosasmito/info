@@ -1,0 +1,30 @@
+{
+  "uri": "agoes-projosasmito",
+  "name": "Agoes Projosasmito",
+  "birthDate": "1955-08-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "id",
+  "residence": {
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "mining",
+    "investment"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

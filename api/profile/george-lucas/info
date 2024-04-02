@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Anselmo",
-    "state": "California"
+    "zipCode": "94960",
+    "_geo": {
+      "longitude": -122.569318,
+      "latitude": 37.98482
+    }
   },
   "industry": [
     "media-entertainment"

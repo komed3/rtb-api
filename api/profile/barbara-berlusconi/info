@@ -1,0 +1,29 @@
+{
+  "uri": "barbara-berlusconi",
+  "name": "Barbara Berlusconi",
+  "birthDate": "1984-07-30",
+  "family": false,
+  "gender": "f",
+  "citizenship": "it",
+  "residence": {
+    "country": "it",
+    "state": null,
+    "city": "Milan"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Media"
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

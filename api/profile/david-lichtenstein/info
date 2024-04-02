@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Monsey",
-    "state": "New York"
+    "zipCode": "10952"
   },
   "industry": [
     "real-estate"

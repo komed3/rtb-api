@@ -1,0 +1,30 @@
+{
+  "uri": "burhan-karim",
+  "name": "Burhan Karim",
+  "birthDate": "1960-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "id",
+  "residence": {
+    "country": "sg",
+    "state": null,
+    "city": "Singapore",
+    "zipCode": "069113"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Palm oil"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

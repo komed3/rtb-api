@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "_geo": {
+      "longitude": -73.629619,
+      "latitude": 41.02525
+    }
   },
   "industry": [
     "finance-investments"

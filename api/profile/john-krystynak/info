@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Incline Village",
-    "state": "Nevada"
+    "zipCode": "89451",
+    "_geo": {
+      "longitude": -119.9669395,
+      "latitude": 39.2476517
+    }
   },
   "industry": [
     "media-entertainment"

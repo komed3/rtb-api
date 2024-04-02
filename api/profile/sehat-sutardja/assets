@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "LONDON",
+    "ticker": "AWE-GB",
+    "companyName": "Alphawave IP Group",
+    "numberOfShares": 48000000,
+    "sharePrice": 2.210712481051036,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7916,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "MRVL-US",
     "companyName": "Marvell Technology Group Ltd.",
-    "numberOfShares": 8891400,
-    "sharePrice": 85.09,
+    "numberOfShares": 5416536,
+    "sharePrice": 70.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

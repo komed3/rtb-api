@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Electra",
-    "state": "Texas"
+    "zipCode": "76360"
   },
   "industry": [
     "sports"
@@ -34,6 +36,6 @@
   "selfMade": {
     "_is": true,
     "type": "self-made",
-    "rank": 6
+    "rank": 7
   }
 }

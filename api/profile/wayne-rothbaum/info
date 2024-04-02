@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Delray Beach",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Delray Beach"
   },
   "industry": [
     "healthcare"
@@ -32,6 +33,6 @@
   "selfMade": {
     "_is": true,
     "type": "self-made",
-    "rank": null
+    "rank": 9
   }
 }

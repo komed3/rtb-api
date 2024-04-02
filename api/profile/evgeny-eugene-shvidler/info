@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "London",
-    "state": null
+    "zipCode": "E1"
   },
   "industry": [
     "metals-mining"

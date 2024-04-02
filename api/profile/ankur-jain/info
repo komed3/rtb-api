@@ -1,0 +1,37 @@
+{
+  "uri": "ankur-jain",
+  "name": "Ankur Jain",
+  "birthDate": "1990-02-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Rewards firm"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "The Wharton School at the University of Pennsylvania",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": {
+    "name": "Humin",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

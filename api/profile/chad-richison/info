@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Edmond",
-    "state": "Oklahoma"
+    "zipCode": "73083"
   },
   "industry": [
     "technology"

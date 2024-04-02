@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Bentonville",
-    "state": "Arkansas"
+    "zipCode": "72712",
+    "_geo": {
+      "longitude": -94.22604,
+      "latitude": 36.360663
+    }
   },
   "industry": [
     "fashion-retail"
@@ -31,7 +37,7 @@
   },
   "selfMade": {
     "_is": false,
-    "type": "inherited",
+    "type": "inherited and growing",
     "rank": 2
   }
 }

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Beverly Hills",
-    "state": "California"
+    "_geo": {
+      "longitude": -118.400344,
+      "latitude": 34.073485
+    }
   },
   "industry": [
     "real-estate"

@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "media-entertainment"
@@ -26,8 +27,8 @@
   ],
   "organization": null,
   "selfMade": {
-    "_is": true,
-    "type": "self-made",
+    "_is": false,
+    "type": "inherited",
     "rank": null
   }
 }

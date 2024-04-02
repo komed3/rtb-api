@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Yunlin",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Yunlin"
   },
   "industry": [
     "manufacturing"
@@ -16,7 +17,7 @@
     "Footwear"
   ],
   "deceased": false,
-  "children": 2,
+  "children": 3,
   "maritalStatus": "Married",
   "education": [
     {

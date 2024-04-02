@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Sarasota",
-    "state": "Florida"
+    "zipCode": "34236"
   },
   "industry": [
     "media-entertainment"

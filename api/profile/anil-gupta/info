@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "New Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "New Delhi"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Cables"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

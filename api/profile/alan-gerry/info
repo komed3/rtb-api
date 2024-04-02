@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Liberty",
-    "state": "New York"
+    "zipCode": "12754",
+    "_geo": {
+      "longitude": -74.739468,
+      "latitude": 41.797519
+    }
   },
   "industry": [
     "media-entertainment"

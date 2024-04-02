@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Plantation ",
-    "state": "Florida"
+    "zipCode": "33311"
   },
   "industry": [
     "food-beverage"

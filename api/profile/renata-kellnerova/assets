@@ -3,20 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "AUTL-US",
     "companyName": "Autolus Therapeutics (ADR)",
-    "numberOfShares": 14612000,
-    "sharePrice": 5.39,
+    "numberOfShares": 0,
+    "sharePrice": 6.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "PRAGUE",
+    "ticker": "MONET-CZ",
+    "companyName": "Moneta Money Bank",
+    "numberOfShares": 152993000,
+    "sharePrice": 4.356554051168154,
+    "currencyCode": "CZK",
+    "exchangeRate": 23.413,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "POLY-GB",
     "companyName": "Polymetal International Plc",
-    "numberOfShares": 15847000,
-    "sharePrice": 2.7497122394168048,
+    "numberOfShares": 0,
+    "sharePrice": 2.7160181910055585,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7819,
+    "exchangeRate": 0.7916,
     "interactive": false
   }
 ]

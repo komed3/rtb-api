@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Aspen",
-    "state": "Colorado"
+    "zipCode": "81611",
+    "_geo": {
+      "longitude": -106.8175387,
+      "latitude": 39.1910983
+    }
   },
   "industry": [
     "technology"

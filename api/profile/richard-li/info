@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "telecom"
@@ -15,7 +16,7 @@
   "source": [
     "Telecom"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/63efe43a248709003db8d5b0/416x416.jpg?background=000000&cropX1=937&cropX2=3496&cropY1=109&cropY2=2667",
+  "image": "https://specials-images.forbesimg.com/imageserve/65d4c7bbf37542227f60948b/416x416.jpg?background=000000&cropX1=171&cropX2=812&cropY1=47&cropY2=689",
   "deceased": false,
   "children": 3,
   "maritalStatus": "Single",

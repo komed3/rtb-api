@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Portage",
-    "state": "Michigan"
+    "zipCode": "49024",
+    "_geo": {
+      "longitude": -85.618169,
+      "latitude": 42.21411
+    }
   },
   "industry": [
     "healthcare"

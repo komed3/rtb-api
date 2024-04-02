@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
+    "country": "hk",
+    "state": null,
     "city": "Hong Kong",
-    "state": null
+    "zipCode": "518010"
   },
   "industry": [
     "logistics"

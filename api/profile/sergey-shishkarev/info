@@ -1,0 +1,34 @@
+{
+  "uri": "sergey-shishkarev",
+  "name": "Sergey Shishkarev",
+  "birthDate": "1968-02-02",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Transport"
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Military Institute of Ministry of Defense of Russia",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "uri": "vladislav-sviblov",
+  "name": "Vladislav Sviblov",
+  "birthDate": "1980-01-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "Mining"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Moscow State University of Economics, Statistics, and Informatics",
+      "degree": "Master of Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

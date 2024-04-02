@@ -1,0 +1,29 @@
+{
+  "uri": "bris-rocher",
+  "name": "Bris Rocher",
+  "birthDate": "1978-10-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Rennes"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "cosmetics"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

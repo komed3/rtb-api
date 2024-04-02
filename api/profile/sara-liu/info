@@ -1,0 +1,29 @@
+{
+  "uri": "sara-liu",
+  "name": "Sara Liu",
+  "birthDate": "1962-01-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Jose"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Computer hardware"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

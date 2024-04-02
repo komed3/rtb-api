@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77019",
+    "_geo": {
+      "longitude": -95.402289,
+      "latitude": 29.75386
+    }
   },
   "industry": [
     "finance-investments"

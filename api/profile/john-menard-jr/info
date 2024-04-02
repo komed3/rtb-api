@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wisconsin",
     "city": "Eau Claire",
-    "state": "Wisconsin"
+    "zipCode": "54703",
+    "_geo": {
+      "longitude": -91.505369,
+      "latitude": 44.830335
+    }
   },
   "industry": [
     "fashion-retail"

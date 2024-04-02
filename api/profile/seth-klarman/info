@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Chestnut Hill",
-    "state": "Massachusetts"
+    "_geo": {
+      "longitude": -71.164564,
+      "latitude": 42.326095
+    }
   },
   "industry": [
     "finance-investments"

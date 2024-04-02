@@ -1,0 +1,29 @@
+{
+  "uri": "yang-ying",
+  "name": "Yang Ying & family",
+  "birthDate": "1963-04-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Xiamen"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

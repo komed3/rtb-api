@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "real-estate"
@@ -16,7 +17,7 @@
     "Real estate"
   ],
   "deceased": false,
-  "children": 4,
+  "children": 3,
   "maritalStatus": "Widowed",
   "education": [],
   "organization": null,

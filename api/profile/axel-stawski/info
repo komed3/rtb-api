@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Sagaponack",
-    "state": "New York"
+    "zipCode": "11962",
+    "_geo": {
+      "longitude": -72.271908,
+      "latitude": 40.9213308
+    }
   },
   "industry": [
     "real-estate"

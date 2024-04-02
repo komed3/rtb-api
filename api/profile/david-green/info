@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "zipCode": "73173",
+    "_geo": {
+      "longitude": -97.627023,
+      "latitude": 35.34646
+    }
   },
   "industry": [
     "fashion-retail"

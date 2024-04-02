@@ -1,0 +1,34 @@
+{
+  "uri": "john-fish",
+  "name": "John Fish",
+  "birthDate": "1960-03-09",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Boston"
+  },
+  "industry": [
+    "construction-engineering"
+  ],
+  "source": [
+    "Construction"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Bowdoin College",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

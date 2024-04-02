@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Sands Point",
-    "state": "New York"
+    "zipCode": "11050",
+    "_geo": {
+      "longitude": -73.692972,
+      "latitude": 40.83447
+    }
   },
   "industry": [
     "finance-investments"

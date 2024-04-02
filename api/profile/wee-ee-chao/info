@@ -1,0 +1,34 @@
+{
+  "uri": "wee-ee-chao",
+  "name": "Wee Ee Chao",
+  "birthDate": "1956-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "sg",
+  "residence": {
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Banking"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "American University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

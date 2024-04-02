@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Alameda",
-    "state": "California"
+    "zipCode": "94501"
   },
   "industry": [
     "automotive"

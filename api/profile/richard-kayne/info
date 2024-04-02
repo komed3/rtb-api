@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Santa Monica ",
-    "state": "California"
+    "zipCode": "90401"
   },
   "industry": [
     "finance-investments"

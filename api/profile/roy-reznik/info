@@ -1,0 +1,29 @@
+{
+  "uri": "roy-reznik",
+  "name": "Roy Reznik",
+  "birthDate": "1988-08-03",
+  "family": false,
+  "gender": "m",
+  "citizenship": "il",
+  "residence": {
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Security startup"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

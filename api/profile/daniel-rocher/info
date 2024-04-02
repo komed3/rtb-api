@@ -1,0 +1,29 @@
+{
+  "uri": "daniel-rocher",
+  "name": "Daniel Rocher",
+  "birthDate": "1954-03-07",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Rennes"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "cosmetics"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

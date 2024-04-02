@@ -1,0 +1,34 @@
+{
+  "uri": "nikolay-fartushnyak",
+  "name": "Nikolay Fartushnyak",
+  "birthDate": "1966-01-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "retail"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute of Physics and Technology",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Sewickley",
-    "state": "Pennsylvania"
+    "_geo": {
+      "longitude": -80.180194,
+      "latitude": 40.53811
+    }
   },
   "industry": [
     "fashion-retail"

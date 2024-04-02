@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Taizhou",
-    "state": "Zhejiang"
+    "zipCode": "318020",
+    "_geo": {
+      "longitude": 104.165657,
+      "latitude": 34.668
+    }
   },
   "industry": [
     "manufacturing"

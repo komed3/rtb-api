@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Cisco",
-    "state": "Texas"
+    "zipCode": "76437",
+    "_geo": {
+      "longitude": -98.991632,
+      "latitude": 32.37968
+    }
   },
   "industry": [
     "energy"

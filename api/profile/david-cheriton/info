@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "_geo": {
+      "longitude": -122.160794,
+      "latitude": 37.44466
+    }
   },
   "industry": [
     "technology"

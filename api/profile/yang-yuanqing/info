@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Beijing",
-    "state": "Beijing"
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
   },
   "industry": [
     "technology"
@@ -18,7 +19,12 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
+  "education": [
+    {
+      "school": "University of Science and Technology of China",
+      "degree": "Masters of Science in Technology"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

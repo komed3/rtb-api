@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Elizabeth",
-    "state": "Colorado"
+    "zipCode": "80107",
+    "_geo": {
+      "longitude": -104.589004,
+      "latitude": 39.3985
+    }
   },
   "industry": [
     "media-entertainment"

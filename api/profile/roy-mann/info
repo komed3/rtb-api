@@ -1,0 +1,34 @@
+{
+  "uri": "roy-mann",
+  "name": "Roy Mann",
+  "birthDate": "1978-07-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "il",
+  "residence": {
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "Interdisciplinary Center Herzliya, Israel",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

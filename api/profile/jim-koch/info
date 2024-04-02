@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Newton",
-    "state": "Massachusetts"
+    "zipCode": "02459"
   },
   "industry": [
     "food-beverage"

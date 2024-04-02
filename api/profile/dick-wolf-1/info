@@ -1,0 +1,34 @@
+{
+  "uri": "dick-wolf-1",
+  "name": "Dick Wolf",
+  "birthDate": "1946-12-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Law & Order"
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "The University of Pennsylvania",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

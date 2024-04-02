@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "_geo": {
+      "longitude": -112.075774,
+      "latitude": 33.44826
+    }
   },
   "industry": [
     "sports"

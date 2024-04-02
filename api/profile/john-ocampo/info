@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Altos",
-    "state": "California"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
@@ -15,9 +16,9 @@
   "source": [
     "Semiconductors"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Santa Clara University",

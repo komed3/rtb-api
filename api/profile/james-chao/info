@@ -1,0 +1,30 @@
+{
+  "uri": "james-chao",
+  "name": "James Chao & family",
+  "birthDate": "1947-09-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Houston"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Chemicals",
+    "building products"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

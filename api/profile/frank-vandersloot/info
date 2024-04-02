@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Idaho",
     "city": "Idaho Falls",
-    "state": "Idaho"
+    "zipCode": "83402"
   },
   "industry": [
     "fashion-retail"

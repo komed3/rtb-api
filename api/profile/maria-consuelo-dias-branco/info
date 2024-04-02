@@ -1,0 +1,30 @@
+{
+  "uri": "maria-consuelo-dias-branco",
+  "name": "Maria Consuelo Dias Branco",
+  "birthDate": "1934-10-23",
+  "family": false,
+  "gender": "f",
+  "citizenship": "br",
+  "residence": {
+    "country": "br",
+    "state": null,
+    "city": "Eusébio"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "pasta",
+    "biscuits"
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

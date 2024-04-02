@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Medina",
-    "state": "Washington"
+    "zipCode": "98039",
+    "_geo": {
+      "longitude": -122.2421963,
+      "latitude": 47.6258071
+    }
   },
   "industry": [
     "technology"

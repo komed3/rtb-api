@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Laguna Beach",
-    "state": "California"
+    "_geo": {
+      "longitude": -117.781537,
+      "latitude": 33.545375
+    }
   },
   "industry": [
     "finance-investments"

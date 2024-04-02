@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "Cardiff",
-    "state": null
+    "zipCode": "CF5"
   },
   "industry": [
     "finance-investments"

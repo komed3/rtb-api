@@ -1,0 +1,45 @@
+{
+  "uri": "lisa-su",
+  "name": "Lisa Su",
+  "birthDate": "1969-11-07",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Science in Engineering"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": {
+    "name": "AMD",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
+}

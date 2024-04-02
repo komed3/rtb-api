@@ -1,0 +1,34 @@
+{
+  "uri": "pavel-demidov",
+  "name": "Pavel Demidov & family",
+  "birthDate": "1968-11-30",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Agriculture"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Aviation University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Winnetka",
-    "state": "Illinois"
+    "zipCode": "60093",
+    "_geo": {
+      "longitude": -87.7266811,
+      "latitude": 42.107366
+    }
   },
   "industry": [
     "finance-investments"

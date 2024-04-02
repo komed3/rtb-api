@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Hunts Point",
-    "state": "Washington"
+    "zipCode": "98004",
+    "_geo": {
+      "longitude": -122.203138,
+      "latitude": 47.61836
+    }
   },
   "industry": [
     "telecom"

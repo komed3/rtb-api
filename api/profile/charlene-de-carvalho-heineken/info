@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "nl",
   "residence": {
-    "city": "London",
-    "state": null
+    "country": "gb",
+    "state": null,
+    "city": "London"
   },
   "industry": [
     "food-beverage"
@@ -21,12 +22,8 @@
   "maritalStatus": "Married",
   "education": [
     {
-      "school": "Rijnlands Lyceum Wassenaar",
-      "degree": "Bachelor of Arts/Science"
-    },
-    {
       "school": "University of Leiden",
-      "degree": "Doctor of Jurisprudence"
+      "degree": "Drop Out"
     }
   ],
   "organization": null,

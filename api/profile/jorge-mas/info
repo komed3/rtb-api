@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami",
-    "state": "Florida"
+    "zipCode": "33133",
+    "_geo": {
+      "longitude": -80.254143,
+      "latitude": 25.73233
+    }
   },
   "industry": [
     "construction-engineering"

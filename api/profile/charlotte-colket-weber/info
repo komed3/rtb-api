@@ -6,8 +6,13 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Hobe Sound",
-    "state": "Florida"
+    "_geo": {
+      "longitude": -80.136414,
+      "latitude": 27.05911
+    }
   },
   "industry": [
     "food-beverage"

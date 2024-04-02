@@ -6,8 +6,13 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Belle Vernon",
-    "state": "Pennsylvania"
+    "_geo": {
+      "longitude": -79.875584,
+      "latitude": 40.12864
+    }
   },
   "industry": [
     "service"

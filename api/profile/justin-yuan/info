@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Shanghai",
-    "state": null
+    "zipCode": "Shanghai"
   },
   "industry": [
     "media-entertainment"

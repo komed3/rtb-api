@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Los Angeles",
-    "state": "California"
+    "zipCode": "90020",
+    "_geo": {
+      "longitude": -118.309109,
+      "latitude": 34.06623
+    }
   },
   "industry": [
     "finance-investments"

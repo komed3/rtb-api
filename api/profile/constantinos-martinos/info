@@ -1,0 +1,29 @@
+{
+  "uri": "constantinos-martinos",
+  "name": "Constantinos Martinos & family",
+  "birthDate": "1953-01-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "gr",
+  "residence": {
+    "country": "gr",
+    "state": null,
+    "city": "Athens"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Shipping"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

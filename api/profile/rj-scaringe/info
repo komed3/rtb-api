@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Irvine",
-    "state": "California"
+    "zipCode": "92602"
   },
   "industry": [
     "automotive"

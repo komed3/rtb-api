@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Newbury Park",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco",
+    "zipCode": "94104",
+    "_geo": {
+      "longitude": -122.4019339,
+      "latitude": 37.7891228
+    }
   },
   "industry": [
     "media-entertainment"

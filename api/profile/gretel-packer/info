@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "au",
   "residence": {
-    "city": "Sydney",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Sydney"
   },
   "industry": [
     "finance-investments"
@@ -15,7 +16,7 @@
   "source": [
     "Investments"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/63ea7c85eaefa9570ee3c459/416x416.jpg?background=000000&cropX1=262&cropX2=1329&cropY1=14&cropY2=1080",
+  "image": "https://specials-images.forbesimg.com/imageserve/65ca4c10a7a315cfe33640bc/416x416.jpg?background=000000&cropX1=161&cropX2=815&cropY1=13&cropY2=667",
   "deceased": false,
   "children": 3,
   "maritalStatus": "Divorced",

@@ -1,0 +1,29 @@
+{
+  "uri": "zheng-fan",
+  "name": "Zheng Fan",
+  "birthDate": "1979-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "electric vehicles"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

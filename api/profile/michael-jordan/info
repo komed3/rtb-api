@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Jupiter",
-    "state": "Florida"
+    "zipCode": "33458",
+    "_geo": {
+      "longitude": -80.109357,
+      "latitude": 26.931397
+    }
   },
   "industry": [
     "sports"

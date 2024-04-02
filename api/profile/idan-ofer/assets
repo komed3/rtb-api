@@ -1,58 +1,58 @@
 [
   {
+    "exchange": "OSLO",
+    "ticker": "AKVA-NO",
+    "companyName": "AKVA Group",
+    "numberOfShares": 3366000,
+    "sharePrice": 6.434009918330476,
+    "currencyCode": "NOK",
+    "exchangeRate": 10.8486,
+    "interactive": false
+  },
+  {
     "companyName": "Cool Co",
-    "numberOfShares": 31200000,
-    "sharePrice": 12.524590163934427,
+    "numberOfShares": 31254000,
+    "sharePrice": 12.377146560103684,
     "currencyCode": "EUR",
-    "exchangeRate": 0.915,
+    "exchangeRate": 0.9259,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "EWIND-NO",
     "companyName": "Edda Wind",
-    "numberOfShares": 6800000,
-    "sharePrice": 2.186274415794874,
+    "numberOfShares": 6888000,
+    "sharePrice": 2.1200892281031654,
     "currencyCode": "NOK",
-    "exchangeRate": 10.4287,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "INSW-US",
-    "companyName": "International Seaways",
-    "numberOfShares": 2475000,
-    "sharePrice": 53.03,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 10.8486,
     "interactive": false
   },
   {
     "exchange": "TEL AVIV",
-    "ticker": "ILCO-IL",
-    "companyName": "Israel Corp. Ltd.",
-    "numberOfShares": 3874000,
-    "sharePrice": 271.7606675410934,
+    "ticker": "ICL-IL",
+    "companyName": "ICL Group",
+    "numberOfShares": 289180000,
+    "sharePrice": 5.306111308240304,
     "currencyCode": "ILS",
-    "exchangeRate": 3.5833,
+    "exchangeRate": 3.6637,
+    "interactive": false
+  },
+  {
+    "exchange": "TEL AVIV",
+    "ticker": "OPCE-IL",
+    "companyName": "OPC Energy",
+    "numberOfShares": 74017000,
+    "sharePrice": 7.123945737915223,
+    "currencyCode": "ILS",
+    "exchangeRate": 3.6637,
     "interactive": false
   },
   {
     "exchange": "NYSE",
-    "ticker": "KEN-US",
-    "companyName": "Kenon Holdings",
-    "numberOfShares": 32497000,
-    "sharePrice": 25.71,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "US OTC",
-    "ticker": "PACDQ-US",
-    "companyName": "Pacific Drilling SA",
-    "numberOfShares": 0,
-    "sharePrice": 0.039,
+    "ticker": "ZIM-US",
+    "companyName": "ZIM Integrated Shipping Services",
+    "numberOfShares": 14981000,
+    "sharePrice": 10.12,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

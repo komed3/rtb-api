@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Hawaii",
     "city": "Honolulu",
-    "state": "Hawaii"
+    "zipCode": "96816",
+    "_geo": {
+      "longitude": -157.79657,
+      "latitude": 21.281488
+    }
   },
   "industry": [
     "technology"

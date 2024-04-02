@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Rolling Hills",
-    "state": "California"
+    "zipCode": "90274",
+    "_geo": {
+      "longitude": -118.388239,
+      "latitude": 33.757732
+    }
   },
   "industry": [
     "technology"

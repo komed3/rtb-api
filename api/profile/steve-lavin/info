@@ -1,0 +1,29 @@
+{
+  "uri": "steve-lavin",
+  "name": "Steve Lavin & family",
+  "birthDate": "1955-07-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Meat processing"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

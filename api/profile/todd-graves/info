@@ -1,0 +1,29 @@
+{
+  "uri": "todd-graves",
+  "name": "Todd Graves",
+  "birthDate": "1972-02-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Louisiana",
+    "city": "Baton Rouge"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Raising Cane's"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
+}

@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "South Carolina",
     "city": "Charleston",
-    "state": "South Carolina"
+    "zipCode": "29407",
+    "_geo": {
+      "longitude": -80.004009,
+      "latitude": 32.79711
+    }
   },
   "industry": [
     "manufacturing"

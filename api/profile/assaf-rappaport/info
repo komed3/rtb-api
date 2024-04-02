@@ -1,0 +1,34 @@
+{
+  "uri": "assaf-rappaport",
+  "name": "Assaf Rappaport",
+  "birthDate": "1983-08-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "il",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Security startup"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "Technion",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

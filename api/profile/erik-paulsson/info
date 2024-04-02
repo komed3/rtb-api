@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
+    "country": "se",
+    "state": null,
     "city": "Båstad",
-    "state": null
+    "zipCode": "26993"
   },
   "industry": [
     "real-estate"

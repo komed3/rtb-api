@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Hamburg",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
@@ -16,9 +17,9 @@
     "Optometry"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5e76265ec7b02d000666c821/416x416.jpg?background=000000&cropX1=184&cropX2=2075&cropY1=86&cropY2=1975",
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "In Relationship",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

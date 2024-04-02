@@ -1,0 +1,29 @@
+{
+  "uri": "yuri-karptsov",
+  "name": "Yuri Karptsov",
+  "birthDate": "1964-01-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Vladivostok"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "Retail"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

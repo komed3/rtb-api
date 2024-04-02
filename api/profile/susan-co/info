@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "ph",
   "residence": {
-    "city": "Manila",
-    "state": null
+    "country": "ph",
+    "state": null,
+    "city": "Manila"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

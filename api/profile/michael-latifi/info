@@ -1,0 +1,29 @@
+{
+  "uri": "michael-latifi",
+  "name": "Michael Latifi",
+  "birthDate": "1962-10-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ca",
+  "residence": {
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Meat processing"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

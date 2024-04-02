@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -95.369784,
+      "latitude": 29.76045
+    }
   },
   "industry": [
     "food-beverage"
@@ -31,7 +36,7 @@
     }
   ],
   "organization": {
-    "name": "Landry's",
+    "name": "Fertitta Entertainment",
     "title": "Chairman and CEO"
   },
   "selfMade": {

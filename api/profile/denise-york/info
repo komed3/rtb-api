@@ -6,8 +6,13 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "Youngstown",
-    "state": "Ohio"
+    "_geo": {
+      "longitude": -80.650789,
+      "latitude": 41.0981
+    }
   },
   "industry": [
     "sports"

@@ -1,0 +1,29 @@
+{
+  "uri": "wang-weixiu",
+  "name": "Wang Weixiu & family",
+  "birthDate": "1950-11-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Yantai"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "machinery"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newport Coast",
-    "state": "California"
+    "_geo": {
+      "longitude": -117.828564,
+      "latitude": 33.606443
+    }
   },
   "industry": [
     "technology"

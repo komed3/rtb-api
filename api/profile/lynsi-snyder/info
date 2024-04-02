@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Glendora",
-    "state": "California"
+    "zipCode": "91741"
   },
   "industry": [
     "food-beverage"

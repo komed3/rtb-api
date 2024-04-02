@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Kentucky",
     "city": "Lexington",
-    "state": "Kentucky"
+    "zipCode": "90265"
   },
   "industry": [
     "service"

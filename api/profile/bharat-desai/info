@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Fisher Island",
-    "state": "Florida"
+    "zipCode": "33109",
+    "_geo": {
+      "longitude": -80.141249,
+      "latitude": 25.762749
+    }
   },
   "industry": [
     "technology"

@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Francisco",
-    "state": "California"
+    "zipCode": "94118",
+    "_geo": {
+      "longitude": -122.462755,
+      "latitude": 37.77459
+    }
   },
   "industry": [
     "fashion-retail"

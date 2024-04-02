@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Greenwich",
-    "state": "Connecticut"
+    "zipCode": "06830",
+    "_geo": {
+      "longitude": -73.6182979,
+      "latitude": 41.0670166
+    }
   },
   "industry": [
     "food-beverage"

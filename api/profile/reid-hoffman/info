@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Palo Alto",
-    "state": "California"
+    "zipCode": "94306",
+    "_geo": {
+      "longitude": -122.131575,
+      "latitude": 37.417603
+    }
   },
   "industry": [
     "technology"

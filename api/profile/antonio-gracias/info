@@ -1,0 +1,38 @@
+{
+  "uri": "antonio-gracias",
+  "name": "Antonio Gracias",
+  "birthDate": "1970-11-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Investments"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Georgetown School of Foreign Service",
+      "degree": "Master"
+    },
+    {
+      "school": "University of Chicago Law School",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

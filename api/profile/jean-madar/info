@@ -1,0 +1,29 @@
+{
+  "uri": "jean-madar",
+  "name": "Jean Madar",
+  "birthDate": "1959-03-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "Fragrances"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

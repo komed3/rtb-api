@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "North Carolina",
     "city": "Cary",
-    "state": "North Carolina"
+    "zipCode": "27513",
+    "_geo": {
+      "longitude": -78.806059,
+      "latitude": 35.795631
+    }
   },
   "industry": [
     "technology"

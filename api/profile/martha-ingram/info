@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Nashville",
-    "state": "Tennessee"
+    "zipCode": "37205",
+    "_geo": {
+      "longitude": -86.85902,
+      "latitude": 36.114359
+    }
   },
   "industry": [
     "media-entertainment"

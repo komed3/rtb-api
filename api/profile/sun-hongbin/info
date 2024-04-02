@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Tianjin",
-    "state": "Tianjin"
+    "zipCode": "301900"
   },
   "industry": [
     "real-estate"

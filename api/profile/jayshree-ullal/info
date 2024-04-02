@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Saratoga",
-    "state": "California"
+    "zipCode": "95070"
   },
   "industry": [
     "technology"

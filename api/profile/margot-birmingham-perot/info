@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "zipCode": "75201",
+    "_geo": {
+      "longitude": -96.79625279999999,
+      "latitude": 32.7863301
+    }
   },
   "industry": [
     "technology"

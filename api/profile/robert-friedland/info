@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "sg",
+    "state": null,
     "city": "Singapore",
-    "state": null
+    "zipCode": "150165"
   },
   "industry": [
     "metals-mining"

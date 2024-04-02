@@ -1,0 +1,34 @@
+{
+  "uri": "vladimir-fartushnyak",
+  "name": "Vladimir Fartushnyak",
+  "birthDate": "1962-02-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "retail"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Moscow Institute of Physics and Technology",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

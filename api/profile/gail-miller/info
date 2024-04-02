@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Utah",
     "city": "Salt Lake City",
-    "state": "Utah"
+    "zipCode": "84101",
+    "_geo": {
+      "longitude": -111.8985922,
+      "latitude": 40.7563925
+    }
   },
   "industry": [
     "automotive"

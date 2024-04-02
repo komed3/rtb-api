@@ -1,0 +1,34 @@
+{
+  "uri": "igor-yakovlev",
+  "name": "Igor Yakovlev",
+  "birthDate": "1965-08-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "home appliance stores"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dagestan Polytechnic Institute",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

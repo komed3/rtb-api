@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maryland",
     "city": "Annapolis",
-    "state": "Maryland"
+    "zipCode": "21403",
+    "_geo": {
+      "longitude": -76.5244135,
+      "latitude": 38.9456485
+    }
   },
   "industry": [
     "healthcare"

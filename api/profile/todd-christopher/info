@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Clearwater",
-    "state": "Florida"
+    "zipCode": "33766",
+    "_geo": {
+      "longitude": -82.78,
+      "latitude": 27.98
+    }
   },
   "industry": [
     "fashion-retail"

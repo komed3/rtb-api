@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Newport Beach",
-    "state": "California"
+    "zipCode": "92625",
+    "_geo": {
+      "longitude": -117.866679,
+      "latitude": 33.60188
+    }
   },
   "industry": [
     "technology"

@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Electra",
-    "state": "Texas"
+    "zipCode": "76360"
   },
   "industry": [
     "fashion-retail"

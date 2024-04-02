@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New Jersey",
     "city": "Alpine",
-    "state": "New Jersey"
+    "zipCode": "07620",
+    "_geo": {
+      "longitude": -73.9271644,
+      "latitude": 40.93702529999999
+    }
   },
   "industry": [
     "finance-investments"

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Cleveland",
-    "state": "Tennessee"
+    "zipCode": "37312",
+    "_geo": {
+      "longitude": -84.83593950000001,
+      "latitude": 35.2148165
+    }
   },
   "industry": [
     "healthcare"

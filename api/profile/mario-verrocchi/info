@@ -1,0 +1,34 @@
+{
+  "uri": "mario-verrocchi",
+  "name": "Mario Verrocchi",
+  "birthDate": "1957-07-30",
+  "family": false,
+  "gender": "m",
+  "citizenship": "au",
+  "residence": {
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "Pharmacies"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of South Australia",
+      "degree": "Bachelor of Pharmacy"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

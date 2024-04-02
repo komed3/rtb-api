@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Sao Paulo",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -16,9 +17,9 @@
     "Retail"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/603e8f5d4a2df75cef4fb25a/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
-  "deceased": false,
+  "deceased": true,
   "children": 6,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Fundacao Getulio Vargas",

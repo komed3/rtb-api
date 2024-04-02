@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "_geo": {
+      "longitude": -84.391109,
+      "latitude": 33.748315
+    }
   },
   "industry": [
     "media-entertainment"

@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Nevada",
     "city": "Las Vegas",
-    "state": "Nevada"
+    "_geo": {
+      "longitude": -115.139974,
+      "latitude": 36.171915
+    }
   },
   "industry": [
     "gambling-casinos"

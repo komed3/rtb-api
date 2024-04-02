@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "Seattle",
-    "state": "Washington"
+    "_geo": {
+      "longitude": -122.329439,
+      "latitude": 47.60356
+    }
   },
   "industry": [
     "real-estate"

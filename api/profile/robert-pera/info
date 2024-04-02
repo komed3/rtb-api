@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "San Jose",
-    "state": "California"
+    "zipCode": "95112",
+    "_geo": {
+      "longitude": -121.8847222,
+      "latitude": 37.3456227
+    }
   },
   "industry": [
     "technology"

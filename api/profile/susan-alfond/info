@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maine",
     "city": "Scarborough",
-    "state": "Maine"
+    "zipCode": "04074",
+    "_geo": {
+      "longitude": -70.3976368,
+      "latitude": 43.6083314
+    }
   },
   "industry": [
     "fashion-retail"

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Phoenix",
-    "state": "Arizona"
+    "zipCode": "85003",
+    "_geo": {
+      "longitude": -112.0789355,
+      "latitude": 33.4495511
+    }
   },
   "industry": [
     "finance-investments"

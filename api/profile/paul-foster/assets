@@ -13,8 +13,18 @@
     "exchange": "NYSE",
     "ticker": "MPC-US",
     "companyName": "Marathon Petroleum",
-    "numberOfShares": 5861000,
-    "sharePrice": 178.97,
+    "numberOfShares": 0,
+    "sharePrice": 201.5,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MPLX-US",
+    "companyName": "MPLX LP COM UNIT REPSTG LTD PARTNER INT",
+    "numberOfShares": 4558000,
+    "sharePrice": 41.56,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

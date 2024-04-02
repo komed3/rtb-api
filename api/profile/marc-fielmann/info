@@ -1,0 +1,29 @@
+{
+  "uri": "marc-fielmann",
+  "name": "Marc Fielmann",
+  "birthDate": "1989-07-24",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Optometry"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "br",
   "residence": {
-    "city": "Rio de Janeiro",
-    "state": null
+    "country": "br",
+    "state": null,
+    "city": "Rio de Janeiro"
   },
   "industry": [
     "finance-investments"
@@ -17,7 +18,7 @@
   ],
   "deceased": false,
   "children": 2,
-  "maritalStatus": "Single",
+  "maritalStatus": "Married",
   "education": [
     {
       "school": "Universidade Federal do Rio de Janeiro",

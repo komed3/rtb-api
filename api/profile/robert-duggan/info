@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Clearwater",
-    "state": "Florida"
+    "zipCode": "33756",
+    "_geo": {
+      "longitude": -82.79402970000001,
+      "latitude": 27.9413341
+    }
   },
   "industry": [
     "healthcare"
@@ -15,7 +21,7 @@
   "source": [
     "Pharmaceuticals"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/5f468cb82c82b7ad3997f726/416x416.jpg?background=000000&cropX1=1267&cropX2=1880&cropY1=126&cropY2=739",
+  "image": "https://specials-images.forbesimg.com/imageserve/65d622f1d3b753f66e7bdf44/416x416.jpg?background=000000&cropX1=411&cropX2=1268&cropY1=510&cropY2=1367",
   "deceased": false,
   "children": 8,
   "maritalStatus": "Married",

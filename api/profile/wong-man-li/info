@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "hk",
   "residence": {
-    "city": "Hong Kong",
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "manufacturing"
@@ -15,7 +16,7 @@
   "source": [
     "Furniture"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/60352ceeb298c5f4cc71abaa/416x416.jpg?background=000000&cropX1=0&cropX2=423&cropY1=0&cropY2=423",
+  "image": "https://specials-images.forbesimg.com/imageserve/65d4f095846727795158d65a/416x416.jpg?background=000000&cropX1=317&cropX2=767&cropY1=371&cropY2=821",
   "deceased": false,
   "children": 2,
   "maritalStatus": "Married",

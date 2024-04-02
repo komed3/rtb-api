@@ -7,12 +7,8 @@
   "citizenship": "us",
   "residence": {
     "country": "us",
-    "state": "CA",
-    "city": "Woodside",
-    "_geo": {
-      "longitude": -90.123859,
-      "latitude": 29.9485
-    }
+    "state": "Montana",
+    "city": "Big Sky"
   },
   "industry": [
     "technology"
@@ -26,10 +22,13 @@
   "education": [
     {
       "school": "University of California, San Diego",
-      "degree": "Bachelor of Arts / Science"
+      "degree": "Bachelor of Arts/Science"
     }
   ],
-  "organization": null,
+  "organization": {
+    "name": "GoPro",
+    "title": "Founder, CEO and Chairman"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

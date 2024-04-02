@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Houston",
-    "state": "Texas"
+    "zipCode": "77251",
+    "_geo": {
+      "longitude": -95.53999999999999,
+      "latitude": 29.7
+    }
   },
   "industry": [
     "automotive"

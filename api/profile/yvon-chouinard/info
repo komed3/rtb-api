@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Ventura",
-    "state": "California"
+    "zipCode": "93009"
   },
   "industry": [
     "fashion-retail"

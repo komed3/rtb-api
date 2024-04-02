@@ -1,0 +1,29 @@
+{
+  "uri": "wee-ee-lim",
+  "name": "Wee Ee Lim",
+  "birthDate": "1962-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "sg",
+  "residence": {
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Banking"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

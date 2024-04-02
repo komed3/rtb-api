@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Brookline",
-    "state": "Massachusetts"
+    "zipCode": "02446"
   },
   "industry": [
     "technology"

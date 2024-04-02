@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Maryland",
     "city": "Bethesda",
-    "state": "Maryland"
+    "zipCode": "20816",
+    "_geo": {
+      "longitude": -77.115267,
+      "latitude": 38.95903
+    }
   },
   "industry": [
     "finance-investments"

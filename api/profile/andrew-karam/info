@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Menlo Park",
-    "state": "California"
+    "zipCode": "94025",
+    "_geo": {
+      "longitude": -122.1885733,
+      "latitude": 37.4326004
+    }
   },
   "industry": [
     "media-entertainment"

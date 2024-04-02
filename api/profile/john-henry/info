@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Boca Raton",
-    "state": "Florida"
+    "zipCode": "33496",
+    "_geo": {
+      "longitude": -80.159624,
+      "latitude": 26.40602
+    }
   },
   "industry": [
     "sports"

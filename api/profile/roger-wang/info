@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "cn",
+    "state": null,
     "city": "Nanjing",
-    "state": "Jiangsu"
+    "zipCode": "210004"
   },
   "industry": [
     "fashion-retail"

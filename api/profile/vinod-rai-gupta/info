@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "in",
   "residence": {
-    "city": "Delhi",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Delhi"
   },
   "industry": [
     "manufacturing"
@@ -17,7 +18,7 @@
   ],
   "deceased": false,
   "children": 0,
-  "maritalStatus": null,
+  "maritalStatus": "Widowed",
   "education": [],
   "organization": null,
   "selfMade": {

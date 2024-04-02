@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10022",
+    "_geo": {
+      "longitude": -73.967359,
+      "latitude": 40.75848
+    }
   },
   "industry": [
     "healthcare"

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "San Antonio",
-    "state": "Texas"
+    "zipCode": "78209",
+    "_geo": {
+      "longitude": -98.458185,
+      "latitude": 29.489268
+    }
   },
   "industry": [
     "food-beverage"

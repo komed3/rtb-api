@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Chattanooga",
-    "state": "Tennessee"
+    "_geo": {
+      "longitude": -85.309464,
+      "latitude": 35.04644
+    }
   },
   "industry": [
     "food-beverage"

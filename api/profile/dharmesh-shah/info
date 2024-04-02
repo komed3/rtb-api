@@ -1,0 +1,38 @@
+{
+  "uri": "dharmesh-shah",
+  "name": "Dharmesh Shah",
+  "birthDate": "1967-11-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Lowell"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Alabama at Birmingham",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

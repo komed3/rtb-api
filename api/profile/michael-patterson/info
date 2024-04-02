@@ -1,0 +1,29 @@
+{
+  "uri": "michael-patterson",
+  "name": "Michael Patterson",
+  "birthDate": "1974-12-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York City"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private equity"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

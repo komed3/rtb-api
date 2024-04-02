@@ -1,0 +1,38 @@
+{
+  "uri": "dai-wenyuan",
+  "name": "Dai Wenyuan & family",
+  "birthDate": "1983-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "AI"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Shanghai Jiaotong University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Shanghai Jiaotong University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

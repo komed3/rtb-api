@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Dallas",
-    "state": "Texas"
+    "_geo": {
+      "longitude": -96.795404,
+      "latitude": 32.778155
+    }
   },
   "industry": [
     "energy"

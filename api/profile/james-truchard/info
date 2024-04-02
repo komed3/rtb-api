@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "Austin",
-    "state": "Texas"
+    "zipCode": "78746",
+    "_geo": {
+      "longitude": -97.8299383,
+      "latitude": 30.2962208
+    }
   },
   "industry": [
     "technology"

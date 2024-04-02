@@ -6,8 +6,13 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "_geo": {
+      "longitude": -97.520354,
+      "latitude": 35.472015
+    }
   },
   "industry": [
     "fashion-retail"

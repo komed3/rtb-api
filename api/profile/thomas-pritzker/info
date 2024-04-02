@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Chicago",
-    "state": "Illinois"
+    "zipCode": "60614",
+    "_geo": {
+      "longitude": -87.645359,
+      "latitude": 41.92183
+    }
   },
   "industry": [
     "finance-investments"

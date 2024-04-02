@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "se",
   "residence": {
+    "country": "se",
+    "state": null,
     "city": "Stockholm",
-    "state": null
+    "zipCode": "11523"
   },
   "industry": [
     "diversified"

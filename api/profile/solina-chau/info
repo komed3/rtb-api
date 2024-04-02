@@ -6,8 +6,9 @@
   "gender": "f",
   "citizenship": "hk",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
   },
   "industry": [
     "finance-investments"
@@ -15,7 +16,7 @@
   "source": [
     "Investment"
   ],
-  "image": "https:////specials-images.forbesimg.com/imageserve/5deeca06afc4a40007e734bc/416x416.jpg?background=000000&cropX1=46&cropX2=285&cropY1=21&cropY2=260",
+  "image": "https://specials-images.forbesimg.com/imageserve/65e73de77cf33516662c7e98/416x416.jpg?background=000000&cropX1=148&cropX2=940&cropY1=154&cropY2=947",
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
@@ -26,8 +27,8 @@
     }
   ],
   "organization": {
-    "name": "Li Ka Shing Foundation",
-    "title": "Director"
+    "name": "Horizons Ventures",
+    "title": "Cofounder"
   },
   "selfMade": {
     "_is": true,

@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Ohio",
     "city": "Cleveland",
-    "state": "Ohio"
+    "zipCode": "44120",
+    "_geo": {
+      "longitude": -81.583076,
+      "latitude": 41.474018
+    }
   },
   "industry": [
     "finance-investments"

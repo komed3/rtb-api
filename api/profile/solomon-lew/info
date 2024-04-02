@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "fashion-retail"
@@ -15,7 +16,7 @@
   "source": [
     "Retail"
   ],
-  "image": "https:////specials-images.forbesimg.com/imageserve/5e74148a2a573300068fcad9/416x416.jpg?background=000000&cropX1=197&cropX2=1213&cropY1=143&cropY2=1160",
+  "image": "https://specials-images.forbesimg.com/imageserve/65ca4b951563f99326c2d869/416x416.jpg?background=000000&cropX1=280&cropX2=914&cropY1=20&cropY2=654",
   "deceased": false,
   "children": 3,
   "maritalStatus": "Married",

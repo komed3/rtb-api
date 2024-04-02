@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Bloomfield Hills",
-    "state": "Michigan"
+    "zipCode": "48301"
   },
   "industry": [
     "manufacturing"

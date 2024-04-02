@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Texas",
     "city": "San Marcos",
-    "state": "Texas"
+    "zipCode": "78666",
+    "_geo": {
+      "longitude": -97.9810845,
+      "latitude": 29.8942825
+    }
   },
   "industry": [
     "fashion-retail"

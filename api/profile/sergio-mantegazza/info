@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ch",
   "residence": {
-    "city": "Lugano",
-    "state": null
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "service"
@@ -15,9 +16,9 @@
   "source": [
     "Travel"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

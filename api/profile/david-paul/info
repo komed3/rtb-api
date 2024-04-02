@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Audubon",
-    "state": "Pennsylvania"
+    "zipCode": "19403"
   },
   "industry": [
     "healthcare"

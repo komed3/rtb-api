@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Belvedere",
-    "state": "California"
+    "zipCode": "94920",
+    "_geo": {
+      "longitude": -122.4669696,
+      "latitude": 37.8698143
+    }
   },
   "industry": [
     "fashion-retail"

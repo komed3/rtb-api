@@ -1,0 +1,38 @@
+{
+  "uri": "charles-gibbon",
+  "name": "Charles Gibbon",
+  "birthDate": "1949-05-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "nz",
+  "residence": {
+    "country": "au",
+    "state": null,
+    "city": "Bellawongarah"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Canterbury",
+      "degree": "M.Com"
+    },
+    {
+      "school": "University of Otago",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

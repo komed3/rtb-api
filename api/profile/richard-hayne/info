@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
     "city": "Philadelphia",
-    "state": "Pennsylvania"
+    "zipCode": "19118",
+    "_geo": {
+      "longitude": -75.206648,
+      "latitude": 40.074001
+    }
   },
   "industry": [
     "fashion-retail"

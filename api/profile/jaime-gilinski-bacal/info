@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "co",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "London",
-    "state": null
+    "zipCode": "N21"
   },
   "industry": [
     "finance-investments"

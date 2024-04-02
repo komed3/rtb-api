@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Redlands",
-    "state": "California"
+    "zipCode": "92374",
+    "_geo": {
+      "longitude": -117.168359,
+      "latitude": 34.065205
+    }
   },
   "industry": [
     "technology"

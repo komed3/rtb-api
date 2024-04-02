@@ -1,0 +1,29 @@
+{
+  "uri": "nicholas-howley",
+  "name": "Nicholas Howley",
+  "birthDate": "1962-03-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Key West"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Aerospace"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "pier-silvio-berlusconi",
+  "name": "Pier Silvio Berlusconi",
+  "birthDate": "1969-04-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "it",
+  "residence": {
+    "country": "it",
+    "state": null,
+    "city": "Arcore"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Media"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

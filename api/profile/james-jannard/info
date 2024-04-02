@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Washington",
     "city": "San Juan Islands",
-    "state": "Washington"
+    "zipCode": "98245",
+    "_geo": {
+      "longitude": -122.925299,
+      "latitude": 48.666844
+    }
   },
   "industry": [
     "fashion-retail"

@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Pleasanton",
-    "state": "California"
+    "zipCode": "94566"
   },
   "industry": [
     "technology"

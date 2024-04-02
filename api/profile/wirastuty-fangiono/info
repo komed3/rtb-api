@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "id",
   "residence": {
-    "city": "Pekanbaru",
-    "state": null
+    "country": "id",
+    "state": null,
+    "city": "Pekanbaru"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Palm oil"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

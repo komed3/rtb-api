@@ -1,0 +1,30 @@
+{
+  "uri": "tibor-veres",
+  "name": "Tibor Veres",
+  "birthDate": "1962-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "hu",
+  "residence": {
+    "country": "hu",
+    "state": null,
+    "city": "Budapest"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Real Estate",
+    "Investments"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

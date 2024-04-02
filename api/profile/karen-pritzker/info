@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "Branford",
-    "state": "Connecticut"
+    "zipCode": "06405",
+    "_geo": {
+      "longitude": -72.806668,
+      "latitude": 41.27817
+    }
   },
   "industry": [
     "finance-investments"

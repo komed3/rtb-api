@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arizona",
     "city": "Tempe",
-    "state": "Arizona"
+    "zipCode": "85281"
   },
   "industry": [
     "automotive"

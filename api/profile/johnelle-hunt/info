@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Arkansas",
     "city": "Fayetteville",
-    "state": "Arkansas"
+    "zipCode": "72703",
+    "_geo": {
+      "longitude": -94.121331,
+      "latitude": 36.103331
+    }
   },
   "industry": [
     "logistics"

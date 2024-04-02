@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "hk",
+    "state": null,
     "city": "Hong Kong",
-    "state": null
+    "zipCode": "518010"
   },
   "industry": [
     "logistics"
@@ -33,5 +35,6 @@
     "_is": false,
     "type": "inherited and growing",
     "rank": 5
-  }
+  },
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fb1c87e4b0ffa7afe4b5ef/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=282&cropY2=1026"
 }

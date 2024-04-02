@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "La Jolla",
-    "state": "California"
+    "zipCode": "92037",
+    "_geo": {
+      "longitude": -117.255087,
+      "latitude": 32.84204
+    }
   },
   "industry": [
     "healthcare"

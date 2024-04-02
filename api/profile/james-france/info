@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Daytona Beach",
-    "state": "Florida"
+    "_geo": {
+      "longitude": -81.039404,
+      "latitude": 29.203575
+    }
   },
   "industry": [
     "sports"

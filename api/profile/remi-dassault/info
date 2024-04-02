@@ -1,0 +1,29 @@
+{
+  "uri": "remi-dassault",
+  "name": "Remi Dassault",
+  "birthDate": "2001-04-04",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Inherited"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

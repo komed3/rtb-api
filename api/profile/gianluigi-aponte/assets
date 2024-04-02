@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "XETRA",
+    "ticker": "HHFA-DE",
+    "companyName": "HHLA",
+    "numberOfShares": 8341547,
+    "sharePrice": 18.058105626957556,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9259,
+    "interactive": false
+  },
+  {
     "exchange": "SAO PAULO",
     "ticker": "LOGN3-BR",
     "companyName": "Log-In Logistica",
     "numberOfShares": 39438473,
-    "sharePrice": 8.28605009321553,
+    "sharePrice": 7.7992648233977935,
     "currencyCode": "BRL",
-    "exchangeRate": 4.9348,
+    "exchangeRate": 5.0056,
     "interactive": false
   }
 ]

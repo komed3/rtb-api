@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Indian Hills",
-    "state": "Colorado"
+    "zipCode": "80454",
+    "_geo": {
+      "longitude": -105.245678,
+      "latitude": 39.620219
+    }
   },
   "industry": [
     "food-beverage"

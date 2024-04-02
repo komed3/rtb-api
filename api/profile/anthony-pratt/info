@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Melbourne",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
   },
   "industry": [
     "manufacturing"
@@ -15,7 +16,7 @@
   "source": [
     "Manufacturing"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/63ea5ac03566dd44e5ffa60d/416x416.jpg?background=000000&cropX1=3&cropX2=1080&cropY1=2&cropY2=1079",
+  "image": "https://specials-images.forbesimg.com/imageserve/65ca4afebb8e952eca596533/416x416.jpg?background=000000&cropX1=160&cropX2=729&cropY1=34&cropY2=602",
   "deceased": false,
   "children": 2,
   "maritalStatus": null,

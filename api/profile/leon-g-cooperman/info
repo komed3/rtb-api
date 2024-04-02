@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Boca Raton",
-    "state": "Florida"
+    "zipCode": "33432",
+    "_geo": {
+      "longitude": -80.0814292,
+      "latitude": 26.3401581
+    }
   },
   "industry": [
     "finance-investments"

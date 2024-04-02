@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "pl",
   "residence": {
-    "city": "Warsaw",
-    "state": null
+    "country": "pl",
+    "state": null,
+    "city": "Warsaw"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "TV broadcasting"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

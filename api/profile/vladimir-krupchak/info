@@ -1,0 +1,29 @@
+{
+  "uri": "vladimir-krupchak",
+  "name": "Vladimir Krupchak",
+  "birthDate": "1958-01-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cy",
+  "residence": {
+    "country": "cy",
+    "state": null,
+    "city": "Limassol"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Manufacturing"
+  ],
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

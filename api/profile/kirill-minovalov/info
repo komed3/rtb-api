@@ -1,0 +1,35 @@
+{
+  "uri": "kirill-minovalov",
+  "name": "Kirill Minovalov",
+  "birthDate": "1971-04-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Agriculture",
+    "finance"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Moscow State University of Railway Engineering",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

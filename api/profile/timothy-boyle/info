@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oregon",
     "city": "Portland",
-    "state": "Oregon"
+    "_geo": {
+      "longitude": -122.675629,
+      "latitude": 45.511795
+    }
   },
   "industry": [
     "fashion-retail"

@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Springfield",
-    "state": "Illinois"
+    "zipCode": "62701"
   },
   "industry": [
     "finance-investments"

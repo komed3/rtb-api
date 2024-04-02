@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Croton-on-Hudson",
-    "state": "New York"
+    "_geo": {
+      "longitude": -73.888294,
+      "latitude": 41.20718
+    }
   },
   "industry": [
     "finance-investments"

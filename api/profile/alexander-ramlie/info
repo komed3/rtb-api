@@ -1,0 +1,38 @@
+{
+  "uri": "alexander-ramlie",
+  "name": "Alexander Ramlie",
+  "birthDate": "1972-12-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "id",
+  "residence": {
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "mining"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Boston University",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "Boston University",
+      "degree": "Master of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

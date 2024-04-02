@@ -1,0 +1,29 @@
+{
+  "uri": "pinckaers-fabien",
+  "name": "Pinckaers Fabien",
+  "birthDate": "1979-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "be",
+  "residence": {
+    "country": "be",
+    "state": null,
+    "city": "Saint-Denis-Bovesse"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Software"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

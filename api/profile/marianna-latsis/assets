@@ -4,9 +4,9 @@
     "ticker": "DIMAND-GR",
     "companyName": "Dimand SA",
     "numberOfShares": 1000000,
-    "sharePrice": 10.841530054644808,
+    "sharePrice": 10.670698779565829,
     "currencyCode": "EUR",
-    "exchangeRate": 0.915,
+    "exchangeRate": 0.9259,
     "interactive": false
   },
   {
@@ -14,19 +14,29 @@
     "ticker": "GEKTERNA-GR",
     "companyName": "GEK Terna",
     "numberOfShares": 7858571,
-    "sharePrice": 16.633879781420767,
+    "sharePrice": 18.230910465493032,
     "currencyCode": "EUR",
-    "exchangeRate": 0.915,
+    "exchangeRate": 0.9259,
     "interactive": false
   },
   {
     "exchange": "ATHENS",
     "ticker": "ELPE-GR",
     "companyName": "Hellenic Petroleum S.A.",
-    "numberOfShares": 57600813,
-    "sharePrice": 8.863387978142075,
+    "numberOfShares": 49404192,
+    "sharePrice": 9.007452208661842,
     "currencyCode": "EUR",
-    "exchangeRate": 0.915,
+    "exchangeRate": 0.9259,
+    "interactive": false
+  },
+  {
+    "exchange": "ATHENS",
+    "ticker": "TRESTATES-GR",
+    "companyName": "Trade Estates",
+    "numberOfShares": 3755869,
+    "sharePrice": 1.812290744140836,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.9259,
     "interactive": false
   }
 ]

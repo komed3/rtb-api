@@ -1,0 +1,34 @@
+{
+  "uri": "igor-khudokormov",
+  "name": "Igor Khudokormov",
+  "birthDate": "1968-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Agriculture"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Leningrad Military Institute of Railway Forces and Logistics",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Wisconsin",
     "city": "Racine",
-    "state": "Wisconsin"
+    "zipCode": "53402",
+    "_geo": {
+      "longitude": -87.799104,
+      "latitude": 42.77851
+    }
   },
   "industry": [
     "manufacturing"

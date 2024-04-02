@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Hawaii",
     "city": "Kauai",
-    "state": "Hawaii"
+    "zipCode": "96703"
   },
   "industry": [
     "technology"

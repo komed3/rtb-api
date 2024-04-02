@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Indian Creek",
-    "state": "Florida"
+    "zipCode": "33154",
+    "_geo": {
+      "longitude": -80.1361853,
+      "latitude": 25.8735341
+    }
   },
   "industry": [
     "finance-investments"

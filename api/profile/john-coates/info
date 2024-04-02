@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
+    "country": "gb",
+    "state": null,
     "city": "Stoke-On-Trent",
-    "state": null
+    "zipCode": "ST1 5SH"
   },
   "industry": [
     "gambling-casinos"

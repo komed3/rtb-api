@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "New York",
-    "state": "New York"
+    "zipCode": "10002",
+    "_geo": {
+      "longitude": -73.9859414,
+      "latitude": 40.7135097
+    }
   },
   "industry": [
     "real-estate"

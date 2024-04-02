@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Tennessee",
     "city": "Memphis",
-    "state": "Tennessee"
+    "zipCode": "38120",
+    "_geo": {
+      "longitude": -89.861328,
+      "latitude": 35.120603
+    }
   },
   "industry": [
     "logistics"

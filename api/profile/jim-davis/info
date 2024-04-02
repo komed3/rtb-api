@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Massachusetts",
     "city": "Newton",
-    "state": "Massachusetts"
+    "zipCode": "02458",
+    "_geo": {
+      "longitude": -71.188381,
+      "latitude": 42.353677
+    }
   },
   "industry": [
     "manufacturing"

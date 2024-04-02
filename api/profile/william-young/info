@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Michigan",
     "city": "Ypsilanti",
-    "state": "Michigan"
+    "zipCode": "48197",
+    "_geo": {
+      "longitude": -83.6135572,
+      "latitude": 42.1966292
+    }
   },
   "industry": [
     "manufacturing"

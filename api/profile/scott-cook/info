@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Woodside",
-    "state": "California"
+    "zipCode": "94062",
+    "_geo": {
+      "longitude": -122.26692,
+      "latitude": 37.45171
+    }
   },
   "industry": [
     "technology"

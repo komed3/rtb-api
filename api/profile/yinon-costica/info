@@ -1,0 +1,34 @@
+{
+  "uri": "yinon-costica",
+  "name": "Yinon Costica",
+  "birthDate": "1982-11-13",
+  "family": false,
+  "gender": "m",
+  "citizenship": "il",
+  "residence": {
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Security startup"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Technion",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

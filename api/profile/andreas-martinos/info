@@ -1,0 +1,29 @@
+{
+  "uri": "andreas-martinos",
+  "name": "Andreas Martinos & family",
+  "birthDate": "1955-08-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "gr",
+  "residence": {
+    "country": "gr",
+    "state": null,
+    "city": "Athens"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Shipping"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

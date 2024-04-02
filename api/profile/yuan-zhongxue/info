@@ -1,0 +1,29 @@
+{
+  "uri": "yuan-zhongxue",
+  "name": "Yuan Zhongxue",
+  "birthDate": "1955-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Qingdao"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Tires"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Connecticut",
     "city": "East Lyme",
-    "state": "Connecticut"
+    "zipCode": "06333",
+    "_geo": {
+      "longitude": -72.2482225,
+      "latitude": 41.3858115
+    }
   },
   "industry": [
     "technology"

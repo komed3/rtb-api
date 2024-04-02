@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Miami",
-    "state": "Florida"
+    "_geo": {
+      "longitude": -80.237419,
+      "latitude": 25.728985
+    }
   },
   "industry": [
     "real-estate"

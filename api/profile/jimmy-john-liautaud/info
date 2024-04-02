@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Key Largo",
-    "state": "Florida"
+    "zipCode": "33040"
   },
   "industry": [
     "food-beverage"

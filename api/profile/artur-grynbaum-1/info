@@ -1,0 +1,29 @@
+{
+  "uri": "artur-grynbaum-1",
+  "name": "Artur Grynbaum",
+  "birthDate": "1969-03-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "br",
+  "residence": {
+    "country": "br",
+    "state": null,
+    "city": "Curitiba"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "Cosmetics"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

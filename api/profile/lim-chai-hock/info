@@ -1,0 +1,29 @@
+{
+  "uri": "lim-chai-hock",
+  "name": "Lim Chai Hock",
+  "birthDate": "1959-08-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "my",
+  "residence": {
+    "country": "id",
+    "state": null,
+    "city": "Jakarta"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Coal"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

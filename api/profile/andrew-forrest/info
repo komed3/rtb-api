@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Perth",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Perth"
   },
   "industry": [
     "metals-mining"
@@ -15,7 +16,7 @@
   "source": [
     "Mining"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/63ea53c5d97ee8db33afaaf0/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "image": "https://specials-images.forbesimg.com/imageserve/65ca49b8ad26e48437eb62c6/416x416.jpg?background=000000&cropX1=224&cropX2=890&cropY1=0&cropY2=666",
   "deceased": false,
   "children": 3,
   "maritalStatus": "Separated",

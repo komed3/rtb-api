@@ -6,8 +6,13 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "South Dakota",
     "city": "Sioux Falls",
-    "state": "South Dakota"
+    "_geo": {
+      "longitude": -96.731284,
+      "latitude": 43.54535
+    }
   },
   "industry": [
     "finance-investments"

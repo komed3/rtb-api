@@ -6,22 +6,22 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": null,
-    "state": null,
-    "city": null
+    "country": "us",
+    "state": "Washington",
+    "city": "Seattle"
   },
   "industry": [],
   "source": [
     "software"
   ],
   "deceased": false,
-  "children": 0,
-  "maritalStatus": null,
+  "children": 2,
+  "maritalStatus": "Married",
   "education": [],
   "organization": null,
   "selfMade": {
-    "_is": false,
-    "type": null,
+    "_is": true,
+    "type": "self-made",
     "rank": null
   }
 }
