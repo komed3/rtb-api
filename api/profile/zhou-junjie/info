@@ -1,0 +1,29 @@
+{
+  "uri": "zhou-junjie",
+  "name": "Zhou Junjie",
+  "birthDate": "1968-07-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "equipment"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

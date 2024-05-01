@@ -1,0 +1,29 @@
+{
+  "uri": "lennart-blecher",
+  "name": "Lennart Blecher",
+  "birthDate": "1955-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "se",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": "Zurich"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "financial services"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

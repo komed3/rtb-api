@@ -1,0 +1,29 @@
+{
+  "uri": "wu-xubo",
+  "name": "Wu Xubo",
+  "birthDate": "1985-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "AI"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

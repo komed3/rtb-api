@@ -1,0 +1,29 @@
+{
+  "uri": "nikhil-merchant",
+  "name": "Nikhil Merchant",
+  "birthDate": "1960-07-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Energy"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

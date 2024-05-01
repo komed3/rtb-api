@@ -1,0 +1,29 @@
+{
+  "uri": "frank-mccourt",
+  "name": "Frank McCourt",
+  "birthDate": "1953-08-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Wellington"
+  },
+  "industry": [
+    "sports"
+  ],
+  "source": [
+    "baseball"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

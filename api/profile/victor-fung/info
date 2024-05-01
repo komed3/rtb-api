@@ -1,0 +1,40 @@
+{
+  "uri": "victor-fung",
+  "name": "Victor Fung",
+  "birthDate": "1945-10-16",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong",
+    "zipCode": "518010"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Sourcing"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/55fb1c87e4b0ffa7afe4b5ef/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=282&cropY2=1026",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 5
+  }
+}
