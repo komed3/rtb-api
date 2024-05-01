@@ -72,6 +72,7 @@ The ``{LIST}`` argument is described in the lists index. Use ``{DATE}`` format `
 | ``stats/children`` | Number of billionaires by their children | | x | |
 | ``stats/maritalStatus`` | Number of billionaires by their marital status | | x | |
 | ``stats/selfMade`` | Number of billionaires by their self-made score | | x | |
+| ``stats/map`` | Addresses and coordinates of billionaires known homes | | x | |
 | ``stats/top10`` | Top 10 richest billionaires list for each month | | x | |
 
 The ``{KEY}`` argument is a valid country code (ISO) or industry key. Both are described by their corresponding indices.
