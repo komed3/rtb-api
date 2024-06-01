@@ -1,0 +1,34 @@
+{
+  "uri": "mr-jaishankar",
+  "name": "M.R. Jaishankar",
+  "birthDate": "1954-04-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Real Estate"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Mysore",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

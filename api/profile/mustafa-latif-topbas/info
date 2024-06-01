@@ -1,0 +1,30 @@
+{
+  "uri": "mustafa-latif-topbas",
+  "name": "Mustafa Latif Topbas",
+  "birthDate": "1944-03-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "tr",
+  "residence": {
+    "country": "tr",
+    "state": null,
+    "city": "Istanbul"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "food",
+    "retail"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

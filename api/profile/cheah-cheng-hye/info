@@ -1,0 +1,34 @@
+{
+  "uri": "cheah-cheng-hye",
+  "name": "Cheah Cheng Hye",
+  "birthDate": "1954-03-18",
+  "family": false,
+  "gender": "m",
+  "citizenship": "my",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Investments"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

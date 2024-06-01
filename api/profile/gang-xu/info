@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "country": "cn",
+    "country": null,
     "state": null,
-    "city": "Jiaozuo"
+    "city": null
   },
   "industry": [
     "manufacturing"
@@ -16,7 +16,7 @@
   "source": [
     "Chemicals"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 0,
   "maritalStatus": null,
   "education": [],

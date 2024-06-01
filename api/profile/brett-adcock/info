@@ -25,7 +25,10 @@
       "degree": "Bachelor of Business Administration"
     }
   ],
-  "organization": null,
+  "organization": {
+    "name": "Figure",
+    "title": "CEO & founder"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

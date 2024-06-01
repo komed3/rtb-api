@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "country": "tw",
+    "country": null,
     "state": null,
-    "city": "Kaohsiung"
+    "city": null
   },
   "industry": [
     "manufacturing"
@@ -16,9 +16,9 @@
   "source": [
     "Electronic components"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Tunghai University",

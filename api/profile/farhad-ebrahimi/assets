@@ -1,10 +1,30 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "DM-US",
+    "companyName": "Desktop Metal",
+    "numberOfShares": 46000000,
+    "sharePrice": 0.576,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "FSLR-US",
     "companyName": "First Solar Inc.",
-    "numberOfShares": 5007000,
-    "sharePrice": 177,
+    "numberOfShares": 4540000,
+    "sharePrice": 276.78,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SSYS-US",
+    "companyName": "Stratasys",
+    "numberOfShares": 3400000,
+    "sharePrice": 9.02,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

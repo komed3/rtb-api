@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "tr",
   "residence": {
-    "country": "tr",
+    "country": null,
     "state": null,
-    "city": "Istanbul"
+    "city": null
   },
   "industry": [
     "diversified"
@@ -16,17 +16,17 @@
   "source": [
     "diversified"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Manchester University",
-      "degree": "Bachelor of Arts / Science"
+      "degree": "Bachelor of Arts/Science"
     },
     {
       "school": "Manchester University",
-      "degree": "Bachelor of Arts / Science"
+      "degree": "Bachelor of Arts/Science"
     }
   ],
   "organization": null,

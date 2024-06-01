@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "New York",
-    "city": "East Setauket",
-    "zipCode": "11733",
-    "_geo": {
-      "longitude": -73.103578,
-      "latitude": 40.929652
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "finance-investments"
@@ -21,9 +16,9 @@
   "source": [
     "Hedge funds"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Massachusetts Institute of Technology",

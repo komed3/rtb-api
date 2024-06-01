@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "country": "ca",
+    "country": null,
     "state": null,
-    "city": "Saint John"
+    "city": null
   },
   "industry": [
     "energy"
@@ -17,9 +17,9 @@
     "Oil"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/603e8f5d4a2df75cef4fb25a/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=0&cropY2=800",
-  "deceased": false,
+  "deceased": true,
   "children": 5,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

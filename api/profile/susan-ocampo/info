@@ -6,9 +6,9 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": null,
-    "state": null,
-    "city": null
+    "country": "us",
+    "state": "Hawaii",
+    "city": "Honolulu"
   },
   "industry": [
     "technology"
@@ -24,6 +24,6 @@
   "selfMade": {
     "_is": true,
     "type": "self-made",
-    "rank": null
+    "rank": 8
   }
 }
