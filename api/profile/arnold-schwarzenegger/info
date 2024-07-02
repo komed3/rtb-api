@@ -1,0 +1,30 @@
+{
+  "uri": "arnold-schwarzenegger",
+  "name": "Arnold Schwarzenegger",
+  "birthDate": "1947-07-30",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Movies",
+    "investments"
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

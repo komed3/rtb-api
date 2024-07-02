@@ -1,0 +1,34 @@
+{
+  "uri": "paritosh-garg",
+  "name": "Paritosh Garg",
+  "birthDate": "1955-08-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Ludhiana"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Manufacturing"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Punjab University",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

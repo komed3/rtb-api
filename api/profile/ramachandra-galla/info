@@ -1,0 +1,38 @@
+{
+  "uri": "ramachandra-galla",
+  "name": "Ramachandra Galla",
+  "birthDate": "1938-06-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Batteries"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Michigan State University",
+      "degree": "Master of Science in Engineering"
+    },
+    {
+      "school": "National Institute of Technology",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

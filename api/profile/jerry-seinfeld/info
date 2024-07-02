@@ -1,0 +1,33 @@
+{
+  "uri": "jerry-seinfeld",
+  "name": "Jerry Seinfeld",
+  "birthDate": "1954-04-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [],
+  "source": [
+    "Comedy"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ed575a07fe4060006bbcec8/416x416.jpg?background=000000&cropX1=186&cropX2=840&cropY1=0&cropY2=654",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "City University of New York Queens",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
+}

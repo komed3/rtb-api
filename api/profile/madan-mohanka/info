@@ -1,0 +1,38 @@
+{
+  "uri": "madan-mohanka",
+  "name": "Madan Mohanka",
+  "birthDate": "1943-08-13",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Kolkata"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Manufacturing"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Management, Ahmedabad",
+      "degree": "Diploma"
+    },
+    {
+      "school": "Ranchi University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

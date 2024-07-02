@@ -1,0 +1,46 @@
+{
+  "uri": "jensen-huang",
+  "name": "Jensen Huang",
+  "birthDate": "1963-02-17",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Altos",
+    "zipCode": "94022",
+    "_geo": {
+      "longitude": -122.1405413,
+      "latitude": 37.3694009
+    }
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Oregon State University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": {
+    "name": "NVIDIA",
+    "title": "CEO & President"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
+}
