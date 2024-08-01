@@ -1,0 +1,39 @@
+{
+  "uri": "satish-mehta",
+  "name": "Satish Mehta",
+  "birthDate": "1951-01-13",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Pune"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "pharmaceuticals"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/57dc49a531358e16c589a744/416x416.jpg?background=000000&cropX1=209&cropX2=694&cropY1=118&cropY2=603",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Pune University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Pune University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "uri": "bruce-springsteen",
+  "name": "Bruce Springsteen",
+  "birthDate": "1949-09-23",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New Jersey",
+    "city": "Rumson"
+  },
+  "industry": [],
+  "source": [
+    "Music"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5b438c894bbe6f1becf1b9e3/416x416.jpg?background=000000&cropX1=911&cropX2=2888&cropY1=481&cropY2=2457",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Musician",
+    "title": null
+  },
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
+}

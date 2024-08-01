@@ -1,0 +1,34 @@
+{
+  "uri": "deepinder-goyal",
+  "name": "Deepinder Goyal",
+  "birthDate": "1983-01-26",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Gurgaon"
+  },
+  "industry": [
+    "service"
+  ],
+  "source": [
+    "Food delivery service"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology Delhi",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "mark-jones",
+  "name": "Mark Jones",
+  "birthDate": "1962-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Insurance"
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
+}
