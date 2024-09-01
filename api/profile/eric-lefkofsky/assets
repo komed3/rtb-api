@@ -13,8 +13,8 @@
     "exchange": "NASDAQ",
     "ticker": "GRPN-US",
     "companyName": "Groupon",
-    "numberOfShares": 3955761,
-    "sharePrice": 15.71,
+    "numberOfShares": 3460000,
+    "sharePrice": 13.87,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -25,6 +25,16 @@
     "companyName": "InnerWorkings, Inc",
     "numberOfShares": 0,
     "sharePrice": 2.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TEM-US",
+    "companyName": "Tempus AI",
+    "numberOfShares": 51785000,
+    "sharePrice": 59.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

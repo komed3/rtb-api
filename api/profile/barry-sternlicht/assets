@@ -1,20 +1,10 @@
 [
   {
-    "exchange": "US OTC",
-    "ticker": "CANOQ-US",
-    "companyName": "Cano Health Inc",
-    "numberOfShares": 254800.00000000003,
-    "sharePrice": 0.24,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "NYSE",
     "ticker": "STWD-US",
     "companyName": "Starwood Property Trust",
-    "numberOfShares": 14767000,
-    "sharePrice": 20.1,
+    "numberOfShares": 15703000,
+    "sharePrice": 20.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,73 +14,7 @@
     "ticker": "EL-US",
     "companyName": "The Estée Lauder Companies",
     "numberOfShares": 66892,
-    "sharePrice": 99.44,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 3813,
-    "exerciseOptionPrice": 70.68,
-    "sharePrice": 99.44,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 4374,
-    "exerciseOptionPrice": 71.33,
-    "sharePrice": 99.44,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 3972,
-    "exerciseOptionPrice": 84.35,
-    "sharePrice": 99.44,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 4697,
-    "exerciseOptionPrice": 78.36,
-    "sharePrice": 99.44,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 2906,
-    "exerciseOptionPrice": 126.02,
-    "sharePrice": 99.44,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 4576,
-    "exerciseOptionPrice": 57.53,
-    "sharePrice": 99.44,
+    "sharePrice": 91.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -99,8 +23,8 @@
     "exchange": "NYSE",
     "ticker": "VLD-US",
     "companyName": "Velo3D",
-    "numberOfShares": 247950,
-    "sharePrice": 2.77,
+    "numberOfShares": 8550000,
+    "sharePrice": 1.24,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

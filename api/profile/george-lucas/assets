@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "JPM-US",
+    "companyName": "JPMorgan Chase & Co.",
+    "numberOfShares": 124000,
+    "sharePrice": 224.8,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "SBUX-US",
     "companyName": "Starbucks Corp.",
-    "numberOfShares": 124000,
-    "sharePrice": 75.94,
+    "numberOfShares": 283000,
+    "sharePrice": 94.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +23,8 @@
     "exchange": "NYSE",
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
-    "numberOfShares": 19619000,
-    "sharePrice": 93.79,
+    "numberOfShares": 17657000,
+    "sharePrice": 90.38,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

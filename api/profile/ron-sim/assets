@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SINGAPORE",
+    "ticker": "XJB-SG",
+    "companyName": "G.H.Y Culture & Media Holding",
+    "numberOfShares": 21476000,
+    "sharePrice": 0.10817860978978057,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.3034,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
     "ticker": "42R-SG",
     "companyName": "Jumbo Group",
     "numberOfShares": 18595000,
-    "sharePrice": 0.1933660568198721,
+    "sharePrice": 0.19947828755562377,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "1B0-SG",
     "companyName": "mm2 Asia",
     "numberOfShares": 186971000,
-    "sharePrice": 0.011899449650453666,
+    "sharePrice": 0.012275586926499925,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "5AB-SG",
     "companyName": "Trek2000",
     "numberOfShares": 28375000,
-    "sharePrice": 0.04462293618920125,
+    "sharePrice": 0.040662881694031,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   }
 ]

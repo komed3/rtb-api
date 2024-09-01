@@ -1,62 +1,42 @@
 [
   {
     "exchange": "SINGAPORE",
-    "ticker": "533-SG",
-    "companyName": "ABR Holdings Ltd.",
-    "numberOfShares": 0,
-    "sharePrice": 0.3272348653874758,
-    "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
-    "interactive": false
-  },
-  {
-    "exchange": "SINGAPORE",
     "ticker": "F10-SG",
     "companyName": "FJ Benjamin Holdings Ltd",
     "numberOfShares": 109024000,
-    "sharePrice": 0.011155734047300312,
+    "sharePrice": 0.010741138560687435,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "BOU-SG",
     "companyName": "Informatics Education",
-    "numberOfShares": 14900000,
-    "sharePrice": 0.005949724825226833,
-    "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
-    "interactive": false
-  },
-  {
-    "exchange": "ASX",
-    "ticker": "MOD-AU",
-    "companyName": "MOD Resources",
     "numberOfShares": 0,
-    "sharePrice": 0.277941272644039,
-    "currencyCode": "AUD",
-    "exchangeRate": 1.5291,
+    "sharePrice": 0.006137793463249963,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "A50-SG",
     "companyName": "Rowsley Ltd",
-    "numberOfShares": 23685066000,
-    "sharePrice": 0.03718578015766771,
+    "numberOfShares": 23745523000,
+    "sharePrice": 0.03759398496240602,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
-    "exchange": "MALAYSIA",
-    "ticker": "0101-MY",
-    "companyName": "TMC Life Sciences Bhd. ",
-    "numberOfShares": 0,
-    "sharePrice": 0.14061654948620878,
-    "currencyCode": "MYR",
-    "exchangeRate": 4.6225,
+    "exchange": "SINGAPORE",
+    "ticker": "A50-SG",
+    "companyName": "Rowsley Ltd",
+    "numberOfShares": -2374550000,
+    "sharePrice": 0.03759398496240602,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
@@ -64,19 +44,19 @@
     "ticker": "U09-SG",
     "companyName": "UPP Holdings Ltd.",
     "numberOfShares": 183247000,
-    "sharePrice": 0.1524616986464376,
+    "sharePrice": 0.14960871566671782,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "Z25-SG",
     "companyName": "Yanlord Land Group",
-    "numberOfShares": 38000000,
-    "sharePrice": 0.33467202141900937,
+    "numberOfShares": 0,
+    "sharePrice": 0.3183980359060918,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3446,
+    "exchangeRate": 1.3034,
     "interactive": false
   }
 ]

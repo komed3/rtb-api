@@ -4,9 +4,9 @@
     "ticker": "SRL-AU",
     "companyName": "Clean Teq Holdings",
     "numberOfShares": 11978000,
-    "sharePrice": 0.268131580668367,
+    "sharePrice": 0.3121183335595061,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5291,
+    "exchangeRate": 1.4738,
     "interactive": false
   },
   {
@@ -14,40 +14,29 @@
     "ticker": "CNQ-AU",
     "companyName": "Clean Teq Water",
     "numberOfShares": 11384000,
-    "sharePrice": 0.18311425021254335,
+    "sharePrice": 0.2544442936626408,
     "currencyCode": "AUD",
-    "exchangeRate": 1.5291,
+    "exchangeRate": 1.4738,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "IE-CA",
     "companyName": "Ivanhoe Electric",
-    "numberOfShares": 10984000,
-    "sharePrice": 9.309547883865376,
+    "numberOfShares": 10744000,
+    "sharePrice": 7.093040510461493,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3846,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "IE-CA",
-    "companyName": "Ivanhoe Electric",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 0.5994511050122778,
-    "sharePrice": 9.309547883865376,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3846,
+    "exchangeRate": 1.3478,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "IVN-CA",
     "companyName": "Ivanhoe Mines Ltd.",
-    "numberOfShares": 162832000,
-    "sharePrice": 12.682363137368192,
+    "numberOfShares": 163070000,
+    "sharePrice": 13.33283870010387,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3846,
+    "exchangeRate": 1.3478,
     "interactive": false
   },
   {
@@ -55,29 +44,9 @@
     "ticker": "IVN-CA",
     "companyName": "Ivanhoe Mines Ltd.",
     "numberOfShares": -8125000,
-    "sharePrice": 12.682363137368192,
+    "sharePrice": 13.33283870010387,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3846,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "PGD-CA",
-    "companyName": "Peregrine Diamonds Ltd.",
-    "numberOfShares": 0,
-    "sharePrice": 0.16972410804564494,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3846,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TRQ-US",
-    "companyName": "Turquoise Hill Resources",
-    "numberOfShares": 0,
-    "sharePrice": 31.41,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.3478,
     "interactive": false
   }
 ]
