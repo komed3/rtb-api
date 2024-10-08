@@ -19,7 +19,16 @@
   "deceased": false,
   "children": 2,
   "maritalStatus": "Married",
-  "education": [],
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard Business School",
+      "degree": "Master of Business Administration"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

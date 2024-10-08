@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Iowa",
     "city": "Adel",
-    "state": "Iowa"
+    "zipCode": "50003",
+    "_geo": {
+      "longitude": -94.0491077,
+      "latitude": 41.629789
+    }
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Agriculture"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

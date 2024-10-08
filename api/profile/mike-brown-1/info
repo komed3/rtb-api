@@ -1,0 +1,36 @@
+{
+  "uri": "mike-brown-1",
+  "name": "Mike Brown & family",
+  "birthDate": "1935-08-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Ohio",
+    "city": "Cincinnati"
+  },
+  "industry": [
+    "sports"
+  ],
+  "source": [
+    "Cincinnati Bengals"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College"
+    },
+    {
+      "school": "Harvard Law School"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": 4
+  }
+}

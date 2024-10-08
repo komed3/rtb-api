@@ -1,12 +1,22 @@
 [
   {
     "exchange": "BSE INDIA",
+    "ticker": "543322-IN",
+    "companyName": "Glenmark Life Sciences",
+    "numberOfShares": 91896000,
+    "sharePrice": 13.71363038756145,
+    "currencyCode": "INR",
+    "exchangeRate": 83.9712,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
     "ticker": "543334-IN",
     "companyName": "Nuvoco Vistas",
-    "numberOfShares": 256390000,
-    "sharePrice": 4.04786857959755,
+    "numberOfShares": 257218000.00000003,
+    "sharePrice": 4.204417705117946,
     "currencyCode": "INR",
-    "exchangeRate": 83.8713,
+    "exchangeRate": 83.9712,
     "interactive": false
   }
 ]

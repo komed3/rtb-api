@@ -1,0 +1,29 @@
+{
+  "uri": "steve-koltes",
+  "name": "Steve Koltes",
+  "birthDate": "1956-03-03",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "ch",
+    "state": null,
+    "city": "Küsnacht"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private Equity"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -20,11 +20,16 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
+  "education": [
+    {
+      "school": "Massachusetts Institue of Technology",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
   "organization": null,
   "selfMade": {
-    "_is": false,
-    "type": "inherited and growing",
-    "rank": null
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
   }
 }

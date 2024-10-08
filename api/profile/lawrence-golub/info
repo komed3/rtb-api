@@ -38,7 +38,10 @@
       "degree": "Doctor of Jurisprudence"
     }
   ],
-  "organization": null,
+  "organization": {
+    "name": "Golub Capital",
+    "title": "Chief Executive Officer"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

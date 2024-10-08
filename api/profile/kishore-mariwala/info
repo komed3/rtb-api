@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "country": "in",
+    "country": null,
     "state": null,
-    "city": "Mumbai"
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -16,9 +16,9 @@
   "source": [
     "Consumer goods"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Massachusetts Institute of Technology",

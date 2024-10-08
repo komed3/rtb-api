@@ -3,10 +3,10 @@
     "exchange": "LONDON",
     "ticker": "AML-GB",
     "companyName": "Aston Martin Lagonda Global Holdings",
-    "numberOfShares": 123600000,
-    "sharePrice": 1.9516362202654751,
+    "numberOfShares": 132531000,
+    "sharePrice": 1.4398111723052716,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7609,
+    "exchangeRate": 0.7626,
     "interactive": false
   },
   {
@@ -14,19 +14,19 @@
     "ticker": "MBG-DE",
     "companyName": "Daimler",
     "numberOfShares": 103667000,
-    "sharePrice": 69.0059774186407,
+    "sharePrice": 62.87845546292234,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9034,
+    "exchangeRate": 0.9116,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "175-HK",
     "companyName": "Geely Automobile Holdings Limited",
-    "numberOfShares": 3787506000,
-    "sharePrice": 1.13071124557715,
+    "numberOfShares": 4140323999.9999995,
+    "sharePrice": 1.6740280979177666,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8004,
+    "exchangeRate": 7.7657,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "8137-HK",
     "companyName": "Honbridge Holdings Ltd.",
     "numberOfShares": 4805728000,
-    "sharePrice": 0.0261525049997436,
+    "sharePrice": 0.043782273330156975,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8004,
+    "exchangeRate": 7.7657,
     "interactive": false
   },
   {
@@ -44,9 +44,19 @@
     "ticker": "600478-CN",
     "companyName": "Hunan Corun New Energy Co. Ltd.",
     "numberOfShares": 152467000,
-    "sharePrice": 0.4697948703479022,
+    "sharePrice": 0.5857955274297687,
     "currencyCode": "CNY",
-    "exchangeRate": 7.0882,
+    "exchangeRate": 7.0161,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LOT-US",
+    "companyName": "Lotus Technology ADR",
+    "numberOfShares": 133219000,
+    "sharePrice": 4.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -54,7 +64,7 @@
     "ticker": "PSNY-US",
     "companyName": "Polestar Automotive Holding UK",
     "numberOfShares": 828014000,
-    "sharePrice": 1.22,
+    "sharePrice": 1.69,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,27 +74,27 @@
     "ticker": "VOLV.B-SE",
     "companyName": "Volvo AB Class B",
     "numberOfShares": 0,
-    "sharePrice": 26.619014139520353,
+    "sharePrice": 26.413274165541193,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2408,
+    "exchangeRate": 10.366,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "VOLCAR.B-SE",
     "companyName": "Volvo Cars AB",
-    "numberOfShares": 2443210000,
-    "sharePrice": 2.8689164908991485,
+    "numberOfShares": 2343400000,
+    "sharePrice": 2.4262010418676443,
     "currencyCode": "SEK",
-    "exchangeRate": 10.2408,
+    "exchangeRate": 10.366,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ZK-US",
     "companyName": "ZEEKER Intelligent Technology Holding",
-    "numberOfShares": 30000000,
-    "sharePrice": 16.18,
+    "numberOfShares": 30188000,
+    "sharePrice": 25.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -94,9 +104,9 @@
     "ticker": "000913-CN",
     "companyName": "Zhejiang Qianjiang Motorcycle",
     "numberOfShares": 109572000,
-    "sharePrice": 2.317936852797607,
+    "sharePrice": 2.7365630478470946,
     "currencyCode": "CNY",
-    "exchangeRate": 7.0882,
+    "exchangeRate": 7.0161,
     "interactive": false
   },
   {
@@ -104,9 +114,9 @@
     "ticker": "000913-CN",
     "companyName": "Zhejiang Qianjiang Motorcycle",
     "numberOfShares": 0,
-    "sharePrice": 2.317936852797607,
+    "sharePrice": 2.7365630478470946,
     "currencyCode": "CNY",
-    "exchangeRate": 7.0882,
+    "exchangeRate": 7.0161,
     "interactive": false
   }
 ]

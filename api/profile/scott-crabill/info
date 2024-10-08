@@ -19,7 +19,16 @@
   "deceased": false,
   "children": 2,
   "maritalStatus": "Married",
-  "education": [],
+  "education": [
+    {
+      "school": "Stanford Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

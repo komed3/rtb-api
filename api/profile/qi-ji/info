@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "sg",
   "residence": {
-    "city": "Singapore",
-    "state": null
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,24 @@
   "source": [
     "Hotels",
     "motels"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Shanghai Jiao Tong University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "Shanghai Jiao Tong University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -8,8 +8,7 @@
   "residence": {
     "country": "us",
     "state": "California",
-    "city": "Irvine",
-    "zipCode": "92602"
+    "city": "Laguna Beach"
   },
   "industry": [
     "automotive"
@@ -34,7 +33,10 @@
       "degree": "Bachelor of Arts/Science"
     }
   ],
-  "organization": null,
+  "organization": {
+    "name": "Rivian",
+    "title": "Founder and CEO"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

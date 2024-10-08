@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
-    "city": "Miami Beach",
-    "zipCode": "33140",
-    "_geo": {
-      "longitude": -80.129718,
-      "latitude": 25.817195
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "media-entertainment"
@@ -22,12 +17,12 @@
     "television"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/5ff79a50dd8029e2b667ea4d/416x416.jpg?background=000000&cropX1=472&cropX2=2063&cropY1=216&cropY2=1807",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Divorced",
+  "maritalStatus": null,
   "education": [
     {
-      "school": "University of Pennsylvania Wharton School",
+      "school": "University of Pennsylvania, The Wharton School",
       "degree": "Bachelor of Arts/Science"
     }
   ],

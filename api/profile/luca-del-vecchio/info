@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "country": "it",
+    "country": "gb",
     "state": null,
-    "city": "Milan"
+    "city": "London"
   },
   "industry": [
     "fashion-retail"
@@ -19,7 +19,16 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
+  "education": [
+    {
+      "school": "Bocconi Univerisity",
+      "degree": "Bachelor of Science in Economics"
+    },
+    {
+      "school": "London Business School",
+      "degree": "Master"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": false,

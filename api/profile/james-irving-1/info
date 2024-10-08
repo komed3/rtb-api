@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "country": "ca",
+    "country": null,
     "state": null,
-    "city": "Saint John"
+    "city": null
   },
   "industry": [
     "diversified"
@@ -17,9 +17,9 @@
     "Diversified"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5c40a13c31358e6b3732dc5b/416x416.jpg?background=000000&cropX1=954&cropX2=2985&cropY1=1547&cropY2=3579",
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

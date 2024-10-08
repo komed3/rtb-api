@@ -1,0 +1,30 @@
+{
+  "uri": "dariusz-milek",
+  "name": "Dariusz Milek",
+  "birthDate": "1968-02-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "pl",
+  "residence": {
+    "country": "pl",
+    "state": null,
+    "city": "Chrostnik"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "real estate",
+    "retail"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "yang-qiumei",
+  "name": "Yang Qiumei",
+  "birthDate": "1965-01-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "hk",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

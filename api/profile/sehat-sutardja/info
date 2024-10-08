@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Nevada",
-    "city": "Las Vegas",
-    "zipCode": "89109",
-    "_geo": {
-      "longitude": -115.1711298,
-      "latitude": 36.128561
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
@@ -21,9 +16,9 @@
   "source": [
     "Semiconductors"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "University of California, Berkeley",

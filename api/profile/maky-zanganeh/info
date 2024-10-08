@@ -1,0 +1,38 @@
+{
+  "uri": "maky-zanganeh",
+  "name": "Maky Zanganeh",
+  "birthDate": "1970-09-13",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Atherton"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "biotech"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Schiller International University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Strasbourg",
+      "degree": "DDS"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
