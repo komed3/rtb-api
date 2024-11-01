@@ -1,0 +1,29 @@
+{
+  "uri": "yu-kai",
+  "name": "Yu Kai",
+  "birthDate": "1977-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Autonomous driving"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

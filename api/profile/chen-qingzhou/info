@@ -1,0 +1,33 @@
+{
+  "uri": "chen-qingzhou",
+  "name": "Chen Qingzhou & family",
+  "birthDate": "1965-11-13",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen",
+    "_geo": {
+      "longitude": 114.056583,
+      "latitude": 22.52466
+    }
+  },
+  "industry": [
+    "telecom"
+  ],
+  "source": [
+    "communications equipment"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

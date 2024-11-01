@@ -1,0 +1,38 @@
+{
+  "uri": "luis-von-ahn",
+  "name": "Luis von Ahn",
+  "birthDate": "1978-08-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Pittsburgh"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Duolingo"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Carnegie Mellon",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Duke Univeristy",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

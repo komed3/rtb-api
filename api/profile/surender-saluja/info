@@ -1,0 +1,34 @@
+{
+  "uri": "surender-saluja",
+  "name": "Surender Saluja",
+  "birthDate": "1946-12-26",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Solar cells"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Karnataka University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -4,7 +4,17 @@
     "ticker": "SQ-US",
     "companyName": "Block Inc Class A",
     "numberOfShares": 3990000,
-    "sharePrice": 67.02,
+    "sharePrice": 73.29,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CLYM-US",
+    "companyName": "Climb Bio",
+    "numberOfShares": 5001000,
+    "sharePrice": 3.92,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "DAWN-US",
     "companyName": "Day One Biopharmaceuticals",
     "numberOfShares": 12929000,
-    "sharePrice": 14.1,
+    "sharePrice": 14.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,9 +34,9 @@
     "ticker": "DEEZR-FR",
     "companyName": "Deezer",
     "numberOfShares": 44753000,
-    "sharePrice": 1.639973672663449,
+    "sharePrice": 1.520912547528517,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9116,
+    "exchangeRate": 0.9205,
     "interactive": false
   },
   {
@@ -34,17 +44,7 @@
     "ticker": "DOCN-US",
     "companyName": "DigitalOcean",
     "numberOfShares": 25865449,
-    "sharePrice": 42.9,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ELYM-US",
-    "companyName": "Eliem Therapeutics",
-    "numberOfShares": 5001000,
-    "sharePrice": 0,
+    "sharePrice": 40.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "LYB-US",
     "companyName": "LyondellBasell",
     "numberOfShares": 65471220,
-    "sharePrice": 96.75,
+    "sharePrice": 87.15,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "OPEN-US",
     "companyName": "Opendoor Technologies",
     "numberOfShares": 53598914,
-    "sharePrice": 1.99,
+    "sharePrice": 1.84,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "WMG-US",
     "companyName": "Warner Music Group",
     "numberOfShares": 376240000,
-    "sharePrice": 31.14,
+    "sharePrice": 31.97,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

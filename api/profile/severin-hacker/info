@@ -1,0 +1,38 @@
+{
+  "uri": "severin-hacker",
+  "name": "Severin Hacker",
+  "birthDate": "1984-01-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ch",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Duolingo"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Carnegie Mellon",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "ETH Zurich",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
