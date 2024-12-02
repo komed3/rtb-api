@@ -1,0 +1,29 @@
+{
+  "uri": "pankaj-doshi",
+  "name": "Pankaj Doshi",
+  "birthDate": "1962-10-25",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Solar modules"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "uri": "vivek-ramaswamy",
+  "name": "Vivek Ramaswamy",
+  "birthDate": "1985-09-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "investments"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Yale University",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": {
+    "name": "QVT Financial",
+    "title": "Investment analyst"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

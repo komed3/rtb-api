@@ -1,0 +1,34 @@
+{
+  "uri": "bhavish-aggarwal",
+  "name": "Bhavish Aggarwal",
+  "birthDate": "1985-08-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Bangalore"
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "Ola"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Indian Institute of Technology Bombay",
+      "degree": "Bachelor of Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
