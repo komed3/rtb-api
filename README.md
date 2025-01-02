@@ -4,7 +4,7 @@
 > **There will be a major update for this API soon.**
 > Additional details and which changes will occur as well as changed API endpoints / request queries will be announced as soon as known.
 >
-> Use ``https://cdn.jsdelivr.net/gh/komed3/rtb-api@v1/api/{REQUEST}`` to use data in unchanged format beyond the upcomming update.
+> Use ``https://cdn.jsdelivr.net/gh/komed3/rtb-api@v1/api/{REQUEST}`` to fetch data in unchanged format beyond the upcomming update.
 
 This repository contains profile and list data from Forbes’ real-time billionaires. It will be updated few times a year.
 
