@@ -138,6 +138,14 @@
         "Infrastructure",
         "commodities"
       ]
+    },
+    "jensen-huang": {
+      "name": "Jensen Huang",
+      "image": null,
+      "gender": "m",
+      "source": [
+        "Semiconductors"
+      ]
     }
   },
   "list": {
@@ -3285,7 +3293,7 @@
       {
         "rank": 5,
         "uri": "bernard-arnault",
-        "networth": 160423.797
+        "networth": 160272.463
       },
       {
         "rank": 6,
@@ -3310,7 +3318,59 @@
       {
         "rank": 10,
         "uri": "amancio-ortega",
-        "networth": 123906.157
+        "networth": 123788.375
+      }
+    ],
+    "2024-12": [
+      {
+        "rank": 1,
+        "uri": "elon-musk",
+        "networth": 428824.536
+      },
+      {
+        "rank": 2,
+        "uri": "jeff-bezos",
+        "networth": 235226.8
+      },
+      {
+        "rank": 3,
+        "uri": "larry-ellison",
+        "networth": 210562.284
+      },
+      {
+        "rank": 4,
+        "uri": "mark-zuckerberg",
+        "networth": 204431.417
+      },
+      {
+        "rank": 5,
+        "uri": "bernard-arnault",
+        "networth": 167874.347
+      },
+      {
+        "rank": 6,
+        "uri": "larry-page",
+        "networth": 157646.656
+      },
+      {
+        "rank": 7,
+        "uri": "sergey-brin",
+        "networth": 150493.809
+      },
+      {
+        "rank": 8,
+        "uri": "warren-buffett",
+        "networth": 141108.48
+      },
+      {
+        "rank": 9,
+        "uri": "steve-ballmer",
+        "networth": 125074.171
+      },
+      {
+        "rank": 10,
+        "uri": "jensen-huang",
+        "networth": 120001.053
       }
     ]
   }

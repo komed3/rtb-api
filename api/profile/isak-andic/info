@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "country": "es",
+    "country": null,
     "state": null,
-    "city": "Barcelona"
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -17,9 +17,9 @@
     "Fashion retail"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5e77bde4d8e1ae0007b73505/416x416.jpg?background=000000&cropX1=1135&cropX2=3446&cropY1=58&cropY2=2370",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Divorced",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

@@ -8,11 +8,11 @@
   "residence": {
     "country": "us",
     "state": "California",
-    "city": "San Francisco",
-    "zipCode": "94104",
+    "city": "Newbury Park",
+    "zipCode": "91320",
     "_geo": {
-      "longitude": -122.4019339,
-      "latitude": 37.7891228
+      "longitude": -118.9470422,
+      "latitude": 34.1810666
     }
   },
   "industry": [
@@ -24,14 +24,16 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
-  "organization": {
-    "name": "Stifel",
-    "title": "Wealth Advisor"
-  },
+  "education": [
+    {
+      "school": "University of Southern California",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
   "selfMade": {
-    "_is": false,
-    "type": null,
-    "rank": null
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
   }
 }

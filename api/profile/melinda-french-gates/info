@@ -7,8 +7,8 @@
   "citizenship": "us",
   "residence": {
     "country": "us",
-    "state": "Washington",
-    "city": "Medina"
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
@@ -30,8 +30,8 @@
     }
   ],
   "organization": {
-    "name": "Bill & Melinda Gates Foundation",
-    "title": "Cochair"
+    "name": "Pivotal Ventures",
+    "title": "Founder"
   },
   "selfMade": {
     "_is": false,

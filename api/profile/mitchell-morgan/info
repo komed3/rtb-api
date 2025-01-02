@@ -1,0 +1,38 @@
+{
+  "uri": "mitchell-morgan",
+  "name": "Mitchell Morgan & family",
+  "birthDate": "1954-07-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Bryn Mawr"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Real estate"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Temple University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Temple University",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
+}

@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "New York",
-    "city": "Oyster Bay",
-    "zipCode": "11771",
-    "_geo": {
-      "longitude": -73.52847,
-      "latitude": 40.866865
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "media-entertainment"
@@ -22,9 +17,9 @@
     "Cable television"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/04bf8bc05f398814c72260b756b2fc5a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=39&cropY2=783",
-  "deceased": false,
+  "deceased": true,
   "children": 6,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [
     {
       "school": "John Carroll University",

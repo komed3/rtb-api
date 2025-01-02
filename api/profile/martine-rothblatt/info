@@ -1,0 +1,38 @@
+{
+  "uri": "martine-rothblatt",
+  "name": "Martine Rothblatt",
+  "birthDate": "1954-10-10",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Satellite Beach",
+    "zipCode": "32937",
+    "_geo": {
+      "longitude": -80.6137122,
+      "latitude": 28.2025042
+    }
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharmaceuticals"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/64c4171fe52717eb5716a800/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "United Therapeutics",
+    "title": "Founder & CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
+}

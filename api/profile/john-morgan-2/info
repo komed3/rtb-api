@@ -1,0 +1,38 @@
+{
+  "uri": "john-morgan-2",
+  "name": "John Morgan",
+  "birthDate": "1956-03-31",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Lake Mary"
+  },
+  "industry": [
+    "service"
+  ],
+  "source": [
+    "personal injury law"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Bachelor of Arts"
+    },
+    {
+      "school": "University of Florida",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

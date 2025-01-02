@@ -6,13 +6,37 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Miami",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Private equity"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "California State University, Northridge",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Columbia Law School",
+      "degree": "LLM"
+    },
+    {
+      "school": "Southwestern University School of Law",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

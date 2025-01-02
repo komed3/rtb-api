@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "nl",
   "residence": {
-    "country": "nl",
+    "country": null,
     "state": null,
-    "city": "Amsterdam"
+    "city": null
   },
   "industry": [
     "service"
@@ -17,9 +17,9 @@
     "Temp agency"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/b11e15397177ea074c2b0d30ddeb459f/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=76&cropY2=817",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Free University of Amsterdam",

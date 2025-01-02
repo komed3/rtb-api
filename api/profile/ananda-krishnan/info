@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "country": "my",
+    "country": null,
     "state": null,
-    "city": "Kuala Lumpur"
+    "city": null
   },
   "industry": [
     "telecom"
@@ -19,9 +19,9 @@
     "oil-services"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5c70f35031358e35dd26eedf/416x416.jpg?background=000000&cropX1=311&cropX2=1689&cropY1=7&cropY2=1384",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Harvard University",

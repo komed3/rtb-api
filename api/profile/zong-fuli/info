@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Hangzhou",
-    "state": null
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Beverages"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Pepperdine University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

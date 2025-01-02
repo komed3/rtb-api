@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
-    "city": "Boca Raton"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -17,9 +17,9 @@
     "Home Depot"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5d8a76f66de3150009a4fb47/416x416.jpg?background=000000&cropX1=1374&cropX2=4427&cropY1=8&cropY2=3059",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Rutgers University",
