@@ -1,7 +1,17 @@
 [
   {
+    "exchange": "NASDAQ",
+    "ticker": "NBIS-US",
+    "companyName": "Nebius Group",
+    "numberOfShares": 30844000,
+    "sharePrice": 31.8,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "companyName": "Yandex (MICEX)",
-    "numberOfShares": 30819000,
+    "numberOfShares": 0,
     "sharePrice": 39.45054945054945,
     "currencyCode": "RUB",
     "exchangeRate": 91,

@@ -4,9 +4,19 @@
     "ticker": "1119-HK",
     "companyName": "iDreamSky Technology Holdings",
     "numberOfShares": 12667000,
-    "sharePrice": 0.3475842891901286,
+    "sharePrice": 0.2066460448460423,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7679,
+    "exchangeRate": 7.7911,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "NIPG-US",
+    "companyName": "NIP Group ADR",
+    "numberOfShares": 15279000,
+    "sharePrice": 3.9,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "880-HK",
     "companyName": "SJM Holdings Limited",
     "numberOfShares": 841302000,
-    "sharePrice": 0.3462969399709059,
+    "sharePrice": 0.3131778567853063,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7679,
+    "exchangeRate": 7.7911,
     "interactive": false
   }
 ]
