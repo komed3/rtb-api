@@ -3,10 +3,20 @@
     "exchange": "BSE INDIA",
     "ticker": "539448-IN",
     "companyName": "InterGlobe Aviation",
-    "numberOfShares": 74796000,
-    "sharePrice": 48.809911363851505,
+    "numberOfShares": 52296906,
+    "sharePrice": 54.01712191405024,
     "currencyCode": "INR",
-    "exchangeRate": 86.6238,
+    "exchangeRate": 87.0113,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LUV-US",
+    "companyName": "Southwest Airlines",
+    "numberOfShares": 3600000,
+    "sharePrice": 31,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

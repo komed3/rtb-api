@@ -1,0 +1,29 @@
+{
+  "uri": "cai-wensheng",
+  "name": "Cai Wensheng",
+  "birthDate": null,
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Hong Kong"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "photo sharing app"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

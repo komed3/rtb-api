@@ -4,9 +4,9 @@
     "ticker": "AAK-SE",
     "companyName": "AAK AB",
     "numberOfShares": 31100000,
-    "sharePrice": 29.452403461566433,
+    "sharePrice": 27.619645871775745,
     "currencyCode": "SEK",
-    "exchangeRate": 11.0008,
+    "exchangeRate": 10.1884,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "ASSA.B-SE",
     "companyName": "Assa Abloy AB",
     "numberOfShares": 13440000,
-    "sharePrice": 30.952294378590647,
+    "sharePrice": 31.555494483922892,
     "currencyCode": "SEK",
-    "exchangeRate": 11.0008,
+    "exchangeRate": 10.1884,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "HM.B-SE",
+    "companyName": "Hennes & Mauritz AB",
+    "numberOfShares": 90000,
+    "sharePrice": 13.093321816968318,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.1884,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "HEXA.B-SE",
     "companyName": "Hexagon AB",
     "numberOfShares": 229520000,
-    "sharePrice": 10.812849974547307,
+    "sharePrice": 11.189195555730047,
     "currencyCode": "SEK",
-    "exchangeRate": 11.0008,
+    "exchangeRate": 10.1884,
     "interactive": false
   },
   {
@@ -34,29 +44,29 @@
     "ticker": "HPOL.B-SE",
     "companyName": "HEXPOL AB",
     "numberOfShares": 33780000,
-    "sharePrice": 9.581121372991056,
+    "sharePrice": 9.93286482666562,
     "currencyCode": "SEK",
-    "exchangeRate": 11.0008,
+    "exchangeRate": 10.1884,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "NIBE.B-SE",
     "companyName": "NIBE Industrier",
-    "numberOfShares": 66040000.00000001,
-    "sharePrice": 4.118791360628318,
+    "numberOfShares": 71640000,
+    "sharePrice": 4.257783361469907,
     "currencyCode": "SEK",
-    "exchangeRate": 11.0008,
+    "exchangeRate": 10.1884,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "SECU.B-SE",
     "companyName": "Securitas AB",
-    "numberOfShares": 11380000,
-    "sharePrice": 12.899061886408262,
+    "numberOfShares": 10117000,
+    "sharePrice": 14.482156177613758,
     "currencyCode": "SEK",
-    "exchangeRate": 11.0008,
+    "exchangeRate": 10.1884,
     "interactive": false
   }
 ]

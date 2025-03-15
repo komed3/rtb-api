@@ -8,7 +8,7 @@
   "residence": {
     "country": "us",
     "state": "New Jersey",
-    "city": "Rumson"
+    "city": "Colts Neck"
   },
   "industry": [],
   "source": [
@@ -24,8 +24,8 @@
     "title": null
   },
   "selfMade": {
-    "_is": false,
-    "type": null,
+    "_is": true,
+    "type": "self-made",
     "rank": null
   }
 }

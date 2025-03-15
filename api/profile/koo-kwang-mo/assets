@@ -1,22 +1,32 @@
 [
   {
     "exchange": "KOREA",
-    "ticker": "003550-KR",
-    "companyName": "LG Corporation",
-    "numberOfShares": 25097000,
-    "sharePrice": 51.42537730575741,
+    "ticker": "064400-KR",
+    "companyName": "LG CNS",
+    "numberOfShares": 973000,
+    "sharePrice": 35.565645100264845,
     "currencyCode": "KRW",
-    "exchangeRate": 1431.2,
+    "exchangeRate": 1453.65,
     "interactive": false
   },
   {
     "exchange": "KOREA",
     "ticker": "003550-KR",
     "companyName": "LG Corporation",
-    "numberOfShares": -2960000,
-    "sharePrice": 51.42537730575741,
+    "numberOfShares": 22014000,
+    "sharePrice": 46.77879819764042,
     "currencyCode": "KRW",
-    "exchangeRate": 1431.2,
+    "exchangeRate": 1453.65,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "003550-KR",
+    "companyName": "LG Corporation",
+    "numberOfShares": 0,
+    "sharePrice": 46.77879819764042,
+    "currencyCode": "KRW",
+    "exchangeRate": 1453.65,
     "interactive": false
   }
 ]

@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "country": "gb",
+    "country": null,
     "state": null,
-    "city": "Wotton-under-Edge"
+    "city": null
   },
   "industry": [
     "manufacturing"
@@ -16,9 +16,9 @@
   "source": [
     "Manufacturing"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

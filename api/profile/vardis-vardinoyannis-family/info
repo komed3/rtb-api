@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "gr",
   "residence": {
-    "country": "gr",
+    "country": null,
     "state": null,
-    "city": "Athens"
+    "city": null
   },
   "industry": [
     "energy"
@@ -16,7 +16,7 @@
   "source": [
     "Oil and gas"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 5,
   "maritalStatus": null,
   "education": [],

@@ -1,12 +1,32 @@
 [
   {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "ALFA-SE",
+    "companyName": "Alfa Laval",
+    "numberOfShares": 40680000,
+    "sharePrice": 44.52122021122061,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.1884,
+    "interactive": false
+  },
+  {
     "exchange": "SIX SWISS",
     "ticker": "COTN-CH",
     "companyName": "Comet Holding AG",
     "numberOfShares": 0,
-    "sharePrice": 309.1590433153312,
+    "sharePrice": 263.84180790960454,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9073,
+    "exchangeRate": 0.885,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "GIVN-CH",
+    "companyName": "Givaudan S.A.",
+    "numberOfShares": 153000,
+    "sharePrice": 4580.790960451977,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.885,
     "interactive": false
   },
   {
@@ -14,7 +34,7 @@
     "ticker": "IFF-US",
     "companyName": "International Flavors & Fragrances",
     "numberOfShares": 8452000,
-    "sharePrice": 87.72,
+    "sharePrice": 79.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +44,7 @@
     "ticker": "LIN-US",
     "companyName": "Linde PLC",
     "numberOfShares": 1694000,
-    "sharePrice": 446.38,
+    "sharePrice": 453.26,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,9 +54,9 @@
     "ticker": "OCDO-GB",
     "companyName": "Ocado Group PLC",
     "numberOfShares": 27960000,
-    "sharePrice": 3.793017456359102,
+    "sharePrice": 2.942013978772975,
     "currencyCode": "GBP",
-    "exchangeRate": 0.802,
+    "exchangeRate": 0.7726,
     "interactive": false
   },
   {
@@ -44,7 +64,7 @@
     "ticker": "SXT-US",
     "companyName": "Sensient Technologies",
     "numberOfShares": 0,
-    "sharePrice": 75.55,
+    "sharePrice": 72.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,9 +74,9 @@
     "ticker": "SIGN-CH",
     "companyName": "SIG Combibloc Group",
     "numberOfShares": 12678652,
-    "sharePrice": 21.955251846136893,
+    "sharePrice": 20.519774011299436,
     "currencyCode": "CHF",
-    "exchangeRate": 0.9073,
+    "exchangeRate": 0.885,
     "interactive": false
   }
 ]

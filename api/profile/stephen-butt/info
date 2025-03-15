@@ -6,9 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": null,
-    "state": null,
-    "city": null
+    "country": "us",
+    "state": "Texas",
+    "city": "Dallas",
+    "zipCode": "75201",
+    "_geo": {
+      "longitude": -96.79625279999999,
+      "latitude": 32.7863301
+    }
   },
   "industry": [
     "fashion-retail"

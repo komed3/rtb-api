@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
-    "city": "Boca Raton"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "energy"
@@ -16,9 +16,9 @@
   "source": [
     "Oil"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

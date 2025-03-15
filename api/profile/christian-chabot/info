@@ -19,7 +19,20 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Stanford University Graduate School of Business",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Sussex",
+      "degree": "Master of Science"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

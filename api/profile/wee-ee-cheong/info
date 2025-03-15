@@ -19,7 +19,16 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": "Married",
-  "education": [],
+  "education": [
+    {
+      "school": "American University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "American University",
+      "degree": "Master of Arts"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": false,

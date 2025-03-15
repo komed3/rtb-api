@@ -4,9 +4,9 @@
     "ticker": "G-IT",
     "companyName": "Assicurazioni Generali ",
     "numberOfShares": 19478384,
-    "sharePrice": 31.72334654704778,
+    "sharePrice": 34.581976112920735,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
@@ -14,19 +14,29 @@
     "ticker": "AVIO-IT",
     "companyName": "Avio SpA",
     "numberOfShares": 124820,
-    "sharePrice": 16.753598998539534,
+    "sharePrice": 20.304017372421278,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
+    "interactive": false
+  },
+  {
+    "exchange": "MILAN",
+    "ticker": "BMPS-IT",
+    "companyName": "Banca Monte dei Paschi di Siena",
+    "numberOfShares": 15400000,
+    "sharePrice": 7.704668838219327,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
     "exchange": "EURONEXT PARIS",
     "ticker": "EL-FR",
     "companyName": "EssilorLuxottica SA",
-    "numberOfShares": 18085710,
-    "sharePrice": 276.5491341539746,
+    "numberOfShares": 18449000,
+    "sharePrice": 285.12486427795875,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
@@ -34,29 +44,29 @@
     "ticker": "FILA-IT",
     "companyName": "FILA SPA",
     "numberOfShares": 124820,
-    "sharePrice": 9.962445232630921,
+    "sharePrice": 10.825190010857764,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
     "exchange": "EURONEXT PARIS",
     "ticker": "COV-FR",
     "companyName": "Fonciere des Regions",
-    "numberOfShares": 3220661,
-    "sharePrice": 53.20258710619654,
+    "numberOfShares": 3490000,
+    "sharePrice": 53.72421281216069,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
-    "numberOfShares": 20992914,
-    "sharePrice": 16.64406426037972,
+    "numberOfShares": 20626000,
+    "sharePrice": 18.295331161780673,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
@@ -64,9 +74,9 @@
     "ticker": "UCG-IT",
     "companyName": "UniCredit S.p.A.",
     "numberOfShares": 5382041,
-    "sharePrice": 46.75568537450449,
+    "sharePrice": 55.41802388707926,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   }
 ]

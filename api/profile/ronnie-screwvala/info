@@ -1,0 +1,35 @@
+{
+  "uri": "ronnie-screwvala",
+  "name": "Ronnie Screwvala",
+  "birthDate": "1956-09-08",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "edtech",
+    "entertainment"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Mumbai",
+      "degree": "Bachelor of Commerce"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

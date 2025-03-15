@@ -1,0 +1,34 @@
+{
+  "uri": "vladimir-leshchikov",
+  "name": "Vladimir Leshchikov",
+  "birthDate": "1956-11-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "real estate"
+  ],
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dagestan State University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

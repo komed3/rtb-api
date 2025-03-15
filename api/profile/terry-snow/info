@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "country": "au",
+    "country": null,
     "state": null,
-    "city": "Canberra"
+    "city": null
   },
   "industry": [
     "real-estate"
@@ -18,9 +18,9 @@
     "real estate"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/63ea733f14a79cc43a36e6b5/416x416.jpg?background=000000&cropX1=0&cropX2=949&cropY1=0&cropY2=949",
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

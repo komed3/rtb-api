@@ -19,7 +19,16 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
+  "education": [
+    {
+      "school": "Cornell University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "The Wharton School at the University of Pennsylvania",
+      "degree": "Master of Business Administration"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": false,

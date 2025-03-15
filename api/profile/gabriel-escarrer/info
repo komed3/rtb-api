@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "es",
   "residence": {
-    "country": "es",
+    "country": null,
     "state": null,
-    "city": "Palma de Majorca"
+    "city": null
   },
   "industry": [
     "service"
@@ -17,9 +17,9 @@
     "Hotels"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5c7216b931358e35dd26fe36/416x416.jpg?background=000000&cropX1=129&cropX2=486&cropY1=3&cropY2=360",
-  "deceased": false,
+  "deceased": true,
   "children": 6,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

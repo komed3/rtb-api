@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "BZFD-US",
+    "companyName": "BuzzFeed (Public)",
+    "numberOfShares": 3130000,
+    "sharePrice": 1.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "ROIV-US",
     "companyName": "Roivant Sciences",
-    "numberOfShares": 51929426,
-    "sharePrice": 11.52,
+    "numberOfShares": 53431000,
+    "sharePrice": 10.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

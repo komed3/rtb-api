@@ -4,29 +4,69 @@
     "ticker": "CAV1V-FI",
     "companyName": "Caverion",
     "numberOfShares": 0,
-    "sharePrice": 9.13832672647611,
+    "sharePrice": 9.511400651465797,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC HELSINKI",
+    "ticker": "KEMIRA-FI",
+    "companyName": "Kemira",
+    "numberOfShares": 14000,
+    "sharePrice": 23.561346362649292,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC HELSINKI",
     "ticker": "KNEBV-FI",
     "companyName": "Kone",
-    "numberOfShares": 65215999.99999999,
-    "sharePrice": 52.63926559566034,
+    "numberOfShares": 44060000,
+    "sharePrice": 57.80673181324647,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC HELSINKI",
+    "ticker": "NELES-FI",
+    "companyName": "Metso",
+    "numberOfShares": 915000,
+    "sharePrice": 0,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.921,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC HELSINKI",
+    "ticker": "NOKIA-FI",
+    "companyName": "Nokia",
+    "numberOfShares": 3424000,
+    "sharePrice": 5.199782844733984,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC HELSINKI",
     "ticker": "SANOMA-FI",
     "companyName": "SanomaWSOY",
-    "numberOfShares": 11040000,
-    "sharePrice": 8.700187773836845,
+    "numberOfShares": 6180000,
+    "sharePrice": 9.500542888165038,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC HELSINKI",
+    "ticker": "UPM-FI",
+    "companyName": "UPM-Kymmene Oyj",
+    "numberOfShares": 1456000,
+    "sharePrice": 29.64169381107492,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
@@ -34,9 +74,9 @@
     "ticker": "YIT-FI",
     "companyName": "YIT Group",
     "numberOfShares": 1917000,
-    "sharePrice": 2.639265595660338,
+    "sharePrice": 2.4972855591748098,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   }
 ]

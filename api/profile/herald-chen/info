@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Hillsborough",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Hillsborough"
   },
   "industry": [
     "technology"
@@ -15,5 +16,24 @@
   "source": [
     "Marketing software",
     "mobile games"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "The University of Pennsylvania",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

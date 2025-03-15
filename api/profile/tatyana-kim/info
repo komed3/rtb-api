@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "ru",
   "residence": {
-    "city": "Moscow region",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Moscow region"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "E-commerce"
-  ]
+  ],
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "State University of Management",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

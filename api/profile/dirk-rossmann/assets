@@ -1,12 +1,22 @@
 [
   {
     "exchange": "XETRA",
+    "ticker": "NDA-DE",
+    "companyName": "Aurubis",
+    "numberOfShares": 5552000,
+    "sharePrice": 98.6970684039088,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.921,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
     "ticker": "DBAN-DE",
     "companyName": "Deutsche Beteiligungs AG",
-    "numberOfShares": 4703000,
-    "sharePrice": 24.98435218026288,
+    "numberOfShares": 5380000,
+    "sharePrice": 26.818675352877307,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "GBQ-DE",
     "companyName": "GBK Beteiligungen AG",
     "numberOfShares": 1963000,
-    "sharePrice": 4.986438556227832,
+    "sharePrice": 5.14657980456026,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "SIM0-DE",
     "companyName": "Simona AG",
     "numberOfShares": 660000,
-    "sharePrice": 57.3753390360943,
+    "sharePrice": 55.37459283387622,
     "currencyCode": "EUR",
-    "exchangeRate": 0.9586,
+    "exchangeRate": 0.921,
     "interactive": false
   }
 ]

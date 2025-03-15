@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "GOMX-SE",
+    "companyName": "GomSpace",
+    "numberOfShares": 41610000,
+    "sharePrice": 0.6448510070276,
+    "currencyCode": "SEK",
+    "exchangeRate": 10.1884,
+    "interactive": false
+  },
+  {
     "exchange": "LONDON",
     "ticker": "HL-GB",
     "companyName": "Hargreaves Lansdown PLC",
     "numberOfShares": 93838000,
-    "sharePrice": 13.740648379052368,
+    "sharePrice": 14.315298990421953,
     "currencyCode": "GBP",
-    "exchangeRate": 0.802,
+    "exchangeRate": 0.7726,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "ITM-GB",
     "companyName": "ITM Power",
     "numberOfShares": 27686000,
-    "sharePrice": 0.44264339152119697,
+    "sharePrice": 0.3559409785141083,
     "currencyCode": "GBP",
-    "exchangeRate": 0.802,
+    "exchangeRate": 0.7726,
     "interactive": false
   }
 ]

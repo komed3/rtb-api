@@ -6,9 +6,9 @@
   "gender": "f",
   "citizenship": "jp",
   "residence": {
-    "country": "jp",
+    "country": null,
     "state": null,
-    "city": "Kobe"
+    "city": null
   },
   "industry": [
     "healthcare"
@@ -16,9 +16,9 @@
   "source": [
     "Medical diagnostic equipment"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 0,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

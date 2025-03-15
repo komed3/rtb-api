@@ -6,11 +6,27 @@
   "gender": null,
   "citizenship": "ca",
   "residence": {
-    "city": "Vancouver",
-    "state": null
+    "country": "ca",
+    "state": null,
+    "city": "Vancouver"
   },
   "industry": [],
   "source": [
     ""
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Queens University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

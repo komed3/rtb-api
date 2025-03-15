@@ -19,7 +19,12 @@
   "deceased": false,
   "children": 4,
   "maritalStatus": "Married",
-  "education": [],
+  "education": [
+    {
+      "school": "Clark University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": false,

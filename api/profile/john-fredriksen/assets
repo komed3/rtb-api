@@ -4,17 +4,9 @@
     "ticker": "ARHVF-US",
     "companyName": "Archer Limited",
     "numberOfShares": 13280000,
-    "sharePrice": 2.6,
+    "sharePrice": 2.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "companyName": "Avance Gas Holding",
-    "numberOfShares": 59380000,
-    "sharePrice": 0,
-    "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
     "interactive": false
   },
   {
@@ -22,19 +14,19 @@
     "ticker": "ACR-NO",
     "companyName": "Axactor",
     "numberOfShares": 150100000,
-    "sharePrice": 0.34147552906533274,
+    "sharePrice": 0.4077066384564255,
     "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
+    "exchangeRate": 10.6817,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "EWIND-NO",
     "companyName": "Edda Wind",
-    "numberOfShares": 24300000,
-    "sharePrice": 1.62311744984301,
+    "numberOfShares": 40120000,
+    "sharePrice": 1.525974329928757,
     "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
+    "exchangeRate": 10.6817,
     "interactive": false
   },
   {
@@ -42,27 +34,17 @@
     "ticker": "FRO-NO",
     "companyName": "Frontline Ltd. - NOK",
     "numberOfShares": 79145000,
-    "sharePrice": 17.34429602824047,
+    "sharePrice": 15.737195390246871,
     "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "GOGL-US",
-    "companyName": "Golden Ocean",
-    "numberOfShares": 78620000,
-    "sharePrice": 9.26,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 10.6817,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "INSW-US",
     "companyName": "International Seaways",
-    "numberOfShares": 8199999.999999999,
-    "sharePrice": 38.99,
+    "numberOfShares": 8260000,
+    "sharePrice": 32.98,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -71,28 +53,10 @@
     "exchange": "OSLO",
     "ticker": "MOWI-NO",
     "companyName": "Marine Harvest ASA",
-    "numberOfShares": 74200000,
-    "sharePrice": 20.39983680130559,
+    "numberOfShares": 74290000,
+    "sharePrice": 18.58318432459253,
     "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
-    "interactive": false
-  },
-  {
-    "exchange": "OSLO",
-    "ticker": "NODL-NO",
-    "companyName": "Northern Drilling",
-    "numberOfShares": 314000000,
-    "sharePrice": 0.020399836801305592,
-    "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
-    "interactive": false
-  },
-  {
-    "companyName": "Norwegian Air Shuttle",
-    "numberOfShares": 1000000,
-    "sharePrice": 0,
-    "currencyCode": "NOK",
-    "exchangeRate": 11.2746,
+    "exchangeRate": 10.6817,
     "interactive": false
   },
   {
@@ -100,7 +64,7 @@
     "ticker": "SFL-US",
     "companyName": "Ship Finance International Ltd.",
     "numberOfShares": 25700000,
-    "sharePrice": 10.74,
+    "sharePrice": 8.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
