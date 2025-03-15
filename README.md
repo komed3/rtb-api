@@ -6,11 +6,17 @@
 >
 > Use ``https://cdn.jsdelivr.net/gh/komed3/rtb-api@v1/api/{REQUEST}`` to fetch data in unchanged format beyond the upcomming update.
 
-This repository contains profile and list data from Forbes’ real-time billionaires. It will be updated few times a year.
+This repository contains profile and list data from Forbes’ real-time billionaires. It will mostly be updated once a month.
 
 This data can be used unlimited and without any limitation.
 
-Take a look on how the API data can be used by visiting [realtimebillionaires.de](https://realtimebillionaires.de)
+Take a look on how the API data can be used by visiting [realtimebillionaires.de](https://realtimebillionaires.de).
+
+## Download
+
+If you intend to use this data yourself, please note that the API consists of almost 50,000 individual files in over 4,000 directories and that the total size of the unpacked files is around two gigabytes.
+
+Download the files as ZIP archive directly from GitHub using [this link](https://github.com/komed3/rtb-api/archive/refs/heads/main.zip).
 
 ## API
 
