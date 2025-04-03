@@ -1,0 +1,38 @@
+{
+  "uri": "mark-attanasio",
+  "name": "Mark Attanasio",
+  "birthDate": "1957-09-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Finance"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Columbia University",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

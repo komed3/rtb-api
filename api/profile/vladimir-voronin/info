@@ -1,0 +1,34 @@
+{
+  "uri": "vladimir-voronin",
+  "name": "Vladimir Voronin",
+  "birthDate": "1975-12-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "construction-engineering"
+  ],
+  "source": [
+    "Real estate"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Moscow State University of Civil Engineering",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

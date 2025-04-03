@@ -1,0 +1,38 @@
+{
+  "uri": "chris-ruddy",
+  "name": "Chris Ruddy",
+  "birthDate": "1965-01-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "West Palm Beach"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "TV network"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "St. John's University",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "wenaas-lars",
+  "name": "Wenaas Lars",
+  "birthDate": "1951-04-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "no",
+  "residence": {
+    "country": "no",
+    "state": null,
+    "city": "Rauma"
+  },
+  "industry": [
+    "service"
+  ],
+  "source": [
+    "hotels"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

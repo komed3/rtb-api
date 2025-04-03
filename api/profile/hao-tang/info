@@ -1,0 +1,30 @@
+{
+  "uri": "hao-tang",
+  "name": "Hao Tang",
+  "birthDate": "1971-07-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "hk",
+    "state": null,
+    "city": "Kowloon"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "marketing software",
+    "mobile games"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

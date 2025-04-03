@@ -1,0 +1,34 @@
+{
+  "uri": "sulaiman-al-habib",
+  "name": "Sulaiman Al Habib",
+  "birthDate": "1952-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "sa",
+  "residence": {
+    "country": "sa",
+    "state": null,
+    "city": "Riyadh"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Hospital group"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "King Saud University",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

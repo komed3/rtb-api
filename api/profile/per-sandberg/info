@@ -1,0 +1,30 @@
+{
+  "uri": "per-sandberg",
+  "name": "Per Sandberg",
+  "birthDate": "1962-03-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "se",
+  "residence": {
+    "country": "se",
+    "state": null,
+    "city": "Bjärred",
+    "zipCode": "23734"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

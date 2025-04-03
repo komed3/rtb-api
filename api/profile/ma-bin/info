@@ -1,0 +1,29 @@
+{
+  "uri": "ma-bin",
+  "name": "Ma Bin & family",
+  "birthDate": "1971-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Nantong"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "manufacturing"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

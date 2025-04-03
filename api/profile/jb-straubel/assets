@@ -1,0 +1,23 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "QS-US",
+    "companyName": "QuantumScape",
+    "numberOfShares": 267000,
+    "sharePrice": 4.08,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 27.868,
+    "sharePrice": 268.46,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

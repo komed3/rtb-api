@@ -1,0 +1,29 @@
+{
+  "uri": "jb-straubel",
+  "name": "JB Straubel",
+  "birthDate": "1975-12-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Nevada",
+    "city": "Carson City"
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "Tesla"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "uri": "ren-yuanlin",
+  "name": "Ren Yuanlin",
+  "birthDate": "1953-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Jiangyin"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Shipbuilding"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Jiangsu Television Broadcasting University",
+      "degree": "Diploma"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

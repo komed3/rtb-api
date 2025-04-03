@@ -1,0 +1,29 @@
+{
+  "uri": "frank-blase",
+  "name": "Frank Blase",
+  "birthDate": "1959-12-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Bergisch Gladbach"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Plastics"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

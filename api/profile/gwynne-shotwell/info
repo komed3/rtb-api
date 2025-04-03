@@ -1,0 +1,42 @@
+{
+  "uri": "gwynne-shotwell",
+  "name": "Gwynne Shotwell",
+  "birthDate": "1963-11-23",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Jonesboro"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "SpaceX"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6111aa14b976739e906c59ed/416x416.jpg?background=000000&cropX1=2&cropX2=1080&cropY1=2&cropY2=1080",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Northwestern University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Northwestern University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "SpaceX",
+    "title": "President & COO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
+}

@@ -19,7 +19,16 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": "Married",
-  "education": [],
+  "education": [
+    {
+      "school": "University of Stellenbosch",
+      "degree": "Bachelor of Commerce"
+    },
+    {
+      "school": "University of Stellenbosch",
+      "degree": "LLB"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

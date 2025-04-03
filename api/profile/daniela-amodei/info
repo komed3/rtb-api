@@ -1,0 +1,29 @@
+{
+  "uri": "daniela-amodei",
+  "name": "Daniela Amodei",
+  "birthDate": "1987-08-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Artificial intelligence"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
+}

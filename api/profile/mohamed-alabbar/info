@@ -1,0 +1,35 @@
+{
+  "uri": "mohamed-alabbar",
+  "name": "Mohamed Alabbar",
+  "birthDate": "1956-11-08",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ae",
+  "residence": {
+    "country": "ae",
+    "state": null,
+    "city": "Dubai"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Real estate",
+    "restaurants"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Seattle University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "otto-boehringer",
+  "name": "Otto Boehringer",
+  "birthDate": "1930-07-11",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Ingelheim"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

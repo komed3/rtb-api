@@ -1,0 +1,29 @@
+{
+  "uri": "zach-mcleroy",
+  "name": "Zach McLeroy",
+  "birthDate": "1962-08-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Fast food"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "cc-paarthipan",
+  "name": "C.C. Paarthipan",
+  "birthDate": "1954-03-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Chennai"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

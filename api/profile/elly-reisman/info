@@ -1,0 +1,29 @@
+{
+  "uri": "elly-reisman",
+  "name": "Elly Reisman",
+  "birthDate": "1950-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ca",
+  "residence": {
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Homebuilding"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

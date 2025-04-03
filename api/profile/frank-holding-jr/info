@@ -1,0 +1,38 @@
+{
+  "uri": "frank-holding-jr",
+  "name": "Frank Holding Jr",
+  "birthDate": "1961-07-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "North Carolina",
+    "city": "Raleigh"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Banking"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of North Carolina, Chapel Hill",
+      "degree": "Bachelor of Business Administration"
+    },
+    {
+      "school": "University of Pennsylvania, Wharton",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

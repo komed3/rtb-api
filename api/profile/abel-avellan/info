@@ -1,0 +1,29 @@
+{
+  "uri": "abel-avellan",
+  "name": "Abel Avellan",
+  "birthDate": "1971-02-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Coral Gables"
+  },
+  "industry": [
+    "telecom"
+  ],
+  "source": [
+    "telecoms"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

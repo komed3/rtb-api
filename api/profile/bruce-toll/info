@@ -1,0 +1,34 @@
+{
+  "uri": "bruce-toll",
+  "name": "Bruce Toll",
+  "birthDate": "1943-04-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Homebuilding"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Miami",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

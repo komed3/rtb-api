@@ -1,0 +1,29 @@
+{
+  "uri": "chen-ailian",
+  "name": "Chen Ailian & family",
+  "birthDate": "1958-01-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "wheel production"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

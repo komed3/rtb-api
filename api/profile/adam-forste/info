@@ -1,0 +1,34 @@
+{
+  "uri": "adam-forste",
+  "name": "Adam Forste",
+  "birthDate": "1978-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Wyoming",
+    "city": "Wilson"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Diversified"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

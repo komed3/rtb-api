@@ -1,0 +1,34 @@
+{
+  "uri": "michele-kang",
+  "name": "Michele Kang",
+  "birthDate": "1959-06-26",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach",
+    "zipCode": "33480",
+    "_geo": {
+      "longitude": -80.0367523,
+      "latitude": 26.6879193
+    }
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Healthcare & Technology"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

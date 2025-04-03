@@ -1,0 +1,29 @@
+{
+  "uri": "hans-thomann",
+  "name": "Hans Thomann",
+  "birthDate": "1962-08-30",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Burgebrach"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "music retail"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

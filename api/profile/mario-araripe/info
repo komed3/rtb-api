@@ -1,0 +1,29 @@
+{
+  "uri": "mario-araripe",
+  "name": "Mário Araripe",
+  "birthDate": "1954-12-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "br",
+  "residence": {
+    "country": "br",
+    "state": null,
+    "city": "São Paulo"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Energy"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

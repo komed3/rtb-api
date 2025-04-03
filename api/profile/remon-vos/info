@@ -1,0 +1,29 @@
+{
+  "uri": "remon-vos",
+  "name": "Remon Vos",
+  "birthDate": "1970-09-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "nl",
+  "residence": {
+    "country": "cz",
+    "state": null,
+    "city": "Ceský Sternberk"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Logistics real estate"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uri": "michael-dunlap",
+  "name": "Michael Dunlap & family",
+  "birthDate": "1963-09-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Nebraska",
+    "city": "Lincoln"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "loan servicing"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Nebraska Lincoln",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of Nebraska Lincoln",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

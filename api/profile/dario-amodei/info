@@ -1,0 +1,29 @@
+{
+  "uri": "dario-amodei",
+  "name": "Dario Amodei",
+  "birthDate": "1983-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Artifical intelligence"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

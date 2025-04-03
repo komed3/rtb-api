@@ -1,0 +1,39 @@
+{
+  "uri": "michael-teel",
+  "name": "Michael Teel",
+  "birthDate": "1951-05-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Sacramento",
+    "zipCode": "94203",
+    "_geo": {
+      "longitude": -121.49,
+      "latitude": 38.58
+    }
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "supermarkets"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Whittier College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

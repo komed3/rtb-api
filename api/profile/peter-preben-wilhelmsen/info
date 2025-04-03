@@ -1,0 +1,29 @@
+{
+  "uri": "peter-preben-wilhelmsen",
+  "name": "Peter Preben Wilhelmsen",
+  "birthDate": "1962-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "no",
+  "residence": {
+    "country": "gb",
+    "state": null,
+    "city": "London"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "cruise ships"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

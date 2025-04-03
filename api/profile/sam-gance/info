@@ -1,0 +1,29 @@
+{
+  "uri": "sam-gance",
+  "name": "Sam Gance",
+  "birthDate": "1949-10-02",
+  "family": false,
+  "gender": "m",
+  "citizenship": "au",
+  "residence": {
+    "country": "au",
+    "state": null,
+    "city": "Melbourne"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "pharmacies"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

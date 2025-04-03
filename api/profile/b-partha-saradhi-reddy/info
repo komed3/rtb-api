@@ -1,0 +1,38 @@
+{
+  "uri": "b-partha-saradhi-reddy",
+  "name": "B. Partha Saradhi Reddy",
+  "birthDate": "1954-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "in",
+  "residence": {
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Osmania University",
+      "degree": "Master of Science"
+    },
+    {
+      "school": "Osmania University",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "uri": "liang-wenfeng",
+  "name": "Liang Wenfeng",
+  "birthDate": "1985-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Hangzhou"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "AI",
+    "hedge fund"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Zhejiang University",
+      "degree": "Bachelor of Engineering"
+    },
+    {
+      "school": "Zhejiang University",
+      "degree": "Master of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

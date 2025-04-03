@@ -1,0 +1,29 @@
+{
+  "uri": "michael-dorrell",
+  "name": "Michael Dorrell",
+  "birthDate": "1973-08-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Investing"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "xiao-hongxing",
+  "name": "Xiao Hongxing",
+  "birthDate": "1967-04-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Guangzhou"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "manufacturing"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

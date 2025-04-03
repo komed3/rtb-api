@@ -1,0 +1,39 @@
+{
+  "uri": "evangelos-mytilineos",
+  "name": "Evangelos Mytilineos",
+  "birthDate": "1954-03-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "gr",
+  "residence": {
+    "country": "gr",
+    "state": null,
+    "city": "Athens"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Energy",
+    "metals"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Athens University of Economics and Business",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "London School of Economics",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

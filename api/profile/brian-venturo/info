@@ -1,0 +1,29 @@
+{
+  "uri": "brian-venturo",
+  "name": "Brian Venturo",
+  "birthDate": "1984-10-21",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New Jersey",
+    "city": "Cedar Grove"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Technology"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

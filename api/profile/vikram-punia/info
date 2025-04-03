@@ -1,0 +1,34 @@
+{
+  "uri": "vikram-punia",
+  "name": "Vikram Punia",
+  "birthDate": "1973-03-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Far Eastern State Academy of Economics and Management",
+      "degree": "Masters in Finance"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "uri": "stephen-fredette",
+  "name": "Stephen Fredette",
+  "birthDate": "1983-09-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "zipCode": "02215",
+    "_geo": {
+      "longitude": -71.1002881,
+      "latitude": 42.3476181
+    }
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "payments software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Massachusetts Institue of Technology",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

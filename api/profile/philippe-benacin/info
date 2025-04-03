@@ -19,7 +19,12 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": null,
-  "education": [],
+  "education": [
+    {
+      "school": "ESSEC Business School",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

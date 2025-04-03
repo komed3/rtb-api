@@ -1,0 +1,29 @@
+{
+  "uri": "thomas-kaeser-1",
+  "name": "Thomas Kaeser",
+  "birthDate": "1953-08-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Coburg"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "air systems"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

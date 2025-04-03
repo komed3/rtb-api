@@ -1,0 +1,29 @@
+{
+  "uri": "hans-jakob-limbach-1",
+  "name": "Hans Jakob Limbach",
+  "birthDate": "1947-11-05",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Heidelberg"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "laboratories"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

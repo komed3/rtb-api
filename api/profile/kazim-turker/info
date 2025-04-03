@@ -1,0 +1,30 @@
+{
+  "uri": "kazim-turker",
+  "name": "Kazim Turker",
+  "birthDate": "1954-02-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "tr",
+  "residence": {
+    "country": "tr",
+    "state": null,
+    "city": "Ankara"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Energy",
+    "diversified"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "uri": "anatoly-skurov",
+  "name": "Anatoly Skurov",
+  "birthDate": "1952-12-07",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Coal",
+    "fertilizers"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Tula Polytechnical Institute",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

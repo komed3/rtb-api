@@ -1,0 +1,38 @@
+{
+  "uri": "laurans-mendelson",
+  "name": "Laurans Mendelson & family",
+  "birthDate": "1938-07-07",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
+  },
+  "industry": [
+    "construction-engineering"
+  ],
+  "source": [
+    "Aerospace"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Columbia University in the City of New York",
+      "degree": "Bachelor of Arts/Economics"
+    },
+    {
+      "school": "Columbia University in the City of New York",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

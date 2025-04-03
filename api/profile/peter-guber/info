@@ -1,0 +1,43 @@
+{
+  "uri": "peter-guber",
+  "name": "Peter Guber",
+  "birthDate": "1942-03-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
+  },
+  "industry": [
+    "sports"
+  ],
+  "source": [
+    "Sports teams",
+    "movies"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "JD"
+    },
+    {
+      "school": "New York University",
+      "degree": "LLM"
+    },
+    {
+      "school": "Syracuse University",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "stephane-courbit",
+  "name": "Stephane Courbit",
+  "birthDate": "1965-04-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Entertainment"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "chen-tao",
+  "name": "Chen Tao & family",
+  "birthDate": "1972-04-21",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Huizhou"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "hardware"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

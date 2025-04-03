@@ -1,0 +1,34 @@
+{
+  "uri": "andrii-verevskyi",
+  "name": "Andrii Verevskyi",
+  "birthDate": "1974-07-25",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ua",
+  "residence": {
+    "country": "ua",
+    "state": null,
+    "city": "Kiev"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "agriculture"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "National Agricultural University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

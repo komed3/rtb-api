@@ -1,0 +1,29 @@
+{
+  "uri": "tony-townley",
+  "name": "Tony Townley",
+  "birthDate": "1962-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Georgia",
+    "city": "Bogart"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Fast food"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

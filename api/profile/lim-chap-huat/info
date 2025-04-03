@@ -1,0 +1,30 @@
+{
+  "uri": "lim-chap-huat",
+  "name": "Lim Chap Huat",
+  "birthDate": "1954-07-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "sg",
+  "residence": {
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Property"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d60049d68cb0a000917ec75/416x416.jpg?background=000000&cropX1=337&cropX2=3482&cropY1=0&cropY2=3143",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

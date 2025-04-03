@@ -1,0 +1,29 @@
+{
+  "uri": "eric-hemar",
+  "name": "Eric Hémar",
+  "birthDate": "1963-04-22",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "Logistics"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

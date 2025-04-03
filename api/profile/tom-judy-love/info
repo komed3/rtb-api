@@ -6,13 +6,9 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Oklahoma",
-    "city": "Oklahoma City",
-    "_geo": {
-      "longitude": -97.520354,
-      "latitude": 35.472015
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -21,9 +17,9 @@
     "retail & gas stations"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5b3fa7d1a7ea4341970ddbf3/416x416.jpg?background=000000&cropX1=45&cropX2=1128&cropY1=83&cropY2=1167",
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [
     {
       "school": "St. John's University (MN)",

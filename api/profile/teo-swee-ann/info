@@ -1,0 +1,34 @@
+{
+  "uri": "teo-swee-ann",
+  "name": "Teo Swee Ann",
+  "birthDate": "1975-09-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "sg",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "École Nationale Supérieure des Arts Décoratifs",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

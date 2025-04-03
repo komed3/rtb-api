@@ -1,0 +1,30 @@
+{
+  "uri": "eduardo-vivas",
+  "name": "Eduardo Vivas",
+  "birthDate": "1985-10-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Palo Alto"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "marketing software",
+    "mobile games"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

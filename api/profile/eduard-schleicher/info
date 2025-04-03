@@ -1,0 +1,30 @@
+{
+  "uri": "eduard-schleicher",
+  "name": "Eduard Schleicher",
+  "birthDate": "1955-06-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Ulm"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Cement",
+    "Copper"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

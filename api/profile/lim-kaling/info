@@ -1,0 +1,34 @@
+{
+  "uri": "lim-kaling",
+  "name": "Lim Kaling",
+  "birthDate": "1964-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "sg",
+  "residence": {
+    "country": "sg",
+    "state": null,
+    "city": "Singapore"
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Gaming hardware"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of California Berkeley",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

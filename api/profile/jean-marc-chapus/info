@@ -1,0 +1,38 @@
+{
+  "uri": "jean-marc-chapus",
+  "name": "Jean-Marc Chapus",
+  "birthDate": "1959-04-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Pacific Palisades"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Finance"
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

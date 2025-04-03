@@ -1,0 +1,29 @@
+{
+  "uri": "jack-cogen",
+  "name": "Jack Cogen",
+  "birthDate": "1956-04-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Technology"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

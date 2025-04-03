@@ -1,0 +1,29 @@
+{
+  "uri": "holger-loclair",
+  "name": "Holger Loclair",
+  "birthDate": "1951-01-24",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Oranienburg"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Adhesives"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "jack-clark",
+  "name": "Jack Clark",
+  "birthDate": null,
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Artificial intelligence"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

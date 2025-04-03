@@ -1,0 +1,36 @@
+{
+  "uri": "eusebio-tanco",
+  "name": "Eusebio Tanco",
+  "birthDate": "1949-08-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ph",
+  "residence": {
+    "country": "ph",
+    "state": null,
+    "city": "Mandaluyong City"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Digital entertainment",
+    "ports",
+    "education"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "London School of Economics",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

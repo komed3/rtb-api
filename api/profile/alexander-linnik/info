@@ -1,0 +1,29 @@
+{
+  "uri": "alexander-linnik",
+  "name": "Alexander Linnik",
+  "birthDate": "1967-10-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Agriculture"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

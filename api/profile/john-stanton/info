@@ -1,0 +1,42 @@
+{
+  "uri": "john-stanton",
+  "name": "John Stanton",
+  "birthDate": "1955-07-31",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Washington",
+    "city": "Bellevue",
+    "_geo": {
+      "longitude": -122.187549,
+      "latitude": 47.61002
+    }
+  },
+  "industry": [
+    "telecom"
+  ],
+  "source": [
+    "wireless"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Whitman College",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

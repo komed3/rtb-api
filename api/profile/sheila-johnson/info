@@ -1,0 +1,43 @@
+{
+  "uri": "sheila-johnson",
+  "name": "Sheila Johnson",
+  "birthDate": "1949-01-25",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Virginia",
+    "city": "The Plains",
+    "_geo": {
+      "longitude": -77.772874,
+      "latitude": 38.862145
+    }
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Cable TV",
+    "hotels"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/676073f68d76f2545c85143c/416x416.jpg?background=000000&cropX1=589&cropX2=1715&cropY1=210&cropY2=1339",
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Salamander Hotel and Resorts",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
+}

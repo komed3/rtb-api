@@ -1,0 +1,29 @@
+{
+  "uri": "franz-von-baumbach",
+  "name": "Franz von Baumbach",
+  "birthDate": "2001-07-27",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Ingelheim"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharma"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

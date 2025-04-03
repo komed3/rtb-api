@@ -1,0 +1,38 @@
+{
+  "uri": "barbara-banke-1",
+  "name": "Barbara Banke & family",
+  "birthDate": "1953-08-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Geyserville"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Wine"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Widowed",
+  "education": [
+    {
+      "school": "UC Hastings",
+      "degree": "JD"
+    },
+    {
+      "school": "University of California, Los Angeles",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
+}

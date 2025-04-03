@@ -1,0 +1,29 @@
+{
+  "uri": "denise-prenosil",
+  "name": "Denise Prenosil",
+  "birthDate": "1960-01-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Gibsonia"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "Dick's Sporting Goods"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "mc",
   "residence": {
-    "country": "mc",
+    "country": null,
     "state": null,
-    "city": "Monte Carlo"
+    "city": null
   },
   "industry": [
     "finance-investments"
@@ -17,9 +17,9 @@
     "Art"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5c70fed0a7ea431000434169/416x416.jpg?background=000000&cropX1=410&cropX2=1740&cropY1=126&cropY2=1455",
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

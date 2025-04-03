@@ -1,0 +1,34 @@
+{
+  "uri": "fabrizio-di-amato",
+  "name": "Fabrizio Di Amato",
+  "birthDate": "1963-10-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "it",
+  "residence": {
+    "country": "it",
+    "state": null,
+    "city": "Rome"
+  },
+  "industry": [
+    "construction-engineering"
+  ],
+  "source": [
+    "Engineering"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "La Sapienza University of Rome",
+      "degree": "Bachelor of Political Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

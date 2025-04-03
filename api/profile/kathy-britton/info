@@ -1,0 +1,43 @@
+{
+  "uri": "kathy-britton",
+  "name": "Kathy Britton",
+  "birthDate": "1969-09-03",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Houston",
+    "zipCode": "77019",
+    "_geo": {
+      "longitude": -95.43436280000002,
+      "latitude": 29.7557764
+    }
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Homebuilding"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Baylor University",
+      "degree": "Bachelor of Business Administration"
+    },
+    {
+      "school": "The University of Houston",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

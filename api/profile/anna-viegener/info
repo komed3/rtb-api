@@ -1,0 +1,29 @@
+{
+  "uri": "anna-viegener",
+  "name": "Anna Viegener",
+  "birthDate": "1990-10-22",
+  "family": false,
+  "gender": "f",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Attendorn"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "plumbing/HVAC"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

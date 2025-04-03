@@ -1,0 +1,39 @@
+{
+  "uri": "steve-ells",
+  "name": "Steve Ells",
+  "birthDate": "1965-09-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Chipotle"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/67e5d99c74f470c86e861b9b/416x416.jpg?background=000000&cropX1=0&cropX2=829&cropY1=165&cropY2=994",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Culinary Institute of America",
+      "degree": "Diploma"
+    },
+    {
+      "school": "University of Colorado - Boulder",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "uri": "oleg-misrevra",
+  "name": "Oleg Misrevra",
+  "birthDate": "1967-09-20",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "metals-mining"
+  ],
+  "source": [
+    "Coal"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kharkiv Higher Military School of the Rear of the Ministry of Internal Affairs of the USSR",
+      "degree": "Graduate"
+    },
+    {
+      "school": "Moscow State Pedagogical University",
+      "degree": "Master"
+    },
+    {
+      "school": "Siberian State Industrial University  ",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

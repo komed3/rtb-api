@@ -1,0 +1,29 @@
+{
+  "uri": "ishay-davidi",
+  "name": "Ishay Davidi",
+  "birthDate": "1962-02-03",
+  "family": false,
+  "gender": "m",
+  "citizenship": "il",
+  "residence": {
+    "country": "il",
+    "state": null,
+    "city": "Hod HaSharon"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private Equity"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "marc-rubiralta",
+  "name": "Marc Rubiralta",
+  "birthDate": "1983-06-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "es",
+  "residence": {
+    "country": "es",
+    "state": null,
+    "city": "Barcelona"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Diagnostics"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

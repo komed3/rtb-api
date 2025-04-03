@@ -1,0 +1,29 @@
+{
+  "uri": "ben-lamm",
+  "name": "Ben Lamm",
+  "birthDate": "1981-12-04",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Dallas"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "biotech"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

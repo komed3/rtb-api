@@ -1,0 +1,29 @@
+{
+  "uri": "christopher-olah",
+  "name": "Christopher Olah",
+  "birthDate": "1992-06-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ca",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Artificial intelligence"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "uri": "anton-fedun",
+  "name": "Anton Fedun",
+  "birthDate": "1985-04-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "gb",
+    "state": null,
+    "city": "London"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "oil & gas"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Surrey",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

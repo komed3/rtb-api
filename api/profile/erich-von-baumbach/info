@@ -1,0 +1,29 @@
+{
+  "uri": "erich-von-baumbach",
+  "name": "Erich von Baumbach",
+  "birthDate": "1971-05-06",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Ingelheim"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharma"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

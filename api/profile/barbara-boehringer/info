@@ -1,0 +1,29 @@
+{
+  "uri": "barbara-boehringer",
+  "name": "Barbara Boehringer",
+  "birthDate": "1972-05-12",
+  "family": false,
+  "gender": "f",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Ingelheim"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Pharmaceuticals"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

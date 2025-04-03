@@ -1,0 +1,34 @@
+{
+  "uri": "konstantin-goncharov",
+  "name": "Konstantin Goncharov & family",
+  "birthDate": "1971-10-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Moscow"
+  },
+  "industry": [
+    "logistics"
+  ],
+  "source": [
+    "transportation"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Magnitogorsk Mining and Metallurgical Institute",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

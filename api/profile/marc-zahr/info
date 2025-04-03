@@ -1,0 +1,34 @@
+{
+  "uri": "marc-zahr",
+  "name": "Marc Zahr",
+  "birthDate": "1979-08-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Illinois",
+    "city": "Chicago"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Private equity"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Dayton",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

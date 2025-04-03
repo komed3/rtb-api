@@ -1,0 +1,35 @@
+{
+  "uri": "alexander-evnevich",
+  "name": "Alexander Evnevich & family",
+  "birthDate": "1959-07-05",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ru",
+  "residence": {
+    "country": "ru",
+    "state": null,
+    "city": "Saint Petersburg"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "tea",
+    "retail"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Saint Petersburg State University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

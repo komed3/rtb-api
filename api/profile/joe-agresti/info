@@ -1,0 +1,30 @@
+{
+  "uri": "joe-agresti",
+  "name": "Joe Agresti",
+  "birthDate": "1972-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "The Woodlands"
+  },
+  "industry": [
+    "diversified"
+  ],
+  "source": [
+    "Auto dealerships",
+    "investments"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "franz-viegener",
+  "name": "Franz Viegener",
+  "birthDate": "1983-02-09",
+  "family": false,
+  "gender": "m",
+  "citizenship": "de",
+  "residence": {
+    "country": "de",
+    "state": null,
+    "city": "Attendorn"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "plumbing/HVAC"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

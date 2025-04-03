@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "country": "de",
+    "country": null,
     "state": null,
-    "city": "Hamburg"
+    "city": null
   },
   "industry": [
     "manufacturing"
@@ -17,9 +17,9 @@
     "Chemicals"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/56c9cd37e4b062f6b59a2c63/416x416.jpg?background=000000&cropX1=2&cropX2=701&cropY1=226&cropY2=925",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

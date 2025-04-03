@@ -1,0 +1,38 @@
+{
+  "uri": "joe-lonsdale",
+  "name": "Joe Lonsdale",
+  "birthDate": "1982-09-12",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "tech investments"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ca4b9784bbe6f073331cff1/416x416.jpg?background=000000&cropX1=0&cropX2=800&cropY1=142&cropY2=943",
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "8VC",
+    "title": "Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

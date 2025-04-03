@@ -1,0 +1,47 @@
+{
+  "uri": "michael-chae",
+  "name": "Michael Chae",
+  "birthDate": "1968-10-05",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York",
+    "zipCode": "10154",
+    "_geo": {
+      "longitude": -73.9725344,
+      "latitude": 40.7577789
+    }
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private Equity"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Cambridge University",
+      "degree": "Master of Philosophy"
+    },
+    {
+      "school": "Harvard College",
+      "degree": "Bachelor of Arts"
+    },
+    {
+      "school": "Yale Law School",
+      "degree": "Doctor of Jurisprudence"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uri": "ed-hallen",
+  "name": "Ed Hallen",
+  "birthDate": "1982-02-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Colorado",
+    "city": "Boulder"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Marketing software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Massachusetts Institute of Technology",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Virginia",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
