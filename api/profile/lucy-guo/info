@@ -1,0 +1,37 @@
+{
+  "uri": "lucy-guo",
+  "name": "Lucy Guo",
+  "birthDate": "1994-10-14",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Artificial intelligence"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Scale",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uri": "william-chisholm",
+  "name": "William Chisholm",
+  "birthDate": "1969-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Atherton"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private equity"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Dartmouth College",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "The Wharton School at the University of Pennsylvania",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -20,7 +20,12 @@
   "deceased": false,
   "children": 0,
   "maritalStatus": "Married",
-  "education": [],
+  "education": [
+    {
+      "school": "Rutgers University",
+      "degree": "Bachelor of Science"
+    }
+  ],
   "organization": null,
   "selfMade": {
     "_is": true,

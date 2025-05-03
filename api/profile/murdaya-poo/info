@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "country": "id",
+    "country": null,
     "state": null,
-    "city": "Jakarta"
+    "city": null
   },
   "industry": [
     "diversified"
@@ -17,9 +17,9 @@
     "Diversified"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/61b121df0fb1e54be4c07bcd/416x416.jpg?background=000000&cropX1=120&cropX2=1989&cropY1=177&cropY2=2044",
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

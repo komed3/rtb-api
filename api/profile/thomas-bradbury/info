@@ -1,0 +1,29 @@
+{
+  "uri": "thomas-bradbury",
+  "name": "Thomas Bradbury",
+  "birthDate": "1944-07-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Georgia",
+    "city": "Atlanta"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Homebuilding"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

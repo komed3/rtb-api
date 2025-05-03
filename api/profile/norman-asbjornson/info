@@ -1,0 +1,34 @@
+{
+  "uri": "norman-asbjornson",
+  "name": "Norman Asbjornson",
+  "birthDate": "1935-12-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Oklahoma",
+    "city": "Tulsa",
+    "zipCode": "74114",
+    "_geo": {
+      "longitude": -95.9488975,
+      "latitude": 36.1237711
+    }
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "HVAC"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

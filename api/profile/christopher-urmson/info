@@ -1,0 +1,38 @@
+{
+  "uri": "christopher-urmson",
+  "name": "Christopher Urmson",
+  "birthDate": "1976-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ca",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Mountain View"
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "self-driving cars"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Carnegie Mellon",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Manitoba",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

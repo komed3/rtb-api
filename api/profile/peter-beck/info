@@ -1,0 +1,29 @@
+{
+  "uri": "peter-beck",
+  "name": "Peter Beck",
+  "birthDate": "1977-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "nz",
+  "residence": {
+    "country": "nz",
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Spacecrafts"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
