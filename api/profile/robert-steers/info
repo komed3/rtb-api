@@ -1,0 +1,39 @@
+{
+  "uri": "robert-steers",
+  "name": "Robert Steers & family",
+  "birthDate": "1953-03-09",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "Rye",
+    "zipCode": "10580",
+    "_geo": {
+      "longitude": -73.692771,
+      "latitude": 40.97724
+    }
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Cohen & Steers"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Georgetown University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

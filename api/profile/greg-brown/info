@@ -1,0 +1,32 @@
+{
+  "uri": "greg-brown",
+  "name": "Greg Brown",
+  "birthDate": "1960-08-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Illinois",
+    "city": "Barrington"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Motorola"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": {
+    "name": "Motorola Solutions",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uri": "satya-nadella",
+  "name": "Satya Nadella",
+  "birthDate": "1967-08-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Washington",
+    "city": "Bellevue"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Microsoft"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5d6ae14f673aa300083caf99/416x416.jpg?background=000000&cropX1=3051&cropX2=5974&cropY1=26&cropY2=2952",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Wisconsin",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Microsoft",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

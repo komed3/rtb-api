@@ -1,0 +1,29 @@
+{
+  "uri": "li-fuchao",
+  "name": "Li Fuchao",
+  "birthDate": "1958-02-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Beijing"
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "auto parts"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

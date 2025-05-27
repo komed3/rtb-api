@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SINGAPORE",
+    "ticker": "X5N-SG",
+    "companyName": "Avarga Limited",
+    "numberOfShares": 18324700,
+    "sharePrice": 0,
+    "currencyCode": "SGD",
+    "exchangeRate": 1.2852,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
     "ticker": "F10-SG",
     "companyName": "FJ Benjamin Holdings Ltd",
     "numberOfShares": 109024000,
-    "sharePrice": 0.006862371330537551,
+    "sharePrice": 0.008558979147214442,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3115,
+    "exchangeRate": 1.2852,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "BOU-SG",
     "companyName": "Informatics Education",
     "numberOfShares": 0,
-    "sharePrice": 0.006099885627144491,
+    "sharePrice": 0.006224712107065049,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3115,
+    "exchangeRate": 1.2852,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "A50-SG",
     "companyName": "Rowsley Ltd",
     "numberOfShares": 23745523000,
-    "sharePrice": 0.032024399542508575,
+    "sharePrice": 0.033457827575474636,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3115,
+    "exchangeRate": 1.2852,
     "interactive": false
   },
   {
@@ -34,19 +44,9 @@
     "ticker": "A50-SG",
     "companyName": "Rowsley Ltd",
     "numberOfShares": -2374550000,
-    "sharePrice": 0.032024399542508575,
+    "sharePrice": 0.033457827575474636,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3115,
-    "interactive": false
-  },
-  {
-    "exchange": "SINGAPORE",
-    "ticker": "U09-SG",
-    "companyName": "UPP Holdings Ltd.",
-    "numberOfShares": 183247000,
-    "sharePrice": 0.1829965688143347,
-    "currencyCode": "SGD",
-    "exchangeRate": 1.3115,
+    "exchangeRate": 1.2852,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "Z25-SG",
     "companyName": "Yanlord Land Group",
     "numberOfShares": 0,
-    "sharePrice": 0.3583682805947388,
+    "sharePrice": 0.35403050108932466,
     "currencyCode": "SGD",
-    "exchangeRate": 1.3115,
+    "exchangeRate": 1.2852,
     "interactive": false
   }
 ]

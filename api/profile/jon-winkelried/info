@@ -1,0 +1,30 @@
+{
+  "uri": "jon-winkelried",
+  "name": "Jon Winkelried",
+  "birthDate": "1959-09-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private equity",
+    "banking"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "william-lansing",
+  "name": "William Lansing",
+  "birthDate": "1958-04-24",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Montana",
+    "city": "Bozeman"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Credit scores"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

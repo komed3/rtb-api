@@ -1,0 +1,30 @@
+{
+  "uri": "larry-culp",
+  "name": "Larry Culp",
+  "birthDate": "1963-03-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Ohio",
+    "city": "Cincinnati"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "General Electric",
+    "manufacturing"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

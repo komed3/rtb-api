@@ -1,0 +1,31 @@
+{
+  "uri": "nikesh-arora",
+  "name": "Nikesh Arora",
+  "birthDate": "1968-02-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Atherton"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Cybersecurity",
+    "SoftBank",
+    "Google"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
