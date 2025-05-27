@@ -1,5 +1,10 @@
 # Real-time billionaires API
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/komed3/rtb-api?style=for-the-badge)](https://github.com/komed3/rtb-api/activity)
+[![GitHub License](https://img.shields.io/github/license/komed3/rtb-api?style=for-the-badge)](LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/komed3/rtb-api?style=for-the-badge)](https://github.com/komed3/rtb-api/archive/refs/heads/main.zip)
+[![Static Badge](https://img.shields.io/badge/uptime-100%25-green?style=for-the-badge)](https://status.jsdelivr.com/)
+
 > [!WARNING]
 > **There will be a major update for this API soon.**
 > Additional details and which changes will occur as well as changed API endpoints / request queries will be announced as soon as known.
