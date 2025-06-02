@@ -1,0 +1,43 @@
+{
+  "uri": "marissa-mayer",
+  "name": "Marissa Mayer",
+  "birthDate": "1975-05-30",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Palo Alto"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Google",
+    "Yahoo"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/5f779738b82663aa866a3686/416x416.jpg?background=000000&cropX1=201&cropX2=1679&cropY1=146&cropY2=1625",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Stanford University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": {
+    "name": "Yahoo!",
+    "title": "CEO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
+}

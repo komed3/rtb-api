@@ -1,0 +1,33 @@
+{
+  "uri": "jk-rowling",
+  "name": "J.K. Rowling",
+  "birthDate": "1965-07-31",
+  "family": false,
+  "gender": "f",
+  "citizenship": "gb",
+  "residence": {
+    "country": "gb",
+    "state": null,
+    "city": "Edinburgh"
+  },
+  "industry": [],
+  "source": [
+    "Books"
+  ],
+  "image": "https:////specials-images.forbesimg.com/imageserve/5ed56d114231c70006c8f37b/416x416.jpg?background=000000&cropX1=0&cropX2=654&cropY1=96&cropY2=750",
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Exeter University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

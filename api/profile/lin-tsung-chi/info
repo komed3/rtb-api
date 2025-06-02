@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Kaohsiung",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Kaohsiung"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Furniture rails"
-  ]
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }
