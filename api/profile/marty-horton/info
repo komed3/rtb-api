@@ -1,0 +1,29 @@
+{
+  "uri": "marty-horton",
+  "name": "Marty Horton",
+  "birthDate": "1951-05-28",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Fort Worth"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Homebuilding"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

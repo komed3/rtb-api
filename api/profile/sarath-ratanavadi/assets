@@ -1,12 +1,22 @@
 [
   {
     "exchange": "THAILAND",
+    "ticker": "GULF-TH",
+    "companyName": "Gulf Development",
+    "numberOfShares": 8948330000,
+    "sharePrice": 1.1919886061269753,
+    "currencyCode": "THB",
+    "exchangeRate": 32.5087,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
     "ticker": "GULFI-TH",
     "companyName": "Gulf Energy Development",
     "numberOfShares": 0,
-    "sharePrice": 1.5154976772523037,
+    "sharePrice": 1.5303595652856006,
     "currencyCode": "THB",
-    "exchangeRate": 32.8275,
+    "exchangeRate": 32.5087,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "ITC-TH",
     "companyName": "i-Tail Corporation",
     "numberOfShares": 20027000,
-    "sharePrice": 0.36554717843271645,
+    "sharePrice": 0.3568275569309139,
     "currencyCode": "THB",
-    "exchangeRate": 32.8275,
+    "exchangeRate": 32.5087,
     "interactive": false
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "uri": "daniel-roullier",
+  "name": "Daniel Roullier & family",
+  "birthDate": "1937-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "fr",
+    "state": null,
+    "city": "Paris"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "animal feed"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

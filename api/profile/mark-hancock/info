@@ -1,0 +1,38 @@
+{
+  "uri": "mark-hancock",
+  "name": "Mark Hancock",
+  "birthDate": "1975-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Utah",
+    "city": "Mountain Green"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Nursing facilities"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Brigham Young University",
+      "degree": "Bachelor of Science in Engineering"
+    },
+    {
+      "school": "Brigham Young University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

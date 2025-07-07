@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
-    "city": "Ventura",
-    "zipCode": "93001",
-    "_geo": {
-      "longitude": -119.2769253,
-      "latitude": 34.2769462
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -23,9 +18,9 @@
     "real estate"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/59dd6e0031358e542c03936e/416x416.jpg?background=000000&cropX1=160&cropX2=2065&cropY1=0&cropY2=1905",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [
     {
       "school": "High School",

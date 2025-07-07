@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "in",
+    "country": null,
     "state": null,
-    "city": "Delhi"
+    "city": null
   },
   "industry": [
     "automotive"
@@ -16,9 +16,9 @@
   "source": [
     "Auto parts"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "University of Buckingham",

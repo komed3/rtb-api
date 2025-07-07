@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Tennessee",
-    "city": "Memphis",
-    "zipCode": "38120",
-    "_geo": {
-      "longitude": -89.861328,
-      "latitude": 35.120603
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "logistics"
@@ -21,9 +16,9 @@
   "source": [
     "FedEx"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 10,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Yale University",

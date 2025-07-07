@@ -6,14 +6,9 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Pennsylvania",
-    "city": "Coatesville",
-    "zipCode": "19320",
-    "_geo": {
-      "longitude": -75.827068,
-      "latitude": 39.982308
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -21,9 +16,9 @@
   "source": [
     "Campbell Soup"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Divorced",
+  "maritalStatus": null,
   "education": [
     {
       "school": "University of Arizona",

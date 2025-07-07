@@ -3,20 +3,20 @@
     "exchange": "PHILIPPINES",
     "ticker": "AGI-PH",
     "companyName": "Alliance Global Group Inc.",
-    "numberOfShares": 6229381000,
-    "sharePrice": 0.14947575947665562,
+    "numberOfShares": 6248453000,
+    "sharePrice": 0.15362731152204837,
     "currencyCode": "PHP",
-    "exchangeRate": 55.795,
+    "exchangeRate": 56.24,
     "interactive": false
   },
   {
-    "exchange": "SINGAPORE",
-    "ticker": "CWBU-SG",
-    "companyName": "Cromwell European REIT",
-    "numberOfShares": 41210000,
-    "sharePrice": 1.7141559768418662,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.8809,
+    "exchange": "PHILIPPINES",
+    "ticker": "EMI-PH",
+    "companyName": "Emperador Inc",
+    "numberOfShares": 190480000,
+    "sharePrice": 0.2677809388335704,
+    "currencyCode": "PHP",
+    "exchangeRate": 56.24,
     "interactive": false
   },
   {
@@ -24,19 +24,19 @@
     "ticker": "ELI-PH",
     "companyName": "Empire East Land Holdings",
     "numberOfShares": 173970000,
-    "sharePrice": 0.0019535800698987364,
+    "sharePrice": 0.002062588904694168,
     "currencyCode": "PHP",
-    "exchangeRate": 55.795,
+    "exchangeRate": 56.24,
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "9A4U-SG",
     "companyName": "ESR-REIT",
-    "numberOfShares": 10108000,
-    "sharePrice": 1.7214640198511166,
+    "numberOfShares": 10500000,
+    "sharePrice": 1.9601693586325857,
     "currencyCode": "SGD",
-    "exchangeRate": 1.2896,
+    "exchangeRate": 1.2754,
     "interactive": false
   },
   {
@@ -44,7 +44,7 @@
     "ticker": "CMOU-SG",
     "companyName": "Keppel-KBS US REIT",
     "numberOfShares": 90610000,
-    "sharePrice": 0.189,
+    "sharePrice": 0.215,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,7 +54,7 @@
     "ticker": "BTOU-SG",
     "companyName": "Manulife US Real Estate Investment Trust",
     "numberOfShares": 53380000,
-    "sharePrice": 0.063,
+    "sharePrice": 0.067,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,9 +64,9 @@
     "ticker": "M44U-SG",
     "companyName": "Mapletree Logistics Trust",
     "numberOfShares": 55250000,
-    "sharePrice": 0.8607320099255583,
+    "sharePrice": 0.9330406147091107,
     "currencyCode": "SGD",
-    "exchangeRate": 1.2896,
+    "exchangeRate": 1.2754,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "MEG-PH",
     "companyName": "Megaworld Corp.",
     "numberOfShares": 875271000,
-    "sharePrice": 0.032081727753382916,
+    "sharePrice": 0.03502844950213371,
     "currencyCode": "PHP",
-    "exchangeRate": 55.795,
+    "exchangeRate": 56.24,
     "interactive": false
   },
   {
@@ -84,19 +84,9 @@
     "ticker": "MV4-SG",
     "companyName": "Mewah International Inc",
     "numberOfShares": 125076000,
-    "sharePrice": 0.20549007444168735,
+    "sharePrice": 0.20385761329778893,
     "currencyCode": "SGD",
-    "exchangeRate": 1.2896,
-    "interactive": false
-  },
-  {
-    "exchange": "OMX NORDIC COPENHAGEN",
-    "ticker": "NOVO.B-DK",
-    "companyName": "Novo Nordisk",
-    "numberOfShares": 0,
-    "sharePrice": 69.04029950690935,
-    "currencyCode": "DKK",
-    "exchangeRate": 6.5708,
+    "exchangeRate": 1.2754,
     "interactive": false
   },
   {
@@ -104,19 +94,9 @@
     "ticker": "LJ3-SG",
     "companyName": "OUE Ltd.",
     "numberOfShares": 8670000,
-    "sharePrice": 0.7599255583126551,
+    "sharePrice": 0.8389524854947468,
     "currencyCode": "SGD",
-    "exchangeRate": 1.2896,
-    "interactive": false
-  },
-  {
-    "exchange": "ISTANBUL",
-    "ticker": "PGSUS.E-TR",
-    "companyName": "Pegasus Hava Tasimaciligi A.S.",
-    "numberOfShares": 0,
-    "sharePrice": 6.146507040961424,
-    "currencyCode": "TRY",
-    "exchangeRate": 39.2418,
+    "exchangeRate": 1.2754,
     "interactive": false
   },
   {
@@ -124,9 +104,19 @@
     "ticker": "OXMU-SG",
     "companyName": "Prime US REIT",
     "numberOfShares": 63723000,
-    "sharePrice": 0.136,
+    "sharePrice": 0.161,
     "currencyCode": "USD",
     "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "SINGAPORE",
+    "ticker": "SET-SG",
+    "companyName": "Stoneweg European Stapled Trust",
+    "numberOfShares": 41210000,
+    "sharePrice": 1.786343871195205,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8509,
     "interactive": false
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "uri": "wang-yue",
+  "name": "Wang Yue",
+  "birthDate": "1983-05-15",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Shanghai"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "online games"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

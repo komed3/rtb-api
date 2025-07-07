@@ -1,0 +1,29 @@
+{
+  "uri": "dexter-salna",
+  "name": "Dexter Salna",
+  "birthDate": null,
+  "family": false,
+  "gender": "m",
+  "citizenship": "ca",
+  "residence": {
+    "country": "ca",
+    "state": null,
+    "city": "Toronto"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

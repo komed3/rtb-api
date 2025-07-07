@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "New York",
-    "city": "New York",
-    "zipCode": "10065",
-    "_geo": {
-      "longitude": -73.963179,
-      "latitude": 40.76421
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -22,19 +17,16 @@
     "Estee Lauder"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5d8bd6eb22254b0008e17ce3/416x416.jpg?background=000000&cropX1=1114&cropX2=1980&cropY1=107&cropY2=973",
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Widowed, Remarried",
+  "maritalStatus": null,
   "education": [
     {
       "school": "University of Pennsylvania",
       "degree": "Bachelor of Arts/Science"
     }
   ],
-  "organization": {
-    "name": "The Estée Lauder Companies",
-    "title": "Chairman Emeritus"
-  },
+  "organization": null,
   "selfMade": {
     "_is": false,
     "type": "inherited and growing",

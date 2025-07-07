@@ -1,0 +1,33 @@
+{
+  "uri": "o-bruton-smith",
+  "name": "O. Bruton Smith & family",
+  "birthDate": "1927-03-02",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "_geo": {
+      "longitude": -80.837539,
+      "latitude": 35.2225
+    }
+  },
+  "industry": [
+    "automotive"
+  ],
+  "source": [
+    "Nascar racetracks"
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Divorced",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}
