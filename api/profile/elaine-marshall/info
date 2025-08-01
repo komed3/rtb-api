@@ -1,18 +1,20 @@
 {
   "uri": "elaine-marshall",
-  "name": "Elaine Marshall",
-  "birthDate": null,
+  "name": "Elaine Marshall & family",
+  "birthDate": "1942-07-22",
   "family": false,
-  "gender": null,
-  "citizenship": null,
+  "gender": "f",
+  "citizenship": "us",
   "residence": {
     "country": "us",
     "state": "Texas",
     "city": "Dallas"
   },
-  "industry": [],
+  "industry": [
+    "diversified"
+  ],
   "source": [
-    ""
+    "Koch Inc."
   ],
   "deceased": false,
   "children": 2,

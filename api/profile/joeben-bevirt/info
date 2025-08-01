@@ -1,0 +1,29 @@
+{
+  "uri": "joeben-bevirt",
+  "name": "JoeBen Bevirt",
+  "birthDate": "1973-09-04",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Santa Cruz"
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Electric aviation"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

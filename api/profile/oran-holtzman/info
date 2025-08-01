@@ -1,16 +1,17 @@
 {
   "uri": "oran-holtzman",
   "name": "Oran Holtzman",
-  "birthDate": "1985-01-01",
+  "birthDate": "1984-01-12",
   "family": false,
-  "gender": null,
-  "citizenship": "us",
+  "gender": "m",
+  "citizenship": "il",
   "residence": {
-    "country": "gb",
-    "state": null,
-    "city": "London"
+    "city": "London",
+    "state": null
   },
-  "industry": [],
+  "industry": [
+    "fashion-retail"
+  ],
   "source": [
     "Beauty and Technology"
   ],

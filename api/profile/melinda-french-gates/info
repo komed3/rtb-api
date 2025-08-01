@@ -6,15 +6,15 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Washington",
-    "city": "Seattle"
+    "city": "Seattle",
+    "state": "Washington"
   },
   "industry": [
     "technology"
   ],
   "source": [
-    "Microsoft"
+    "Microsoft",
+    "investments"
   ],
   "deceased": false,
   "children": 3,

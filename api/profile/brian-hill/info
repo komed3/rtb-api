@@ -1,18 +1,20 @@
 {
   "uri": "brian-hill",
   "name": "Brian Hill",
-  "birthDate": null,
+  "birthDate": "1960-12-17",
   "family": false,
-  "gender": null,
+  "gender": "m",
   "citizenship": "ca",
   "residence": {
     "country": "ca",
     "state": null,
     "city": "Vancouver"
   },
-  "industry": [],
+  "industry": [
+    "fashion-retail"
+  ],
   "source": [
-    ""
+    "Fashion retailer"
   ],
   "deceased": false,
   "children": 2,

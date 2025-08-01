@@ -4,11 +4,11 @@
     "ticker": "ORCL-US",
     "companyName": "Oracle",
     "numberOfShares": 1068982000,
-    "sharePrice": 237.32,
+    "sharePrice": 250.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": true,
-    "currentPrice": 237.32
+    "currentPrice": 253.77
   },
   {
     "exchange": "NYSE",
@@ -16,21 +16,21 @@
     "companyName": "Oracle",
     "numberOfShares": 7500000,
     "exerciseOptionPrice": 51.13,
-    "sharePrice": 237.32,
+    "sharePrice": 250.6,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 237.32
+    "currentPrice": 253.77
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 40516875,
-    "sharePrice": 315.35,
+    "sharePrice": 319.04,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false,
-    "currentPrice": 315.35
+    "currentPrice": 308.27
   }
 ]

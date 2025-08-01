@@ -1,14 +1,13 @@
 {
   "uri": "peter-cancro",
   "name": "Peter Cancro",
-  "birthDate": null,
+  "birthDate": "1957-05-01",
   "family": false,
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
-    "city": "Miami"
+    "city": "Miami",
+    "state": "Florida"
   },
   "industry": [
     "food-beverage"

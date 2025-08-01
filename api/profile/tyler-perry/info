@@ -1,19 +1,13 @@
 {
   "uri": "tyler-perry",
   "name": "Tyler Perry",
-  "birthDate": "1969-09-14",
+  "birthDate": "1969-09-13",
   "family": false,
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Georgia",
     "city": "Atlanta",
-    "zipCode": "30303",
-    "_geo": {
-      "longitude": -84.3883717,
-      "latitude": 33.755711
-    }
+    "state": "Georgia"
   },
   "industry": [
     "media-entertainment"

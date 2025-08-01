@@ -1,0 +1,38 @@
+{
+  "uri": "daniel-nadler",
+  "name": "Daniel Nadler",
+  "birthDate": "1983-06-03",
+  "family": false,
+  "gender": "m",
+  "citizenship": "ca",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Surfside"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "AI software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "In Relationship",
+  "education": [
+    {
+      "school": "Harvard",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "University of Toronto",
+      "degree": "Bachelor of Arts"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
+}

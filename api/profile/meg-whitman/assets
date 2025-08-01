@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "CRWV-US",
+    "companyName": "Coreweave",
+    "numberOfShares": 1280,
+    "sharePrice": 102.89,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "DBX-US",
     "companyName": "Dropbox, Inc.",
     "numberOfShares": 88000,
-    "sharePrice": 28,
+    "sharePrice": 27.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -22,7 +32,7 @@
     "ticker": "EBAY-US",
     "companyName": "eBay",
     "numberOfShares": 12189000,
-    "sharePrice": 76.36,
+    "sharePrice": 77.56,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -32,7 +42,7 @@
     "ticker": "GAP-US",
     "companyName": "Gap Inc.",
     "numberOfShares": 6561,
-    "sharePrice": 22.72,
+    "sharePrice": 19.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -42,7 +52,7 @@
     "ticker": "GM-US",
     "companyName": "General Motors",
     "numberOfShares": 4000,
-    "sharePrice": 52.89,
+    "sharePrice": 52.11,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -53,7 +63,7 @@
     "companyName": "Hewlett Packard Enterprise",
     "numberOfShares": 136000,
     "exerciseOptionPrice": 7.69,
-    "sharePrice": 21.34,
+    "sharePrice": 20.89,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -63,7 +73,7 @@
     "ticker": "HPQ-US",
     "companyName": "HP Inc.",
     "numberOfShares": 457000,
-    "sharePrice": 26,
+    "sharePrice": 25.1,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -73,7 +83,7 @@
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
     "numberOfShares": 11932000,
-    "sharePrice": 76.59,
+    "sharePrice": 69.71,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

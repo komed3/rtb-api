@@ -6,20 +6,15 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
     "city": "Portola Valley",
-    "zipCode": "94028",
-    "_geo": {
-      "longitude": -122.20873,
-      "latitude": 37.379788
-    }
+    "state": "California"
   },
   "industry": [
     "technology"
   ],
   "source": [
-    "Venture capital"
+    "Sun Microsystems",
+    "venture capital"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/66609d7995eeeeab2e41fba9/416x416.jpg?background=000000&cropX1=466&cropX2=1179&cropY1=52&cropY2=765",
   "deceased": false,

@@ -6,20 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
     "city": "Palo Alto",
-    "zipCode": "94301",
-    "_geo": {
-      "longitude": -122.1575745,
-      "latitude": 37.4457966
-    }
+    "state": "California"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
-    "stock trading"
+    "Stock trading app"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/619d8af408ec74e2e3ac5b87/416x416.jpg?background=000000&cropX1=19&cropX2=1675&cropY1=200&cropY2=1855",
   "deceased": false,

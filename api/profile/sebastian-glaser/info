@@ -1,14 +1,13 @@
 {
   "uri": "sebastian-glaser",
   "name": "Sebastian Glaser",
-  "birthDate": null,
+  "birthDate": "1979-01-01",
   "family": false,
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "country": "de",
-    "state": null,
-    "city": "Munich"
+    "city": "Munich",
+    "state": null
   },
   "industry": [
     "technology"

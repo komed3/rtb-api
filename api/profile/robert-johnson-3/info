@@ -1,19 +1,13 @@
 {
   "uri": "robert-johnson-3",
-  "name": "Robert Johnson",
+  "name": "Robert Johnson & family",
   "birthDate": "1947-04-12",
   "family": false,
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
     "city": "Palm Beach",
-    "zipCode": "33480",
-    "_geo": {
-      "longitude": -80.037774,
-      "latitude": 26.71463
-    }
+    "state": "Florida"
   },
   "industry": [
     "sports"

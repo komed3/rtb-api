@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "CRCL-US",
+    "companyName": "Circle",
+    "numberOfShares": 13960000,
+    "sharePrice": 190.5,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
     "numberOfShares": 100000,
-    "sharePrice": 719.01,
+    "sharePrice": 695.21,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

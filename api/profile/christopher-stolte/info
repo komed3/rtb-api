@@ -1,7 +1,7 @@
 {
   "uri": "christopher-stolte",
   "name": "Christopher Stolte",
-  "birthDate": null,
+  "birthDate": "1972-12-06",
   "family": false,
   "gender": "m",
   "citizenship": "us",
@@ -10,7 +10,9 @@
     "state": "Washington",
     "city": "Seattle"
   },
-  "industry": [],
+  "industry": [
+    "technology"
+  ],
   "source": [
     "software"
   ],

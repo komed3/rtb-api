@@ -6,14 +6,8 @@
   "gender": "m",
   "citizenship": "fr",
   "residence": {
-    "country": "us",
-    "state": "New York",
     "city": "New York",
-    "zipCode": "10013",
-    "_geo": {
-      "longitude": -74.00624839999999,
-      "latitude": 40.7176586
-    }
+    "state": "New York"
   },
   "industry": [
     "technology"

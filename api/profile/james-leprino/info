@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Colorado",
-    "city": "Indian Hills",
-    "zipCode": "80454",
-    "_geo": {
-      "longitude": -105.245678,
-      "latitude": 39.620219
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "food-beverage"
@@ -21,9 +16,9 @@
   "source": [
     "Cheese"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "High School",

@@ -1,12 +1,22 @@
 [
   {
     "exchange": "HONG KONG",
+    "ticker": "1828-HK",
+    "companyName": "FWD Group",
+    "numberOfShares": 844566000,
+    "sharePrice": 4.8726735372425125,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8499,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
     "ticker": "6823-HK",
     "companyName": "HKT Trust and HKT Ltd.",
     "numberOfShares": 198168000,
-    "sharePrice": 1.515923566878981,
+    "sharePrice": 1.5872813666416135,
     "currencyCode": "HKD",
-    "exchangeRate": 7.85,
+    "exchangeRate": 7.8499,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "432-HK",
     "companyName": "Pacific Century Premium Developments",
     "numberOfShares": 325361000,
-    "sharePrice": 0.02585987261146497,
+    "sharePrice": 0.02726149377699079,
     "currencyCode": "HKD",
-    "exchangeRate": 7.85,
+    "exchangeRate": 7.8499,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "P15-SG",
     "companyName": "Pacific Century Regional Development",
     "numberOfShares": 2375209000,
-    "sharePrice": 0.33714912968480476,
+    "sharePrice": 0.33240568954854666,
     "currencyCode": "SGD",
-    "exchangeRate": 1.2754,
+    "exchangeRate": 1.2936,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "8-HK",
     "companyName": "PCCW Ltd.",
     "numberOfShares": 710603000,
-    "sharePrice": 0.6929936305732485,
+    "sharePrice": 0.7159326870405993,
     "currencyCode": "HKD",
-    "exchangeRate": 7.85,
+    "exchangeRate": 7.8499,
     "interactive": false
   }
 ]

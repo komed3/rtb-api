@@ -6,20 +6,15 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
     "city": "Beverly Hills",
-    "zipCode": "90210",
-    "_geo": {
-      "longitude": -118.4104684,
-      "latitude": 34.1030032
-    }
+    "state": "California"
   },
   "industry": [
     "diversified"
   ],
   "source": [
-    "Insurance"
+    "Loews",
+    "New York Giants"
   ],
   "deceased": false,
   "children": 5,

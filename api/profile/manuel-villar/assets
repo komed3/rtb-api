@@ -4,9 +4,9 @@
     "ticker": "HOME-PH",
     "companyName": "All Home Corp",
     "numberOfShares": 2540108000,
-    "sharePrice": 0.009601706970128023,
+    "sharePrice": 0.008854166666666666,
     "currencyCode": "PHP",
-    "exchangeRate": 56.24,
+    "exchangeRate": 57.6,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "ALLDY-PH",
     "companyName": "Allday Marts",
     "numberOfShares": 15312286000,
-    "sharePrice": 0.0017780938833570413,
+    "sharePrice": 0.001597222222222222,
     "currencyCode": "PHP",
-    "exchangeRate": 56.24,
-    "interactive": false
-  },
-  {
-    "exchange": "PHILIPPINES",
-    "ticker": "HVN-PH",
-    "companyName": "Golden Bria Holdings",
-    "numberOfShares": 399797000,
-    "sharePrice": 40.82503556187766,
-    "currencyCode": "PHP",
-    "exchangeRate": 56.24,
+    "exchangeRate": 57.6,
     "interactive": false
   },
   {
@@ -34,9 +24,9 @@
     "ticker": "PREIT-PH",
     "companyName": "Premiere Island Power REIT",
     "numberOfShares": 1680429000,
-    "sharePrice": 0.04160739687055476,
+    "sharePrice": 0.04027777777777777,
     "currencyCode": "PHP",
-    "exchangeRate": 56.24,
+    "exchangeRate": 57.6,
     "interactive": false
   },
   {
@@ -44,9 +34,19 @@
     "ticker": "STR-PH",
     "companyName": "Starmalls",
     "numberOfShares": 114880000,
-    "sharePrice": 0.02507112375533428,
+    "sharePrice": 0.026041666666666664,
     "currencyCode": "PHP",
-    "exchangeRate": 56.24,
+    "exchangeRate": 57.6,
+    "interactive": false
+  },
+  {
+    "exchange": "PHILIPPINES",
+    "ticker": "HVN-PH",
+    "companyName": "Villar Land",
+    "numberOfShares": 257012000,
+    "sharePrice": 39.86111111111111,
+    "currencyCode": "PHP",
+    "exchangeRate": 57.6,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "VLL-PH",
     "companyName": "Vista Land & Lifescapes",
     "numberOfShares": 9629813000,
-    "sharePrice": 0.02791607396870555,
+    "sharePrice": 0.025520833333333333,
     "currencyCode": "PHP",
-    "exchangeRate": 56.24,
+    "exchangeRate": 57.6,
     "interactive": false
   },
   {
@@ -64,9 +64,9 @@
     "ticker": "VREIT-PH",
     "companyName": "VistaREIT",
     "numberOfShares": 448700000,
-    "sharePrice": 0.03325035561877667,
+    "sharePrice": 0.03211805555555556,
     "currencyCode": "PHP",
-    "exchangeRate": 56.24,
+    "exchangeRate": 57.6,
     "interactive": false
   }
 ]

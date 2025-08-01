@@ -6,21 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
     "city": "Fisher Island",
-    "zipCode": "33109",
-    "_geo": {
-      "longitude": -80.14004589999999,
-      "latitude": 25.7609329
-    }
+    "state": "Florida"
   },
   "industry": [
     "technology"
   ],
   "source": [
-    "IT consulting",
-    "outsourcing"
+    "IT consulting"
   ],
   "deceased": false,
   "children": 2,

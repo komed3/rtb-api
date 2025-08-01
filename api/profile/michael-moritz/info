@@ -6,17 +6,11 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
     "city": "San Francisco",
-    "zipCode": "94123",
-    "_geo": {
-      "longitude": -122.43582,
-      "latitude": 37.802733
-    }
+    "state": "California"
   },
   "industry": [
-    "technology"
+    "finance-investments"
   ],
   "source": [
     "Venture capital"

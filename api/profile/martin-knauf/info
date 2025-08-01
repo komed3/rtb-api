@@ -1,14 +1,13 @@
 {
   "uri": "martin-knauf",
   "name": "Martin Knauf",
-  "birthDate": null,
+  "birthDate": "1980-10-25",
   "family": false,
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "country": "de",
-    "state": null,
-    "city": "Berlin"
+    "city": "Berlin",
+    "state": null
   },
   "industry": [
     "manufacturing"
