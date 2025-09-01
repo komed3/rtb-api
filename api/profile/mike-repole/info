@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Windermere",
-    "state": "Florida"
+    "zipCode": "34786",
+    "_geo": {
+      "longitude": -81.55754309999999,
+      "latitude": 28.4692332
+    }
   },
   "industry": [
     "food-beverage"

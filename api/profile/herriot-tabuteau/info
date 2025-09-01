@@ -1,0 +1,38 @@
+{
+  "uri": "herriot-tabuteau",
+  "name": "Herriot Tabuteau",
+  "birthDate": "1968-07-23",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Healthcare"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Wesleyan",
+      "degree": "Bachelor of Arts"
+    },
+    {
+      "school": "Yale School of Medicine",
+      "degree": "Medical Doctor"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

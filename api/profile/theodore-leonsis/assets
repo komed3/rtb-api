@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "AXP-US",
     "companyName": "American Express Co.",
-    "numberOfShares": 40000,
-    "sharePrice": 303.41,
+    "numberOfShares": 41000,
+    "sharePrice": 331.28,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,18 @@
     "exchange": "NASDAQ",
     "ticker": "GRPN-US",
     "companyName": "Groupon",
-    "numberOfShares": 220000,
-    "sharePrice": 31.72,
+    "numberOfShares": 224000,
+    "sharePrice": 26.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TEM-US",
+    "companyName": "Tempus AI",
+    "numberOfShares": 2027.0000000000002,
+    "sharePrice": 75.86,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

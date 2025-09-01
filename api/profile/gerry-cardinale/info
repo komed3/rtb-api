@@ -1,0 +1,38 @@
+{
+  "uri": "gerry-cardinale",
+  "name": "Gerry Cardinale",
+  "birthDate": "1967-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Palm Beach"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Private equity"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Harvard",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "Oxford Univeristy",
+      "degree": "Master of Philosophy"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

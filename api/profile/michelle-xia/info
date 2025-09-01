@@ -6,13 +6,33 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Zhongshan",
-    "state": null
+    "country": "cn",
+    "state": null,
+    "city": "Zhongshan"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Biotech"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Newcastle University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Sun Yat-sen University",
+      "degree": "Bachelor of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

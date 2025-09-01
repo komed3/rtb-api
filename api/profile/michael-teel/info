@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Sacramento",
-    "state": "California"
+    "zipCode": "94203",
+    "_geo": {
+      "longitude": -121.49,
+      "latitude": 38.58
+    }
   },
   "industry": [
     "fashion-retail"

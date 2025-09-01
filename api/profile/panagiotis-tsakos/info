@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "gr",
   "residence": {
-    "city": "Athens",
-    "state": null
+    "country": "gr",
+    "state": null,
+    "city": "Athens"
   },
   "industry": [
     "logistics"
   ],
   "source": [
     "Shipping"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

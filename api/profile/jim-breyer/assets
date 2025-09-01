@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NYSE",
+    "ticker": "BX-US",
+    "companyName": "Blackstone Group",
+    "numberOfShares": 40000,
+    "sharePrice": 171.4,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
     "ticker": "CRCL-US",
     "companyName": "Circle",
-    "numberOfShares": 13960000,
-    "sharePrice": 190.5,
+    "numberOfShares": 13216000,
+    "sharePrice": 131.98,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "META-US",
     "companyName": "Meta Platforms",
     "numberOfShares": 100000,
-    "sharePrice": 695.21,
+    "sharePrice": 738.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

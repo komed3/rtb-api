@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "California",
     "city": "Portola Valley",
-    "state": "California"
+    "zipCode": "94028",
+    "_geo": {
+      "longitude": -122.20873,
+      "latitude": 37.379788
+    }
   },
   "industry": [
     "technology"

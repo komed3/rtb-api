@@ -1,0 +1,39 @@
+{
+  "uri": "filippo-ghirelli",
+  "name": "Filippo Ghirelli",
+  "birthDate": "1980-01-23",
+  "family": false,
+  "gender": "m",
+  "citizenship": "it",
+  "residence": {
+    "country": "mc",
+    "state": null,
+    "city": "Monaco"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Infrastructure",
+    "energy"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "LUISS Business School",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "University of Rome, La Sapienza",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

@@ -4,7 +4,7 @@
     "ticker": "ABBV-US",
     "companyName": "AbbVie Inc.",
     "numberOfShares": 3795100,
-    "sharePrice": 189.31,
+    "sharePrice": 210.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,9 +14,9 @@
     "ticker": "9926-HK",
     "companyName": "Akeso Inc",
     "numberOfShares": 8343000,
-    "sharePrice": 19.465216117402772,
+    "sharePrice": 19.972292773031633,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8499,
+    "exchangeRate": 7.7958,
     "interactive": false
   },
   {
@@ -24,7 +24,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 100,
-    "sharePrice": 196.53,
+    "sharePrice": 212.91,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "BMEA-US",
     "companyName": "Biomea Fusion",
     "numberOfShares": 0,
-    "sharePrice": 1.66,
+    "sharePrice": 1.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "C-US",
     "companyName": "Citigroup",
     "numberOfShares": 50000,
-    "sharePrice": 95.81,
+    "sharePrice": 96.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 0,
-    "sharePrice": 197.44,
+    "sharePrice": 213.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "ISRG-US",
     "companyName": "Intuitive Surgical",
     "numberOfShares": 100,
-    "sharePrice": 500.51,
+    "sharePrice": 473.295,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,17 +84,7 @@
     "ticker": "IOVA-US",
     "companyName": "Iovance Biother",
     "numberOfShares": 100,
-    "sharePrice": 2.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "JPM-US",
-    "companyName": "JPMorgan Chase & Co.",
-    "numberOfShares": 346000,
-    "sharePrice": 299.63,
+    "sharePrice": 2.23,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -104,7 +94,7 @@
     "ticker": "MREO-US",
     "companyName": "Mereo Biopharma",
     "numberOfShares": 0,
-    "sharePrice": 1.74,
+    "sharePrice": 1.71,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -114,7 +104,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 1500,
-    "sharePrice": 513.24,
+    "sharePrice": 506.69,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -124,7 +114,7 @@
     "ticker": "NEM-US",
     "companyName": "Newmont Mining",
     "numberOfShares": 200000,
-    "sharePrice": 62.31,
+    "sharePrice": 74.4,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -134,7 +124,7 @@
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
     "numberOfShares": 230,
-    "sharePrice": 179.27,
+    "sharePrice": 174.18,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -154,28 +144,7 @@
     "ticker": "PTGX-US",
     "companyName": "Protagonist Therapeutics",
     "numberOfShares": 89000,
-    "sharePrice": 54.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "PLSE-US",
-    "companyName": "Pulse BioSciences",
-    "numberOfShares": 43133000,
-    "sharePrice": 14.73,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "PLSE-US",
-    "companyName": "Pulse BioSciences",
-    "numberOfShares": 5764000,
-    "exerciseOptionPrice": 2.05,
-    "sharePrice": 14.73,
+    "sharePrice": 59.05,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -186,7 +155,28 @@
     "companyName": "Pulse BioSciences",
     "numberOfShares": 5306000,
     "exerciseOptionPrice": 2.05,
-    "sharePrice": 14.73,
+    "sharePrice": 15.54,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PLSE-US",
+    "companyName": "Pulse BioSciences",
+    "numberOfShares": 43133000,
+    "sharePrice": 15.54,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PLSE-US",
+    "companyName": "Pulse BioSciences",
+    "numberOfShares": 5764000,
+    "exerciseOptionPrice": 2.05,
+    "sharePrice": 15.54,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -206,7 +196,7 @@
     "ticker": "RIVN-US",
     "companyName": "Rivian",
     "numberOfShares": 245000,
-    "sharePrice": 13.03,
+    "sharePrice": 13.57,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -215,8 +205,8 @@
     "exchange": "NASDAQ",
     "ticker": "SMMT-US",
     "companyName": "Summit Therapeutics",
-    "numberOfShares": 551694000,
-    "sharePrice": 26.66,
+    "numberOfShares": 555755000,
+    "sharePrice": 23.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -227,7 +217,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 3985000,
     "exerciseOptionPrice": 1.58,
-    "sharePrice": 26.66,
+    "sharePrice": 23.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -237,7 +227,7 @@
     "ticker": "VYGR-US",
     "companyName": "Voyager Therapeutics",
     "numberOfShares": 820000,
-    "sharePrice": 3.46,
+    "sharePrice": 3.36,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

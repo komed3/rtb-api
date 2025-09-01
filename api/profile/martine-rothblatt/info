@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Florida",
     "city": "Satellite Beach",
-    "state": "Florida"
+    "zipCode": "32937",
+    "_geo": {
+      "longitude": -80.6137122,
+      "latitude": 28.2025042
+    }
   },
   "industry": [
     "healthcare"

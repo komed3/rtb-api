@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Utah",
     "city": "Park City",
-    "state": "Utah"
+    "zipCode": "84068",
+    "_geo": {
+      "longitude": -111.5021653,
+      "latitude": 40.6509443
+    }
   },
   "industry": [
     "technology"

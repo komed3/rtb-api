@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Winnetka",
-    "state": "Illinois"
+    "zipCode": "60093",
+    "_geo": {
+      "longitude": -87.753639,
+      "latitude": 42.105203
+    }
   },
   "industry": [
     "finance-investments"
@@ -25,10 +31,7 @@
       "degree": "Bachelor of Arts/Science"
     }
   ],
-  "organization": {
-    "name": "Ryan Specialty Group",
-    "title": "Chairman and CEO"
-  },
+  "organization": null,
   "selfMade": {
     "_is": true,
     "type": "self-made",

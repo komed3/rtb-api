@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New York",
     "city": "Bedford",
-    "state": "New York"
+    "zipCode": "10549",
+    "_geo": {
+      "longitude": -73.730019,
+      "latitude": 41.20455
+    }
   },
   "industry": [
     "finance-investments"

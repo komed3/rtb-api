@@ -6,8 +6,10 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Virginia",
     "city": "Alexandria",
-    "state": "Virginia"
+    "zipCode": "22302"
   },
   "industry": [
     "food-beverage"

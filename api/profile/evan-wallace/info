@@ -1,0 +1,37 @@
+{
+  "uri": "evan-wallace",
+  "name": "Evan Wallace",
+  "birthDate": "1989-10-26",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Brown University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Figma",
+    "title": "Cofounder"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
+}

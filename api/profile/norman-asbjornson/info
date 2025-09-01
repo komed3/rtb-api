@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Oklahoma",
     "city": "Tulsa",
-    "state": "Oklahoma"
+    "zipCode": "74114",
+    "_geo": {
+      "longitude": -95.9488975,
+      "latitude": 36.1237711
+    }
   },
   "industry": [
     "manufacturing"

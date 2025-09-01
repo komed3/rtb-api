@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
+    "country": "se",
+    "state": null,
     "city": "Bjärred",
-    "state": null
+    "zipCode": "23734"
   },
   "industry": [
     "healthcare"

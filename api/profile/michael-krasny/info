@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Illinois",
     "city": "Highland Park",
-    "state": "Illinois"
+    "zipCode": "60035",
+    "_geo": {
+      "longitude": -87.807249,
+      "latitude": 42.18154
+    }
   },
   "industry": [
     "technology"

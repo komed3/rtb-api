@@ -6,8 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Georgia",
     "city": "Atlanta",
-    "state": "Georgia"
+    "zipCode": "30305",
+    "_geo": {
+      "longitude": -84.38588,
+      "latitude": 33.834399
+    }
   },
   "industry": [
     "finance-investments"

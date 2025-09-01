@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "ANET-US",
     "companyName": "Arista Networks",
-    "numberOfShares": 37433000,
-    "sharePrice": 122.09,
+    "numberOfShares": 31817000,
+    "sharePrice": 136.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -15,7 +15,7 @@
     "companyName": "Arista Networks",
     "numberOfShares": 7600,
     "exerciseOptionPrice": 15.2625,
-    "sharePrice": 122.09,
+    "sharePrice": 136.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -26,7 +26,7 @@
     "companyName": "Arista Networks",
     "numberOfShares": 8000,
     "exerciseOptionPrice": 14.145,
-    "sharePrice": 122.09,
+    "sharePrice": 136.55,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -37,7 +37,17 @@
     "companyName": "Snowflake",
     "numberOfShares": 50000,
     "exerciseOptionPrice": 33.83,
-    "sharePrice": 220.28,
+    "sharePrice": 238.66,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SNOW-US",
+    "companyName": "Snowflake",
+    "numberOfShares": 8800,
+    "sharePrice": 238.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

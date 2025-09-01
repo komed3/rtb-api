@@ -3,8 +3,16 @@
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
-    "numberOfShares": 222818000,
-    "sharePrice": 513.24,
+    "numberOfShares": 252818000,
+    "sharePrice": 506.69,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "Stagwell",
+    "numberOfShares": 7140000,
+    "sharePrice": 5.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

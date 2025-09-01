@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Missouri",
     "city": "St. Louis",
-    "state": "Missouri"
+    "zipCode": "63131",
+    "_geo": {
+      "longitude": -90.439112,
+      "latitude": 38.617561
+    }
   },
   "industry": [
     "food-beverage"

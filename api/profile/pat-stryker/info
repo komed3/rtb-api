@@ -6,8 +6,14 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "Colorado",
     "city": "Fort Collins",
-    "state": "Colorado"
+    "zipCode": "80525",
+    "_geo": {
+      "longitude": -105.05461,
+      "latitude": 40.528992
+    }
   },
   "industry": [
     "healthcare"

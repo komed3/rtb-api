@@ -6,8 +6,10 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
+    "country": "de",
+    "state": null,
     "city": "Neustadt an der Waldnaab",
-    "state": null
+    "zipCode": "92660"
   },
   "industry": [
     "automotive"

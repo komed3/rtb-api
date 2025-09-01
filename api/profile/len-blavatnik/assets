@@ -3,8 +3,18 @@
     "exchange": "NYSE",
     "ticker": "XYZ-US",
     "companyName": "Block Inc Class A",
-    "numberOfShares": 3990000,
-    "sharePrice": 77.59,
+    "numberOfShares": 0,
+    "sharePrice": 79.64,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CHYM-US",
+    "companyName": "Chime",
+    "numberOfShares": 19990000,
+    "sharePrice": 26.41,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +24,7 @@
     "ticker": "CLYM-US",
     "companyName": "Climb Bio",
     "numberOfShares": 5001000,
-    "sharePrice": 1.52,
+    "sharePrice": 2.23,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +34,7 @@
     "ticker": "DAWN-US",
     "companyName": "Day One Biopharmaceuticals",
     "numberOfShares": 13756000,
-    "sharePrice": 6.87,
+    "sharePrice": 7.51,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,9 +44,9 @@
     "ticker": "DEEZR-FR",
     "companyName": "Deezer",
     "numberOfShares": 44753000,
-    "sharePrice": 1.4234875444839858,
+    "sharePrice": 1.3812478052206485,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8711,
+    "exchangeRate": 0.8543,
     "interactive": false
   },
   {
@@ -44,7 +54,17 @@
     "ticker": "DOCN-US",
     "companyName": "DigitalOcean",
     "numberOfShares": 22368000,
-    "sharePrice": 27.8,
+    "sharePrice": 32.62,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IRON-US",
+    "companyName": "Disc Medicine",
+    "numberOfShares": 3762000,
+    "sharePrice": 59.645,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -63,8 +83,19 @@
     "exchange": "NYSE",
     "ticker": "LYB-US",
     "companyName": "LyondellBasell",
+    "numberOfShares": 8122000,
+    "exerciseOptionPrice": 79.9887,
+    "sharePrice": 56.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LYB-US",
+    "companyName": "LyondellBasell",
     "numberOfShares": 65285000,
-    "sharePrice": 58.85,
+    "sharePrice": 56.35,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +105,37 @@
     "ticker": "OPEN-US",
     "companyName": "Opendoor Technologies",
     "numberOfShares": 53598914,
-    "sharePrice": 2.07,
+    "sharePrice": 4.45,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SRZN-US",
+    "companyName": "Surrozen",
+    "numberOfShares": 654000,
+    "sharePrice": 12.185,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UPB-US",
+    "companyName": "Upstream Bio",
+    "numberOfShares": 5494000,
+    "sharePrice": 17.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VYNE-US",
+    "companyName": "Vyne Therapeutics",
+    "numberOfShares": 1408400,
+    "sharePrice": 0.321,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +145,27 @@
     "ticker": "WMG-US",
     "companyName": "Warner Music Group",
     "numberOfShares": 374517000,
-    "sharePrice": 29.68,
+    "sharePrice": 33.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "2390-HK",
+    "companyName": "Zhihu",
+    "numberOfShares": 5750000,
+    "sharePrice": 1.634213294337977,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.7958,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZURA-US",
+    "companyName": "Zura Bio",
+    "numberOfShares": 7139000,
+    "sharePrice": 2.04,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
