@@ -1,0 +1,34 @@
+{
+  "uri": "jennifer-gilbert",
+  "name": "Jennifer Gilbert",
+  "birthDate": "1968-06-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Michigan",
+    "city": "Franklin"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Rocket Mortgage"
+  ],
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Divorced",
+  "education": [
+    {
+      "school": "Michigan State University",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

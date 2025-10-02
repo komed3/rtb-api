@@ -1,0 +1,29 @@
+{
+  "uri": "andrea-camerana",
+  "name": "Andrea Camerana",
+  "birthDate": "1970-01-07",
+  "family": false,
+  "gender": "m",
+  "citizenship": "it",
+  "residence": {
+    "country": "it",
+    "state": null,
+    "city": "Milan"
+  },
+  "industry": [
+    "fashion-retail"
+  ],
+  "source": [
+    "Luxury goods"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

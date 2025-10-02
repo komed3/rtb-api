@@ -1,0 +1,29 @@
+{
+  "uri": "jeffrey-henley",
+  "name": "Jeffrey Henley",
+  "birthDate": "1944-11-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Naples"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Oracle"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

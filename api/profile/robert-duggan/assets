@@ -3,8 +3,8 @@
     "exchange": "NYSE",
     "ticker": "ABBV-US",
     "companyName": "AbbVie Inc.",
-    "numberOfShares": 3795100,
-    "sharePrice": 210.4,
+    "numberOfShares": 3795000,
+    "sharePrice": 231.54,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,9 +14,9 @@
     "ticker": "9926-HK",
     "companyName": "Akeso Inc",
     "numberOfShares": 8343000,
-    "sharePrice": 19.972292773031633,
+    "sharePrice": 18.14816718934759,
     "currencyCode": "HKD",
-    "exchangeRate": 7.7958,
+    "exchangeRate": 7.7804,
     "interactive": false
   },
   {
@@ -24,17 +24,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 100,
-    "sharePrice": 212.91,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "BMEA-US",
-    "companyName": "Biomea Fusion",
-    "numberOfShares": 0,
-    "sharePrice": 1.95,
+    "sharePrice": 243.1,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,27 +34,7 @@
     "ticker": "C-US",
     "companyName": "Citigroup",
     "numberOfShares": 50000,
-    "sharePrice": 96.57,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "DCPH-US",
-    "companyName": "Deciphera Pharmaceuticals",
-    "numberOfShares": 0,
-    "sharePrice": 25.59,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "GOOG-US",
-    "companyName": "Google Inc. (Cl C)",
-    "numberOfShares": 0,
-    "sharePrice": 213.53,
+    "sharePrice": 101.5,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +44,7 @@
     "ticker": "ISRG-US",
     "companyName": "Intuitive Surgical",
     "numberOfShares": 100,
-    "sharePrice": 473.295,
+    "sharePrice": 447.23,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,17 +54,17 @@
     "ticker": "IOVA-US",
     "companyName": "Iovance Biother",
     "numberOfShares": 100,
-    "sharePrice": 2.23,
+    "sharePrice": 2.17,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
-    "ticker": "MREO-US",
-    "companyName": "Mereo Biopharma",
-    "numberOfShares": 0,
-    "sharePrice": 1.71,
+    "exchange": "NYSE",
+    "ticker": "JPM-US",
+    "companyName": "JPMorgan Chase & Co.",
+    "numberOfShares": 346000,
+    "sharePrice": 315.43,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -103,8 +73,8 @@
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
-    "numberOfShares": 1500,
-    "sharePrice": 506.69,
+    "numberOfShares": 2000,
+    "sharePrice": 517.95,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -114,7 +84,7 @@
     "ticker": "NEM-US",
     "companyName": "Newmont Mining",
     "numberOfShares": 200000,
-    "sharePrice": 74.4,
+    "sharePrice": 84.31,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -124,17 +94,7 @@
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
     "numberOfShares": 230,
-    "sharePrice": 174.18,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ONCT-US",
-    "companyName": "Oncternal Therapeutics",
-    "numberOfShares": 100,
-    "sharePrice": 0.527,
+    "sharePrice": 186.58,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -144,7 +104,7 @@
     "ticker": "PTGX-US",
     "companyName": "Protagonist Therapeutics",
     "numberOfShares": 89000,
-    "sharePrice": 59.05,
+    "sharePrice": 66.43,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -153,40 +113,8 @@
     "exchange": "NASDAQ",
     "ticker": "PLSE-US",
     "companyName": "Pulse BioSciences",
-    "numberOfShares": 5306000,
-    "exerciseOptionPrice": 2.05,
-    "sharePrice": 15.54,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "PLSE-US",
-    "companyName": "Pulse BioSciences",
-    "numberOfShares": 43133000,
-    "sharePrice": 15.54,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "PLSE-US",
-    "companyName": "Pulse BioSciences",
-    "numberOfShares": 5764000,
-    "exerciseOptionPrice": 2.05,
-    "sharePrice": 15.54,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "RETA-US",
-    "companyName": "Reata Pharmaceuticals",
-    "numberOfShares": 0,
-    "sharePrice": 172.36,
+    "numberOfShares": 48597000,
+    "sharePrice": 17.7,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -196,7 +124,7 @@
     "ticker": "RIVN-US",
     "companyName": "Rivian",
     "numberOfShares": 245000,
-    "sharePrice": 13.57,
+    "sharePrice": 14.68,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -206,7 +134,7 @@
     "ticker": "SMMT-US",
     "companyName": "Summit Therapeutics",
     "numberOfShares": 555755000,
-    "sharePrice": 23.7,
+    "sharePrice": 20.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -215,9 +143,31 @@
     "exchange": "NASDAQ",
     "ticker": "SMMT-US",
     "companyName": "Summit Therapeutics",
-    "numberOfShares": 3985000,
-    "exerciseOptionPrice": 1.58,
-    "sharePrice": 23.7,
+    "numberOfShares": 4795000,
+    "exerciseOptionPrice": 1.68,
+    "sharePrice": 20.66,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 520000,
+    "exerciseOptionPrice": 1.06,
+    "sharePrice": 20.66,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 200000,
+    "exerciseOptionPrice": 1.29,
+    "sharePrice": 20.66,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -227,7 +177,7 @@
     "ticker": "VYGR-US",
     "companyName": "Voyager Therapeutics",
     "numberOfShares": 820000,
-    "sharePrice": 3.36,
+    "sharePrice": 4.67,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

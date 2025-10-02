@@ -1,0 +1,43 @@
+{
+  "uri": "jared-kushner",
+  "name": "Jared Kushner",
+  "birthDate": "1981-01-10",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Miami"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Real estate",
+    "private equity"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Harvard University",
+      "degree": "Bachelor of Arts"
+    },
+    {
+      "school": "New York University",
+      "degree": "JD"
+    },
+    {
+      "school": "New York University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uri": "dick-portillo",
+  "name": "Dick Portillo",
+  "birthDate": "1939-10-28",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Naples"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Real estate",
+    "restaurants"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
+}

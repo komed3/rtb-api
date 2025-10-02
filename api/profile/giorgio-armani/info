@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "it",
   "residence": {
-    "country": "it",
+    "country": null,
     "state": null,
-    "city": "Milan"
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -17,9 +17,9 @@
     "Luxury goods"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5c783a1ca7ea43100043f081/416x416.jpg?background=000000&cropX1=845&cropX2=1830&cropY1=1429&cropY2=2414",
-  "deceased": false,
+  "deceased": true,
   "children": 0,
-  "maritalStatus": "Single",
+  "maritalStatus": null,
   "education": [
     {
       "school": "University of Piacenza",

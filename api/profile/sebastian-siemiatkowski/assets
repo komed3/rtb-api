@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "FLAT.B-SE",
+    "companyName": "Flat Capital AB",
+    "numberOfShares": 17109439,
+    "sharePrice": 2.0474103458204036,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.3777,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "KLAR-US",
+    "companyName": "Klarna Group Plc",
+    "numberOfShares": 24564396,
+    "sharePrice": 43.83,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "KLAR-US",
+    "companyName": "Klarna Group Plc",
+    "numberOfShares": 2941236,
+    "exerciseOptionPrice": 39.13,
+    "sharePrice": 43.83,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  }
+]

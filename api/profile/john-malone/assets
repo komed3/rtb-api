@@ -4,7 +4,7 @@
     "ticker": "BATRA-US",
     "companyName": "Liberty Braves Group (Series A)",
     "numberOfShares": 221000,
-    "sharePrice": 47.505,
+    "sharePrice": 45.47,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "BATRB-US",
     "companyName": "Liberty Braves Group (Series B)",
     "numberOfShares": 946000,
-    "sharePrice": 51.75,
+    "sharePrice": 53.155,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "BATRK-US",
     "companyName": "Liberty Braves Group (Series C)",
     "numberOfShares": 2798000,
-    "sharePrice": 44.98,
+    "sharePrice": 41.59,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "LBRDA-US",
     "companyName": "Liberty Broadband A shares",
     "numberOfShares": 1179000,
-    "sharePrice": 60.67,
+    "sharePrice": 63.33,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "LBRDB-US",
     "companyName": "Liberty Broadband B",
     "numberOfShares": 1760000,
-    "sharePrice": 63,
+    "sharePrice": 69.62,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -54,7 +54,7 @@
     "ticker": "LBRDK-US",
     "companyName": "Liberty Broadband C shares",
     "numberOfShares": 4125000,
-    "sharePrice": 60.86,
+    "sharePrice": 63.54,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "LBTYK-US",
     "companyName": "Liberty Global Inc C",
     "numberOfShares": 9866000,
-    "sharePrice": 11.95,
+    "sharePrice": 11.75,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "LBTYA-US",
     "companyName": "Liberty Global Inc.  (Cl A)",
     "numberOfShares": 4423000,
-    "sharePrice": 11.74,
+    "sharePrice": 11.46,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "LBTYB-US",
     "companyName": "Liberty Global Inc.  (Cl B)",
     "numberOfShares": 110000,
-    "sharePrice": 11.47,
+    "sharePrice": 12.88,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -93,8 +93,8 @@
     "exchange": "NASDAQ",
     "ticker": "FWONA-US",
     "companyName": "Liberty Media Corp.",
-    "numberOfShares": 179000,
-    "sharePrice": 90.12,
+    "numberOfShares": 178000,
+    "sharePrice": 95.22,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -104,7 +104,7 @@
     "ticker": "FWONB-US",
     "companyName": "Liberty Media Corp. Shs -B-",
     "numberOfShares": 2334000,
-    "sharePrice": 91.48,
+    "sharePrice": 94,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -114,7 +114,37 @@
     "ticker": "FWONK-US",
     "companyName": "Liberty Media Corp. Shs -C-",
     "numberOfShares": 2446000,
-    "sharePrice": 99.9,
+    "sharePrice": 104.45,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LLYVA-US",
+    "companyName": "Liberty Media--Liberty Live Group Class A",
+    "numberOfShares": 109000,
+    "sharePrice": 94.3,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "LLYVB-US",
+    "companyName": "Liberty Media--Liberty Live Group Class B",
+    "numberOfShares": 2364000,
+    "sharePrice": 103,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "LLYVK-US",
+    "companyName": "Liberty Media--Liberty Live Group Class C",
+    "numberOfShares": 4033000.0000000005,
+    "sharePrice": 96.97,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -124,7 +154,7 @@
     "ticker": "LILA-US",
     "companyName": "LiLAC Group (Class A)",
     "numberOfShares": 1865000,
-    "sharePrice": 8.06,
+    "sharePrice": 8.29,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -144,7 +174,7 @@
     "ticker": "LILAK-US",
     "companyName": "LiLAC Group (Class C)",
     "numberOfShares": 9099000,
-    "sharePrice": 8.24,
+    "sharePrice": 8.44,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -154,7 +184,15 @@
     "ticker": "QVCGA-US",
     "companyName": "QVC Group Class A",
     "numberOfShares": 608440,
-    "sharePrice": 8.58,
+    "sharePrice": 13.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "companyName": "QVC Group Class C",
+    "numberOfShares": 865000,
+    "sharePrice": 0,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -164,7 +202,7 @@
     "ticker": "SIRI-US",
     "companyName": "Sirius XM Radio",
     "numberOfShares": 20125000,
-    "sharePrice": 23.64,
+    "sharePrice": 23.275,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -174,7 +212,7 @@
     "ticker": "WBD-US",
     "companyName": "Warner Bros. Discovery Series A",
     "numberOfShares": 8023999.999999999,
-    "sharePrice": 11.64,
+    "sharePrice": 19.53,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
