@@ -6,9 +6,9 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "country": "ch",
+    "country": null,
     "state": null,
-    "city": "Basel"
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -16,9 +16,9 @@
   "source": [
     "Art collection"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

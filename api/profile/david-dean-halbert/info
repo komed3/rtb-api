@@ -1,0 +1,34 @@
+{
+  "uri": "david-dean-halbert",
+  "name": "David Dean Halbert",
+  "birthDate": "1955-12-19",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Colleyville"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Biotech"
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Abilene Christian University",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 7
+  }
+}

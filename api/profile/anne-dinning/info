@@ -1,0 +1,43 @@
+{
+  "uri": "anne-dinning",
+  "name": "Anne Dinning",
+  "birthDate": "1963-01-02",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York",
+    "zipCode": "10013",
+    "_geo": {
+      "longitude": -74.0094471,
+      "latitude": 40.7217861
+    }
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Hedge funds"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "New York University",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "University of Washington",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
+}

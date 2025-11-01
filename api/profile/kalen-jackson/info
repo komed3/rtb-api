@@ -1,0 +1,29 @@
+{
+  "uri": "kalen-jackson",
+  "name": "Kalen Jackson",
+  "birthDate": "1987-07-06",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Indiana",
+    "city": "Indianapolis"
+  },
+  "industry": [
+    "sports"
+  ],
+  "source": [
+    "Indianapolis Colts"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "uri": "jacob-dewitte",
+  "name": "Jacob DeWitte",
+  "birthDate": "1985-10-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Mountain View"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Nuclear power"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

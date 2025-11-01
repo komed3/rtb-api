@@ -1,0 +1,29 @@
+{
+  "uri": "alex-bouaziz",
+  "name": "Alex Bouaziz",
+  "birthDate": "1993-04-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "fr",
+  "residence": {
+    "country": "il",
+    "state": null,
+    "city": "Tel Aviv"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "HR Software"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

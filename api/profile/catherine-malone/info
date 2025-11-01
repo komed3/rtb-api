@@ -1,0 +1,29 @@
+{
+  "uri": "catherine-malone",
+  "name": "Catherine Malone",
+  "birthDate": "1984-12-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Florida",
+    "city": "Wellington"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Campbell's Soup"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}

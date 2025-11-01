@@ -1,0 +1,29 @@
+{
+  "uri": "edwin-chen",
+  "name": "Edwin Chen",
+  "birthDate": "1987-12-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "New York",
+    "city": "New York"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Artificial intelligence"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 9
+  }
+}

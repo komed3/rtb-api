@@ -1,0 +1,29 @@
+{
+  "uri": "caroline-cochran",
+  "name": "Caroline Cochran",
+  "birthDate": "1982-12-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Mountain View"
+  },
+  "industry": [
+    "energy"
+  ],
+  "source": [
+    "Nuclear power"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

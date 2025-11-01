@@ -1,0 +1,29 @@
+{
+  "uri": "john-colgrove",
+  "name": "John Colgrove",
+  "birthDate": "1962-10-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Altos"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Data management and storage"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

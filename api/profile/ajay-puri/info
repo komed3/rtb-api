@@ -1,0 +1,29 @@
+{
+  "uri": "ajay-puri",
+  "name": "Ajay Puri",
+  "birthDate": "1954-08-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Los Altos"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Nvidia"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

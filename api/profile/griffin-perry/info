@@ -1,0 +1,35 @@
+{
+  "uri": "griffin-perry",
+  "name": "Griffin Perry",
+  "birthDate": "1983-09-14",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Dallas"
+  },
+  "industry": [
+    "real-estate"
+  ],
+  "source": [
+    "Energy",
+    "data centers"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Vanderbilt University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

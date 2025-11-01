@@ -6,12 +6,14 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "city": "Elverson",
+    "state": "Pennsylvania"
   },
-  "industry": [],
+  "industry": [
+    "technology"
+  ],
   "source": [
-    ""
+    "Software"
   ],
   "deceased": false,
   "children": 0,

@@ -8,7 +8,7 @@
   "residence": {
     "country": "cn",
     "state": null,
-    "city": "Xian"
+    "city": "Xi'an"
   },
   "industry": [
     "energy"
@@ -20,7 +20,10 @@
   "children": 0,
   "maritalStatus": null,
   "education": [],
-  "organization": null,
+  "organization": {
+    "name": "Longi Green Energy Technology",
+    "title": "Chairman"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

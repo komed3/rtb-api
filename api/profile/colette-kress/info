@@ -1,0 +1,32 @@
+{
+  "uri": "colette-kress",
+  "name": "Colette Kress",
+  "birthDate": "1967-08-01",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Saratoga"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Nvidia"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "NVIDIA",
+    "title": "CFO"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 6
+  }
+}

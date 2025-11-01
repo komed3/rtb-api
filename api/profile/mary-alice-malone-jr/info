@@ -1,0 +1,29 @@
+{
+  "uri": "mary-alice-malone-jr",
+  "name": "Mary Alice Malone Jr",
+  "birthDate": "1983-02-23",
+  "family": false,
+  "gender": "f",
+  "citizenship": "us",
+  "residence": {
+    "country": "gb",
+    "state": null,
+    "city": "London"
+  },
+  "industry": [
+    "food-beverage"
+  ],
+  "source": [
+    "Campbell's Soup"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
+}
