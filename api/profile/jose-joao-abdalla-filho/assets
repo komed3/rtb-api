@@ -1,12 +1,22 @@
 [
   {
     "exchange": "SAO PAULO",
+    "ticker": "AXIA3-BR",
+    "companyName": "AXIA Energia",
+    "numberOfShares": 65537000.00000001,
+    "sharePrice": 11.697110345860159,
+    "currencyCode": "BRL",
+    "exchangeRate": 5.3432,
+    "interactive": false
+  },
+  {
+    "exchange": "SAO PAULO",
     "ticker": "CMIG3-BR",
     "companyName": "Cemig",
     "numberOfShares": 457947100,
-    "sharePrice": 2.6465344328058835,
+    "sharePrice": 2.661326545890103,
     "currencyCode": "BRL",
-    "exchangeRate": 5.3844,
+    "exchangeRate": 5.3432,
     "interactive": false
   },
   {
@@ -14,29 +24,19 @@
     "ticker": "CEGR3-BR",
     "companyName": "Companhia Distribuidora Gas Rio Janeiro",
     "numberOfShares": 22991000,
-    "sharePrice": 17.92028824010103,
+    "sharePrice": 14.448270699206468,
     "currencyCode": "BRL",
-    "exchangeRate": 5.3844,
-    "interactive": false
-  },
-  {
-    "exchange": "SAO PAULO",
-    "ticker": "ELET3-BR",
-    "companyName": "EletrobrÃ¡s",
-    "numberOfShares": 65537000.00000001,
-    "sharePrice": 10.316841245078374,
-    "currencyCode": "BRL",
-    "exchangeRate": 5.3844,
+    "exchangeRate": 5.3432,
     "interactive": false
   },
   {
     "exchange": "SAO PAULO",
     "ticker": "EGIE3-BR",
     "companyName": "ENGIE Brazil Energia",
-    "numberOfShares": 80464000,
-    "sharePrice": 7.395438674689844,
+    "numberOfShares": 112649600,
+    "sharePrice": 5.734391375954484,
     "currencyCode": "BRL",
-    "exchangeRate": 5.3844,
+    "exchangeRate": 5.3432,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "PETR3-BR",
     "companyName": "Petrobras",
     "numberOfShares": 159617000,
-    "sharePrice": 5.8799494836936335,
+    "sharePrice": 6.247192693516993,
     "currencyCode": "BRL",
-    "exchangeRate": 5.3844,
+    "exchangeRate": 5.3432,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "PETR4-BR",
     "companyName": "Petrobras-Petroleo Brazileiro (Preferred)",
     "numberOfShares": 19661000,
-    "sharePrice": 5.5512220488819555,
+    "sharePrice": 5.949618206318311,
     "currencyCode": "BRL",
-    "exchangeRate": 5.3844,
+    "exchangeRate": 5.3432,
     "interactive": false
   }
 ]

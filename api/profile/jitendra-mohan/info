@@ -1,0 +1,29 @@
+{
+  "uri": "jitendra-mohan",
+  "name": "Jitendra Mohan",
+  "birthDate": "1973-05-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Santa Clara"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

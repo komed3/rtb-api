@@ -1,0 +1,36 @@
+{
+  "uri": "kim-hyun-tae",
+  "name": "Kim Hyun-tae",
+  "birthDate": "1976-03-11",
+  "family": false,
+  "gender": "m",
+  "citizenship": null,
+  "residence": {
+    "country": "kr",
+    "state": null,
+    "city": "Incheon"
+  },
+  "industry": [],
+  "source": [
+    "Biotech"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Business Administration"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

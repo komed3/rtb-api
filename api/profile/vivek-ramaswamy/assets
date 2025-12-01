@@ -4,7 +4,7 @@
     "ticker": "BZFD-US",
     "companyName": "BuzzFeed (Public)",
     "numberOfShares": 3130000,
-    "sharePrice": 1.6,
+    "sharePrice": 0.936,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
@@ -13,8 +13,51 @@
     "exchange": "NASDAQ",
     "ticker": "ROIV-US",
     "companyName": "Roivant Sciences",
-    "numberOfShares": 53431000,
-    "sharePrice": 19.58,
+    "numberOfShares": 48866000,
+    "sharePrice": 20.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ROIV-US",
+    "companyName": "Roivant Sciences",
+    "numberOfShares": 1754000,
+    "exerciseOptionPrice": 13.78,
+    "sharePrice": 20.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ROIV-US",
+    "companyName": "Roivant Sciences",
+    "numberOfShares": 21856000,
+    "exerciseOptionPrice": 12.68,
+    "sharePrice": 20.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ROIV-US",
+    "companyName": "Roivant Sciences",
+    "numberOfShares": 5915000,
+    "exerciseOptionPrice": 15.85,
+    "sharePrice": 20.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ASST-US",
+    "companyName": "Strive Asset Management",
+    "numberOfShares": 142000000,
+    "sharePrice": 1.12,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false

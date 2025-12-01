@@ -1,0 +1,42 @@
+{
+  "uri": "lee-sang-hoon",
+  "name": "Lee Sang-hoon",
+  "birthDate": "1963-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "kr",
+    "state": null,
+    "city": "Seoul"
+  },
+  "industry": [
+    "healthcare"
+  ],
+  "source": [
+    "Biotech"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Ohio State University",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Bachelor of Science"
+    },
+    {
+      "school": "Seoul National University",
+      "degree": "Master of Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

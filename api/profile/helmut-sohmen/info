@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "at",
   "residence": {
-    "country": "hk",
+    "country": null,
     "state": null,
-    "city": "Hong Kong"
+    "city": null
   },
   "industry": [
     "logistics"
@@ -17,9 +17,9 @@
     "Shipping"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/63efa388e79227c27db8d5b2/416x416.jpg?background=000000&cropX1=0&cropX2=609&cropY1=0&cropY2=609",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Southern Methodist University",
