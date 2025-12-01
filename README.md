@@ -3,13 +3,13 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/komed3/rtb-api?style=for-the-badge)](https://github.com/komed3/rtb-api/activity)
 [![GitHub License](https://img.shields.io/github/license/komed3/rtb-api?style=for-the-badge)](LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/komed3/rtb-api?style=for-the-badge)](https://github.com/komed3/rtb-api/archive/refs/heads/main.zip)
-[![Static Badge](https://img.shields.io/badge/uptime-100%25-green?style=for-the-badge)](https://status.jsdelivr.com/)
+[![Static Badge](https://img.shields.io/badge/uptime-100%25-green?style=for-the-badge)](https://status.statically.io)
 
 > [!WARNING]
 > **There will be a major update for this API soon.**
 > Additional details and which changes will occur as well as changed API endpoints / request queries will be announced as soon as known.
 >
-> Use `https://cdn.jsdelivr.net/gh/komed3/rtb-api@v1/api/{REQUEST}` to fetch data in unchanged format beyond the upcomming update.
+> Use `https://cdn.statically.io/gh/komed3/rtb-api/v1/api/{REQUEST}` to fetch data in unchanged format beyond the upcomming update.
 
 This repository contains profile and list data from Forbes’ real-time billionaires. It will mostly be updated once a month.
 
@@ -35,9 +35,9 @@ This project makes no claim to accuracy or completeness of its information. Data
 
 ## API
 
-Requests can be done by using jsDelivr:
+Requests can be done by using [Statically](https://statically.io):
 
-`https://cdn.jsdelivr.net/gh/komed3/rtb-api@main/api/{REQUEST}`
+`https://cdn.statically.io/gh/komed3/rtb-api/main/api/{REQUEST}`
 
 As `{REQUEST}` use one of the paths below.
 
