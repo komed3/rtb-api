@@ -1,0 +1,38 @@
+{
+  "uri": "chen-weiliang-2",
+  "name": "Chen Weiliang",
+  "birthDate": "1976-08-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "manufacturing"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Tsinghua Univeristy",
+      "degree": "Master of Arts/Science"
+    },
+    {
+      "school": "University of Electronic Science and Technology of China",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

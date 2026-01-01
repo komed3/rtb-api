@@ -1,12 +1,22 @@
 [
   {
+    "exchange": "TAIPEI",
+    "ticker": "2924-TW",
+    "companyName": "Cayman Island Grand Galactica",
+    "numberOfShares": 32795000,
+    "sharePrice": 0.6853681861651258,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.37,
+    "interactive": false
+  },
+  {
     "exchange": "SHENZHEN",
     "ticker": "300979-CN",
     "companyName": "Huali Industrial Group",
-    "numberOfShares": 1020915000,
-    "sharePrice": 8.630796830195075,
+    "numberOfShares": 985905000,
+    "sharePrice": 7.289297108602659,
     "currencyCode": "CNY",
-    "exchangeRate": 7.0793,
+    "exchangeRate": 6.9897,
     "interactive": false
   }
 ]

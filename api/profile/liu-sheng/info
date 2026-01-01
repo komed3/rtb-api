@@ -1,0 +1,40 @@
+{
+  "uri": "liu-sheng",
+  "name": "Liu Sheng",
+  "birthDate": "1971-01-07",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [],
+  "source": [
+    "Machinery"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Chinese Academy of Sciences",
+      "degree": "Master of Arts/Science"
+    },
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Doctorate"
+    },
+    {
+      "school": "Tsinghua Univeristy",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

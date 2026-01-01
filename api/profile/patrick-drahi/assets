@@ -1,22 +1,22 @@
 [
   {
-    "exchange": "NYSE",
-    "ticker": "OPTU-US",
-    "companyName": "Altice USA",
-    "numberOfShares": 216000000,
-    "sharePrice": 0,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
     "exchange": "LONDON",
     "ticker": "BT.A-GB",
     "companyName": "BT Group",
     "numberOfShares": 2435476000,
-    "sharePrice": 2.3983039618391415,
+    "sharePrice": 2.4750741040150905,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7547,
+    "exchangeRate": 0.7422,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "OPTU-US",
+    "companyName": "Optimum Communications",
+    "numberOfShares": 216000000,
+    "sharePrice": 1.64,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

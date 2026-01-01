@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "country": "jp",
+    "country": null,
     "state": null,
-    "city": "Saitama"
+    "city": null
   },
   "industry": [
     "fashion-retail"
@@ -16,9 +16,9 @@
   "source": [
     "Retail"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

@@ -6,9 +6,9 @@
   "gender": null,
   "citizenship": "us",
   "residence": {
-    "country": null,
-    "state": null,
-    "city": null
+    "country": "us",
+    "state": "California",
+    "city": "Saratoga"
   },
   "industry": [],
   "source": [
@@ -20,8 +20,8 @@
   "education": [],
   "organization": null,
   "selfMade": {
-    "_is": false,
-    "type": null,
+    "_is": true,
+    "type": "self-made",
     "rank": null
   }
 }
