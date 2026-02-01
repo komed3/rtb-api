@@ -3,18 +3,18 @@
     "exchange": "PAKISTAN STOCK EXCHANGE",
     "ticker": "AGTL-PK",
     "companyName": "Al-Ghazi Tractors Ltd.",
-    "numberOfShares": 28982000,
-    "sharePrice": 1.435972507364099,
+    "numberOfShares": 28992700,
+    "sharePrice": 1.4883629543627757,
     "currencyCode": "PKR",
-    "exchangeRate": 280.075,
+    "exchangeRate": 279.925,
     "interactive": false
   },
   {
     "exchange": "DUBAI",
     "ticker": "CBD-AE",
     "companyName": "Commercial Bank of Dubai",
-    "numberOfShares": 521000000,
-    "sharePrice": 2.5322659696128085,
+    "numberOfShares": 521205559,
+    "sharePrice": 2.6547949681424603,
     "currencyCode": "AED",
     "exchangeRate": 3.6726,
     "interactive": false
@@ -34,9 +34,19 @@
     "ticker": "EIBANK-AE",
     "companyName": "Emirates Investment Bank",
     "numberOfShares": 9239000,
-    "sharePrice": 16.74562979905244,
+    "sharePrice": 16.337199803953602,
     "currencyCode": "AED",
     "exchangeRate": 3.6726,
+    "interactive": false
+  },
+  {
+    "exchange": "SAUDI ARABIA",
+    "ticker": "4240-SA",
+    "companyName": "Fawaz Abdulaziz Alhokair & Co.",
+    "numberOfShares": 57325841,
+    "sharePrice": 4.609806169515023,
+    "currencyCode": "SAR",
+    "exchangeRate": 3.7507,
     "interactive": false
   }
 ]

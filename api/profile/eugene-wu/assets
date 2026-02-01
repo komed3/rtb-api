@@ -3,10 +3,10 @@
     "exchange": "TAIWAN",
     "ticker": "2888-TW",
     "companyName": "Shin Kong Financial Holding",
-    "numberOfShares": 3479190000,
-    "sharePrice": 0.3761555626394645,
+    "numberOfShares": 0,
+    "sharePrice": 0.374960279631395,
     "currencyCode": "TWD",
-    "exchangeRate": 31.37,
+    "exchangeRate": 31.47,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "9925-TW",
     "companyName": "Taiwan Shin Kong Security Co. Ltd.",
     "numberOfShares": 87185000,
-    "sharePrice": 1.29901179470832,
+    "sharePrice": 1.2948840165236735,
     "currencyCode": "TWD",
-    "exchangeRate": 31.37,
+    "exchangeRate": 31.47,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "2887-TW",
+    "companyName": "TS Financial Holding",
+    "numberOfShares": 2947000000,
+    "sharePrice": 0.721321893867175,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.47,
     "interactive": false
   }
 ]

@@ -1,12 +1,22 @@
 [
   {
     "exchange": "ASX",
+    "ticker": "HMC-AU",
+    "companyName": "HMC Capital",
+    "numberOfShares": 25130000,
+    "sharePrice": 2.9422066549912436,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.4275,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
     "ticker": "SIG-AU",
     "companyName": "Sigma Healthcare",
     "numberOfShares": 2555284000,
-    "sharePrice": 1.9900830876440634,
+    "sharePrice": 2.1646234676007006,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4924,
+    "exchangeRate": 1.4275,
     "interactive": false
   }
 ]
