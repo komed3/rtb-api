@@ -3,10 +3,20 @@
     "exchange": "EURONEXT BRUSSELS",
     "ticker": "ABI-BE",
     "companyName": "Anheuser-Busch InBev",
-    "numberOfShares": 91200000,
-    "sharePrice": 71.472757554128,
+    "numberOfShares": 91069000,
+    "sharePrice": 81.25147579693034,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
+    "interactive": false
+  },
+  {
+    "exchange": "SAO PAULO",
+    "ticker": "SCAR3-BR",
+    "companyName": "Sao Carlos Empreendimentos e Partici",
+    "numberOfShares": 4813000,
+    "sharePrice": 2.9814367054051942,
+    "currencyCode": "BRL",
+    "exchangeRate": 5.1284,
     "interactive": false
   }
 ]

@@ -1,12 +1,52 @@
 [
   {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "ASSA.B-SE",
+    "companyName": "Assa Abloy AB",
+    "numberOfShares": 425000,
+    "sharePrice": 42.73712677055394,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.0226,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "ATCO.A-SE",
+    "companyName": "Atlas Copco",
+    "numberOfShares": 1240000,
+    "sharePrice": 21.617937179970298,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.0226,
+    "interactive": false
+  },
+  {
     "exchange": "OSLO",
     "ticker": "SALM-NO",
     "companyName": "Salmar ASA",
-    "numberOfShares": 54100000,
-    "sharePrice": 59.693096227771356,
+    "numberOfShares": 56368000,
+    "sharePrice": 59.81037273740198,
     "currencyCode": "NOK",
-    "exchangeRate": 9.5991,
+    "exchangeRate": 9.5134,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "SAND-SE",
+    "companyName": "Sandvik",
+    "numberOfShares": 509000,
+    "sharePrice": 44.26661937800633,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.0226,
+    "interactive": false
+  },
+  {
+    "exchange": "OMX NORDIC STOCKHOLM",
+    "ticker": "VOLV.B-SE",
+    "companyName": "Volvo AB Class B",
+    "numberOfShares": 550000,
+    "sharePrice": 38.99097821027198,
+    "currencyCode": "SEK",
+    "exchangeRate": 9.0226,
     "interactive": false
   }
 ]

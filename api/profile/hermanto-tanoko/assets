@@ -1,22 +1,32 @@
 [
   {
     "exchange": "INDONESIA",
+    "ticker": "ABMM-ID",
+    "companyName": "ABM Investama",
+    "numberOfShares": 2700000,
+    "sharePrice": 0.17178645988666866,
+    "currencyCode": "IDR",
+    "exchangeRate": 16765,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
     "ticker": "AVIA-ID",
     "companyName": "Avia Avian",
-    "numberOfShares": 17159568000,
-    "sharePrice": 0.025737265415549597,
+    "numberOfShares": 15443611000,
+    "sharePrice": 0.0262451535937966,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "CAKK-ID",
     "companyName": "Cahayaputra Asa Keramik",
-    "numberOfShares": 752600000,
-    "sharePrice": 0.010425975573428656,
+    "numberOfShares": 911974000,
+    "sharePrice": 0.010378765284819565,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
@@ -24,57 +34,67 @@
     "ticker": "DEPO-ID",
     "companyName": "Caturkarda Depo Bangunan",
     "numberOfShares": 1107064000,
-    "sharePrice": 0.015490020851951147,
+    "sharePrice": 0.014792722934685356,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
+    "ticker": "MERI-ID",
+    "companyName": "Merry Riana Edukasi",
+    "numberOfShares": 200000000,
+    "sharePrice": 0.009364747986877423,
+    "currencyCode": "IDR",
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "RISE-ID",
     "companyName": "PT Jaya Sukses Makmur Sentosa",
-    "numberOfShares": 11706002280,
-    "sharePrice": 0.2993744414655943,
+    "numberOfShares": 9104668000,
+    "sharePrice": 0.1914703250820161,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "ZONE-ID",
     "companyName": "PT Mega Perintis",
-    "numberOfShares": 200015000,
-    "sharePrice": 0.028596961572832886,
+    "numberOfShares": 205797000,
+    "sharePrice": 0.028750372800477184,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
     "companyName": "PT Penta Valent",
-    "numberOfShares": 988750000,
-    "sharePrice": 0.01298778671432827,
+    "numberOfShares": 1271250000,
+    "sharePrice": 0.013003280644199224,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "CLEO-ID",
     "companyName": "PT Sariguna Primatirta",
-    "numberOfShares": 18699200000,
-    "sharePrice": 0.02359249329758713,
+    "numberOfShares": 16901302000,
+    "sharePrice": 0.024217118997912318,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "BLES-ID",
     "companyName": "Superior Prima Sukses",
-    "numberOfShares": 845000000,
-    "sharePrice": 0.008996127494787013,
+    "numberOfShares": 1605000000,
+    "sharePrice": 0.009066507605129734,
     "currencyCode": "IDR",
-    "exchangeRate": 16785,
+    "exchangeRate": 16765,
     "interactive": false
   }
 ]

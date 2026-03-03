@@ -1,12 +1,62 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "AMRZ-US",
+    "companyName": "Amrize",
+    "numberOfShares": 37159000,
+    "sharePrice": 64.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
+    "ticker": "COK-DE",
+    "companyName": "Cancom SE",
+    "numberOfShares": 1570000,
+    "sharePrice": 28.158205430932707,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.847,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "DOKA-CH",
+    "companyName": "Dormakaba Holding",
+    "numberOfShares": 3360000,
+    "sharePrice": 74.76270966064232,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.7691,
+    "interactive": false
+  },
+  {
     "exchange": "SIX SWISS",
     "ticker": "HOLN-CH",
     "companyName": "Holcim Ltd",
     "numberOfShares": 37140000,
-    "sharePrice": 103.28528762498378,
+    "sharePrice": 92.15966714341437,
     "currencyCode": "CHF",
-    "exchangeRate": 0.7701,
+    "exchangeRate": 0.7691,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "LAND-CH",
+    "companyName": "Landis + Gyr AG",
+    "numberOfShares": 1445000,
+    "sharePrice": 68.52164868027565,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.7691,
+    "interactive": false
+  },
+  {
+    "exchange": "SIX SWISS",
+    "ticker": "UBXN-CH",
+    "companyName": "U-blox Holding",
+    "numberOfShares": 742000,
+    "sharePrice": 175.5298400728124,
+    "currencyCode": "CHF",
+    "exchangeRate": 0.7691,
     "interactive": false
   }
 ]

@@ -3,20 +3,30 @@
     "exchange": "BSE INDIA",
     "ticker": "532454-IN",
     "companyName": "Bharti Airtel Ltd.",
-    "numberOfShares": 395800000,
-    "sharePrice": 21.39529827422204,
+    "numberOfShares": 369135000,
+    "sharePrice": 20.66199731358311,
     "currencyCode": "INR",
-    "exchangeRate": 91.9875,
+    "exchangeRate": 90.9762,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "BT.A-GB",
+    "companyName": "BT Group",
+    "numberOfShares": 704613000,
+    "sharePrice": 2.9147620328045174,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7438,
     "interactive": false
   },
   {
     "exchange": "EURONEXT PARIS",
     "ticker": "ETL-FR",
     "companyName": "Eutelsat Communications",
-    "numberOfShares": 36632520,
-    "sharePrice": 2.7182964549131574,
+    "numberOfShares": 59675000,
+    "sharePrice": 2.6623376623376624,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
@@ -24,9 +34,19 @@
     "ticker": "540716-IN",
     "companyName": "ICICI Lombard General Insurance Company",
     "numberOfShares": 0,
-    "sharePrice": 19.7847533632287,
+    "sharePrice": 20.88403340653929,
     "currencyCode": "INR",
-    "exchangeRate": 91.9875,
+    "exchangeRate": 90.9762,
+    "interactive": false
+  },
+  {
+    "exchange": "BSE INDIA",
+    "ticker": "500215-IN",
+    "companyName": "Sundrop Brands",
+    "numberOfShares": 2133000,
+    "sharePrice": 7.078774448701968,
+    "currencyCode": "INR",
+    "exchangeRate": 90.9762,
     "interactive": false
   }
 ]

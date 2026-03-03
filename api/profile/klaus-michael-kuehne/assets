@@ -1,12 +1,22 @@
 [
   {
     "exchange": "XETRA",
+    "ticker": "BNR-DE",
+    "companyName": "Brenntag AG",
+    "numberOfShares": 28890000,
+    "sharePrice": 61.747343565525384,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.847,
+    "interactive": false
+  },
+  {
+    "exchange": "XETRA",
     "ticker": "LHA-DE",
     "companyName": "Deutsche Lufthansa",
-    "numberOfShares": 179600000,
-    "sharePrice": 10.349750178443967,
+    "numberOfShares": 228943000,
+    "sharePrice": 10.729634002361275,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
@@ -14,19 +24,19 @@
     "ticker": "HLAG-DE",
     "companyName": "Hapag Lloyd",
     "numberOfShares": 52728000,
-    "sharePrice": 144.18272662384013,
+    "sharePrice": 154.30932703659977,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "KNIN-CH",
     "companyName": "Kuehne & Nagel International AG",
-    "numberOfShares": 65327000,
-    "sharePrice": 232.04778600181794,
+    "numberOfShares": 66777000,
+    "sharePrice": 233.19464308932518,
     "currencyCode": "CHF",
-    "exchangeRate": 0.7701,
+    "exchangeRate": 0.7691,
     "interactive": false
   }
 ]

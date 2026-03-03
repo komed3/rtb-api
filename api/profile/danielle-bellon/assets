@@ -1,12 +1,22 @@
 [
   {
     "exchange": "EURONEXT PARIS",
+    "ticker": "PLX-FR",
+    "companyName": "Pluxee N.V.",
+    "numberOfShares": 63700846,
+    "sharePrice": 13.364817001180638,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.847,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
     "ticker": "SW-FR",
     "companyName": "Sodexo S.A.",
-    "numberOfShares": 59068820,
-    "sharePrice": 51.32048536759458,
+    "numberOfShares": 60450471,
+    "sharePrice": 54.781582054309325,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   }
 ]

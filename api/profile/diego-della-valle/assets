@@ -1,42 +1,52 @@
 [
   {
     "exchange": "MILAN",
+    "ticker": "BMPS-IT",
+    "companyName": "Banca Monte dei Paschi di Siena",
+    "numberOfShares": 7803413,
+    "sharePrice": 9.796930342384888,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.847,
+    "interactive": false
+  },
+  {
+    "exchange": "MILAN",
     "ticker": "BIA-IT",
     "companyName": "Bialetti Industrie",
-    "numberOfShares": 5250000,
-    "sharePrice": 0.5543659290982632,
+    "numberOfShares": 0,
+    "sharePrice": 0.5501770956316411,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "MB-IT",
     "companyName": "Mediobanca Banca di Credito Finanzia",
-    "numberOfShares": 3081000,
-    "sharePrice": 20.97311444206519,
+    "numberOfShares": 0,
+    "sharePrice": 21.80637544273908,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "PIA-IT",
     "companyName": "Piaggio",
-    "numberOfShares": 13888000,
-    "sharePrice": 2.074708541517963,
+    "numberOfShares": 13876752,
+    "sharePrice": 2.1404958677685952,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "RCS-IT",
     "companyName": "RCS MediaGroup S.p.A.",
-    "numberOfShares": 27849000,
-    "sharePrice": 1.1586961694028075,
+    "numberOfShares": 27850889,
+    "sharePrice": 1.1475796930342386,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   }
 ]

@@ -4,29 +4,39 @@
     "ticker": "YOU-DE",
     "companyName": "About You Holding",
     "numberOfShares": 34838000,
-    "sharePrice": 7.934808470140376,
+    "sharePrice": 7.874852420306966,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "ASC-GB",
     "companyName": "ASOS plc",
-    "numberOfShares": 30700000,
-    "sharePrice": 4.535474132015919,
+    "numberOfShares": 34675000,
+    "sharePrice": 3.8383974186609304,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7287,
+    "exchangeRate": 0.7438,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "KLAR-US",
+    "companyName": "Klarna Group Plc",
+    "numberOfShares": 28134000,
+    "sharePrice": 13.56,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "ZAL-DE",
     "companyName": "Zalando",
-    "numberOfShares": 24820000,
-    "sharePrice": 28.955507970497262,
+    "numberOfShares": 26735000,
+    "sharePrice": 24.49822904368359,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8406,
+    "exchangeRate": 0.847,
     "interactive": false
   }
 ]

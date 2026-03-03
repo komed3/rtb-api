@@ -3,7 +3,7 @@
     "exchange": "NYSE",
     "ticker": "BEDU-US",
     "companyName": "Bright Scholar Education Holdings (ADR)",
-    "numberOfShares": 23260000,
+    "numberOfShares": 0,
     "sharePrice": 2.25,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -13,10 +13,10 @@
     "exchange": "HONG KONG",
     "ticker": "2007-HK",
     "companyName": "Country Garden Holdings",
-    "numberOfShares": 14539000000,
-    "sharePrice": 0.03777353803603211,
+    "numberOfShares": 29408668000,
+    "sharePrice": 0.04538423185589548,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8097,
+    "exchangeRate": 7.8221,
     "interactive": false
   },
   {
@@ -24,9 +24,19 @@
     "ticker": "6098-HK",
     "companyName": "Country Garden Services Holdings Company",
     "numberOfShares": 543695000,
-    "sharePrice": 0.8271764600432795,
+    "sharePrice": 0.8079671699415758,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8097,
+    "exchangeRate": 7.8221,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "6098-HK",
+    "companyName": "Country Garden Services Holdings Company",
+    "numberOfShares": -271848000,
+    "sharePrice": 0.8079671699415758,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8221,
     "interactive": false
   }
 ]
