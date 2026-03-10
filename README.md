@@ -4,6 +4,7 @@
 [![GitHub License](https://img.shields.io/github/license/komed3/rtb-api?style=for-the-badge)](LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/komed3/rtb-api?style=for-the-badge)](https://github.com/komed3/rtb-api/archive/refs/heads/main.zip)
 [![Static Badge](https://img.shields.io/badge/uptime-100%25-green?style=for-the-badge)](https://status.statically.io)
+[![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/komed3/rtb-api?style=for-the-badge)]()
 
 > [!WARNING]
 > **There will be a major update for this API soon.**
