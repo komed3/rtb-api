@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "BY-US",
     "companyName": "Byline Bancorp",
-    "numberOfShares": 11835000,
-    "sharePrice": 31.2,
+    "numberOfShares": 11835000.0,
+    "sharePrice": 31.12,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "MEXICO",
     "ticker": "POCHTECB-MX",
     "companyName": "Grupo Pochteca ",
-    "numberOfShares": 20883000,
-    "sharePrice": 0.3632453795187725,
+    "numberOfShares": 20883000.0,
+    "sharePrice": 0.3505623019322994,
     "currencyCode": "MXN",
-    "exchangeRate": 17.206,
+    "exchangeRate": 17.8285,
     "interactive": false
   },
   {
     "exchange": "MEXICO",
     "ticker": "ORBIA-MX",
     "companyName": "Orbia Advance Corp. SAB de CV",
-    "numberOfShares": 911400000,
-    "sharePrice": 1.1862141113565037,
+    "numberOfShares": 911400000.0,
+    "sharePrice": 1.12236026586645,
     "currencyCode": "MXN",
-    "exchangeRate": 17.206,
+    "exchangeRate": 17.8285,
     "interactive": false
   }
 ]

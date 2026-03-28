@@ -3,21 +3,21 @@
     "exchange": "ZIMBABWE",
     "ticker": "ECO-ZW",
     "companyName": "Econet Wireless Zimbabwe Ltd",
-    "numberOfShares": 1283576000,
-    "sharePrice": 0.3477241951942514,
+    "numberOfShares": 1283576000.0,
+    "sharePrice": 0.41558901682905225,
     "currencyCode": "ZWG",
-    "exchangeRate": 25.7733,
+    "exchangeRate": 25.4025,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NFLX-US",
     "companyName": "Netflix",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "exerciseOptionPrice": 43.6,
-    "sharePrice": 96.24,
+    "sharePrice": 90.92,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -25,10 +25,10 @@
     "ticker": "TNCI-ZW",
     "companyName": "TN CyberTech Investments Holdings",
     "numberOfShares": 523075000.00000006,
-    "exerciseOptionPrice": 33.84180527910667,
-    "sharePrice": 0.00403518369785786,
+    "exerciseOptionPrice": 34.33579372109045,
+    "sharePrice": 0.004842043105993505,
     "currencyCode": "ZWG",
-    "exchangeRate": 25.7733,
+    "exchangeRate": 25.4025,
     "interactive": false
   }
 ]

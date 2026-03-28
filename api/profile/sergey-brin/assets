@@ -3,22 +3,22 @@
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
-    "numberOfShares": 359069547,
-    "sharePrice": 311.76,
+    "numberOfShares": 359069547.0,
+    "sharePrice": 290.44,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 306.52
+    "currentPrice": 274.34
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
-    "numberOfShares": 359795958,
-    "sharePrice": 311.43,
+    "numberOfShares": 359795958.0,
+    "sharePrice": 289.2,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 306.36
+    "currentPrice": 273.76
   }
 ]

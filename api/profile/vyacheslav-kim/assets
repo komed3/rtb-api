@@ -3,20 +3,20 @@
     "exchange": "LONDON",
     "ticker": "KSPI-GB",
     "companyName": "Kaspi",
-    "numberOfShares": 39458000,
+    "numberOfShares": 39458000.0,
     "sharePrice": 120.6,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "KAZAKHSTAN",
     "ticker": "KCEL-KZ",
     "companyName": "Kcell JSC",
-    "numberOfShares": 29745000,
-    "sharePrice": 6.900702106318957,
+    "numberOfShares": 29745000.0,
+    "sharePrice": 6.811580061865516,
     "currencyCode": "KZT",
-    "exchangeRate": 498.5,
+    "exchangeRate": 481.69,
     "interactive": false
   }
 ]

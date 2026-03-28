@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "OKLO-US",
     "companyName": "Oklo",
-    "numberOfShares": 6244000,
-    "sharePrice": 62.95,
+    "numberOfShares": 6244000.0,
+    "sharePrice": 54.96,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RDDT-US",
     "companyName": "Reddit Inc.",
-    "numberOfShares": 1658701,
-    "sharePrice": 145.81,
+    "numberOfShares": 1658701.0,
+    "sharePrice": 136.12,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "CRM-US",
     "companyName": "Salesforce.com",
-    "numberOfShares": 6813000,
-    "sharePrice": 194.79,
+    "numberOfShares": 6813000.0,
+    "sharePrice": 183.02,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DATA-US",
     "companyName": "Tableau Software",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 169.53,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

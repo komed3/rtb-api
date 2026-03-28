@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "MPX-US",
     "companyName": "Marine Products Corporation",
-    "numberOfShares": 12171000,
-    "sharePrice": 7.59,
+    "numberOfShares": 12171000.0,
+    "sharePrice": 7.48,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ROL-US",
     "companyName": "Rollins Inc.",
-    "numberOfShares": 95038000,
-    "sharePrice": 60.89,
+    "numberOfShares": 95038000.0,
+    "sharePrice": 53.29,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RES-US",
     "companyName": "RPC Inc.",
-    "numberOfShares": 62161000,
-    "sharePrice": 5.81,
+    "numberOfShares": 62161000.0,
+    "sharePrice": 7.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

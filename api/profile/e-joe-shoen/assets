@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "UHAL-US",
     "companyName": "Amerco",
-    "numberOfShares": 4909000,
-    "sharePrice": 50.66,
+    "numberOfShares": 4909000.0,
+    "sharePrice": 44.54,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "UHAL.B-US",
     "companyName": "U-Haul Holding Company (UHAL-B)",
-    "numberOfShares": 37701044,
-    "sharePrice": 47.16,
+    "numberOfShares": 37701044.0,
+    "sharePrice": 41.79,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "EBAY-US",
     "companyName": "eBay",
-    "numberOfShares": 9240000,
-    "sharePrice": 90.86,
+    "numberOfShares": 9240000.0,
+    "sharePrice": 89.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
-    "numberOfShares": 3185000,
-    "sharePrice": 46.21,
+    "numberOfShares": 3185000.0,
+    "sharePrice": 44.21,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

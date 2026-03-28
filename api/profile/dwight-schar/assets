@@ -3,31 +3,31 @@
     "exchange": "NASDAQ",
     "ticker": "CHCI-US",
     "companyName": "Comstock Holding",
-    "numberOfShares": 2963360,
-    "sharePrice": 11.67,
+    "numberOfShares": 2963360.0,
+    "sharePrice": 16.23,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "NVR-US",
     "companyName": "NVR",
-    "numberOfShares": 37875,
-    "sharePrice": 7517.79,
+    "numberOfShares": 37875.0,
+    "sharePrice": 6499.93,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "NVR-US",
     "companyName": "NVR",
-    "numberOfShares": 9400,
+    "numberOfShares": 9400.0,
     "exerciseOptionPrice": 3022.99,
-    "sharePrice": 7517.79,
+    "sharePrice": 6499.93,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

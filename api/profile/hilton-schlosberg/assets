@@ -3,21 +3,21 @@
     "exchange": "NASDAQ",
     "ticker": "MNST-US",
     "companyName": "Monster Beverage",
-    "numberOfShares": 37832000,
-    "sharePrice": 85.3,
+    "numberOfShares": 37832000.0,
+    "sharePrice": 73.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MNST-US",
     "companyName": "Monster Beverage",
-    "numberOfShares": 4998000,
+    "numberOfShares": 4998000.0,
     "exerciseOptionPrice": 36.51,
-    "sharePrice": 85.3,
+    "sharePrice": 73.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "companyName": "CIAN",
-    "numberOfShares": 654000,
+    "numberOfShares": 654000.0,
     "sharePrice": 7.855109961190169,
     "currencyCode": "RUB",
     "exchangeRate": 77.3,
@@ -9,7 +9,7 @@
   },
   {
     "companyName": "Headhunter",
-    "numberOfShares": 11483000,
+    "numberOfShares": 11483000.0,
     "sharePrice": 38.75808538163002,
     "currencyCode": "RUB",
     "exchangeRate": 77.3,
@@ -19,10 +19,10 @@
     "exchange": "NASDAQ",
     "ticker": "GDEV-US",
     "companyName": "Nexters",
-    "numberOfShares": 1788000,
-    "sharePrice": 15.04,
+    "numberOfShares": 1788000.0,
+    "sharePrice": 13.33,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

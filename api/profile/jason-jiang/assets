@@ -3,30 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "FMCN-US",
     "companyName": "Focus Media Holding Ltd",
-    "numberOfShares": 20117000,
-    "sharePrice": 0,
+    "numberOfShares": 20117000.0,
+    "sharePrice": 0.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "002027-CN",
     "companyName": "Focus Media Information Technology",
-    "numberOfShares": 3425819000,
-    "sharePrice": 1.0312586606765175,
+    "numberOfShares": 3425819000.0,
+    "sharePrice": 0.946587494011237,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8557,
+    "exchangeRate": 6.8879,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "300027-CN",
     "companyName": "Huayi Brothers Media Corp",
-    "numberOfShares": 0,
-    "sharePrice": 0.27422436804410927,
+    "numberOfShares": 0.0,
+    "sharePrice": 0.22212866040447743,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8557,
+    "exchangeRate": 6.8879,
     "interactive": false
   }
 ]

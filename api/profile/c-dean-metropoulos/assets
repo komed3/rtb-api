@@ -3,31 +3,31 @@
     "exchange": "US OTC",
     "ticker": "LAZRQ-US",
     "companyName": "Luminar Technologies",
-    "numberOfShares": 109210,
-    "sharePrice": 0.06,
+    "numberOfShares": 109210.0,
+    "sharePrice": 0.042,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "LAZRQ-US",
     "companyName": "Luminar Technologies",
-    "numberOfShares": 109210,
+    "numberOfShares": 109210.0,
     "exerciseOptionPrice": 171.6417910447761,
-    "sharePrice": 0.06,
+    "sharePrice": 0.042,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
-    "numberOfShares": 300000,
-    "sharePrice": 16.71,
+    "numberOfShares": 300000.0,
+    "sharePrice": 14.24,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

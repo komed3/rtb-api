@@ -3,30 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "GEHC-US",
     "companyName": "GE Healthcare Technologies",
-    "numberOfShares": 398670,
-    "sharePrice": 84.27,
+    "numberOfShares": 398670.0,
+    "sharePrice": 70.96,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GEV-US",
     "companyName": "GE Vernova",
-    "numberOfShares": 329282,
-    "sharePrice": 873.6,
+    "numberOfShares": 329282.0,
+    "sharePrice": 909.41,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GE-US",
     "companyName": "General Electric",
-    "numberOfShares": 1210834,
-    "sharePrice": 342.26,
+    "numberOfShares": 1210834.0,
+    "sharePrice": 290.63,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

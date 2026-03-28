@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "BABA-US",
     "companyName": "Alibaba Group (ADR)",
-    "numberOfShares": 85120000,
-    "sharePrice": 144.11,
+    "numberOfShares": 85120000.0,
+    "sharePrice": 125.48,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "300027-CN",
     "companyName": "Huayi Brothers Media Corp",
-    "numberOfShares": 72038000,
-    "sharePrice": 0.27422436804410927,
+    "numberOfShares": 72038000.0,
+    "sharePrice": 0.22212866040447743,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8557,
+    "exchangeRate": 6.8879,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "600233-CN",
     "companyName": "YTO Express Group Co., Class A",
-    "numberOfShares": 0,
-    "sharePrice": 2.8603935411409482,
+    "numberOfShares": 0.0,
+    "sharePrice": 2.81653334107638,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8557,
+    "exchangeRate": 6.8879,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "BX-US",
     "companyName": "Blackstone Group",
-    "numberOfShares": 42967000,
-    "sharePrice": 113.37,
+    "numberOfShares": 42967000.0,
+    "sharePrice": 107.98,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "HLT-US",
     "companyName": "Hilton",
-    "numberOfShares": 7000,
-    "sharePrice": 311.78,
+    "numberOfShares": 7000.0,
+    "sharePrice": 299.91,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "PJT-US",
     "companyName": "PJT Partners",
     "numberOfShares": 1014999.9999999999,
-    "sharePrice": 147.68,
+    "sharePrice": 133.06,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

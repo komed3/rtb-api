@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "XYZ-US",
     "companyName": "Block Inc Class A",
-    "numberOfShares": 12073000,
-    "sharePrice": 63.7,
+    "numberOfShares": 12073000.0,
+    "sharePrice": 59.89,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "CZOOF-US",
     "companyName": "Cazoo Group",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 0.05,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "DLNG-US",
     "companyName": "Dynagas LNG Partners",
-    "numberOfShares": 15595000,
-    "sharePrice": 3.9,
+    "numberOfShares": 15595000.0,
+    "sharePrice": 4.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "ATHENS",
     "ticker": "LAMDA-GR",
     "companyName": "Lamda Development S.A.",
-    "numberOfShares": 3534734,
-    "sharePrice": 8.252656434474616,
+    "numberOfShares": 3534734.0,
+    "sharePrice": 6.970012735903669,
     "currencyCode": "EUR",
-    "exchangeRate": 0.847,
+    "exchangeRate": 0.8637,
     "interactive": false
   }
 ]

@@ -3,30 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "AVGO-US",
     "companyName": "Broadcom Inc.",
-    "numberOfShares": 184363642,
-    "sharePrice": 319.55,
+    "numberOfShares": 184363642.0,
+    "sharePrice": 318.29,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DELL-US",
     "companyName": "Dell Technologies Inc",
-    "numberOfShares": 294263250,
-    "sharePrice": 148.08,
+    "numberOfShares": 294263250.0,
+    "sharePrice": 176.91,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "VMW-US",
     "companyName": "VMware",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 142.48,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

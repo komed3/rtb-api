@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "AS-US",
     "companyName": "Amer Sports",
-    "numberOfShares": 104017000,
-    "sharePrice": 37.98,
+    "numberOfShares": 104017000.0,
+    "sharePrice": 33.09,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "2020-HK",
     "companyName": "ANTA Sports Products Ltd.",
-    "numberOfShares": 15842000,
-    "sharePrice": 10.873039209419465,
+    "numberOfShares": 15842000.0,
+    "sharePrice": 9.778248984492757,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8221,
+    "exchangeRate": 7.8286,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LULU-US",
     "companyName": "Lululemon",
-    "numberOfShares": 8749700,
-    "sharePrice": 185.17,
+    "numberOfShares": 8749700.0,
+    "sharePrice": 160.95,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

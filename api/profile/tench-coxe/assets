@@ -3,40 +3,40 @@
     "exchange": "NYSE",
     "ticker": "APAM-US",
     "companyName": "Artisan Partners Asset Management Inc. Class A (APAM)",
-    "numberOfShares": 544638,
-    "sharePrice": 40.28,
+    "numberOfShares": 544638.0,
+    "sharePrice": 35.81,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
-    "numberOfShares": 30557000,
-    "sharePrice": 177.19,
+    "numberOfShares": 30557000.0,
+    "sharePrice": 175.2,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PSTG-US",
     "companyName": "Pure Storage",
-    "numberOfShares": 1878239,
-    "sharePrice": 64.22,
+    "numberOfShares": 1878239.0,
+    "sharePrice": 65.15,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
-    "numberOfShares": 3533300,
-    "sharePrice": 168.41,
+    "numberOfShares": 3533300.0,
+    "sharePrice": 161.34,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

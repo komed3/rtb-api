@@ -3,41 +3,41 @@
     "exchange": "NASDAQ",
     "ticker": "ARQQ-US",
     "companyName": "Arqit Quantum",
-    "numberOfShares": 0,
-    "sharePrice": 16.46,
+    "numberOfShares": 0.0,
+    "sharePrice": 13.57,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ARQQ-US",
     "companyName": "Arqit Quantum",
-    "numberOfShares": 250680,
+    "numberOfShares": 250680.0,
     "exerciseOptionPrice": 287.5,
-    "sharePrice": 16.46,
+    "sharePrice": 13.57,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "EURONEXT PARIS",
     "ticker": "ALPER-FR",
     "companyName": "La Perla",
-    "numberOfShares": 0,
-    "sharePrice": 8.500590318772137,
+    "numberOfShares": 0.0,
+    "sharePrice": 8.336227856894755,
     "currencyCode": "EUR",
-    "exchangeRate": 0.847,
+    "exchangeRate": 0.8637,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RCL-US",
     "companyName": "Royal Caribbean Cruises Ltd",
-    "numberOfShares": 3120000,
-    "sharePrice": 310.96,
+    "numberOfShares": 3120000.0,
+    "sharePrice": 273.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

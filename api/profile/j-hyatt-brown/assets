@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "BRO-US",
     "companyName": "Brown & Brown",
-    "numberOfShares": 35998000,
-    "sharePrice": 71.82,
+    "numberOfShares": 35998000.0,
+    "sharePrice": 66.5,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "VRSK-US",
     "companyName": "Verisk Analytics",
-    "numberOfShares": 0,
-    "sharePrice": 207.57,
+    "numberOfShares": 0.0,
+    "sharePrice": 194.73,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

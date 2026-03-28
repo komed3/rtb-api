@@ -3,30 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "FOX-US",
     "companyName": "Fox Corp. Class B",
-    "numberOfShares": 104505722,
-    "sharePrice": 51.73,
+    "numberOfShares": 104505722.0,
+    "sharePrice": 52.52,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NWS-US",
     "companyName": "News Corp. (Cl B)",
-    "numberOfShares": 77652282,
-    "sharePrice": 26.78,
+    "numberOfShares": 77652282.0,
+    "sharePrice": 27.17,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
-    "numberOfShares": 48092593,
-    "sharePrice": 106.04,
+    "numberOfShares": 48092593.0,
+    "sharePrice": 96.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

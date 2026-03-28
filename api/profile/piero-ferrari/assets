@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "RACE-US",
     "companyName": "Ferrari N.V.",
-    "numberOfShares": 18894000,
-    "sharePrice": 379.92,
+    "numberOfShares": 18894000.0,
+    "sharePrice": 322.02,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "9638-HK",
     "companyName": "Ferretti SpA",
-    "numberOfShares": 27927000,
-    "sharePrice": 4.553764334385907,
+    "numberOfShares": 27927000.0,
+    "sharePrice": 4.700712771121273,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8221,
+    "exchangeRate": 7.8286,
     "interactive": false
   }
 ]

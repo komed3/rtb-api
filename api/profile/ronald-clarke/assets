@@ -3,21 +3,21 @@
     "exchange": "NYSE",
     "ticker": "CPAY-US",
     "companyName": "Corpay, Inc.",
-    "numberOfShares": 2344000,
-    "sharePrice": 325.1,
+    "numberOfShares": 2344000.0,
+    "sharePrice": 293.83,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CPAY-US",
     "companyName": "Corpay, Inc.",
-    "numberOfShares": 850000,
+    "numberOfShares": 850000.0,
     "exerciseOptionPrice": 150.74,
-    "sharePrice": 325.1,
+    "sharePrice": 293.83,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

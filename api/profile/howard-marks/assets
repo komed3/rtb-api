@@ -3,20 +3,20 @@
     "exchange": "TORONTO",
     "ticker": "BN-CA",
     "companyName": "Brookfield Corporation (Toronto listing)",
-    "numberOfShares": 561000,
-    "sharePrice": 43.859520492704746,
+    "numberOfShares": 561000.0,
+    "sharePrice": 39.22266618234653,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3639,
+    "exchangeRate": 1.3765,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "OAK-US",
     "companyName": "Oaktree Capital Group LLC",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 51.52,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

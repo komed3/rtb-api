@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "BX-US",
     "companyName": "Blackstone Group",
-    "numberOfShares": 12644000,
-    "sharePrice": 113.37,
+    "numberOfShares": 12644000.0,
+    "sharePrice": 107.98,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "COST-US",
     "companyName": "Costco Wholesale",
-    "numberOfShares": 56400,
-    "sharePrice": 1010.79,
+    "numberOfShares": 56400.0,
+    "sharePrice": 973.82,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

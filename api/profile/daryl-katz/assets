@@ -3,20 +3,20 @@
     "exchange": "US OTC",
     "ticker": "BLKLF-US",
     "companyName": "Blackline Safety",
-    "numberOfShares": 22278393,
-    "sharePrice": 4.94,
+    "numberOfShares": 22278393.0,
+    "sharePrice": 5.03,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "FBIO-US",
     "companyName": "Fortress Biotech",
-    "numberOfShares": 403532,
-    "sharePrice": 3.42,
+    "numberOfShares": 403532.0,
+    "sharePrice": 2.92,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

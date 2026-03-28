@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "BAM-US",
     "companyName": "Brookfield Asset Management",
-    "numberOfShares": 15119584,
-    "sharePrice": 46.75,
+    "numberOfShares": 15119584.0,
+    "sharePrice": 42.87,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "BN-CA",
     "companyName": "Brookfield Corporation (Toronto listing)",
-    "numberOfShares": 105359407,
-    "sharePrice": 43.859520492704746,
+    "numberOfShares": 105359407.0,
+    "sharePrice": 39.22266618234653,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3639,
+    "exchangeRate": 1.3765,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "BNT-CA",
     "companyName": "Brookfield Wealth Solutions",
-    "numberOfShares": 23581468,
-    "sharePrice": 44.46806950656207,
+    "numberOfShares": 23581468.0,
+    "sharePrice": 40.784598619687614,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3639,
+    "exchangeRate": 1.3765,
     "interactive": false
   }
 ]
