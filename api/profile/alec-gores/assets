@@ -3,8 +3,9 @@
     "exchange": "NYSE",
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
-    "numberOfShares": 9768750.0,
-    "sharePrice": 4.16,
+    "numberOfShares": 6250000.0,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 3.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NYSE",
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
-    "numberOfShares": 6250000.0,
-    "exerciseOptionPrice": 11.5,
-    "sharePrice": 4.16,
+    "numberOfShares": 9768750.0,
+    "sharePrice": 3.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "CSGP-US",
     "companyName": "CoStar Group Inc.",
     "numberOfShares": 310000.0,
-    "sharePrice": 41.46,
+    "sharePrice": 39.77,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,7 +46,7 @@
     "ticker": "SJM-US",
     "companyName": "J.M. Smucker Co.",
     "numberOfShares": 145800.0,
-    "sharePrice": 96.86,
+    "sharePrice": 95.24,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -57,7 +57,7 @@
     "companyName": "Luminar Technologies",
     "numberOfShares": 92884.0,
     "exerciseOptionPrice": 171.6417910447761,
-    "sharePrice": 0.042,
+    "sharePrice": 0.028,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -67,7 +67,7 @@
     "ticker": "LAZRQ-US",
     "companyName": "Luminar Technologies",
     "numberOfShares": 349472.0,
-    "sharePrice": 0.042,
+    "sharePrice": 0.028,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -89,7 +89,7 @@
     "companyName": "Polestar Automotive Holding UK",
     "numberOfShares": 148500.0,
     "exerciseOptionPrice": 348.48484848484844,
-    "sharePrice": 17.7,
+    "sharePrice": 17.1,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -99,7 +99,7 @@
     "ticker": "PSNY-US",
     "companyName": "Polestar Automotive Holding UK",
     "numberOfShares": 293436.0,
-    "sharePrice": 17.7,
+    "sharePrice": 17.1,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -129,8 +129,9 @@
     "exchange": "NYSE",
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
-    "numberOfShares": 5667000.0,
-    "sharePrice": 3.61,
+    "numberOfShares": 2310000.0,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 3.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -139,9 +140,8 @@
     "exchange": "NYSE",
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
-    "numberOfShares": 2310000.0,
-    "exerciseOptionPrice": 11.5,
-    "sharePrice": 3.61,
+    "numberOfShares": 5667000.0,
+    "sharePrice": 3.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -151,7 +151,7 @@
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
     "numberOfShares": 3416000.0,
-    "sharePrice": 14.24,
+    "sharePrice": 13.88,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
