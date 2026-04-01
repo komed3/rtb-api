@@ -154,6 +154,22 @@
       "source": [
         "Dell Technologies"
       ]
+    },
+    "sergey-jr-brin": {
+      "name": "Sergey Jr Brin",
+      "image": null,
+      "gender": "m",
+      "source": [
+        "Google"
+      ]
+    },
+    "rob-walton": {
+      "name": "Rob Walton & family",
+      "image": "https:////specials-images.forbesimg.com/imageserve/59d50a9e4bbe6f37dd9ff712/416x416.jpg?background=000000&cropX1=244&cropX2=1841&cropY1=60&cropY2=1658",
+      "gender": "m",
+      "source": [
+        "Walmart"
+      ]
     }
   },
   "list": {
@@ -4086,17 +4102,17 @@
       {
         "rank": 6,
         "uri": "larry-ellison",
-        "networth": 190545.487
+        "networth": 192894.72
       },
       {
         "rank": 7,
         "uri": "bernard-arnault",
-        "networth": 170996.249
+        "networth": 171116.585
       },
       {
         "rank": 8,
         "uri": "jensen-huang",
-        "networth": 153958.536
+        "networth": 153562.06
       },
       {
         "rank": 9,
@@ -4106,7 +4122,59 @@
       {
         "rank": 10,
         "uri": "amancio-ortega",
-        "networth": 147826.166
+        "networth": 147930.31
+      }
+    ],
+    "2026-03": [
+      {
+        "rank": 1,
+        "uri": "elon-musk",
+        "networth": 805168.383
+      },
+      {
+        "rank": 2,
+        "uri": "larry-page",
+        "networth": 227150.477
+      },
+      {
+        "rank": 3,
+        "uri": "jeff-bezos",
+        "networth": 215758.092
+      },
+      {
+        "rank": 4,
+        "uri": "sergey-jr-brin",
+        "networth": 209717.426
+      },
+      {
+        "rank": 5,
+        "uri": "mark-zuckerberg",
+        "networth": 184393.392
+      },
+      {
+        "rank": 6,
+        "uri": "larry-ellison",
+        "networth": 179121.866
+      },
+      {
+        "rank": 7,
+        "uri": "bernard-arnault",
+        "networth": 143374.238
+      },
+      {
+        "rank": 8,
+        "uri": "jensen-huang",
+        "networth": 143337.754
+      },
+      {
+        "rank": 9,
+        "uri": "rob-walton",
+        "networth": 141974.235
+      },
+      {
+        "rank": 10,
+        "uri": "michael-dell",
+        "networth": 140721.473
       }
     ]
   }

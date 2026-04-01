@@ -3,7 +3,7 @@
     "exchange": "LONDON",
     "ticker": "AVST-GB",
     "companyName": "Avast Plc",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 9.457568958690775,
     "currencyCode": "GBP",
     "exchangeRate": 0.7577,
@@ -13,10 +13,10 @@
     "exchange": "NASDAQ",
     "ticker": "GEN-US",
     "companyName": "Gen Digital",
-    "numberOfShares": 19330000.0,
+    "numberOfShares": 19330000,
     "sharePrice": 18.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

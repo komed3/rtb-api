@@ -3,15 +3,17 @@
   "name": "Roland Duchatelet & family",
   "birthDate": "1946-11-14",
   "family": false,
-  "gender": null,
+  "gender": "m",
   "citizenship": "be",
   "residence": {
-    "city": null,
+    "city": "Sint-Truiden",
     "state": null
   },
-  "industry": [],
+  "industry": [
+    "technology"
+  ],
   "source": [
-    ""
+    "Semiconductors"
   ],
   "deceased": false,
   "children": 6,

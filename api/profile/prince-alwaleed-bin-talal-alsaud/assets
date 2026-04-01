@@ -3,27 +3,27 @@
     "exchange": "NYSE",
     "ticker": "C-US",
     "companyName": "Citigroup",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 107.27,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 28.94,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "SAUDI ARABIA",
     "ticker": "4280-SA",
     "companyName": "Kingdom Holdings",
-    "numberOfShares": 2895591000.0,
+    "numberOfShares": 2895591000,
     "sharePrice": 2.6647480480720547,
     "currencyCode": "SAR",
     "exchangeRate": 3.7527,
@@ -33,20 +33,20 @@
     "exchange": "PALESTINE",
     "ticker": "PADICO-PS",
     "companyName": "Palestine Development & Investment Co.",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 1.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNAP-US",
     "companyName": "Snap, Inc",
-    "numberOfShares": 40804000.0,
+    "numberOfShares": 40804000,
     "sharePrice": 4.02,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
