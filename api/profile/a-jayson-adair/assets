@@ -3,21 +3,21 @@
     "exchange": "NASDAQ",
     "ticker": "CPRT-US",
     "companyName": "Copart",
-    "numberOfShares": 29587000,
-    "sharePrice": 32.61,
+    "numberOfShares": 29587000.0,
+    "sharePrice": 33.2,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CPRT-US",
     "companyName": "Copart",
-    "numberOfShares": 4000000,
+    "numberOfShares": 4000000.0,
     "exerciseOptionPrice": 21.26,
-    "sharePrice": 32.61,
+    "sharePrice": 33.2,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

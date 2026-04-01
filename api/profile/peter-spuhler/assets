@@ -3,40 +3,40 @@
     "exchange": "NASDAQ",
     "ticker": "AEBI-US",
     "companyName": "Aebi Schmidt",
-    "numberOfShares": 26436000,
-    "sharePrice": 9.42,
+    "numberOfShares": 26436000.0,
+    "sharePrice": 9.71,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "AUTN-CH",
     "companyName": "Autoneum Holding",
-    "numberOfShares": 946000,
-    "sharePrice": 141.5,
+    "numberOfShares": 946000.0,
+    "sharePrice": 143.6216552582452,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "RIEN-CH",
     "companyName": "Rieter Holding AG",
-    "numberOfShares": 45035000,
-    "sharePrice": 3.8124999999999996,
+    "numberOfShares": 45035000.0,
+    "sharePrice": 3.764779091474798,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "SRAIL-CH",
     "companyName": "Stadler Rail",
-    "numberOfShares": 34230000,
-    "sharePrice": 24.5125,
+    "numberOfShares": 34230000.0,
+    "sharePrice": 25.115121344119476,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   }
 ]

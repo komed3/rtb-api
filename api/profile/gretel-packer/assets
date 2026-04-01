@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "ZG-US",
     "companyName": "Zillow Class A",
-    "numberOfShares": 1200000,
-    "sharePrice": 40.63,
+    "numberOfShares": 1200000.0,
+    "sharePrice": 41.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "Z-US",
     "companyName": "Zillow Class C",
-    "numberOfShares": 2100000,
-    "sharePrice": 40.79,
+    "numberOfShares": 2100000.0,
+    "sharePrice": 41.38,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

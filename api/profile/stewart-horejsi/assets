@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "BRK.A-US",
     "companyName": "Berkshire Hathaway Inc. (Cl A)",
-    "numberOfShares": 3834,
-    "sharePrice": 712700,
+    "numberOfShares": 3834.0,
+    "sharePrice": 718140.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "STEW-US",
     "companyName": "SRH Total Return Fund",
-    "numberOfShares": 45384000,
-    "sharePrice": 16.71,
+    "numberOfShares": 45384000.0,
+    "sharePrice": 17.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

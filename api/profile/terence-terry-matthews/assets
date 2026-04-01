@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "CPAH-US",
     "companyName": "Counterpath Corp",
-    "numberOfShares": 1649000,
+    "numberOfShares": 1649000.0,
     "sharePrice": 3.48,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "TSX VENTURE",
     "ticker": "MTLO-CA",
     "companyName": "Martello Technologies Group",
-    "numberOfShares": 280256000,
-    "sharePrice": 0.003591695998850658,
+    "numberOfShares": 280256000.0,
+    "sharePrice": 0.0035826884494124392,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3921,
+    "exchangeRate": 1.3956,
     "interactive": false
   }
 ]

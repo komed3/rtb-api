@@ -3,17 +3,17 @@
     "exchange": "FRANKFURT",
     "ticker": "318-DE",
     "companyName": "Bank of Cyprus Holdings PLC",
-    "numberOfShares": 41363000,
-    "sharePrice": 8.736528319192846,
+    "numberOfShares": 41363000.0,
+    "sharePrice": 8.779813342550986,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8722,
+    "exchangeRate": 0.8679,
     "interactive": false
   },
   {
     "exchange": "MICEX",
     "ticker": "MRKU-RU",
     "companyName": "Interregional Distribution Grid",
-    "numberOfShares": 4380000000,
+    "numberOfShares": 4380000000.0,
     "sharePrice": 0.007065976714100906,
     "currencyCode": "RUB",
     "exchangeRate": 77.3,
@@ -24,9 +24,9 @@
     "ticker": "MEDX-CH",
     "companyName": "Medmix",
     "numberOfShares": 16728000.000000002,
-    "sharePrice": 10.825,
+    "sharePrice": 10.740510267579342,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "OERL-CH",
     "companyName": "OC Oerlikon Corporation AG",
     "numberOfShares": 64501000.00000001,
-    "sharePrice": 3.92,
+    "sharePrice": 3.865588052271313,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   },
   {
@@ -44,29 +44,29 @@
     "ticker": "SUN-CH",
     "companyName": "Sulzer",
     "numberOfShares": 16728000.000000002,
-    "sharePrice": 202.25,
+    "sharePrice": 204.85376477909148,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "STLN-CH",
     "companyName": "Swiss Steel Holding",
-    "numberOfShares": 1127000,
-    "sharePrice": 1.625,
+    "numberOfShares": 1127000.0,
+    "sharePrice": 1.6179215930304918,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8,
+    "exchangeRate": 0.8035,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "486-HK",
     "companyName": "United Co. RUSAL Plc",
-    "numberOfShares": 1911889000,
-    "sharePrice": 0.5423547127434216,
+    "numberOfShares": 1911889000.0,
+    "sharePrice": 0.5165684548863549,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8362,
+    "exchangeRate": 7.8402,
     "interactive": false
   }
 ]

@@ -3,45 +3,45 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 51.13,
-    "sharePrice": 138.8,
+    "numberOfShares": 1071732000.0,
+    "sharePrice": 147.11,
     "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 147.11
+    "exchangeRate": 1.0,
+    "interactive": true,
+    "currentPrice": 145.23
   },
   {
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 1071732000,
-    "sharePrice": 138.8,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 147.11,
     "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 147.11
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 145.23
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PSKY-US",
     "companyName": "Paramount Skydance Corporation (B)",
-    "numberOfShares": 542700000,
-    "sharePrice": 8.92,
+    "numberOfShares": 542700000.0,
+    "sharePrice": 9.02,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 9.02
+    "currentPrice": 9.25
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-    "numberOfShares": 36000000,
-    "sharePrice": 355.28,
+    "numberOfShares": 36000000.0,
+    "sharePrice": 371.75,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 371.75
+    "currentPrice": 381.26
   }
 ]

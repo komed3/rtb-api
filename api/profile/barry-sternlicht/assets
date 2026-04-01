@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "STWD-US",
     "companyName": "Starwood Property Trust",
-    "numberOfShares": 17930000,
-    "sharePrice": 17.37,
+    "numberOfShares": 17930000.0,
+    "sharePrice": 17.22,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "EL-US",
-    "companyName": "The Estée Lauder Companies",
-    "numberOfShares": 66892,
-    "sharePrice": 67.98,
+    "companyName": "The Est\u00e9e Lauder Companies",
+    "numberOfShares": 66892.0,
+    "sharePrice": 71.77,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "VELO-US",
     "companyName": "Velo3D",
-    "numberOfShares": 572850,
-    "sharePrice": 8.65,
+    "numberOfShares": 572850.0,
+    "sharePrice": 9.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

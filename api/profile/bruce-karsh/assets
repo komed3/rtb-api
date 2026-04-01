@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "INSG-US",
     "companyName": "Inseego Corp",
-    "numberOfShares": 0,
-    "sharePrice": 10.75,
+    "numberOfShares": 0.0,
+    "sharePrice": 11.12,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "OAK-US",
     "companyName": "Oaktree Capital Group LLC",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 51.52,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "AMZN-US",
     "companyName": "Amazon",
-    "numberOfShares": 48000,
-    "sharePrice": 200.95,
+    "numberOfShares": 48000.0,
+    "sharePrice": 208.27,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "INTU-US",
     "companyName": "Intuit",
-    "numberOfShares": 6163000,
-    "sharePrice": 429.03,
+    "numberOfShares": 6163000.0,
+    "sharePrice": 432.38,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -24,39 +24,39 @@
     "ticker": "META-US",
     "companyName": "Meta Platforms",
     "numberOfShares": 1023400.0000000001,
-    "sharePrice": 536.38,
+    "sharePrice": 572.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
-    "numberOfShares": 125000,
-    "sharePrice": 44.67,
+    "numberOfShares": 125000.0,
+    "sharePrice": 45.23,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PG-US",
     "companyName": "Procter & Gamble Co.",
-    "numberOfShares": 51000,
-    "sharePrice": 144.72,
+    "numberOfShares": 51000.0,
+    "sharePrice": 144.44,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNAP-US",
     "companyName": "Snap, Inc",
-    "numberOfShares": 57000,
-    "sharePrice": 4.02,
+    "numberOfShares": 57000.0,
+    "sharePrice": 4.6,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

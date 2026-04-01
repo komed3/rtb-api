@@ -3,40 +3,40 @@
     "exchange": "NYSE",
     "ticker": "CURB-US",
     "companyName": "CURBLINE",
-    "numberOfShares": 7946000,
-    "sharePrice": 25.62,
+    "numberOfShares": 7946000.0,
+    "sharePrice": 25.79,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "DEQ-DE",
     "companyName": "Deutsche Euroshop",
-    "numberOfShares": 11712000,
-    "sharePrice": 23.217152029351066,
+    "numberOfShares": 11712000.0,
+    "sharePrice": 23.447401774397974,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8722,
+    "exchangeRate": 0.8679,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PGRE-US",
     "companyName": "Paramount Group",
-    "numberOfShares": 14145000,
+    "numberOfShares": 14145000.0,
     "sharePrice": 6.6,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SITC-US",
     "companyName": "SITE Centers",
-    "numberOfShares": 3314000,
+    "numberOfShares": 3314000.0,
     "sharePrice": 14.37,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

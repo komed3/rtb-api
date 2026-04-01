@@ -3,20 +3,20 @@
     "exchange": "LONDON",
     "ticker": "BT.A-GB",
     "companyName": "BT Group",
-    "numberOfShares": 2435476000,
-    "sharePrice": 2.751748713211033,
+    "numberOfShares": 2435476000.0,
+    "sharePrice": 2.7759461954371623,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7577,
+    "exchangeRate": 0.7583,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "OPTU-US",
     "companyName": "Optimum Communications",
-    "numberOfShares": 216000000,
-    "sharePrice": 1.31,
+    "numberOfShares": 216000000.0,
+    "sharePrice": 1.3,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

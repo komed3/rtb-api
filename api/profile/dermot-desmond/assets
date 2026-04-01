@@ -3,40 +3,40 @@
     "exchange": "US OTC",
     "ticker": "AGACF-US",
     "companyName": "African Gold Acqusition Corp.",
-    "numberOfShares": 10350000,
+    "numberOfShares": 10350000.0,
     "sharePrice": 10.12,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "CCP-GB",
     "companyName": "Celtic PLC",
-    "numberOfShares": 32772000,
-    "sharePrice": 2.573577933218952,
+    "numberOfShares": 32772000.0,
+    "sharePrice": 2.5715416062244496,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7577,
+    "exchangeRate": 0.7583,
     "interactive": false
   },
   {
     "exchange": "EURONEXT DUBLIN",
     "ticker": "DLE-IE",
     "companyName": "Datalex PLC",
-    "numberOfShares": 53504000,
-    "sharePrice": 0.343957807842238,
+    "numberOfShares": 53504000.0,
+    "sharePrice": 0.3456619426201175,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8722,
+    "exchangeRate": 0.8679,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "MPVD-CA",
     "companyName": "Mountain Province Diamonds",
-    "numberOfShares": 74696000,
-    "sharePrice": 0.03591695998850658,
+    "numberOfShares": 74696000.0,
+    "sharePrice": 0.03940957294353683,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3921,
+    "exchangeRate": 1.3956,
     "interactive": false
   }
 ]

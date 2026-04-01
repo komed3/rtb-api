@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "ACRE-US",
     "companyName": "Ares Commercial Real Estate Corporation",
-    "numberOfShares": 756000,
-    "sharePrice": 4.85,
+    "numberOfShares": 756000.0,
+    "sharePrice": 4.8,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ARES-US",
     "companyName": "Ares Management LP",
-    "numberOfShares": 58701000,
-    "sharePrice": 107.66,
+    "numberOfShares": 58701000.0,
+    "sharePrice": 109.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "FMBH-US",
     "companyName": "First Mid Bancshares",
-    "numberOfShares": 1262000,
-    "sharePrice": 40.66,
+    "numberOfShares": 1262000.0,
+    "sharePrice": 41.19,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WMT-US",
     "companyName": "Walmart",
-    "numberOfShares": 141750000,
-    "sharePrice": 123.5,
+    "numberOfShares": 141750000.0,
+    "sharePrice": 124.28,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

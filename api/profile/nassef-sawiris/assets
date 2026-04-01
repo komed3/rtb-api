@@ -3,40 +3,40 @@
     "exchange": "XETRA",
     "ticker": "ADS-DE",
     "companyName": "Adidas",
-    "numberOfShares": 11530000,
-    "sharePrice": 153.23320339371705,
+    "numberOfShares": 11530000.0,
+    "sharePrice": 157.44901486346353,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8722,
+    "exchangeRate": 0.8679,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MSGS-US",
     "companyName": "Madison Square Garden Sports",
-    "numberOfShares": 133000,
-    "sharePrice": 312.73,
+    "numberOfShares": 133000.0,
+    "sharePrice": 321.4,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "EURONEXT AMSTERDAM",
     "ticker": "OCI-NL",
     "companyName": "OCI NV",
-    "numberOfShares": 81412000,
-    "sharePrice": 3.9234120614537953,
+    "numberOfShares": 81412000.0,
+    "sharePrice": 3.952068210623344,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8722,
+    "exchangeRate": 0.8679,
     "interactive": false
   },
   {
     "exchange": "ABU DHABI",
     "ticker": "ORAS-AE",
     "companyName": "Orascom Construction",
-    "numberOfShares": 46704000,
-    "sharePrice": 8.548404660786234,
+    "numberOfShares": 46704000.0,
+    "sharePrice": 8.591729507527292,
     "currencyCode": "AED",
-    "exchangeRate": 3.6732,
+    "exchangeRate": 3.6733,
     "interactive": false
   }
 ]

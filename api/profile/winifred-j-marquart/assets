@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "JOUT-US",
     "companyName": "Johnson Outdoors Inc. (Cl A)",
-    "numberOfShares": 471000,
-    "sharePrice": 46.45,
+    "numberOfShares": 471000.0,
+    "sharePrice": 46.51,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SEE-US",
     "companyName": "Sealed Air",
-    "numberOfShares": 1992000,
-    "sharePrice": 41.95,
+    "numberOfShares": 1992000.0,
+    "sharePrice": 42.05,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "BBWI-US",
     "companyName": "Bath & Body Works",
-    "numberOfShares": 3281000,
+    "numberOfShares": 3281000.0,
     "sharePrice": 18.67,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CRWV-US",
     "companyName": "Coreweave",
-    "numberOfShares": 18252500,
-    "sharePrice": 69.15,
+    "numberOfShares": 18252500.0,
+    "sharePrice": 77.47,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "VSCO-US",
     "companyName": "Victoria's Secret & Company",
-    "numberOfShares": 1093500,
-    "sharePrice": 43.29,
+    "numberOfShares": 1093500.0,
+    "sharePrice": 46.36,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

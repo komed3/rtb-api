@@ -3,40 +3,40 @@
     "exchange": "NYSE",
     "ticker": "CMCM-US",
     "companyName": "Cheetah Mobile",
-    "numberOfShares": 0,
-    "sharePrice": 5.56,
+    "numberOfShares": 0.0,
+    "sharePrice": 5.51,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "JOYY-US",
     "companyName": "JOYY Inc. Sponsored ADR",
-    "numberOfShares": 6137000,
-    "sharePrice": 56.47,
+    "numberOfShares": 6137000.0,
+    "sharePrice": 58.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "3888-HK",
     "companyName": "Kingsoft Corp Ltd",
-    "numberOfShares": 178190000,
-    "sharePrice": 2.914678032719941,
+    "numberOfShares": 178190000.0,
+    "sharePrice": 2.8672737940358664,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8362,
+    "exchangeRate": 7.8402,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "1810-HK",
     "companyName": "Xiaomi Corp.",
-    "numberOfShares": 6054180000,
-    "sharePrice": 4.132104846736939,
+    "numberOfShares": 6054180000.0,
+    "sharePrice": 4.050917068442132,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8362,
+    "exchangeRate": 7.8402,
     "interactive": false
   }
 ]

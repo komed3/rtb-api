@@ -3,22 +3,22 @@
     "exchange": "NASDAQ",
     "ticker": "FSLR-US",
     "companyName": "First Solar Inc.",
-    "numberOfShares": 1618910,
-    "sharePrice": 184.7,
+    "numberOfShares": 1618910.0,
+    "sharePrice": 197.26,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 197.26
+    "currentPrice": 199.42
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WMT-US",
     "companyName": "Walmart",
-    "numberOfShares": 148121025,
-    "sharePrice": 123.5,
+    "numberOfShares": 148121025.0,
+    "sharePrice": 124.28,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 124.28
+    "currentPrice": 124.74
   }
 ]

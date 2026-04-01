@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "GNK-US",
     "companyName": "Genco Shipping & Trading Limited",
-    "numberOfShares": 220994,
-    "sharePrice": 22.16,
+    "numberOfShares": 220994.0,
+    "sharePrice": 22.55,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SVRN-US",
     "companyName": "OceanPal Inc.",
-    "numberOfShares": 0,
-    "sharePrice": 7.35,
+    "numberOfShares": 0.0,
+    "sharePrice": 7.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -24,29 +24,29 @@
     "ticker": "PSHG-US",
     "companyName": "Performance Shipping Inc.",
     "numberOfShares": 1033859.0000000001,
-    "sharePrice": 1.81,
+    "sharePrice": 1.84,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SHIP-US",
     "companyName": "Seanergy Maritime Holdings Corp.",
-    "numberOfShares": 1859069,
-    "sharePrice": 12.01,
+    "numberOfShares": 1859069.0,
+    "sharePrice": 12.91,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RIG-US",
     "companyName": "Transocean",
-    "numberOfShares": 3712522,
-    "sharePrice": 6.65,
+    "numberOfShares": 3712522.0,
+    "sharePrice": 6.63,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

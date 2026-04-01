@@ -3,40 +3,40 @@
     "exchange": "NYSE",
     "ticker": "AN-US",
     "companyName": "AutoNation Inc.",
-    "numberOfShares": 3775000,
-    "sharePrice": 192.71,
+    "numberOfShares": 3775000.0,
+    "sharePrice": 195.26,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LE-US",
     "companyName": "Lands' End",
-    "numberOfShares": 17114000,
-    "sharePrice": 11.74,
+    "numberOfShares": 17114000.0,
+    "sharePrice": 11.24,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "SHLDQ-US",
     "companyName": "Sears Holdings Corp.",
-    "numberOfShares": 33515786,
+    "numberOfShares": 33515786.0,
     "sharePrice": 0.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SRG-US",
     "companyName": "Seritage Growth Properties",
-    "numberOfShares": 13420000,
-    "sharePrice": 2.66,
+    "numberOfShares": 13420000.0,
+    "sharePrice": 2.81,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

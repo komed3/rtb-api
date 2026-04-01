@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "C-US",
     "companyName": "Citigroup",
-    "numberOfShares": 5103000,
-    "sharePrice": 107.27,
+    "numberOfShares": 5103000.0,
+    "sharePrice": 113.41,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "SAO PAULO",
     "ticker": "HYPE3-BR",
     "companyName": "Hypera S.A.",
-    "numberOfShares": 910010,
-    "sharePrice": 4.214991306341594,
+    "numberOfShares": 910010.0,
+    "sharePrice": 4.458147417606619,
     "currencyCode": "BRL",
-    "exchangeRate": 5.2337,
+    "exchangeRate": 5.2219,
     "interactive": false
   }
 ]

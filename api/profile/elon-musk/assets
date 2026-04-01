@@ -3,23 +3,23 @@
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-    "numberOfShares": 413152109,
-    "sharePrice": 355.28,
+    "numberOfShares": 413152109.0,
+    "sharePrice": 371.75,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 371.75
+    "currentPrice": 381.26
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-    "numberOfShares": 303960620,
+    "numberOfShares": 303960620.0,
     "exerciseOptionPrice": 23.33666666666667,
-    "sharePrice": 355.28,
+    "sharePrice": 371.75,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 371.75
+    "currentPrice": 381.26
   }
 ]

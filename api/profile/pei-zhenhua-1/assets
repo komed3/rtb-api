@@ -3,20 +3,10 @@
     "exchange": "SHENZHEN",
     "ticker": "300750-CN",
     "companyName": "Contemporary Amperex Technology",
-    "numberOfShares": 227100000,
-    "sharePrice": 59.744242564518,
+    "numberOfShares": 227100000.0,
+    "sharePrice": 58.14828754234099,
     "currencyCode": "CNY",
-    "exchangeRate": 6.9128,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "300390-CN",
-    "companyName": "Suzhou TA and A Ultra Clean Technology",
-    "numberOfShares": 0,
-    "sharePrice": 9.065790996412453,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.9128,
+    "exchangeRate": 6.9082,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "300390-CN",
     "companyName": "Suzhou TA and A Ultra Clean Technology",
     "numberOfShares": 261100000.00000003,
-    "sharePrice": 9.065790996412453,
+    "sharePrice": 8.468197214904027,
     "currencyCode": "CNY",
-    "exchangeRate": 6.9128,
+    "exchangeRate": 6.9082,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "300390-CN",
+    "companyName": "Suzhou TA and A Ultra Clean Technology",
+    "numberOfShares": 0.0,
+    "sharePrice": 8.468197214904027,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.9082,
     "interactive": false
   }
 ]

@@ -3,21 +3,21 @@
     "exchange": "NASDAQ",
     "ticker": "CAI-US",
     "companyName": "Caris Life Sciences",
-    "numberOfShares": 122349000,
-    "sharePrice": 16.85,
+    "numberOfShares": 122349000.0,
+    "sharePrice": 17.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CAI-US",
     "companyName": "Caris Life Sciences",
-    "numberOfShares": 2000000,
+    "numberOfShares": 2000000.0,
     "exerciseOptionPrice": 2.44,
-    "sharePrice": 16.85,
+    "sharePrice": 17.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
