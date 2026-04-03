@@ -3,9 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "AMD-US",
     "companyName": "Advanced Micro Devices",
+    "numberOfShares": 120000.0,
+    "exerciseOptionPrice": 84.85,
+    "sharePrice": 210.21,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AMD-US",
+    "companyName": "Advanced Micro Devices",
     "numberOfShares": 112000.0,
     "exerciseOptionPrice": 107.58,
-    "sharePrice": 203.43,
+    "sharePrice": 210.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -16,7 +27,7 @@
     "companyName": "Advanced Micro Devices",
     "numberOfShares": 69000.0,
     "exerciseOptionPrice": 95.54,
-    "sharePrice": 203.43,
+    "sharePrice": 210.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -26,7 +37,7 @@
     "ticker": "AMD-US",
     "companyName": "Advanced Micro Devices",
     "numberOfShares": 4736000.0,
-    "sharePrice": 203.43,
+    "sharePrice": 210.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,7 +48,7 @@
     "companyName": "Advanced Micro Devices",
     "numberOfShares": 26000.0,
     "exerciseOptionPrice": 110.47,
-    "sharePrice": 203.43,
+    "sharePrice": 210.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -48,18 +59,7 @@
     "companyName": "Advanced Micro Devices",
     "numberOfShares": 224000.0,
     "exerciseOptionPrice": 34.19,
-    "sharePrice": 203.43,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "AMD-US",
-    "companyName": "Advanced Micro Devices",
-    "numberOfShares": 120000.0,
-    "exerciseOptionPrice": 84.85,
-    "sharePrice": 203.43,
+    "sharePrice": 210.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -69,7 +69,7 @@
     "ticker": "CSCO-US",
     "companyName": "Cisco Systems Inc.",
     "numberOfShares": 27900.0,
-    "sharePrice": 77.59,
+    "sharePrice": 77.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
