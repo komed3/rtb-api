@@ -94,8 +94,8 @@
     "exchange": "NASDAQ",
     "ticker": "NXPL-US",
     "companyName": "NextPlat",
-    "numberOfShares": 3429000.0,
-    "sharePrice": 0.483,
+    "numberOfShares": 342900.0,
+    "sharePrice": 4.829,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -126,17 +126,6 @@
     "companyName": "Non-Invasive Monitoring Systems Inc.",
     "numberOfShares": 0.0,
     "sharePrice": 0.06,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "OPK-US",
-    "companyName": "Opko Health",
-    "numberOfShares": 300000.0,
-    "exerciseOptionPrice": 8.37,
-    "sharePrice": 1.16,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -212,6 +201,17 @@
     "companyName": "Opko Health",
     "numberOfShares": 263000.0,
     "exerciseOptionPrice": 2.47,
+    "sharePrice": 1.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "OPK-US",
+    "companyName": "Opko Health",
+    "numberOfShares": 300000.0,
+    "exerciseOptionPrice": 8.37,
     "sharePrice": 1.16,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
