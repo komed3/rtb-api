@@ -24,7 +24,7 @@
     "ticker": "BCDA-US",
     "companyName": "BioCardia",
     "numberOfShares": 1896000.0,
-    "sharePrice": 1.19,
+    "sharePrice": 1.18,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,7 +35,7 @@
     "companyName": "Cocrystal Pharma",
     "numberOfShares": 57000.0,
     "exerciseOptionPrice": 1.11,
-    "sharePrice": 1.43,
+    "sharePrice": 1.53,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -45,7 +45,7 @@
     "ticker": "COCP-US",
     "companyName": "Cocrystal Pharma",
     "numberOfShares": 1376000.0,
-    "sharePrice": 1.43,
+    "sharePrice": 1.53,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -55,7 +55,7 @@
     "ticker": "DOUG-US",
     "companyName": "Douglas Elliman",
     "numberOfShares": 7650000.0,
-    "sharePrice": 1.7,
+    "sharePrice": 1.71,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -75,7 +75,7 @@
     "ticker": "FLNT-US",
     "companyName": "Fluent",
     "numberOfShares": 7866000.0,
-    "sharePrice": 3.09,
+    "sharePrice": 3.18,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -95,7 +95,7 @@
     "ticker": "NXPL-US",
     "companyName": "NextPlat",
     "numberOfShares": 342900.0,
-    "sharePrice": 5.41,
+    "sharePrice": 5.24,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -105,7 +105,7 @@
     "ticker": "NAGE-US",
     "companyName": "Niagen Bioscience",
     "numberOfShares": 1524000.0,
-    "sharePrice": 4.61,
+    "sharePrice": 4.69,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -115,7 +115,7 @@
     "ticker": "NNUP-US",
     "companyName": "Nocopi Technologies",
     "numberOfShares": 1490000.0,
-    "sharePrice": 1.52,
+    "sharePrice": 1.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -125,7 +125,18 @@
     "ticker": "NIMU-US",
     "companyName": "Non-Invasive Monitoring Systems Inc.",
     "numberOfShares": 0.0,
-    "sharePrice": 0.05,
+    "sharePrice": 0.055,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "OPK-US",
+    "companyName": "Opko Health",
+    "numberOfShares": 500000.0,
+    "exerciseOptionPrice": 14.42,
+    "sharePrice": 1.17,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -207,17 +218,6 @@
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
-    "ticker": "OPK-US",
-    "companyName": "Opko Health",
-    "numberOfShares": 500000.0,
-    "exerciseOptionPrice": 14.42,
-    "sharePrice": 1.17,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
     "exchange": "US OTC",
     "ticker": "PKBO-US",
     "companyName": "Peak Bio, Inc.",
@@ -232,7 +232,7 @@
     "ticker": "PFE-US",
     "companyName": "Pfizer",
     "numberOfShares": 472000.0,
-    "sharePrice": 27.34,
+    "sharePrice": 27.11,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -242,9 +242,9 @@
     "ticker": "6808-HK",
     "companyName": "Sun Art Retail Group Limited",
     "numberOfShares": 3240000.0,
-    "sharePrice": 0.1902135753769165,
+    "sharePrice": 0.19022571749565928,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8333,
+    "exchangeRate": 7.8328,
     "interactive": false
   },
   {
@@ -252,7 +252,7 @@
     "ticker": "TEVA-US",
     "companyName": "Teva Pharmaceutical Industries Ltd.",
     "numberOfShares": 9031500.0,
-    "sharePrice": 31.15,
+    "sharePrice": 31.77,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -272,7 +272,7 @@
     "ticker": "VERU-US",
     "companyName": "Veru",
     "numberOfShares": 510000.0,
-    "sharePrice": 2.38,
+    "sharePrice": 2.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
