@@ -4,7 +4,7 @@
     "ticker": "ANGI-US",
     "companyName": "Angie's List",
     "numberOfShares": 3358202.0,
-    "sharePrice": 7.59,
+    "sharePrice": 7.28,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
     "numberOfShares": 4000000.0,
-    "sharePrice": 75.9,
+    "sharePrice": 75.31,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "EXPE-US",
     "companyName": "Expedia",
     "numberOfShares": 5220000.0,
-    "sharePrice": 248.57,
+    "sharePrice": 257.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -34,18 +34,7 @@
     "ticker": "IAC-US",
     "companyName": "IAC/InterActiveCorp.",
     "numberOfShares": 6394000.0,
-    "sharePrice": 41.85,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "VMEO-US",
-    "companyName": "Vimeo",
-    "numberOfShares": 812000.0,
-    "exerciseOptionPrice": 5.3109,
-    "sharePrice": 7.85,
+    "sharePrice": 43.24,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -66,6 +55,17 @@
     "companyName": "Vimeo",
     "numberOfShares": 812000.0,
     "exerciseOptionPrice": 4.2488,
+    "sharePrice": 7.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VMEO-US",
+    "companyName": "Vimeo",
+    "numberOfShares": 812000.0,
+    "exerciseOptionPrice": 5.3109,
     "sharePrice": 7.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
