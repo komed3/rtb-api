@@ -5,7 +5,7 @@
     "companyName": "Ardagh Metal Packaging",
     "numberOfShares": 6250000.0,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 4.11,
+    "sharePrice": 4.12,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,7 +15,7 @@
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
     "numberOfShares": 9768750.0,
-    "sharePrice": 4.11,
+    "sharePrice": 4.12,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "CSGP-US",
     "companyName": "CoStar Group Inc.",
     "numberOfShares": 310000.0,
-    "sharePrice": 39.31,
+    "sharePrice": 40.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,7 +46,7 @@
     "ticker": "SJM-US",
     "companyName": "J.M. Smucker Co.",
     "numberOfShares": 145800.0,
-    "sharePrice": 93.49,
+    "sharePrice": 93.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -87,8 +87,9 @@
     "exchange": "NASDAQ",
     "ticker": "PSNY-US",
     "companyName": "Polestar Automotive Holding UK",
-    "numberOfShares": 293436.0,
-    "sharePrice": 21.04,
+    "numberOfShares": 148500.0,
+    "exerciseOptionPrice": 348.48484848484844,
+    "sharePrice": 20.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -97,9 +98,8 @@
     "exchange": "NASDAQ",
     "ticker": "PSNY-US",
     "companyName": "Polestar Automotive Holding UK",
-    "numberOfShares": 148500.0,
-    "exerciseOptionPrice": 348.48484848484844,
-    "sharePrice": 21.04,
+    "numberOfShares": 293436.0,
+    "sharePrice": 20.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -129,8 +129,9 @@
     "exchange": "NYSE",
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
-    "numberOfShares": 5667000.0,
-    "sharePrice": 3.81,
+    "numberOfShares": 2310000.0,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 3.75,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -139,9 +140,8 @@
     "exchange": "NYSE",
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
-    "numberOfShares": 2310000.0,
-    "exerciseOptionPrice": 11.5,
-    "sharePrice": 3.81,
+    "numberOfShares": 5667000.0,
+    "sharePrice": 3.75,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -151,7 +151,7 @@
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
     "numberOfShares": 3416000.0,
-    "sharePrice": 14.98,
+    "sharePrice": 14.84,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

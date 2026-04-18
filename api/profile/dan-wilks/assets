@@ -4,9 +4,9 @@
     "ticker": "ACX-CA",
     "companyName": "ACT Energy Technologies",
     "numberOfShares": 2088852.9999999998,
-    "sharePrice": 4.524623554230014,
+    "sharePrice": 4.564345606999636,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3747,
+    "exchangeRate": 1.3715,
     "interactive": false
   },
   {
@@ -14,7 +14,7 @@
     "ticker": "BATL-US",
     "companyName": "Battalion Oil",
     "numberOfShares": 0.0,
-    "sharePrice": 3.3,
+    "sharePrice": 3.57,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -34,17 +34,7 @@
     "ticker": "DWSN-US",
     "companyName": "Dawson Geophysical",
     "numberOfShares": 12329548.0,
-    "sharePrice": 2.76,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "FTK-US",
-    "companyName": "FTK Flotek Industries Inc",
-    "numberOfShares": 9972989.0,
-    "sharePrice": 16.37,
+    "sharePrice": 2.84,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -55,7 +45,17 @@
     "companyName": "FTK Flotek Industries Inc",
     "numberOfShares": 1092037.0,
     "exerciseOptionPrice": 0.33,
-    "sharePrice": 16.37,
+    "sharePrice": 16.29,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "FTK-US",
+    "companyName": "FTK Flotek Industries Inc",
+    "numberOfShares": 9972989.0,
+    "sharePrice": 16.29,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +65,7 @@
     "ticker": "PTEN-US",
     "companyName": "Patterson-UTI Energy",
     "numberOfShares": 16167475.0,
-    "sharePrice": 9.92,
+    "sharePrice": 10.41,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -85,7 +85,7 @@
     "ticker": "PUMP-US",
     "companyName": "ProPetro Holding",
     "numberOfShares": 4918815.0,
-    "sharePrice": 14.49,
+    "sharePrice": 14.76,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -95,7 +95,7 @@
     "ticker": "SEI-US",
     "companyName": "Solaris Energy Infrastructure",
     "numberOfShares": 3178875.0,
-    "sharePrice": 66.05,
+    "sharePrice": 67.14,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
