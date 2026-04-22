@@ -3,8 +3,19 @@
     "exchange": "NASDAQ",
     "ticker": "VICR-US",
     "companyName": "Vicor Corp.",
+    "numberOfShares": 2433.0,
+    "exerciseOptionPrice": 33.96,
+    "sharePrice": 224.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "VICR-US",
+    "companyName": "Vicor Corp.",
     "numberOfShares": 20902000.0,
-    "sharePrice": 218.05,
+    "sharePrice": 224.81,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,7 +26,7 @@
     "companyName": "Vicor Corp.",
     "numberOfShares": 4115.0,
     "exerciseOptionPrice": 60.61,
-    "sharePrice": 218.05,
+    "sharePrice": 224.81,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -26,18 +37,7 @@
     "companyName": "Vicor Corp.",
     "numberOfShares": 6910.0,
     "exerciseOptionPrice": 41.61,
-    "sharePrice": 218.05,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "VICR-US",
-    "companyName": "Vicor Corp.",
-    "numberOfShares": 2433.0,
-    "exerciseOptionPrice": 33.96,
-    "sharePrice": 218.05,
+    "sharePrice": 224.81,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

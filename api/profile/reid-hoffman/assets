@@ -4,7 +4,7 @@
     "ticker": "AUR-US",
     "companyName": "Aurora Innovation",
     "numberOfShares": 4160000.0,
-    "sharePrice": 5.27,
+    "sharePrice": 5.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "FIG-US",
     "companyName": "Figma",
     "numberOfShares": 1460000.0,
-    "sharePrice": 18.92,
+    "sharePrice": 19.01,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "companyName": "Hippo Holdings",
     "numberOfShares": 70400.0,
     "exerciseOptionPrice": 287.5,
-    "sharePrice": 28.89,
+    "sharePrice": 28.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,17 +35,7 @@
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
     "numberOfShares": 0.0,
-    "sharePrice": 28.89,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "JOBY-US",
-    "companyName": "Joby Aviation",
-    "numberOfShares": 7580000.0,
-    "sharePrice": 9.22,
+    "sharePrice": 28.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -56,7 +46,17 @@
     "companyName": "Joby Aviation",
     "numberOfShares": 4613000.0,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 9.22,
+    "sharePrice": 9.14,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 7580000.0,
+    "sharePrice": 9.14,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -66,7 +66,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 16000.0,
-    "sharePrice": 422.79,
+    "sharePrice": 418.07,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +76,7 @@
     "ticker": "VOR-US",
     "companyName": "Vor Biopharma",
     "numberOfShares": 1167000.0,
-    "sharePrice": 16.59,
+    "sharePrice": 15.71,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
