@@ -4,9 +4,9 @@
     "ticker": "3481-TW",
     "companyName": "Chimei Innolux Corp.",
     "numberOfShares": 0.0,
-    "sharePrice": 0.7738114192911506,
+    "sharePrice": 0.772758286920233,
     "currencyCode": "TWD",
-    "exchangeRate": 31.403,
+    "exchangeRate": 31.5105,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "6589-TW",
     "companyName": "EirGenix",
     "numberOfShares": 27500000.0,
-    "sharePrice": 1.4680126102601663,
+    "sharePrice": 1.512194347915774,
     "currencyCode": "TWD",
-    "exchangeRate": 31.403,
-    "interactive": false
-  },
-  {
-    "exchange": "TAIWAN",
-    "ticker": "2317-TW",
-    "companyName": "Hon Hai Precision Industries",
-    "numberOfShares": 0.0,
-    "sharePrice": 7.260452822978697,
-    "currencyCode": "TWD",
-    "exchangeRate": 31.403,
+    "exchangeRate": 31.5105,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "2317-TW",
     "companyName": "Hon Hai Precision Industries",
     "numberOfShares": 1527199000.0,
-    "sharePrice": 7.260452822978697,
+    "sharePrice": 7.156344710493327,
     "currencyCode": "TWD",
-    "exchangeRate": 31.403,
+    "exchangeRate": 31.5105,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "2317-TW",
+    "companyName": "Hon Hai Precision Industries",
+    "numberOfShares": 0.0,
+    "sharePrice": 7.156344710493327,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.5105,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "6753-JP",
     "companyName": "Sharp",
     "numberOfShares": 76446000.0,
-    "sharePrice": 3.4247134558015384,
+    "sharePrice": 3.5444385311335815,
     "currencyCode": "JPY",
-    "exchangeRate": 159.225,
+    "exchangeRate": 159.715,
     "interactive": false
   }
 ]
