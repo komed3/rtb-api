@@ -4,9 +4,19 @@
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
     "numberOfShares": 559470000.0,
-    "sharePrice": 0.5456087999531917,
+    "sharePrice": 0.5473277527366388,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600155-CN",
+    "companyName": "Hebei Baoshuo",
+    "numberOfShares": 0.0,
+    "sharePrice": 0.9044078908856759,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8332,
     "interactive": false
   },
   {
@@ -14,19 +24,19 @@
     "ticker": "600155-CN",
     "companyName": "Hebei Baoshuo",
     "numberOfShares": 265140000.0,
-    "sharePrice": 0.8908197296822888,
+    "sharePrice": 0.9044078908856759,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
     "interactive": false
   },
   {
-    "exchange": "SHANGHAI",
-    "ticker": "600155-CN",
-    "companyName": "Hebei Baoshuo",
+    "exchange": "SHENZHEN",
+    "ticker": "002946-CN",
+    "companyName": "New Hope Dairy",
     "numberOfShares": 0.0,
-    "sharePrice": 0.8908197296822888,
+    "sharePrice": 2.8815196394075984,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
     "interactive": false
   },
   {
@@ -34,19 +44,9 @@
     "ticker": "002946-CN",
     "companyName": "New Hope Dairy",
     "numberOfShares": 658278000.0,
-    "sharePrice": 2.8187350067286876,
+    "sharePrice": 2.8815196394075984,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002946-CN",
-    "companyName": "New Hope Dairy",
-    "numberOfShares": 0.0,
-    "sharePrice": 2.8187350067286876,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "000876-CN",
     "companyName": "New Hope Liuhe",
     "numberOfShares": 2461885000.0,
-    "sharePrice": 1.2682113393013867,
+    "sharePrice": 1.276122460926067,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
     "interactive": false
   },
   {
@@ -64,19 +64,9 @@
     "ticker": "3658-HK",
     "companyName": "New Hope Service Holdings Limited",
     "numberOfShares": 557052000.0,
-    "sharePrice": 0.2526767141817996,
+    "sharePrice": 0.25392693539537314,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8361,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "601139-CN",
-    "companyName": "Shenzhen Gas Corporation Ltd",
-    "numberOfShares": 0.0,
-    "sharePrice": 1.0356327891872916,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 7.8369,
     "interactive": false
   },
   {
@@ -84,9 +74,19 @@
     "ticker": "601139-CN",
     "companyName": "Shenzhen Gas Corporation Ltd",
     "numberOfShares": 121126000.0,
-    "sharePrice": 1.0356327891872916,
+    "sharePrice": 1.0317274483404555,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "601139-CN",
+    "companyName": "Shenzhen Gas Corporation Ltd",
+    "numberOfShares": 0.0,
+    "sharePrice": 1.0317274483404555,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8332,
     "interactive": false
   },
   {
@@ -94,9 +94,9 @@
     "ticker": "300266-CN",
     "companyName": "Xingyuan Environment Technology",
     "numberOfShares": 213825000.0,
-    "sharePrice": 0.35106196243637,
+    "sharePrice": 0.36293391090557864,
     "currencyCode": "CNY",
-    "exchangeRate": 6.8364,
+    "exchangeRate": 6.8332,
     "interactive": false
   }
 ]
