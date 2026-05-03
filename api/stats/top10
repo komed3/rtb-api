@@ -170,6 +170,14 @@
       "source": [
         "Walmart"
       ]
+    },
+    "jim-walton": {
+      "name": "Jim Walton & family",
+      "image": "https:////specials-images.forbesimg.com/imageserve/5c7ef2fea7ea434b351bca5a/416x416.jpg?background=000000&cropX1=49&cropX2=934&cropY1=65&cropY2=951",
+      "gender": "m",
+      "source": [
+        "Walmart"
+      ]
     }
   },
   "list": {
@@ -4129,52 +4137,104 @@
       {
         "rank": 1,
         "uri": "elon-musk",
-        "networth": 805168.383
+        "networth": 816979.229
       },
       {
         "rank": 2,
         "uri": "larry-page",
-        "networth": 227150.477
+        "networth": 238011.382
       },
       {
         "rank": 3,
         "uri": "jeff-bezos",
-        "networth": 215758.092
+        "networth": 222215.811
       },
       {
         "rank": 4,
         "uri": "sergey-jr-brin",
-        "networth": 209717.426
+        "networth": 219702.344
       },
       {
         "rank": 5,
         "uri": "mark-zuckerberg",
-        "networth": 184393.392
+        "networth": 196515.013
       },
       {
         "rank": 6,
         "uri": "larry-ellison",
-        "networth": 179121.866
+        "networth": 188675.149
       },
       {
         "rank": 7,
-        "uri": "bernard-arnault",
-        "networth": 143374.238
+        "uri": "jensen-huang",
+        "networth": 151188.864
       },
       {
         "rank": 8,
-        "uri": "jensen-huang",
-        "networth": 143337.754
+        "uri": "michael-dell",
+        "networth": 143533.768
       },
       {
         "rank": 9,
         "uri": "rob-walton",
-        "networth": 141974.235
+        "networth": 142689.289
       },
       {
         "rank": 10,
+        "uri": "bernard-arnault",
+        "networth": 142524.03
+      }
+    ],
+    "2026-04": [
+      {
+        "rank": 1,
+        "uri": "elon-musk",
+        "networth": 775773.198
+      },
+      {
+        "rank": 2,
+        "uri": "larry-page",
+        "networth": 286032.901
+      },
+      {
+        "rank": 3,
+        "uri": "jeff-bezos",
+        "networth": 270534.014
+      },
+      {
+        "rank": 4,
+        "uri": "sergey-brin",
+        "networth": 263850.768
+      },
+      {
+        "rank": 5,
+        "uri": "mark-zuckerberg",
+        "networth": 229401.055
+      },
+      {
+        "rank": 6,
+        "uri": "larry-ellison",
+        "networth": 207348.672
+      },
+      {
+        "rank": 7,
+        "uri": "jensen-huang",
+        "networth": 180832.547
+      },
+      {
+        "rank": 8,
         "uri": "michael-dell",
-        "networth": 140721.473
+        "networth": 173442.369
+      },
+      {
+        "rank": 9,
+        "uri": "rob-walton",
+        "networth": 146108.713
+      },
+      {
+        "rank": 10,
+        "uri": "jim-walton",
+        "networth": 143381.763
       }
     ]
   }

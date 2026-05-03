@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
-    "numberOfShares": 3280000.0,
-    "sharePrice": 271.35,
+    "numberOfShares": 3280000,
+    "sharePrice": 280.14,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "NKE-US",
     "companyName": "Nike",
-    "numberOfShares": 105000.0,
-    "sharePrice": 44.36,
+    "numberOfShares": 105000,
+    "sharePrice": 44.4,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

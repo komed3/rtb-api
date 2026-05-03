@@ -4,50 +4,50 @@
     "ticker": "ACX-CA",
     "companyName": "ACT Energy Technologies",
     "numberOfShares": 2088852.9999999998,
-    "sharePrice": 4.988612151935934,
+    "sharePrice": 4.950640931191985,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3611,
+    "exchangeRate": 1.3574,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "DWSN-US",
     "companyName": "Dawson Geophysical",
-    "numberOfShares": 12329548.0,
-    "sharePrice": 3.31,
+    "numberOfShares": 12329548,
+    "sharePrice": 3.44,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FTK-US",
     "companyName": "FTK Flotek Industries Inc",
-    "numberOfShares": 1092037.0,
+    "numberOfShares": 9897839,
+    "sharePrice": 16.88,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "FTK-US",
+    "companyName": "FTK Flotek Industries Inc",
+    "numberOfShares": 1092037,
     "exerciseOptionPrice": 0.33,
-    "sharePrice": 16.9,
+    "sharePrice": 16.88,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "FTK-US",
-    "companyName": "FTK Flotek Industries Inc",
-    "numberOfShares": 9897839.0,
-    "sharePrice": 16.9,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ACDC-US",
     "companyName": "ProFrac Holding Corp.",
-    "numberOfShares": 61045598.0,
-    "sharePrice": 7.54,
+    "numberOfShares": 61045598,
+    "sharePrice": 7.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
