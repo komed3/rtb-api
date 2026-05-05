@@ -13,7 +13,8 @@
     "exchange": "NASDAQ",
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
-    "numberOfShares": 33127707,
+    "numberOfShares": 2367200,
+    "exerciseOptionPrice": 17,
     "sharePrice": 4.14,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -23,8 +24,7 @@
     "exchange": "NASDAQ",
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
-    "numberOfShares": 2367200,
-    "exerciseOptionPrice": 17,
+    "numberOfShares": 33127707,
     "sharePrice": 4.14,
     "currencyCode": "USD",
     "exchangeRate": 1,
@@ -64,7 +64,7 @@
   {
     "companyName": "SQD",
     "numberOfShares": 69000000,
-    "sharePrice": 0.032523,
+    "sharePrice": 0.032321,
     "currencyCode": "USD",
     "exchangeRate": 1,
     "interactive": false
