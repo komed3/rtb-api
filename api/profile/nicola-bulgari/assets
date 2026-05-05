@@ -3,7 +3,7 @@
     "exchange": "EURONEXT PARIS",
     "ticker": "RMS-FR",
     "companyName": "Hermes International S.C.A.",
-    "numberOfShares": 6500.0,
+    "numberOfShares": 6500,
     "sharePrice": 1910.4495175335373,
     "currencyCode": "EUR",
     "exchangeRate": 0.8498,
@@ -13,7 +13,7 @@
     "exchange": "EURONEXT PARIS",
     "ticker": "MC-FR",
     "companyName": "LVMH Moet Hennessy Louis Vuitton",
-    "numberOfShares": 391500.0,
+    "numberOfShares": 391500,
     "sharePrice": 531.1838079548129,
     "currencyCode": "EUR",
     "exchangeRate": 0.8498,
@@ -23,10 +23,10 @@
     "exchange": "NASDAQ",
     "ticker": "SLS-US",
     "companyName": "Sellas Life Sciences",
-    "numberOfShares": 12417.0,
+    "numberOfShares": 12417,
     "sharePrice": 4.93,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]
