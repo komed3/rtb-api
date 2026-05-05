@@ -23,10 +23,16 @@ API_DIR = Path(__file__).parent.parent / "api"
 
 
 def fetch_all():
-    url = f"{FORBES_API}?limit=3000"
-    req = urllib.request.Request(url, headers={"User-Agent": "rtb-api-updater"})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.loads(resp.read())
+    all_data = []
+    for offset in [0, 2000]:
+        url = f"{FORBES_API}?limit=2000&offset={offset}"
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        })
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read())
+            all_data.extend(data["personList"]["personsLists"])
+    return all_data
 
 
 def write_json(path, data):
@@ -76,8 +82,7 @@ def country_code(name):
 
 def main():
     print("Fetching Forbes real-time data...")
-    data = fetch_all()
-    people = data["personList"]["personsLists"]
+    people = fetch_all()
     print(f"  {len(people)} billionaires")
 
     ts = people[0]["timestamp"]
