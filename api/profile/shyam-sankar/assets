@@ -3,31 +3,31 @@
     "exchange": "NYSE",
     "ticker": "DNA-US",
     "companyName": "Ginkgo Bioworks Holdings",
-    "numberOfShares": 72372,
+    "numberOfShares": 72372.0,
     "sharePrice": 9.7,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PLTR-US",
     "companyName": "Palantir",
-    "numberOfShares": 4468677,
+    "numberOfShares": 4468677.0,
     "sharePrice": 144.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PLTR-US",
     "companyName": "Palantir",
-    "numberOfShares": 750000,
+    "numberOfShares": 750000.0,
     "exerciseOptionPrice": 11.38,
     "sharePrice": 144.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

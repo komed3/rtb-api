@@ -3,21 +3,21 @@
     "exchange": "NASDAQ",
     "ticker": "PLTR-US",
     "companyName": "Palantir",
-    "numberOfShares": 11475000,
+    "numberOfShares": 11475000.0,
     "exerciseOptionPrice": 11.38,
     "sharePrice": 144.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PLTR-US",
     "companyName": "Palantir",
-    "numberOfShares": 13185000,
+    "numberOfShares": 13185000.0,
     "sharePrice": 144.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -28,7 +28,7 @@
     "exerciseOptionPrice": 4.72,
     "sharePrice": 144.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

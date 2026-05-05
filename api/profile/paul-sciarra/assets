@@ -3,10 +3,10 @@
     "exchange": "NYSE",
     "ticker": "JOBY-US",
     "companyName": "Joby Aviation",
-    "numberOfShares": 56469000,
+    "numberOfShares": 56469000.0,
     "sharePrice": 9.25,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -16,7 +16,7 @@
     "numberOfShares": 32884999.999999996,
     "sharePrice": 20.22,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

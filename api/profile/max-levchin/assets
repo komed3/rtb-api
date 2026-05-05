@@ -3,21 +3,21 @@
     "exchange": "NASDAQ",
     "ticker": "AFRM-US",
     "companyName": "Affirm Holdings",
-    "numberOfShares": 27221000,
+    "numberOfShares": 27221000.0,
     "sharePrice": 67.54,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AFRM-US",
     "companyName": "Affirm Holdings",
-    "numberOfShares": 2000000,
-    "exerciseOptionPrice": 49,
+    "numberOfShares": 2000000.0,
+    "exerciseOptionPrice": 49.0,
     "sharePrice": 67.54,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

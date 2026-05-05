@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "SCHW-US",
     "companyName": "Charles Schwab Corp.",
-    "numberOfShares": 1918000,
+    "numberOfShares": 1918000.0,
     "sharePrice": 91.54,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GAP-US",
     "companyName": "Gap Inc.",
-    "numberOfShares": 7730000,
+    "numberOfShares": 7730000.0,
     "sharePrice": 24.68,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "AMH-US",
     "companyName": "American Homes 4 Rent",
-    "numberOfShares": 21461000,
+    "numberOfShares": 21461000.0,
     "sharePrice": 31.95,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PSA-US",
     "companyName": "Public Storage",
-    "numberOfShares": 17293000,
+    "numberOfShares": 17293000.0,
     "sharePrice": 301.55,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

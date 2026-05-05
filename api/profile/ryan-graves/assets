@@ -3,30 +3,30 @@
     "exchange": "NYSE",
     "ticker": "LMND-US",
     "companyName": "Lemonade",
-    "numberOfShares": 169354,
+    "numberOfShares": 169354.0,
     "sharePrice": 56.66,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MILE-US",
     "companyName": "Metromile",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 1.05,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "UBER-US",
     "companyName": "Uber Technologies",
-    "numberOfShares": 8798000,
+    "numberOfShares": 8798000.0,
     "sharePrice": 75.12,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

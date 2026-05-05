@@ -3,10 +3,10 @@
     "exchange": "NASDAQ",
     "ticker": "COLM-US",
     "companyName": "Columbia Sportswear Co.",
-    "numberOfShares": 22845000,
+    "numberOfShares": 22845000.0,
     "sharePrice": 62.35,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -16,7 +16,7 @@
     "numberOfShares": 32696.999999999996,
     "sharePrice": 52.86,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

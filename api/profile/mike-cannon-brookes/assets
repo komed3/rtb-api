@@ -3,7 +3,7 @@
     "exchange": "ASX",
     "ticker": "AGL-AU",
     "companyName": "AGL Energy",
-    "numberOfShares": 70037000,
+    "numberOfShares": 70037000.0,
     "sharePrice": 6.992855596449448,
     "currencyCode": "AUD",
     "exchangeRate": 1.3857,
@@ -13,10 +13,10 @@
     "exchange": "NASDAQ",
     "ticker": "TEAM-US",
     "companyName": "Atlassian Corp",
-    "numberOfShares": 47427000,
+    "numberOfShares": 47427000.0,
     "sharePrice": 88.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
