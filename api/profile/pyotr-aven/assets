@@ -3,7 +3,7 @@
     "exchange": "MADRID",
     "ticker": "DIA-ES",
     "companyName": "Distribuidora Internacional de Alime",
-    "numberOfShares": 5505000,
+    "numberOfShares": 5505000.0,
     "sharePrice": 46.12850082372323,
     "currencyCode": "EUR",
     "exchangeRate": 0.8498,
@@ -13,7 +13,7 @@
     "exchange": "ISTANBUL",
     "ticker": "TCELL.E-TR",
     "companyName": "Turkcell Iletisim Hizmetleri A.S.",
-    "numberOfShares": 53143000,
+    "numberOfShares": 53143000.0,
     "sharePrice": 2.481241284667655,
     "currencyCode": "TRY",
     "exchangeRate": 45.179,
@@ -23,10 +23,10 @@
     "exchange": "NASDAQ",
     "ticker": "VEON-US",
     "companyName": "VEON Ltd. ADR",
-    "numberOfShares": 4818000,
+    "numberOfShares": 4818000.0,
     "sharePrice": 50.29,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,20 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 608.745,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "P-US",
     "companyName": "Pure Storage",
-    "numberOfShares": 107000,
+    "numberOfShares": 107000.0,
     "sharePrice": 67.8,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,7 +3,7 @@
     "exchange": "HONG KONG",
     "ticker": "1024-HK",
     "companyName": "Kuaishou Technology",
-    "numberOfShares": 9730000,
+    "numberOfShares": 9730000.0,
     "sharePrice": 5.475221114698862,
     "currencyCode": "HKD",
     "exchangeRate": 7.8353,
@@ -13,7 +13,7 @@
     "exchange": "HONG KONG",
     "ticker": "3690-HK",
     "companyName": "Meituan Dianping",
-    "numberOfShares": 18000000,
+    "numberOfShares": 18000000.0,
     "sharePrice": 10.624992023279262,
     "currencyCode": "HKD",
     "exchangeRate": 7.8353,
@@ -23,10 +23,10 @@
     "exchange": "NASDAQ",
     "ticker": "PDD-US",
     "companyName": "Pinduoduo",
-    "numberOfShares": 7560000,
+    "numberOfShares": 7560000.0,
     "sharePrice": 99.72,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
