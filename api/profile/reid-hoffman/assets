@@ -4,7 +4,7 @@
     "ticker": "AUR-US",
     "companyName": "Aurora Innovation",
     "numberOfShares": 4160000.0,
-    "sharePrice": 6.13,
+    "sharePrice": 6.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "FIG-US",
     "companyName": "Figma",
     "numberOfShares": 1460000.0,
-    "sharePrice": 18.74,
+    "sharePrice": 19.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
     "numberOfShares": 0.0,
-    "sharePrice": 27.73,
+    "sharePrice": 27.49,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,7 +35,17 @@
     "companyName": "Hippo Holdings",
     "numberOfShares": 70400.0,
     "exerciseOptionPrice": 287.5,
-    "sharePrice": 27.73,
+    "sharePrice": 27.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 7580000.0,
+    "sharePrice": 8.86,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,17 +56,7 @@
     "companyName": "Joby Aviation",
     "numberOfShares": 4613000.0,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 9.25,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "JOBY-US",
-    "companyName": "Joby Aviation",
-    "numberOfShares": 7580000.0,
-    "sharePrice": 9.25,
+    "sharePrice": 8.86,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -66,7 +66,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 16000.0,
-    "sharePrice": 414.44,
+    "sharePrice": 413.62,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +76,7 @@
     "ticker": "VOR-US",
     "companyName": "Vor Biopharma",
     "numberOfShares": 1167000.0,
-    "sharePrice": 13.85,
+    "sharePrice": 14.71,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

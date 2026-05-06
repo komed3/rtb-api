@@ -4,7 +4,7 @@
     "ticker": "CLS-US",
     "companyName": "Celestica, Inc.",
     "numberOfShares": 121000.0,
-    "sharePrice": 418.93,
+    "sharePrice": 420.73,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,31 +14,9 @@
     "ticker": "IDG-CA",
     "companyName": "Indigo Books and Music, Inc.",
     "numberOfShares": 16200000.0,
-    "sharePrice": 1.834389273611316,
+    "sharePrice": 1.8298059964726632,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3574,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ONEX-CA",
-    "companyName": "Onex Corp. (Canada)",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 42.32355974657434,
-    "sharePrice": 85.14807720642405,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3574,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ONEX-CA",
-    "companyName": "Onex Corp. (Canada)",
-    "numberOfShares": 327000.0,
-    "exerciseOptionPrice": 60.48327685280684,
-    "sharePrice": 85.14807720642405,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.3574,
+    "exchangeRate": 1.3608,
     "interactive": false
   },
   {
@@ -46,10 +24,10 @@
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
     "numberOfShares": 230000.0,
-    "exerciseOptionPrice": 53.204655959923386,
-    "sharePrice": 85.14807720642405,
+    "exerciseOptionPrice": 53.07172251616696,
+    "sharePrice": 83.78894767783656,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3574,
+    "exchangeRate": 1.3608,
     "interactive": false
   },
   {
@@ -57,9 +35,31 @@
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
     "numberOfShares": 8800000.0,
-    "sharePrice": 85.14807720642405,
+    "sharePrice": 83.78894767783656,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3574,
+    "exchangeRate": 1.3608,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 42.217813051146386,
+    "sharePrice": 83.78894767783656,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3608,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+    "numberOfShares": 327000.0,
+    "exerciseOptionPrice": 60.33215755437977,
+    "sharePrice": 83.78894767783656,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3608,
     "interactive": false
   }
 ]
