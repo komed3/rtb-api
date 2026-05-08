@@ -3,10 +3,21 @@
     "exchange": "HONG KONG",
     "ticker": "9926-HK",
     "companyName": "Akeso Inc",
-    "numberOfShares": 76599000.0,
-    "sharePrice": 16.315379607052126,
+    "numberOfShares": 81599000.0,
+    "sharePrice": 17.038275496790167,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8331,
+    "exchangeRate": 7.8353,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 35000.0,
+    "exerciseOptionPrice": 17.52,
+    "sharePrice": 17.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
