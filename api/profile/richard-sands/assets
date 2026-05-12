@@ -3,6 +3,16 @@
     "exchange": "NYSE",
     "ticker": "STZ-US",
     "companyName": "Constellation Brands, Class A",
+    "numberOfShares": 0.0,
+    "sharePrice": 148.21,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "STZ-US",
+    "companyName": "Constellation Brands, Class A",
     "numberOfShares": 4581000.0,
     "sharePrice": 148.21,
     "currencyCode": "USD",
@@ -48,16 +58,6 @@
     "companyName": "Constellation Brands, Class A",
     "numberOfShares": 28000.0,
     "exerciseOptionPrice": 153.02,
-    "sharePrice": 148.21,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "STZ-US",
-    "companyName": "Constellation Brands, Class A",
-    "numberOfShares": 0.0,
     "sharePrice": 148.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
