@@ -4,19 +4,9 @@
     "ticker": "BGP-NZ",
     "companyName": "Briscoe Group",
     "numberOfShares": 5250000.0,
-    "sharePrice": 2.788037650422971,
+    "sharePrice": 2.743484224965706,
     "currencyCode": "NZD",
-    "exchangeRate": 1.6786,
-    "interactive": false
-  },
-  {
-    "exchange": "ASX",
-    "ticker": "HVN-AU",
-    "companyName": "Harvey Norman Holdings Ltd.",
-    "numberOfShares": 469208000.0,
-    "sharePrice": 3.2454361054766734,
-    "currencyCode": "AUD",
-    "exchangeRate": 1.3804,
+    "exchangeRate": 1.6767,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "HVN-AU",
     "companyName": "Harvey Norman Holdings Ltd.",
     "numberOfShares": -11140000.0,
-    "sharePrice": 3.2454361054766734,
+    "sharePrice": 3.243125589494304,
     "currencyCode": "AUD",
-    "exchangeRate": 1.3804,
+    "exchangeRate": 1.3783,
+    "interactive": false
+  },
+  {
+    "exchange": "ASX",
+    "ticker": "HVN-AU",
+    "companyName": "Harvey Norman Holdings Ltd.",
+    "numberOfShares": 469208000.0,
+    "sharePrice": 3.243125589494304,
+    "currencyCode": "AUD",
+    "exchangeRate": 1.3783,
     "interactive": false
   }
 ]

@@ -3,8 +3,9 @@
     "exchange": "NYSE",
     "ticker": "ESS-US",
     "companyName": "Essex Property Trust",
-    "numberOfShares": 1944000.0,
-    "sharePrice": 263.55,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 229.9,
+    "sharePrice": 268.77,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NYSE",
     "ticker": "ESS-US",
     "companyName": "Essex Property Trust",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 229.9,
-    "sharePrice": 263.55,
+    "numberOfShares": 1944000.0,
+    "sharePrice": 268.77,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "MMI-US",
     "companyName": "Marcus & Millichap, Inc.",
     "numberOfShares": 13282000.0,
-    "sharePrice": 30.42,
+    "sharePrice": 30.23,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,7 +35,7 @@
     "ticker": "WFC-US",
     "companyName": "Wells Fargo",
     "numberOfShares": 142000.0,
-    "sharePrice": 75.64,
+    "sharePrice": 73.58,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
