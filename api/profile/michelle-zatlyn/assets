@@ -4,7 +4,17 @@
     "ticker": "TEAM-US",
     "companyName": "Atlassian Corp",
     "numberOfShares": 4000.0,
-    "sharePrice": 87.31,
+    "sharePrice": 85.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "NET-US",
+    "companyName": "Cloudflare, Inc",
+    "numberOfShares": 7290000.0,
+    "sharePrice": 186.79,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,17 +25,7 @@
     "companyName": "Cloudflare, Inc",
     "numberOfShares": 1672000.0,
     "exerciseOptionPrice": 2.04,
-    "sharePrice": 193.52,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "NET-US",
-    "companyName": "Cloudflare, Inc",
-    "numberOfShares": 7290000.0,
-    "sharePrice": 193.52,
+    "sharePrice": 186.79,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

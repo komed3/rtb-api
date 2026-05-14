@@ -3,20 +3,20 @@
     "exchange": "SHENZHEN",
     "ticker": "002505-CN",
     "companyName": "Hunan Dakang Pasture farming Co. Ltd.",
-    "numberOfShares": 0.0,
-    "sharePrice": 0.05297701386231863,
+    "numberOfShares": -944000000.0,
+    "sharePrice": 0.05298481102084069,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7954,
+    "exchangeRate": 6.7944,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "002505-CN",
     "companyName": "Hunan Dakang Pasture farming Co. Ltd.",
-    "numberOfShares": -944000000.0,
-    "sharePrice": 0.05297701386231863,
+    "numberOfShares": 0.0,
+    "sharePrice": 0.05298481102084069,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7954,
+    "exchangeRate": 6.7944,
     "interactive": false
   },
   {
@@ -24,19 +24,9 @@
     "ticker": "202-HK",
     "companyName": "Interchina Holdings Co",
     "numberOfShares": 1742300000.0,
-    "sharePrice": 0.010346677566870195,
+    "sharePrice": 0.009324902599476272,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8286,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600490-CN",
-    "companyName": "Shanghai Synica Co Ltd",
-    "numberOfShares": -312500000.0,
-    "sharePrice": 1.3464991023339319,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7954,
+    "exchangeRate": 7.8285,
     "interactive": false
   },
   {
@@ -44,19 +34,19 @@
     "ticker": "600490-CN",
     "companyName": "Shanghai Synica Co Ltd",
     "numberOfShares": 625000000.0,
-    "sharePrice": 1.3464991023339319,
+    "sharePrice": 1.3422818791946307,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7954,
+    "exchangeRate": 6.7944,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
-    "ticker": "600745-CN",
-    "companyName": "Wingtech Technology",
-    "numberOfShares": -37000000.0,
-    "sharePrice": 3.3699267151308234,
+    "ticker": "600490-CN",
+    "companyName": "Shanghai Synica Co Ltd",
+    "numberOfShares": -312500000.0,
+    "sharePrice": 1.3422818791946307,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7954,
+    "exchangeRate": 6.7944,
     "interactive": false
   },
   {
@@ -64,9 +54,19 @@
     "ticker": "600745-CN",
     "companyName": "Wingtech Technology",
     "numberOfShares": 36680000.0,
-    "sharePrice": 3.3699267151308234,
+    "sharePrice": 3.202637466148593,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7954,
+    "exchangeRate": 6.7944,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600745-CN",
+    "companyName": "Wingtech Technology",
+    "numberOfShares": -37000000.0,
+    "sharePrice": 3.202637466148593,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7944,
     "interactive": false
   }
 ]
