@@ -3,8 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-    "numberOfShares": 1269903.0,
-    "sharePrice": 603.0,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 10.39,
+    "sharePrice": 616.63,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 10.39,
-    "sharePrice": 603.0,
+    "numberOfShares": 1269903.0,
+    "sharePrice": 616.63,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "SBUX-US",
     "companyName": "Starbucks Corp.",
     "numberOfShares": 0.0,
-    "sharePrice": 106.58,
+    "sharePrice": 105.95,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,7 +35,7 @@
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
     "numberOfShares": 0.0,
-    "sharePrice": 106.16,
+    "sharePrice": 104.9,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

@@ -3,20 +3,20 @@
     "exchange": "SHANGHAI",
     "ticker": "601169-CN",
     "companyName": "Bank of Beijing",
-    "numberOfShares": 1061247000.0000001,
-    "sharePrice": 0.7741669610267278,
+    "numberOfShares": -357034000.0,
+    "sharePrice": 0.7731389441130992,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 6.7905,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "601169-CN",
     "companyName": "Bank of Beijing",
-    "numberOfShares": -357034000.0,
-    "sharePrice": 0.7741669610267278,
+    "numberOfShares": 1061247000.0000001,
+    "sharePrice": 0.7731389441130992,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 6.7905,
     "interactive": false
   },
   {
@@ -24,19 +24,9 @@
     "ticker": "189-HK",
     "companyName": "Dongyue Group Limited",
     "numberOfShares": 361657000.0,
-    "sharePrice": 1.603116816759277,
+    "sharePrice": 1.5579705518025206,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8285,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000620-CN",
-    "companyName": "Heilongjiang Sunfield Science & Technology",
-    "numberOfShares": 680486400.0,
-    "sharePrice": 0.4547862945955492,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 7.8307,
     "interactive": false
   },
   {
@@ -44,9 +34,19 @@
     "ticker": "000620-CN",
     "companyName": "Heilongjiang Sunfield Science & Technology",
     "numberOfShares": -332435000.0,
-    "sharePrice": 0.4547862945955492,
+    "sharePrice": 0.468301303291363,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 6.7905,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000620-CN",
+    "companyName": "Heilongjiang Sunfield Science & Technology",
+    "numberOfShares": 680486400.0,
+    "sharePrice": 0.468301303291363,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7905,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "300437-CN",
     "companyName": "Henan Qingshuiyuan Technology",
     "numberOfShares": 0.0,
-    "sharePrice": 2.403449899917579,
+    "sharePrice": 2.3532876813194905,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 6.7905,
     "interactive": false
   },
   {
@@ -64,9 +64,9 @@
     "ticker": "472-HK",
     "companyName": "JLF Investment Co. Ltd.",
     "numberOfShares": 0.0,
-    "sharePrice": 0.03768282557322603,
+    "sharePrice": 0.03575670118891032,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8285,
+    "exchangeRate": 7.8307,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "000046-CN",
     "companyName": "Oceanwide Real Estate Group Co. Ltd.",
     "numberOfShares": 0.0,
-    "sharePrice": 0.05592841163310962,
+    "sharePrice": 0.05596053309771004,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 6.7905,
     "interactive": false
   },
   {
@@ -84,9 +84,9 @@
     "ticker": "600331-CN",
     "companyName": "Sichuan Hongda ",
     "numberOfShares": 0.0,
-    "sharePrice": 2.580065936653715,
+    "sharePrice": 2.624254473161034,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7944,
+    "exchangeRate": 6.7905,
     "interactive": false
   }
 ]
