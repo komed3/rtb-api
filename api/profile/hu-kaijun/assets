@@ -4,19 +4,9 @@
     "ticker": "512-HK",
     "companyName": "Grand Pharmaceutical Group",
     "numberOfShares": 1796400000.0,
-    "sharePrice": 0.757111485623819,
+    "sharePrice": 0.756066411238825,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8324,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000963-CN",
-    "companyName": "Huadong Medicine Co. Ltd. ",
-    "numberOfShares": 646112000.0,
-    "sharePrice": 4.833195803371448,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7864,
+    "exchangeRate": 7.83,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "000963-CN",
     "companyName": "Huadong Medicine Co. Ltd. ",
     "numberOfShares": 0.0,
-    "sharePrice": 4.833195803371448,
+    "sharePrice": 4.599626739555321,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7864,
+    "exchangeRate": 6.8049,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000963-CN",
+    "companyName": "Huadong Medicine Co. Ltd. ",
+    "numberOfShares": 646112000.0,
+    "sharePrice": 4.599626739555321,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8049,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "000626-CN",
     "companyName": "Lianyungang Ideal Group ",
     "numberOfShares": 200139000.0,
-    "sharePrice": 1.2613462218554756,
+    "sharePrice": 1.2593866184661053,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7864,
+    "exchangeRate": 6.8049,
     "interactive": false
   }
 ]

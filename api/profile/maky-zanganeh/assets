@@ -4,7 +4,7 @@
     "ticker": "ABBV-US",
     "companyName": "AbbVie Inc.",
     "numberOfShares": 232000.0,
-    "sharePrice": 210.77,
+    "sharePrice": 210.39,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,17 +14,7 @@
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
     "numberOfShares": 0.0,
-    "sharePrice": 235.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "PLSE-US",
-    "companyName": "Pulse BioSciences",
-    "numberOfShares": 873000.0,
-    "sharePrice": 27.1,
+    "sharePrice": 225.32,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,39 +25,17 @@
     "companyName": "Pulse BioSciences",
     "numberOfShares": 349000.0,
     "exerciseOptionPrice": 2.05,
-    "sharePrice": 27.1,
+    "sharePrice": 24.55,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "SMMT-US",
-    "companyName": "Summit Therapeutics",
-    "numberOfShares": 36032000.0,
-    "sharePrice": 18.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SMMT-US",
-    "companyName": "Summit Therapeutics",
-    "numberOfShares": 6425000.0,
-    "exerciseOptionPrice": 1.68,
-    "sharePrice": 18.14,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SMMT-US",
-    "companyName": "Summit Therapeutics",
-    "numberOfShares": 696000.0,
-    "exerciseOptionPrice": 1.06,
-    "sharePrice": 18.14,
+    "ticker": "PLSE-US",
+    "companyName": "Pulse BioSciences",
+    "numberOfShares": 873000.0,
+    "sharePrice": 24.55,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -78,7 +46,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 15000.0,
     "exerciseOptionPrice": 4.75,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -89,7 +57,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 366000.0,
     "exerciseOptionPrice": 1.29,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -100,7 +68,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 200000.0,
     "exerciseOptionPrice": 3.71,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -111,7 +79,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 5596000.0,
     "exerciseOptionPrice": 1.68,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -122,7 +90,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 2397000.0,
     "exerciseOptionPrice": 1.68,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -133,7 +101,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 2400000.0,
     "exerciseOptionPrice": 4.4,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -144,7 +112,7 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 606000.0,
     "exerciseOptionPrice": 1.06,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -155,7 +123,39 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 233000.0,
     "exerciseOptionPrice": 1.29,
-    "sharePrice": 18.14,
+    "sharePrice": 16.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 36032000.0,
+    "sharePrice": 16.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 6425000.0,
+    "exerciseOptionPrice": 1.68,
+    "sharePrice": 16.87,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 696000.0,
+    "exerciseOptionPrice": 1.06,
+    "sharePrice": 16.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

@@ -3,30 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "CRVL-US",
     "companyName": "Corvel Corporation",
-    "numberOfShares": 19301000.0,
-    "sharePrice": 57.485,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "CRVL-US",
-    "companyName": "Corvel Corporation",
-    "numberOfShares": 9000.0,
-    "exerciseOptionPrice": 14.44,
-    "sharePrice": 57.485,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "CRVL-US",
-    "companyName": "Corvel Corporation",
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 16.12,
-    "sharePrice": 57.485,
+    "sharePrice": 57.11,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,7 +16,7 @@
     "companyName": "Corvel Corporation",
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 19.12,
-    "sharePrice": 57.485,
+    "sharePrice": 57.11,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -48,7 +27,7 @@
     "companyName": "Corvel Corporation",
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 29.16,
-    "sharePrice": 57.485,
+    "sharePrice": 57.11,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -59,7 +38,28 @@
     "companyName": "Corvel Corporation",
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 26.5,
-    "sharePrice": 57.485,
+    "sharePrice": 57.11,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRVL-US",
+    "companyName": "Corvel Corporation",
+    "numberOfShares": 19301000.0,
+    "sharePrice": 57.11,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRVL-US",
+    "companyName": "Corvel Corporation",
+    "numberOfShares": 9000.0,
+    "exerciseOptionPrice": 14.44,
+    "sharePrice": 57.11,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

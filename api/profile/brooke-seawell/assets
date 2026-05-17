@@ -4,7 +4,17 @@
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
     "numberOfShares": 4237022.0,
-    "sharePrice": 235.74,
+    "sharePrice": 225.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TENB-US",
+    "companyName": "Tenable Holdings, Inc.",
+    "numberOfShares": 24230.0,
+    "sharePrice": 21.49,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,17 +25,7 @@
     "companyName": "Tenable Holdings, Inc.",
     "numberOfShares": 115000.0,
     "exerciseOptionPrice": 9.66,
-    "sharePrice": 20.45,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "TENB-US",
-    "companyName": "Tenable Holdings, Inc.",
-    "numberOfShares": 24230.0,
-    "sharePrice": 20.45,
+    "sharePrice": 21.49,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
