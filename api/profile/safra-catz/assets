@@ -4,8 +4,29 @@
     "ticker": "ORCL-US",
     "companyName": "Oracle",
     "numberOfShares": 0.0,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 186.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
+    "numberOfShares": 1119000.0,
+    "sharePrice": 186.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
+    "numberOfShares": 0.0,
     "exerciseOptionPrice": 30.11,
-    "sharePrice": 192.95,
+    "sharePrice": 186.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -16,7 +37,7 @@
     "companyName": "Oracle",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 40.47,
-    "sharePrice": 192.95,
+    "sharePrice": 186.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -27,28 +48,7 @@
     "companyName": "Oracle",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 38.89,
-    "sharePrice": 192.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 51.13,
-    "sharePrice": 192.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 1119000.0,
-    "sharePrice": 192.95,
+    "sharePrice": 186.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -58,7 +58,7 @@
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
     "numberOfShares": 18424.0,
-    "sharePrice": 102.72,
+    "sharePrice": 103.91,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

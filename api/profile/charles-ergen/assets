@@ -24,9 +24,19 @@
     "exchange": "NASDAQ",
     "ticker": "SATS-US",
     "companyName": "Echostar Communications Corp",
+    "numberOfShares": 145309325.0,
+    "sharePrice": 136.45,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SATS-US",
+    "companyName": "Echostar Communications Corp",
     "numberOfShares": 60000.0,
     "exerciseOptionPrice": 57.93,
-    "sharePrice": 137.23,
+    "sharePrice": 136.45,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,17 +47,7 @@
     "companyName": "Echostar Communications Corp",
     "numberOfShares": 100000.0,
     "exerciseOptionPrice": 60.37,
-    "sharePrice": 137.23,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SATS-US",
-    "companyName": "Echostar Communications Corp",
-    "numberOfShares": 145309325.0,
-    "sharePrice": 137.23,
+    "sharePrice": 136.45,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
