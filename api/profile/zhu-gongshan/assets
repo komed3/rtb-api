@@ -4,19 +4,9 @@
     "ticker": "3800-HK",
     "companyName": "GCL Poly Energy Holdings",
     "numberOfShares": 6405000000.0,
-    "sharePrice": 0.11109550382449464,
+    "sharePrice": 0.10979050439800335,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8311,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002506-CN",
-    "companyName": "GCL System Integration Technology",
-    "numberOfShares": 1415000000.0,
-    "sharePrice": 0.6398846736588164,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7981,
+    "exchangeRate": 7.8331,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "002506-CN",
     "companyName": "GCL System Integration Technology",
     "numberOfShares": -681500000.0,
-    "sharePrice": 0.6398846736588164,
+    "sharePrice": 0.6319997648372968,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7981,
+    "exchangeRate": 6.8038,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002506-CN",
+    "companyName": "GCL System Integration Technology",
+    "numberOfShares": 1415000000.0,
+    "sharePrice": 0.6319997648372968,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8038,
     "interactive": false
   }
 ]
