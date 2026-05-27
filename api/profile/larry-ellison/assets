@@ -3,24 +3,24 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 1071732000.0,
-    "sharePrice": 192.08,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": true,
-    "currentPrice": 192.08
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 51.13,
     "sharePrice": 192.08,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 192.08
+    "currentPrice": 193.06
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
+    "numberOfShares": 1071732000.0,
+    "sharePrice": 192.08,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": true,
+    "currentPrice": 193.06
   },
   {
     "exchange": "NASDAQ",
@@ -31,7 +31,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 10.46
+    "currentPrice": 10.37
   },
   {
     "exchange": "NASDAQ",
@@ -42,6 +42,6 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 426.01
+    "currentPrice": 433.59
   }
 ]
