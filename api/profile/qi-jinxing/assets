@@ -4,19 +4,9 @@
     "ticker": "3316-HK",
     "companyName": "Binjiang Service Group",
     "numberOfShares": 126720000.0,
-    "sharePrice": 3.269817365001978,
+    "sharePrice": 3.1825432272060232,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8353,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002244-CN",
-    "companyName": "Hangzhou Binjiang Real Estate Group Co., Ltd.",
-    "numberOfShares": 1306000000.0,
-    "sharePrice": 1.4879244116738046,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7947,
+    "exchangeRate": 7.8365,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "002244-CN",
     "companyName": "Hangzhou Binjiang Real Estate Group Co., Ltd.",
     "numberOfShares": -10560000.0,
-    "sharePrice": 1.4879244116738046,
+    "sharePrice": 1.5455335700499462,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7947,
+    "exchangeRate": 6.7873,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002244-CN",
+    "companyName": "Hangzhou Binjiang Real Estate Group Co., Ltd.",
+    "numberOfShares": 1306000000.0,
+    "sharePrice": 1.5455335700499462,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7873,
     "interactive": false
   }
 ]
