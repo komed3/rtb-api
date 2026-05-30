@@ -4,7 +4,7 @@
     "ticker": "AAVVF-US",
     "companyName": "Advantage Oil & Gas Ltd.",
     "numberOfShares": 3453000.0,
-    "sharePrice": 7.065,
+    "sharePrice": 7.07,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,9 +14,9 @@
     "ticker": "ARX-CA",
     "companyName": "Arc Resources Ltd.",
     "numberOfShares": 1502000.0,
-    "sharePrice": 22.34657039711191,
+    "sharePrice": 22.37661021855551,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "AZN-GB",
     "companyName": "AstraZeneca",
     "numberOfShares": 9825.0,
-    "sharePrice": 187.97638217928076,
+    "sharePrice": 184.47488584474885,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7452,
+    "exchangeRate": 0.7446,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "BTE-CA",
     "companyName": "Baytex Energy Corp.",
     "numberOfShares": 13000000.0,
-    "sharePrice": 4.743682310469314,
+    "sharePrice": 4.892169633810972,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "BATS-GB",
     "companyName": "British Amer Tobacco",
     "numberOfShares": 7500.0,
-    "sharePrice": 64.04991948470209,
+    "sharePrice": 63.21514907332796,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7452,
+    "exchangeRate": 0.7446,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "BT.A-GB",
     "companyName": "BT Group",
     "numberOfShares": 482500.0,
-    "sharePrice": 2.9119699409554483,
+    "sharePrice": 2.813591189900618,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7452,
+    "exchangeRate": 0.7446,
     "interactive": false
   },
   {
@@ -64,9 +64,20 @@
     "ticker": "CFW-CA",
     "companyName": "Calfrac Well Services",
     "numberOfShares": 117606.0,
-    "sharePrice": 4.4043321299638984,
+    "sharePrice": 4.472427268779852,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "CNQ-CA",
+    "companyName": "Canadian Natural Resources (Canadian Listing)",
+    "numberOfShares": 450000.0,
+    "exerciseOptionPrice": 12.76233897814445,
+    "sharePrice": 45.73744391373571,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -74,10 +85,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 200000.0,
-    "exerciseOptionPrice": 28.797833935018048,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 28.864524533217544,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -85,10 +96,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 450000.0,
-    "exerciseOptionPrice": 13.389891696750905,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 13.420900275003621,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -96,10 +107,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 450000.0,
-    "exerciseOptionPrice": 13.974729241877256,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 14.007092198581562,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -107,10 +118,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 250000.0,
-    "exerciseOptionPrice": 28.458483754512635,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 28.524388478795775,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -118,10 +129,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 800000.0,
-    "exerciseOptionPrice": 10.581227436823104,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 10.605731654363874,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -129,10 +140,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 800000.0,
-    "exerciseOptionPrice": 14.483754512635379,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 14.517296280214213,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -140,21 +151,10 @@
     "ticker": "CNQ-CA",
     "companyName": "Canadian Natural Resources (Canadian Listing)",
     "numberOfShares": 250000.0,
-    "exerciseOptionPrice": 23.158844765342963,
-    "sharePrice": 45.71841155234657,
+    "exerciseOptionPrice": 23.212476479953686,
+    "sharePrice": 45.73744391373571,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "CNQ-CA",
-    "companyName": "Canadian Natural Resources (Canadian Listing)",
-    "numberOfShares": 450000.0,
-    "exerciseOptionPrice": 12.732851985559568,
-    "sharePrice": 45.71841155234657,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -162,7 +162,7 @@
     "ticker": "CNQ-US",
     "companyName": "Canadian Natural Resources Ltd.",
     "numberOfShares": 44521264.0,
-    "sharePrice": 45.75,
+    "sharePrice": 45.81,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -172,9 +172,9 @@
     "ticker": "CJ-CA",
     "companyName": "Cardinal Energy",
     "numberOfShares": 25534000.0,
-    "sharePrice": 8.483754512635379,
+    "sharePrice": 8.503401360544219,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -182,9 +182,9 @@
     "ticker": "DGE-GB",
     "companyName": "Diageo",
     "numberOfShares": 16049.999999999998,
-    "sharePrice": 21.692163177670423,
+    "sharePrice": 21.246306741874832,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7452,
+    "exchangeRate": 0.7446,
     "interactive": false
   },
   {
@@ -192,41 +192,9 @@
     "ticker": "ERF-CA",
     "companyName": "Enerplus Corp.",
     "numberOfShares": 1033326.0,
-    "sharePrice": 19.335740072202167,
+    "sharePrice": 19.380518164712697,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ESI-CA",
-    "companyName": "Ensign Energy Services Inc.",
-    "numberOfShares": 43060656.0,
-    "sharePrice": 2.9530685920577615,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.385,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ESI-CA",
-    "companyName": "Ensign Energy Services Inc.",
-    "numberOfShares": 125000.0,
-    "exerciseOptionPrice": 2.844765342960289,
-    "sharePrice": 2.9530685920577615,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.385,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "ESI-CA",
-    "companyName": "Ensign Energy Services Inc.",
-    "numberOfShares": 112000.0,
-    "exerciseOptionPrice": 0.38989169675090257,
-    "sharePrice": 2.9530685920577615,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -234,10 +202,10 @@
     "ticker": "ESI-CA",
     "companyName": "Ensign Energy Services Inc.",
     "numberOfShares": 150000.0,
-    "exerciseOptionPrice": 1.1263537906137184,
-    "sharePrice": 2.9530685920577615,
+    "exerciseOptionPrice": 1.1289622231871472,
+    "sharePrice": 3.0395136778115504,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -245,10 +213,42 @@
     "ticker": "ESI-CA",
     "companyName": "Ensign Energy Services Inc.",
     "numberOfShares": 0.0,
-    "exerciseOptionPrice": 4.108303249097474,
-    "sharePrice": 2.9530685920577615,
+    "exerciseOptionPrice": 4.117817339701839,
+    "sharePrice": 3.0395136778115504,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ESI-CA",
+    "companyName": "Ensign Energy Services Inc.",
+    "numberOfShares": 43060656.0,
+    "sharePrice": 3.0395136778115504,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3818,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ESI-CA",
+    "companyName": "Ensign Energy Services Inc.",
+    "numberOfShares": 125000.0,
+    "exerciseOptionPrice": 2.851353307280359,
+    "sharePrice": 3.0395136778115504,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3818,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ESI-CA",
+    "companyName": "Ensign Energy Services Inc.",
+    "numberOfShares": 112000.0,
+    "exerciseOptionPrice": 0.39079461571862795,
+    "sharePrice": 3.0395136778115504,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -256,9 +256,9 @@
     "ticker": "FORZ-CA",
     "companyName": "Forza Petroleum Limited",
     "numberOfShares": 9935700.0,
-    "sharePrice": 0.10830324909747292,
+    "sharePrice": 0.10855405992184108,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -266,9 +266,9 @@
     "ticker": "FRU-CA",
     "companyName": "Freehold Royalties",
     "numberOfShares": 550000.0,
-    "sharePrice": 12.339350180505415,
+    "sharePrice": 12.411347517730496,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -276,9 +276,9 @@
     "ticker": "III-CA",
     "companyName": "Imperial Metals Corp.",
     "numberOfShares": 69375775.0,
-    "sharePrice": 4.823104693140794,
+    "sharePrice": 4.99348675640469,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -286,9 +286,9 @@
     "ticker": "IPO-CA",
     "companyName": "InPlay Oil",
     "numberOfShares": 1535.0,
-    "sharePrice": 12.064981949458485,
+    "sharePrice": 11.904761904761905,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -296,9 +296,9 @@
     "ticker": "MAL-CA",
     "companyName": "Magellan Aerospace Corp.",
     "numberOfShares": 43056979.0,
-    "sharePrice": 21.487364620938628,
+    "sharePrice": 23.56346794036764,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -306,9 +306,9 @@
     "ticker": "PXT-CA",
     "companyName": "Parex Resources",
     "numberOfShares": 265000.0,
-    "sharePrice": 17.95667870036101,
+    "sharePrice": 17.629179331306993,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -316,9 +316,9 @@
     "ticker": "PD-CA",
     "companyName": "Precision Drilling",
     "numberOfShares": 639610.0,
-    "sharePrice": 89.33574007220217,
+    "sharePrice": 89.81039224200319,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -326,9 +326,9 @@
     "ticker": "RCG-CA",
     "companyName": "RF Capital Group",
     "numberOfShares": 406307.0,
-    "sharePrice": 14.43321299638989,
+    "sharePrice": 14.466637718917355,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -336,9 +336,9 @@
     "ticker": "RCI.A-CA",
     "companyName": "Rogers Communications Inc. (Cl A)",
     "numberOfShares": 468123.0,
-    "sharePrice": 37.90613718411552,
+    "sharePrice": 38.355767839050515,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -346,9 +346,9 @@
     "ticker": "SU-CA",
     "companyName": "Suncor Energy",
     "numberOfShares": 1000000.0,
-    "sharePrice": 63.898916967509024,
+    "sharePrice": 63.149515125199024,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -356,9 +356,9 @@
     "ticker": "SPB-CA",
     "companyName": "Superior Plus Corp",
     "numberOfShares": 485300.0,
-    "sharePrice": 6.166064981949458,
+    "sharePrice": 6.086264292951223,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -366,9 +366,9 @@
     "ticker": "T-CA",
     "companyName": "Telus",
     "numberOfShares": 2100000.0,
-    "sharePrice": 12.368231046931408,
+    "sharePrice": 12.505427702996094,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -376,9 +376,9 @@
     "ticker": "TPZ-CA",
     "companyName": "Topaz Energy Corp",
     "numberOfShares": 1201800.0,
-    "sharePrice": 22.967509025270758,
+    "sharePrice": 23.158199449992765,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -386,9 +386,9 @@
     "ticker": "TOU-CA",
     "companyName": "Tourmaline Oil Corp.",
     "numberOfShares": 1148000.0,
-    "sharePrice": 46.064981949458485,
+    "sharePrice": 46.388768273266756,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -396,9 +396,9 @@
     "ticker": "TA-CA",
     "companyName": "TransAlta",
     "numberOfShares": 1817075.0,
-    "sharePrice": 13.819494584837546,
+    "sharePrice": 14.010710667245622,
     "currencyCode": "CAD",
-    "exchangeRate": 1.385,
+    "exchangeRate": 1.3818,
     "interactive": false
   },
   {
@@ -406,7 +406,7 @@
     "ticker": "VOD-US",
     "companyName": "Vodafone-USD",
     "numberOfShares": 596000.0,
-    "sharePrice": 14.86,
+    "sharePrice": 14.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
