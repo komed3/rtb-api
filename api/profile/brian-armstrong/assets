@@ -3,9 +3,19 @@
     "exchange": "NASDAQ",
     "ticker": "COIN-US",
     "companyName": "Coinbase Global",
+    "numberOfShares": 32575000.000000004,
+    "sharePrice": 182.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "COIN-US",
+    "companyName": "Coinbase Global",
     "numberOfShares": 2554000.0,
     "exerciseOptionPrice": 18.71,
-    "sharePrice": 189.03,
+    "sharePrice": 182.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -16,17 +26,7 @@
     "companyName": "Coinbase Global",
     "numberOfShares": 5614000.0,
     "exerciseOptionPrice": 23.46,
-    "sharePrice": 189.03,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "COIN-US",
-    "companyName": "Coinbase Global",
-    "numberOfShares": 32575000.000000004,
-    "sharePrice": 189.03,
+    "sharePrice": 182.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

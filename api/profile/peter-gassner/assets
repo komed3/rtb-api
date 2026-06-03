@@ -4,18 +4,7 @@
     "ticker": "GWRE-US",
     "companyName": "Guidewire Software",
     "numberOfShares": 8000.0,
-    "sharePrice": 152.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "VEEV-US",
-    "companyName": "Veeva Systems",
-    "numberOfShares": 698000.0,
-    "exerciseOptionPrice": 60.0,
-    "sharePrice": 174.34,
+    "sharePrice": 171.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -26,7 +15,7 @@
     "companyName": "Veeva Systems",
     "numberOfShares": 2093000.0,
     "exerciseOptionPrice": 60.0,
-    "sharePrice": 174.34,
+    "sharePrice": 188.66,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -36,7 +25,18 @@
     "ticker": "VEEV-US",
     "companyName": "Veeva Systems",
     "numberOfShares": 12187000.0,
-    "sharePrice": 174.34,
+    "sharePrice": 188.66,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VEEV-US",
+    "companyName": "Veeva Systems",
+    "numberOfShares": 698000.0,
+    "exerciseOptionPrice": 60.0,
+    "sharePrice": 188.66,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,7 +46,7 @@
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
     "numberOfShares": 1215000.0,
-    "sharePrice": 101.59,
+    "sharePrice": 111.62,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

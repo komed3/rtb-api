@@ -3,54 +3,54 @@
     "exchange": "NYSE",
     "ticker": "ESTC-US",
     "companyName": "Elastic N.V.",
-    "numberOfShares": 7791000,
-    "sharePrice": 78.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ESTC-US",
-    "companyName": "Elastic N.V.",
-    "numberOfShares": 108000,
-    "exerciseOptionPrice": 13.07,
-    "sharePrice": 78.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ESTC-US",
-    "companyName": "Elastic N.V.",
-    "numberOfShares": 18000,
-    "exerciseOptionPrice": 10.15,
-    "sharePrice": 78.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ESTC-US",
-    "companyName": "Elastic N.V.",
-    "numberOfShares": 36000,
+    "numberOfShares": 36000.0,
     "exerciseOptionPrice": 145.82,
-    "sharePrice": 78.62,
+    "sharePrice": 68.06,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ESTC-US",
     "companyName": "Elastic N.V.",
-    "numberOfShares": 17453,
+    "numberOfShares": 17453.0,
     "exerciseOptionPrice": 128.31,
-    "sharePrice": 78.62,
+    "sharePrice": 68.06,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 6414000.0,
+    "sharePrice": 68.06,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 108000.0,
+    "exerciseOptionPrice": 13.07,
+    "sharePrice": 68.06,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 18000.0,
+    "exerciseOptionPrice": 10.15,
+    "sharePrice": 68.06,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
