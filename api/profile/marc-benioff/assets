@@ -3,8 +3,19 @@
     "exchange": "NYSE",
     "ticker": "CRM-US",
     "companyName": "Salesforce.com",
+    "numberOfShares": 123000.0,
+    "exerciseOptionPrice": 167.45,
+    "sharePrice": 190.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
     "numberOfShares": 22019000.0,
-    "sharePrice": 200.84,
+    "sharePrice": 190.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,7 +26,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 22508.0,
     "exerciseOptionPrice": 287.86,
-    "sharePrice": 200.84,
+    "sharePrice": 190.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -26,7 +37,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 196000.0,
     "exerciseOptionPrice": 161.5,
-    "sharePrice": 200.84,
+    "sharePrice": 190.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,7 +48,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 45000.0,
     "exerciseOptionPrice": 186.51,
-    "sharePrice": 200.84,
+    "sharePrice": 190.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -48,7 +59,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 202000.0,
     "exerciseOptionPrice": 154.14,
-    "sharePrice": 200.84,
+    "sharePrice": 190.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -59,18 +70,7 @@
     "companyName": "Salesforce.com",
     "numberOfShares": 151666.0,
     "exerciseOptionPrice": 215.17,
-    "sharePrice": 200.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CRM-US",
-    "companyName": "Salesforce.com",
-    "numberOfShares": 123000.0,
-    "exerciseOptionPrice": 167.45,
-    "sharePrice": 200.84,
+    "sharePrice": 190.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
