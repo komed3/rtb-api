@@ -3,9 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "RNAC-US",
     "companyName": "Cartesian Therapeutics",
+    "numberOfShares": 170628.0,
+    "exerciseOptionPrice": 46.5,
+    "sharePrice": 6.55,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "RNAC-US",
+    "companyName": "Cartesian Therapeutics",
     "numberOfShares": 7600.0,
     "exerciseOptionPrice": 19.66,
-    "sharePrice": 6.265,
+    "sharePrice": 6.55,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,18 +26,7 @@
     "ticker": "RNAC-US",
     "companyName": "Cartesian Therapeutics",
     "numberOfShares": 9630893.0,
-    "sharePrice": 6.265,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "RNAC-US",
-    "companyName": "Cartesian Therapeutics",
-    "numberOfShares": 170628.0,
-    "exerciseOptionPrice": 46.5,
-    "sharePrice": 6.265,
+    "sharePrice": 6.55,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -36,7 +36,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11608781.0,
-    "sharePrice": 49.06,
+    "sharePrice": 51.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -67,17 +67,7 @@
     "ticker": "SRRK-US",
     "companyName": "Scholar Rock Holding Corp",
     "numberOfShares": 312951.0,
-    "sharePrice": 44.64,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "TECX-US",
-    "companyName": "Tectonic Therapeutic",
-    "numberOfShares": 6024338.0,
-    "sharePrice": 28.42,
+    "sharePrice": 45.33,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -88,7 +78,17 @@
     "companyName": "Tectonic Therapeutic",
     "numberOfShares": 6536.0,
     "exerciseOptionPrice": 16.8,
-    "sharePrice": 28.42,
+    "sharePrice": 29.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TECX-US",
+    "companyName": "Tectonic Therapeutic",
+    "numberOfShares": 6024338.0,
+    "sharePrice": 29.13,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
