@@ -1,10 +1,20 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "SPCX-US",
+    "companyName": "Space Exploration Technologies Corp.",
+    "numberOfShares": 5628449.0,
+    "sharePrice": 150.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 1169917.0,
-    "sharePrice": 381.59,
+    "sharePrice": 399.15,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
