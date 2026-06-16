@@ -3,16 +3,6 @@
     "exchange": "NASDAQ",
     "ticker": "BRKR-US",
     "companyName": "Bruker Corp.",
-    "numberOfShares": 35095000.0,
-    "sharePrice": 54.23,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "BRKR-US",
-    "companyName": "Bruker Corp.",
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 89.45,
     "sharePrice": 54.23,
@@ -48,6 +38,16 @@
     "companyName": "Bruker Corp.",
     "numberOfShares": 45000.0,
     "exerciseOptionPrice": 46.145,
+    "sharePrice": 54.23,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "BRKR-US",
+    "companyName": "Bruker Corp.",
+    "numberOfShares": 35095000.0,
     "sharePrice": 54.23,
     "currencyCode": "USD",
     "exchangeRate": 1.0,

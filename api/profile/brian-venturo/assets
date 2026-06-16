@@ -3,16 +3,6 @@
     "exchange": "NASDAQ",
     "ticker": "CRWV-US",
     "companyName": "Coreweave",
-    "numberOfShares": 30852000.0,
-    "sharePrice": 100.55,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "CRWV-US",
-    "companyName": "Coreweave",
     "numberOfShares": 2400000.0,
     "exerciseOptionPrice": 0.13,
     "sharePrice": 100.55,
@@ -37,6 +27,16 @@
     "companyName": "Coreweave",
     "numberOfShares": 1290000.0,
     "exerciseOptionPrice": 2.8,
+    "sharePrice": 100.55,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRWV-US",
+    "companyName": "Coreweave",
+    "numberOfShares": 30852000.0,
     "sharePrice": 100.55,
     "currencyCode": "USD",
     "exchangeRate": 1.0,

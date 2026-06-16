@@ -3,16 +3,6 @@
     "exchange": "NASDAQ",
     "ticker": "MEDP-US",
     "companyName": "Medpace",
-    "numberOfShares": 5392144.0,
-    "sharePrice": 467.34,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "MEDP-US",
-    "companyName": "Medpace",
     "numberOfShares": 58000.0,
     "exerciseOptionPrice": 166.73,
     "sharePrice": 467.34,
@@ -48,6 +38,16 @@
     "companyName": "Medpace",
     "numberOfShares": 73443.0,
     "exerciseOptionPrice": 325.73,
+    "sharePrice": 467.34,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MEDP-US",
+    "companyName": "Medpace",
+    "numberOfShares": 5392144.0,
     "sharePrice": 467.34,
     "currencyCode": "USD",
     "exchangeRate": 1.0,

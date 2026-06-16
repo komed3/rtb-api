@@ -8,7 +8,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 160.95
+    "currentPrice": 192.5
   },
   {
     "exchange": "NASDAQ",
@@ -20,18 +20,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 160.95
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "TSLA-US",
-    "companyName": "Tesla",
-    "numberOfShares": 413152109.0,
-    "sharePrice": 406.43,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": true,
-    "currentPrice": 406.43
+    "currentPrice": 192.5
   },
   {
     "exchange": "NASDAQ",
@@ -43,6 +32,17 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 406.43
+    "currentPrice": 411.15
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 413152109.0,
+    "sharePrice": 406.43,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": true,
+    "currentPrice": 411.15
   }
 ]
