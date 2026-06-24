@@ -4,9 +4,9 @@
     "ticker": "SRL-AU",
     "companyName": "Clean Teq Holdings",
     "numberOfShares": 11977000.0,
-    "sharePrice": 12.650390487581792,
+    "sharePrice": 12.36679753224902,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4213,
+    "exchangeRate": 1.4264,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "CNQ-AU",
     "companyName": "Clean Teq Water",
     "numberOfShares": 11384000.0,
-    "sharePrice": 0.3588264265109407,
+    "sharePrice": 0.3295008412787437,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4213,
+    "exchangeRate": 1.4264,
     "interactive": false
   },
   {
@@ -24,19 +24,9 @@
     "ticker": "IE-CA",
     "companyName": "Ivanhoe Electric",
     "numberOfShares": 11695000.0,
-    "sharePrice": 11.381019830028329,
+    "sharePrice": 11.107970604861505,
     "currencyCode": "CAD",
-    "exchangeRate": 1.412,
-    "interactive": false
-  },
-  {
-    "exchange": "TORONTO",
-    "ticker": "IVN-CA",
-    "companyName": "Ivanhoe Mines Ltd.",
-    "numberOfShares": -15675000.0,
-    "sharePrice": 8.186968838526912,
-    "currencyCode": "CAD",
-    "exchangeRate": 1.412,
+    "exchangeRate": 1.4152,
     "interactive": false
   },
   {
@@ -44,9 +34,19 @@
     "ticker": "IVN-CA",
     "companyName": "Ivanhoe Mines Ltd.",
     "numberOfShares": 163392000.0,
-    "sharePrice": 8.186968838526912,
+    "sharePrice": 8.232052006783494,
     "currencyCode": "CAD",
-    "exchangeRate": 1.412,
+    "exchangeRate": 1.4152,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "IVN-CA",
+    "companyName": "Ivanhoe Mines Ltd.",
+    "numberOfShares": -15675000.0,
+    "sharePrice": 8.232052006783494,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.4152,
     "interactive": false
   }
 ]
