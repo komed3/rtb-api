@@ -3,34 +3,34 @@
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
-    "numberOfShares": 4766475230.0,
-    "sharePrice": 156.11,
+    "numberOfShares": 350000000.0,
+    "exerciseOptionPrice": 8.4,
+    "sharePrice": 154.54,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 154.54
+    "currentPrice": 153.0
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
-    "numberOfShares": 350000000.0,
-    "exerciseOptionPrice": 8.4,
-    "sharePrice": 156.11,
+    "numberOfShares": 4766475230.0,
+    "sharePrice": 154.54,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 154.54
+    "currentPrice": 153.0
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 395620252.0,
-    "sharePrice": 381.61,
+    "sharePrice": 375.53,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 375.53
+    "currentPrice": 375.12
   }
 ]

@@ -4,9 +4,9 @@
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
     "numberOfShares": 1803000000.0,
-    "sharePrice": 0.5142410891891495,
+    "sharePrice": 0.5011463170889424,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 6.8044,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
     "numberOfShares": -1650000000.0,
-    "sharePrice": 0.5142410891891495,
+    "sharePrice": 0.5011463170889424,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 6.8044,
     "interactive": false
   },
   {
@@ -24,19 +24,9 @@
     "ticker": "1988-HK",
     "companyName": "China Minsheng Banking (HK-listed)",
     "numberOfShares": 0.0,
-    "sharePrice": 0.42597150837276326,
+    "sharePrice": 0.41708119690824214,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8409,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600803-CN",
-    "companyName": "Enn Ecological",
-    "numberOfShares": 0.0,
-    "sharePrice": 2.4636421235652084,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 7.8402,
     "interactive": false
   },
   {
@@ -44,9 +34,19 @@
     "ticker": "600803-CN",
     "companyName": "Enn Ecological",
     "numberOfShares": -8171199.0,
-    "sharePrice": 2.4636421235652084,
+    "sharePrice": 2.4146140732467227,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 6.8044,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600803-CN",
+    "companyName": "Enn Ecological",
+    "numberOfShares": 0.0,
+    "sharePrice": 2.4146140732467227,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8044,
     "interactive": false
   },
   {
@@ -54,19 +54,9 @@
     "ticker": "3396-HK",
     "companyName": "Legend Holdings Corporation",
     "numberOfShares": 400000000.0,
-    "sharePrice": 1.9372776084378067,
+    "sharePrice": 1.9348996199076554,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8409,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000416-CN",
-    "companyName": "Minsheng Investment Management Co Ltd",
-    "numberOfShares": 119981000.0,
-    "sharePrice": 0.06630615763183875,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 7.8402,
     "interactive": false
   },
   {
@@ -74,19 +64,19 @@
     "ticker": "000416-CN",
     "companyName": "Minsheng Investment Management Co Ltd",
     "numberOfShares": -59990000.0,
-    "sharePrice": 0.06630615763183875,
+    "sharePrice": 0.06613367820821821,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 6.8044,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
-    "ticker": "000046-CN",
-    "companyName": "Oceanwide Real Estate Group Co. Ltd.",
-    "numberOfShares": 3301000000.0,
-    "sharePrice": 0.05599186644466383,
+    "ticker": "000416-CN",
+    "companyName": "Minsheng Investment Management Co Ltd",
+    "numberOfShares": 119981000.0,
+    "sharePrice": 0.06613367820821821,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 6.8044,
     "interactive": false
   },
   {
@@ -94,9 +84,19 @@
     "ticker": "000046-CN",
     "companyName": "Oceanwide Real Estate Group Co. Ltd.",
     "numberOfShares": -3301000000.0,
-    "sharePrice": 0.05599186644466383,
+    "sharePrice": 0.055846217153606485,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7867,
+    "exchangeRate": 6.8044,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000046-CN",
+    "companyName": "Oceanwide Real Estate Group Co. Ltd.",
+    "numberOfShares": 3301000000.0,
+    "sharePrice": 0.055846217153606485,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.8044,
     "interactive": false
   }
 ]

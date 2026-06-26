@@ -3,8 +3,19 @@
     "exchange": "NASDAQ",
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 3.77,
+    "sharePrice": 85.47,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ZM-US",
+    "companyName": "Zoom Video Communications",
     "numberOfShares": 36621000.0,
-    "sharePrice": 86.445,
+    "sharePrice": 85.47,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,18 +26,7 @@
     "companyName": "Zoom Video Communications",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 4.15,
-    "sharePrice": 86.445,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ZM-US",
-    "companyName": "Zoom Video Communications",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 3.77,
-    "sharePrice": 86.445,
+    "sharePrice": 85.47,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
