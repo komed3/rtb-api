@@ -3,8 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
-    "numberOfShares": 164303000.0,
-    "sharePrice": 25.48,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 33.4,
+    "sharePrice": 25.19,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NASDAQ",
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 33.4,
-    "sharePrice": 25.48,
+    "numberOfShares": 164303000.0,
+    "sharePrice": 25.19,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
