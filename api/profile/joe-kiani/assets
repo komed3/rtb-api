@@ -4,6 +4,39 @@
     "ticker": "MASI-US",
     "companyName": "Masimo",
     "numberOfShares": 0.0,
+    "exerciseOptionPrice": 38.76,
+    "sharePrice": 179.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MASI-US",
+    "companyName": "Masimo",
+    "numberOfShares": 2000.0,
+    "exerciseOptionPrice": 250.73,
+    "sharePrice": 179.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MASI-US",
+    "companyName": "Masimo",
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 37.84,
+    "sharePrice": 179.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MASI-US",
+    "companyName": "Masimo",
+    "numberOfShares": 0.0,
     "exerciseOptionPrice": 90.87,
     "sharePrice": 179.95,
     "currencyCode": "USD",
@@ -54,44 +87,11 @@
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
-    "ticker": "MASI-US",
-    "companyName": "Masimo",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 38.76,
-    "sharePrice": 179.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "MASI-US",
-    "companyName": "Masimo",
-    "numberOfShares": 2000.0,
-    "exerciseOptionPrice": 250.73,
-    "sharePrice": 179.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "MASI-US",
-    "companyName": "Masimo",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 37.84,
-    "sharePrice": 179.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
     "exchange": "NYSE AMERICAN",
     "ticker": "STXS-US",
     "companyName": "Stereotaxis`",
     "numberOfShares": 7540000.0,
-    "sharePrice": 1.77,
+    "sharePrice": 1.79,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

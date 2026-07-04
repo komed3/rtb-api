@@ -4,9 +4,9 @@
     "ticker": "2009-HK",
     "companyName": "BBMG",
     "numberOfShares": 0.0,
-    "sharePrice": 0.07011907493816773,
+    "sharePrice": 0.07140215991533744,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8438,
+    "exchangeRate": 7.8429,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "688363-CN",
     "companyName": "Bloomage Biotechnology Corp",
     "numberOfShares": 283615000.0,
-    "sharePrice": 5.372624637531831,
+    "sharePrice": 5.376692648857325,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7937,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002797-CN",
-    "companyName": "First Capital Securities",
-    "numberOfShares": 187567000.0,
-    "sharePrice": 0.9994553777764693,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7937,
+    "exchangeRate": 6.7867,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "002797-CN",
     "companyName": "First Capital Securities",
     "numberOfShares": 0.0,
-    "sharePrice": 0.9994553777764693,
+    "sharePrice": 0.9886984837991956,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7937,
+    "exchangeRate": 6.7867,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002797-CN",
+    "companyName": "First Capital Securities",
+    "numberOfShares": 187567000.0,
+    "sharePrice": 0.9886984837991956,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7867,
     "interactive": false
   }
 ]
