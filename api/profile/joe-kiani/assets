@@ -4,6 +4,27 @@
     "ticker": "MASI-US",
     "companyName": "Masimo",
     "numberOfShares": 0.0,
+    "exerciseOptionPrice": 133.5,
+    "sharePrice": 179.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MASI-US",
+    "companyName": "Masimo",
+    "numberOfShares": 2905000.0,
+    "sharePrice": 179.95,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MASI-US",
+    "companyName": "Masimo",
+    "numberOfShares": 0.0,
     "exerciseOptionPrice": 86.95,
     "sharePrice": 179.95,
     "currencyCode": "USD",
@@ -66,32 +87,11 @@
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
-    "ticker": "MASI-US",
-    "companyName": "Masimo",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 133.5,
-    "sharePrice": 179.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "MASI-US",
-    "companyName": "Masimo",
-    "numberOfShares": 2905000.0,
-    "sharePrice": 179.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
     "exchange": "NYSE AMERICAN",
     "ticker": "STXS-US",
     "companyName": "Stereotaxis`",
     "numberOfShares": 7540000.0,
-    "sharePrice": 1.89,
+    "sharePrice": 1.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

@@ -3,9 +3,30 @@
     "exchange": "NYSE",
     "ticker": "TSN-US",
     "companyName": "Tyson Foods, Inc.",
+    "numberOfShares": 128000.0,
+    "exerciseOptionPrice": 59.42,
+    "sharePrice": 58.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TSN-US",
+    "companyName": "Tyson Foods, Inc.",
+    "numberOfShares": 42175000.0,
+    "sharePrice": 58.82,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TSN-US",
+    "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 90000.0,
     "exerciseOptionPrice": 89.98,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -16,7 +37,7 @@
     "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 231000.0,
     "exerciseOptionPrice": 42.26,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -27,7 +48,7 @@
     "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 90000.0,
     "exerciseOptionPrice": 60.74,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -38,7 +59,7 @@
     "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 109000.0,
     "exerciseOptionPrice": 50.0,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -49,7 +70,7 @@
     "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 30000.0,
     "exerciseOptionPrice": 81.51,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -60,7 +81,7 @@
     "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 93000.0,
     "exerciseOptionPrice": 58.34,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -71,28 +92,7 @@
     "companyName": "Tyson Foods, Inc.",
     "numberOfShares": 72000.0,
     "exerciseOptionPrice": 77.97,
-    "sharePrice": 58.75,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TSN-US",
-    "companyName": "Tyson Foods, Inc.",
-    "numberOfShares": 128000.0,
-    "exerciseOptionPrice": 59.42,
-    "sharePrice": 58.75,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TSN-US",
-    "companyName": "Tyson Foods, Inc.",
-    "numberOfShares": 42175000.0,
-    "sharePrice": 58.75,
+    "sharePrice": 58.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
