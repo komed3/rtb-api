@@ -1,0 +1,43 @@
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "BX-US",
+    "companyName": "Blackstone Group",
+    "numberOfShares": 50000.0,
+    "sharePrice": 122.15,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "GOOG-US",
+    "companyName": "Google Inc. (Cl C)",
+    "numberOfShares": 2077999.9999999998,
+    "sharePrice": 356.24,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MS-US",
+    "companyName": "Morgan Stanley",
+    "numberOfShares": 700000.0,
+    "sharePrice": 222.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MS-US",
+    "companyName": "Morgan Stanley",
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 66.72,
+    "sharePrice": 222.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  }
+]

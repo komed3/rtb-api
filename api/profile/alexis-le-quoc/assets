@@ -3,9 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "DDOG-US",
     "companyName": "Datadog",
+    "numberOfShares": 788000.0,
+    "exerciseOptionPrice": 10.74,
+    "sharePrice": 269.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "DDOG-US",
+    "companyName": "Datadog",
+    "numberOfShares": 11935000.0,
+    "sharePrice": 269.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "DDOG-US",
+    "companyName": "Datadog",
     "numberOfShares": 2103000.0,
     "exerciseOptionPrice": 0.31,
-    "sharePrice": 261.09,
+    "sharePrice": 269.0,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -16,28 +37,7 @@
     "companyName": "Datadog",
     "numberOfShares": 972000.0,
     "exerciseOptionPrice": 0.91,
-    "sharePrice": 261.09,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "DDOG-US",
-    "companyName": "Datadog",
-    "numberOfShares": 788000.0,
-    "exerciseOptionPrice": 10.74,
-    "sharePrice": 261.09,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "DDOG-US",
-    "companyName": "Datadog",
-    "numberOfShares": 11935000.0,
-    "sharePrice": 261.09,
+    "sharePrice": 269.0,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
