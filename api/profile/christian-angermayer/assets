@@ -4,19 +4,9 @@
     "ticker": "Z29-DE",
     "companyName": "029 Group",
     "numberOfShares": 1800000.0,
-    "sharePrice": 46.37879826365091,
+    "sharePrice": 46.30474452554745,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8754,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ATAI-US",
-    "companyName": "ATAI Life Sciences",
-    "numberOfShares": 33127707.0,
-    "sharePrice": 5.17,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 0.8768,
     "interactive": false
   },
   {
@@ -25,7 +15,17 @@
     "companyName": "ATAI Life Sciences",
     "numberOfShares": 2367200.0,
     "exerciseOptionPrice": 17.0,
-    "sharePrice": 5.17,
+    "sharePrice": 4.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ATAI-US",
+    "companyName": "ATAI Life Sciences",
+    "numberOfShares": 33127707.0,
+    "sharePrice": 4.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,9 +35,9 @@
     "ticker": "SRAG-DE",
     "companyName": "Cryptology Asset Group PLC",
     "numberOfShares": 70960825.0,
-    "sharePrice": 2.535983550376971,
+    "sharePrice": 2.4749087591240873,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8754,
+    "exchangeRate": 0.8768,
     "interactive": false
   },
   {
@@ -46,7 +46,7 @@
     "companyName": "Neuphoria Therapeutics",
     "numberOfShares": 65477.99999999999,
     "exerciseOptionPrice": 37.95180722891566,
-    "sharePrice": 3.54,
+    "sharePrice": 3.49,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -56,15 +56,15 @@
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
     "numberOfShares": 2349271.0,
-    "sharePrice": 8.624628741146905,
+    "sharePrice": 8.66788321167883,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8754,
+    "exchangeRate": 0.8768,
     "interactive": false
   },
   {
     "companyName": "SQD",
     "numberOfShares": 69000000.0,
-    "sharePrice": 0.030296,
+    "sharePrice": 0.029213,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -74,9 +74,9 @@
     "ticker": "IPOK-DE",
     "companyName": "SQD Strategies AG",
     "numberOfShares": 194440.0,
-    "sharePrice": 155.3575508339045,
+    "sharePrice": 155.1094890510949,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8754,
+    "exchangeRate": 0.8768,
     "interactive": false
   },
   {
@@ -84,7 +84,7 @@
     "ticker": "CUPR-US",
     "companyName": "Super Copper",
     "numberOfShares": 500000.0,
-    "sharePrice": 4.97,
+    "sharePrice": 4.33,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

@@ -4,9 +4,9 @@
     "ticker": "ACX-CA",
     "companyName": "ACT Energy Technologies",
     "numberOfShares": 2088852.9999999998,
-    "sharePrice": 4.240282685512367,
+    "sharePrice": 4.411764705882352,
     "currencyCode": "CAD",
-    "exchangeRate": 1.415,
+    "exchangeRate": 1.4144,
     "interactive": false
   },
   {
@@ -14,7 +14,7 @@
     "ticker": "BATL-US",
     "companyName": "Battalion Oil",
     "numberOfShares": 0.0,
-    "sharePrice": 1.58,
+    "sharePrice": 1.89,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -34,7 +34,17 @@
     "ticker": "DWSN-US",
     "companyName": "Dawson Geophysical",
     "numberOfShares": 12329548.0,
-    "sharePrice": 7.57,
+    "sharePrice": 4.42,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "FTK-US",
+    "companyName": "FTK Flotek Industries Inc",
+    "numberOfShares": 9972989.0,
+    "sharePrice": 24.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -45,17 +55,7 @@
     "companyName": "FTK Flotek Industries Inc",
     "numberOfShares": 1092037.0,
     "exerciseOptionPrice": 0.33,
-    "sharePrice": 25.56,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "FTK-US",
-    "companyName": "FTK Flotek Industries Inc",
-    "numberOfShares": 9972989.0,
-    "sharePrice": 25.56,
+    "sharePrice": 24.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +65,7 @@
     "ticker": "PTEN-US",
     "companyName": "Patterson-UTI Energy",
     "numberOfShares": 16167475.0,
-    "sharePrice": 9.39,
+    "sharePrice": 9.68,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -75,7 +75,7 @@
     "ticker": "ACDC-US",
     "companyName": "ProFrac Holding Corp.",
     "numberOfShares": 74413289.0,
-    "sharePrice": 4.92,
+    "sharePrice": 5.2,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -85,7 +85,7 @@
     "ticker": "PUMP-US",
     "companyName": "ProPetro Holding",
     "numberOfShares": 4918815.0,
-    "sharePrice": 12.87,
+    "sharePrice": 13.18,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -95,7 +95,7 @@
     "ticker": "SEI-US",
     "companyName": "Solaris Energy Infrastructure",
     "numberOfShares": 3178875.0,
-    "sharePrice": 71.57,
+    "sharePrice": 67.15,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

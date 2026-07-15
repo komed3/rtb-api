@@ -4,19 +4,9 @@
     "ticker": "000776-CN",
     "companyName": "GF Securities Co Ltd",
     "numberOfShares": 0.0,
-    "sharePrice": 3.2086271501489985,
+    "sharePrice": 3.132004246785419,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7786,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600487-CN",
-    "companyName": "Hengtong Optic Electric Co. Ltd.",
-    "numberOfShares": 681000000.0,
-    "sharePrice": 11.475820965981177,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7786,
+    "exchangeRate": 6.7816,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "600487-CN",
     "companyName": "Hengtong Optic Electric Co. Ltd.",
     "numberOfShares": -161890000.0,
-    "sharePrice": 11.475820965981177,
+    "sharePrice": 10.323522472572845,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7786,
+    "exchangeRate": 6.7816,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600487-CN",
+    "companyName": "Hengtong Optic Electric Co. Ltd.",
+    "numberOfShares": 681000000.0,
+    "sharePrice": 10.323522472572845,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7816,
     "interactive": false
   }
 ]

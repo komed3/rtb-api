@@ -3,8 +3,9 @@
     "exchange": "NYSE",
     "ticker": "ANGX-US",
     "companyName": "Angel Studios, Inc.",
-    "numberOfShares": 706618.0,
-    "sharePrice": 4.0,
+    "numberOfShares": 163322.0,
+    "exerciseOptionPrice": 6.13,
+    "sharePrice": 4.05,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NYSE",
     "ticker": "ANGX-US",
     "companyName": "Angel Studios, Inc.",
-    "numberOfShares": 163322.0,
-    "exerciseOptionPrice": 6.13,
-    "sharePrice": 4.0,
+    "numberOfShares": 706618.0,
+    "sharePrice": 4.05,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "PCTY-US",
     "companyName": "Paylocity Holding Corporation",
     "numberOfShares": 8462000.0,
-    "sharePrice": 118.5,
+    "sharePrice": 124.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

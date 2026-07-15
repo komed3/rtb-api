@@ -4,9 +4,9 @@
     "ticker": "CAA-ZA",
     "companyName": "CA Sales Holdings",
     "numberOfShares": 45174000.0,
-    "sharePrice": 0.8023273618128923,
+    "sharePrice": 0.8229122186299029,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "CPI-ZA",
     "companyName": "Capitec Bank Holdings Ltd",
     "numberOfShares": 6752000.0,
-    "sharePrice": 290.52457510335324,
+    "sharePrice": 286.12822546208747,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "COH-ZA",
     "companyName": "Curro Holdings",
     "numberOfShares": 98608000.0,
-    "sharePrice": 0.894809370693615,
+    "sharePrice": 0.8912340633197096,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "KAL-ZA",
     "companyName": "KAL Group",
     "numberOfShares": 5321000.0,
-    "sharePrice": 2.969836165977645,
+    "sharePrice": 2.9707802110656987,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -44,19 +44,9 @@
     "ticker": "KST-ZA",
     "companyName": "PSG Financial Services",
     "numberOfShares": 196706000.0,
-    "sharePrice": 2.1436227224008575,
+    "sharePrice": 2.196059293600927,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
-    "interactive": false
-  },
-  {
-    "exchange": "JSE",
-    "ticker": "PSG-ZA",
-    "companyName": "PSG Group Limited",
-    "numberOfShares": 41162000.0,
-    "sharePrice": 1.4056040422599907,
-    "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -64,10 +54,20 @@
     "ticker": "PSG-ZA",
     "companyName": "PSG Group Limited",
     "numberOfShares": 94000.0,
-    "exerciseOptionPrice": 0.0838095238095238,
-    "sharePrice": 1.4056040422599907,
+    "exerciseOptionPrice": 0.08347465381565303,
+    "sharePrice": 1.399987799670591,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
+    "interactive": false
+  },
+  {
+    "exchange": "JSE",
+    "ticker": "PSG-ZA",
+    "companyName": "PSG Group Limited",
+    "numberOfShares": 41162000.0,
+    "sharePrice": 1.399987799670591,
+    "currencyCode": "ZAR",
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -75,9 +75,9 @@
     "ticker": "SDO-ZA",
     "companyName": "Stadio Holdings",
     "numberOfShares": 43346000.0,
-    "sharePrice": 0.7870157709386004,
+    "sharePrice": 0.7802110656987737,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   },
   {
@@ -85,9 +85,9 @@
     "ticker": "SNH-DE",
     "companyName": "Steinhoff Intl Holdings",
     "numberOfShares": 7000000.0,
-    "sharePrice": 0.001142334932602239,
+    "sharePrice": 0.0011405109489051094,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8754,
+    "exchangeRate": 0.8768,
     "interactive": false
   },
   {
@@ -95,9 +95,9 @@
     "ticker": "ZED-ZA",
     "companyName": "Zeder Investments Ltd",
     "numberOfShares": 80000.0,
-    "sharePrice": 0.06737099984688409,
+    "sharePrice": 0.06832184468980664,
     "currencyCode": "ZAR",
-    "exchangeRate": 16.3275,
+    "exchangeRate": 16.393,
     "interactive": false
   }
 ]

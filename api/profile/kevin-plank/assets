@@ -4,45 +4,10 @@
     "ticker": "UAA-US",
     "companyName": "Under Armour",
     "numberOfShares": 34450000.0,
-    "sharePrice": 6.79,
+    "sharePrice": 6.75,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 6.75
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "UA-US",
-    "companyName": "Under Armour, Class C",
-    "numberOfShares": 434000.0,
-    "exerciseOptionPrice": 15.41,
-    "sharePrice": 6.61,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 6.61
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "UA-US",
-    "companyName": "Under Armour, Class C",
-    "numberOfShares": 115000.0,
-    "exerciseOptionPrice": 19.39,
-    "sharePrice": 6.61,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 6.61
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "UA-US",
-    "companyName": "Under Armour, Class C",
-    "numberOfShares": 16878000.0,
-    "sharePrice": 6.61,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
     "currentPrice": 6.61
   },
   {
@@ -55,7 +20,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 6.61
+    "currentPrice": 6.47
   },
   {
     "exchange": "NYSE",
@@ -67,7 +32,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 6.61
+    "currentPrice": 6.47
   },
   {
     "exchange": "NYSE",
@@ -79,7 +44,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 6.61
+    "currentPrice": 6.47
   },
   {
     "exchange": "NYSE",
@@ -91,6 +56,41 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 6.61
+    "currentPrice": 6.47
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UA-US",
+    "companyName": "Under Armour, Class C",
+    "numberOfShares": 434000.0,
+    "exerciseOptionPrice": 15.41,
+    "sharePrice": 6.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 6.47
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UA-US",
+    "companyName": "Under Armour, Class C",
+    "numberOfShares": 115000.0,
+    "exerciseOptionPrice": 19.39,
+    "sharePrice": 6.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 6.47
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UA-US",
+    "companyName": "Under Armour, Class C",
+    "numberOfShares": 16878000.0,
+    "sharePrice": 6.61,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 6.47
   }
 ]
