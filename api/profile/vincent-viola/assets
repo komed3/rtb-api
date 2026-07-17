@@ -14,17 +14,7 @@
     "ticker": "SSB-US",
     "companyName": "SouthState Corporation",
     "numberOfShares": 2456000.0,
-    "sharePrice": 100.68,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "VIRT-US",
-    "companyName": "Virtu Financial",
-    "numberOfShares": 64116000.0,
-    "sharePrice": 59.57,
+    "sharePrice": 101.15,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,7 +25,17 @@
     "companyName": "Virtu Financial",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 19.0,
-    "sharePrice": 59.57,
+    "sharePrice": 60.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "VIRT-US",
+    "companyName": "Virtu Financial",
+    "numberOfShares": 64116000.0,
+    "sharePrice": 60.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
