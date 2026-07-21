@@ -3,16 +3,6 @@
     "exchange": "NASDAQ",
     "ticker": "TTD-US",
     "companyName": "Trade Desk",
-    "numberOfShares": 42402000.0,
-    "sharePrice": 18.59,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "TTD-US",
-    "companyName": "Trade Desk",
     "numberOfShares": 235000.0,
     "exerciseOptionPrice": 14.24,
     "sharePrice": 18.59,
@@ -37,6 +27,16 @@
     "companyName": "Trade Desk",
     "numberOfShares": 36200.0,
     "exerciseOptionPrice": 74.9,
+    "sharePrice": 18.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TTD-US",
+    "companyName": "Trade Desk",
+    "numberOfShares": 42402000.0,
     "sharePrice": 18.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,

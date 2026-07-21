@@ -8,30 +8,6 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 7.43
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "UA-US",
-    "companyName": "Under Armour, Class C",
-    "numberOfShares": 245000.0,
-    "exerciseOptionPrice": 19.04,
-    "sharePrice": 7.28,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 7.28
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "UA-US",
-    "companyName": "Under Armour, Class C",
-    "numberOfShares": 434000.0,
-    "exerciseOptionPrice": 15.41,
-    "sharePrice": 7.28,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
     "currentPrice": 7.28
   },
   {
@@ -44,7 +20,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 7.28
+    "currentPrice": 7.13
   },
   {
     "exchange": "NYSE",
@@ -55,7 +31,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 7.28
+    "currentPrice": 7.13
   },
   {
     "exchange": "NYSE",
@@ -67,7 +43,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 7.28
+    "currentPrice": 7.13
   },
   {
     "exchange": "NYSE",
@@ -79,7 +55,7 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 7.28
+    "currentPrice": 7.13
   },
   {
     "exchange": "NYSE",
@@ -91,6 +67,30 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 7.28
+    "currentPrice": 7.13
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UA-US",
+    "companyName": "Under Armour, Class C",
+    "numberOfShares": 245000.0,
+    "exerciseOptionPrice": 19.04,
+    "sharePrice": 7.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 7.13
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UA-US",
+    "companyName": "Under Armour, Class C",
+    "numberOfShares": 434000.0,
+    "exerciseOptionPrice": 15.41,
+    "sharePrice": 7.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 7.13
   }
 ]
