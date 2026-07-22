@@ -4,9 +4,9 @@
     "ticker": "2369-HK",
     "companyName": "Coolpad Group",
     "numberOfShares": 3131360000.0,
-    "sharePrice": 0.018493954390082137,
+    "sharePrice": 0.018493246776435775,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8404,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "1396-HK",
     "companyName": "Guangdong - Hong Kong Greater Bay Area Holdings",
     "numberOfShares": 2555175.0,
-    "sharePrice": 1.2741696852201418,
+    "sharePrice": 1.2498884028211767,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8404,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "1468-HK",
     "companyName": "Kingkey Financial International",
     "numberOfShares": 400000.0,
-    "sharePrice": 0.024105912963624306,
+    "sharePrice": 0.02550792658818728,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8404,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "550-HK",
     "companyName": "Kingkey Intelligence Culture",
     "numberOfShares": 123038000.0,
-    "sharePrice": 0.168358757206265,
+    "sharePrice": 0.16962771181144543,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8404,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "1357-HK",
     "companyName": "Meitu, Inc",
     "numberOfShares": 0.0,
-    "sharePrice": 0.505076271618795,
+    "sharePrice": 0.525463287716658,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8404,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -54,9 +54,19 @@
     "ticker": "1337-HK",
     "companyName": "Razer Inc",
     "numberOfShares": 0.0,
-    "sharePrice": 0.35712463649813786,
+    "sharePrice": 0.3571109722346219,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8404,
+    "exchangeRate": 7.8407,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000048-CN",
+    "companyName": "Shenzhen Kondarl Group",
+    "numberOfShares": 0.0,
+    "sharePrice": 2.7163632064317804,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7664,
     "interactive": false
   },
   {
@@ -64,19 +74,9 @@
     "ticker": "000048-CN",
     "companyName": "Shenzhen Kondarl Group",
     "numberOfShares": 161000000.0,
-    "sharePrice": 2.7474878635404525,
+    "sharePrice": 2.7163632064317804,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7771,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000048-CN",
-    "companyName": "Shenzhen Kondarl Group",
-    "numberOfShares": 0.0,
-    "sharePrice": 2.7474878635404525,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7771,
+    "exchangeRate": 6.7664,
     "interactive": false
   },
   {
@@ -84,9 +84,9 @@
     "ticker": "000608-CN",
     "companyName": "Yang Guang",
     "numberOfShares": 116000000.0,
-    "sharePrice": 0.9591123046730903,
+    "sharePrice": 0.8793449988176875,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7771,
+    "exchangeRate": 6.7664,
     "interactive": false
   },
   {
@@ -94,9 +94,9 @@
     "ticker": "000608-CN",
     "companyName": "Yang Guang",
     "numberOfShares": 0.0,
-    "sharePrice": 0.9591123046730903,
+    "sharePrice": 0.8793449988176875,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7771,
+    "exchangeRate": 6.7664,
     "interactive": false
   }
 ]

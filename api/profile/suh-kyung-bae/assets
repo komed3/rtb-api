@@ -4,9 +4,9 @@
     "ticker": "090435-KR",
     "companyName": "Amorepacific Corp Prf",
     "numberOfShares": 0.0,
-    "sharePrice": 26.88284617743489,
+    "sharePrice": 26.245476375689115,
     "currencyCode": "KRW",
-    "exchangeRate": 1480.498,
+    "exchangeRate": 1478.35,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "090430-KR",
     "companyName": "Amorepacific Corp. (New)",
     "numberOfShares": 5811000.0,
-    "sharePrice": 84.02578051439448,
+    "sharePrice": 79.34521595021477,
     "currencyCode": "KRW",
-    "exchangeRate": 1480.498,
+    "exchangeRate": 1478.35,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "002795-KR",
+    "companyName": "Pacific Corp Prf",
+    "numberOfShares": 0.0,
+    "sharePrice": 7.163391619034735,
+    "currencyCode": "KRW",
+    "exchangeRate": 1478.35,
     "interactive": false
   },
   {
@@ -24,19 +34,19 @@
     "ticker": "002795-KR",
     "companyName": "Pacific Corp Prf",
     "numberOfShares": 1369000.0,
-    "sharePrice": 7.1867709378871165,
+    "sharePrice": 7.163391619034735,
     "currencyCode": "KRW",
-    "exchangeRate": 1480.498,
+    "exchangeRate": 1478.35,
     "interactive": false
   },
   {
     "exchange": "KOREA",
-    "ticker": "002795-KR",
-    "companyName": "Pacific Corp Prf",
+    "ticker": "002790-KR",
+    "companyName": "Pacific Corp.",
     "numberOfShares": 0.0,
-    "sharePrice": 7.1867709378871165,
+    "sharePrice": 16.47106571515541,
     "currencyCode": "KRW",
-    "exchangeRate": 1480.498,
+    "exchangeRate": 1478.35,
     "interactive": false
   },
   {
@@ -44,19 +54,9 @@
     "ticker": "002790-KR",
     "companyName": "Pacific Corp.",
     "numberOfShares": 45044000.0,
-    "sharePrice": 16.88620991044905,
+    "sharePrice": 16.47106571515541,
     "currencyCode": "KRW",
-    "exchangeRate": 1480.498,
-    "interactive": false
-  },
-  {
-    "exchange": "KOREA",
-    "ticker": "002790-KR",
-    "companyName": "Pacific Corp.",
-    "numberOfShares": 0.0,
-    "sharePrice": 16.88620991044905,
-    "currencyCode": "KRW",
-    "exchangeRate": 1480.498,
+    "exchangeRate": 1478.35,
     "interactive": false
   }
 ]

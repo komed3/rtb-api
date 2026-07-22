@@ -4,7 +4,17 @@
     "ticker": "PRM-US",
     "companyName": "Perimeter Solutions",
     "numberOfShares": 606000.0,
-    "sharePrice": 34.42,
+    "sharePrice": 34.67,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TDG-US",
+    "companyName": "TransDigm Group Inc.",
+    "numberOfShares": 22000.0,
+    "sharePrice": 1204.73,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -15,17 +25,7 @@
     "companyName": "TransDigm Group Inc.",
     "numberOfShares": 601000.0,
     "exerciseOptionPrice": 629.11,
-    "sharePrice": 1214.43,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TDG-US",
-    "companyName": "TransDigm Group Inc.",
-    "numberOfShares": 22000.0,
-    "sharePrice": 1214.43,
+    "sharePrice": 1204.73,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
