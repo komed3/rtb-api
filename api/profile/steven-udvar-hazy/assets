@@ -4,7 +4,7 @@
     "ticker": "ABBV-US",
     "companyName": "AbbVie Inc.",
     "numberOfShares": 104000.0,
-    "sharePrice": 256.92,
+    "sharePrice": 259.36,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,7 +13,7 @@
     "exchange": "NYSE",
     "ticker": "AL-US",
     "companyName": "Air Lease Corp.",
-    "numberOfShares": 5859000.0,
+    "numberOfShares": 0.0,
     "sharePrice": 65.0,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
@@ -24,7 +24,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 151000.0,
-    "sharePrice": 317.69,
+    "sharePrice": 319.74,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "CVX-US",
     "companyName": "Chevron Corp.",
     "numberOfShares": 453000.0,
-    "sharePrice": 194.42,
+    "sharePrice": 194.79,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "DUK-US",
     "companyName": "Duke Energy",
     "numberOfShares": 518000.0,
-    "sharePrice": 129.26,
+    "sharePrice": 130.52,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +54,7 @@
     "ticker": "XOM-US",
     "companyName": "Exxon Mobil Corp.",
     "numberOfShares": 2100000.0,
-    "sharePrice": 156.89,
+    "sharePrice": 156.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "HD-US",
     "companyName": "Home Depot",
     "numberOfShares": 111000.0,
-    "sharePrice": 324.71,
+    "sharePrice": 332.98,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "JNJ-US",
     "companyName": "Johnson & Johnson",
     "numberOfShares": 287000.0,
-    "sharePrice": 259.27,
+    "sharePrice": 263.4,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "JPUS-US",
     "companyName": "JP MORGAN DIVERSIFIED RETURN US EQUITY",
     "numberOfShares": 1366000.0,
-    "sharePrice": 141.21,
+    "sharePrice": 142.127,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -94,7 +94,7 @@
     "ticker": "MCD-US",
     "companyName": "McDonald's",
     "numberOfShares": 206000.0,
-    "sharePrice": 262.8,
+    "sharePrice": 264.76,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -104,7 +104,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 129000.0,
-    "sharePrice": 381.58,
+    "sharePrice": 381.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -114,7 +114,7 @@
     "ticker": "PEP-US",
     "companyName": "PepsiCo Inc.",
     "numberOfShares": 980000.0,
-    "sharePrice": 134.95,
+    "sharePrice": 136.64,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -124,9 +124,9 @@
     "ticker": "PRU-GB",
     "companyName": "Prudential plc",
     "numberOfShares": 150000.0,
-    "sharePrice": 14.449327473698228,
+    "sharePrice": 14.607490337198456,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7509,
+    "exchangeRate": 0.7503,
     "interactive": false
   },
   {
@@ -134,7 +134,7 @@
     "ticker": "SKYW-US",
     "companyName": "SkyWest Inc.",
     "numberOfShares": 56000.0,
-    "sharePrice": 96.24,
+    "sharePrice": 103.65,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -144,7 +144,17 @@
     "ticker": "SO-US",
     "companyName": "Southern Co",
     "numberOfShares": 875000.0,
-    "sharePrice": 96.6,
+    "sharePrice": 97.25,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SUN-US",
+    "companyName": "Sunoco Inc.",
+    "numberOfShares": 100000.0,
+    "sharePrice": 75.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -154,7 +164,7 @@
     "ticker": "TGT-US",
     "companyName": "Target",
     "numberOfShares": 196000.0,
-    "sharePrice": 134.48,
+    "sharePrice": 136.78,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -164,7 +174,7 @@
     "ticker": "WMT-US",
     "companyName": "Walmart",
     "numberOfShares": 195000.0,
-    "sharePrice": 108.4,
+    "sharePrice": 109.47,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
