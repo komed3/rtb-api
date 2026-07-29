@@ -4,7 +4,7 @@
     "ticker": "MDRX-US",
     "companyName": "Allscripts",
     "numberOfShares": 3071000.0,
-    "sharePrice": 5.14,
+    "sharePrice": 5.0,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "BNTC-US",
     "companyName": "Benitec Biopharma",
     "numberOfShares": 293000.0,
-    "sharePrice": 11.47,
+    "sharePrice": 11.58,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "BMY-US",
     "companyName": "Bristol-Myers Squibb Co.",
     "numberOfShares": 9514000.0,
-    "sharePrice": 62.09,
+    "sharePrice": 62.56,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,19 +54,9 @@
     "ticker": "DCTA-GB",
     "companyName": "Directa Plus",
     "numberOfShares": 41197000.0,
-    "sharePrice": 0.0892976142876183,
+    "sharePrice": 0.09044958765629157,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7503,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "IBRX-US",
-    "companyName": "ImmunityBio Inc",
-    "numberOfShares": 644175000.0,
-    "sharePrice": 7.1,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 0.7518,
     "interactive": false
   },
   {
@@ -75,7 +65,17 @@
     "companyName": "ImmunityBio Inc",
     "numberOfShares": 900000.0,
     "exerciseOptionPrice": 25.0,
-    "sharePrice": 7.1,
+    "sharePrice": 6.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "IBRX-US",
+    "companyName": "ImmunityBio Inc",
+    "numberOfShares": 644175000.0,
+    "sharePrice": 6.99,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -85,7 +85,7 @@
     "ticker": "JAKK-US",
     "companyName": "JAKKS Pacific Inc.",
     "numberOfShares": 0.0,
-    "sharePrice": 24.5,
+    "sharePrice": 25.92,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -95,10 +95,10 @@
     "ticker": "LMNL-CA",
     "companyName": "Liminal BioSciences",
     "numberOfShares": 0.0,
-    "exerciseOptionPrice": 0.3337594091748331,
-    "sharePrice": 16.21928703309189,
+    "exerciseOptionPrice": 0.33300269236219354,
+    "sharePrice": 16.18251381606915,
     "currencyCode": "CAD",
-    "exchangeRate": 1.4082,
+    "exchangeRate": 1.4114,
     "interactive": false
   },
   {
@@ -116,7 +116,7 @@
     "ticker": "RDNT-US",
     "companyName": "RadNet Inc.",
     "numberOfShares": 561000.0,
-    "sharePrice": 61.57,
+    "sharePrice": 61.51,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
