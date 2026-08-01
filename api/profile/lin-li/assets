@@ -4,9 +4,9 @@
     "ticker": "000039-CN",
     "companyName": "China International Marine Containers",
     "numberOfShares": 251300000.0,
-    "sharePrice": 1.2858599742828003,
+    "sharePrice": 1.2876298730130538,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7659,
+    "exchangeRate": 6.7566,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
     "numberOfShares": 1731000000.0,
-    "sharePrice": 0.5261679894766402,
+    "sharePrice": 0.5372524642571708,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7659,
+    "exchangeRate": 6.7566,
     "interactive": false
   },
   {
@@ -24,19 +24,9 @@
     "ticker": "1988-HK",
     "companyName": "China Minsheng Banking (HK-listed)",
     "numberOfShares": 199300000.0,
-    "sharePrice": 0.46156396230985985,
+    "sharePrice": 0.4678854636783192,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8429,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002945-CN",
-    "companyName": "ChinaLin Securities",
-    "numberOfShares": 1433340000.0,
-    "sharePrice": 2.1238859575222806,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7659,
+    "exchangeRate": 7.8438,
     "interactive": false
   },
   {
@@ -44,9 +34,19 @@
     "ticker": "002945-CN",
     "companyName": "ChinaLin Securities",
     "numberOfShares": 0.0,
-    "sharePrice": 2.1238859575222806,
+    "sharePrice": 2.175650475091022,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7659,
+    "exchangeRate": 6.7566,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002945-CN",
+    "companyName": "ChinaLin Securities",
+    "numberOfShares": 1433340000.0,
+    "sharePrice": 2.175650475091022,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7566,
     "interactive": false
   }
 ]
