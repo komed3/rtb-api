@@ -4,7 +4,7 @@
     "ticker": "QFIN-US",
     "companyName": "360 Finance",
     "numberOfShares": 21250000.0,
-    "sharePrice": 13.85,
+    "sharePrice": 13.88,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,10 +13,20 @@
     "exchange": "SHANGHAI",
     "ticker": "601360-CN",
     "companyName": "SJEC Corporation",
-    "numberOfShares": -1750000.0,
-    "sharePrice": 1.3039102507178169,
+    "numberOfShares": 1019300000.0,
+    "sharePrice": 1.3827138538146897,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7566,
+    "exchangeRate": 6.7476,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "601360-CN",
+    "companyName": "SJEC Corporation",
+    "numberOfShares": -1750000.0,
+    "sharePrice": 1.3827138538146897,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7476,
     "interactive": false
   },
   {
@@ -24,19 +34,9 @@
     "ticker": "601360-CN",
     "companyName": "SJEC Corporation",
     "numberOfShares": 0.0,
-    "sharePrice": 1.3039102507178169,
+    "sharePrice": 1.3827138538146897,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7566,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "601360-CN",
-    "companyName": "SJEC Corporation",
-    "numberOfShares": 1019300000.0,
-    "sharePrice": 1.3039102507178169,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7566,
+    "exchangeRate": 6.7476,
     "interactive": false
   }
 ]
