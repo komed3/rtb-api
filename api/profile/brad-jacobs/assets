@@ -4,29 +4,7 @@
     "ticker": "GXO-US",
     "companyName": "GXO Logistics",
     "numberOfShares": 1700000.0,
-    "sharePrice": 50.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "QXO-US",
-    "companyName": "QXO",
-    "numberOfShares": 98554000.0,
-    "exerciseOptionPrice": 4.566,
-    "sharePrice": 13.3,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "QXO-US",
-    "companyName": "QXO",
-    "numberOfShares": 49277000.0,
-    "exerciseOptionPrice": 6.849,
-    "sharePrice": 13.3,
+    "sharePrice": 50.62,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,7 +15,7 @@
     "companyName": "QXO",
     "numberOfShares": 49277000.0,
     "exerciseOptionPrice": 13.698,
-    "sharePrice": 13.3,
+    "sharePrice": 14.09,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -47,7 +25,29 @@
     "ticker": "QXO-US",
     "companyName": "QXO",
     "numberOfShares": 197109000.0,
-    "sharePrice": 13.3,
+    "sharePrice": 14.09,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "QXO-US",
+    "companyName": "QXO",
+    "numberOfShares": 98554000.0,
+    "exerciseOptionPrice": 4.566,
+    "sharePrice": 14.09,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "QXO-US",
+    "companyName": "QXO",
+    "numberOfShares": 49277000.0,
+    "exerciseOptionPrice": 6.849,
+    "sharePrice": 14.09,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -67,7 +67,7 @@
     "ticker": "XPO-US",
     "companyName": "XPO Logistics",
     "numberOfShares": 2619000.0,
-    "sharePrice": 200.97,
+    "sharePrice": 197.01,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
