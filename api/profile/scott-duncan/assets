@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "EPD-US",
     "companyName": "Enterprise Products Partners L.P.",
+<<<<<<< HEAD
+    "numberOfShares": 166077000,
+=======
     "numberOfShares": 166077000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 37.92,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

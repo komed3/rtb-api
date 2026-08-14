@@ -3,26 +3,45 @@
     "exchange": "NYSE",
     "ticker": "GXO-US",
     "companyName": "GXO Logistics",
+<<<<<<< HEAD
+    "numberOfShares": 1700000,
+    "sharePrice": 47.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 1700000.0,
     "sharePrice": 47.98,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "QXO-US",
     "companyName": "QXO",
+<<<<<<< HEAD
+    "numberOfShares": 197109000,
+    "sharePrice": 15.03,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 197109000.0,
     "sharePrice": 15.03,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "QXO-US",
     "companyName": "QXO",
+<<<<<<< HEAD
+    "numberOfShares": 98554000,
+    "exerciseOptionPrice": 4.566,
+    "sharePrice": 15.03,
+=======
     "numberOfShares": 98554000.0,
     "exerciseOptionPrice": 4.566,
     "sharePrice": 15.03,
@@ -48,28 +67,55 @@
     "numberOfShares": 49277000.0,
     "exerciseOptionPrice": 13.698,
     "sharePrice": 15.03,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "QXO-US",
+    "companyName": "QXO",
+    "numberOfShares": 49277000,
+    "exerciseOptionPrice": 6.849,
+    "sharePrice": 15.03,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "QXO-US",
+    "companyName": "QXO",
+    "numberOfShares": 49277000,
+    "exerciseOptionPrice": 13.698,
+    "sharePrice": 15.03,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE AMERICAN",
     "ticker": "ROX-US",
     "companyName": "RXO",
-    "numberOfShares": 2362000.0,
+    "numberOfShares": 2362000,
     "sharePrice": 19.46,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "XPO-US",
     "companyName": "XPO Logistics",
+<<<<<<< HEAD
+    "numberOfShares": 2619000,
+=======
     "numberOfShares": 2619000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 208.94,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
+<<<<<<< HEAD
+    "numberOfShares": 3638000,
+=======
     "numberOfShares": 3638000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 332.26,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -13,101 +13,129 @@
     "exchange": "NYSE AMERICAN",
     "ticker": "BATL-US",
     "companyName": "Battalion Oil",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.35,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CPE-US",
     "companyName": "Callon Petroleum Co (sold)",
-    "numberOfShares": 1896232.0,
+    "numberOfShares": 1896232,
     "sharePrice": 35.76,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "DWSN-US",
     "companyName": "Dawson Geophysical",
+<<<<<<< HEAD
+    "numberOfShares": 12329548,
+=======
     "numberOfShares": 12329548.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.38,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FTK-US",
     "companyName": "FTK Flotek Industries Inc",
+<<<<<<< HEAD
+    "numberOfShares": 9972989,
+=======
     "numberOfShares": 9972989.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 37.17,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FTK-US",
     "companyName": "FTK Flotek Industries Inc",
-    "numberOfShares": 1092037.0,
+    "numberOfShares": 1092037,
     "exerciseOptionPrice": 0.33,
     "sharePrice": 37.17,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PTEN-US",
     "companyName": "Patterson-UTI Energy",
+<<<<<<< HEAD
+    "numberOfShares": 16167475,
+=======
     "numberOfShares": 16167475.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 11.02,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ACDC-US",
     "companyName": "ProFrac Holding Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 74413289,
+=======
     "numberOfShares": 74413289.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.14,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PUMP-US",
     "companyName": "ProPetro Holding",
+<<<<<<< HEAD
+    "numberOfShares": 4918815,
+=======
     "numberOfShares": 4918815.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 11.59,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SEI-US",
     "companyName": "Solaris Energy Infrastructure",
+<<<<<<< HEAD
+    "numberOfShares": 3178875,
+=======
     "numberOfShares": 3178875.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 61.8,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "USWS-US",
     "companyName": "US Well Services",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 7.41,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

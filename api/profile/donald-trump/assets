@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "DJT-US",
     "companyName": "Trump Media & Technology Group",
+<<<<<<< HEAD
+    "numberOfShares": 114750000,
+=======
     "numberOfShares": 114750000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 8.27,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

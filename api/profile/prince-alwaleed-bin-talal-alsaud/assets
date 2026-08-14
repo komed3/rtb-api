@@ -3,27 +3,39 @@
     "exchange": "NYSE",
     "ticker": "C-US",
     "companyName": "Citigroup",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 137.58,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 31.61,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "SAUDI ARABIA",
     "ticker": "4280-SA",
     "companyName": "Kingdom Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 2895591000,
+=======
     "numberOfShares": 2895591000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 3.494380226921643,
     "currencyCode": "SAR",
     "exchangeRate": 3.7546,
@@ -33,16 +45,24 @@
     "exchange": "PALESTINE",
     "ticker": "PADICO-PS",
     "companyName": "Palestine Development & Investment Co.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 2.17,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNAP-US",
     "companyName": "Snap, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 40804000,
+    "sharePrice": 5.2,
+=======
     "numberOfShares": 40804000.0,
     "sharePrice": 5.2,
     "currencyCode": "USD",
@@ -55,8 +75,19 @@
     "companyName": "Space Exploration Technologies Corp.",
     "numberOfShares": 37980387.0,
     "sharePrice": 146.15,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SPCX-US",
+    "companyName": "Space Exploration Technologies Corp.",
+    "numberOfShares": 37980387,
+    "sharePrice": 146.15,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

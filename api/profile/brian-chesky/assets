@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 65693000,
+=======
     "numberOfShares": 65693000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 180.095,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

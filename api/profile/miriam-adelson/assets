@@ -3,6 +3,11 @@
     "exchange": "NYSE",
     "ticker": "LVS-US",
     "companyName": "Las Vegas Sands Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 81234,
+    "exerciseOptionPrice": 75.18,
+    "sharePrice": 45.68,
+=======
     "numberOfShares": 81234.0,
     "exerciseOptionPrice": 75.18,
     "sharePrice": 45.68,
@@ -71,8 +76,74 @@
     "numberOfShares": 115606.0,
     "exerciseOptionPrice": 63.26,
     "sharePrice": 45.68,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LVS-US",
+    "companyName": "Las Vegas Sands Corp.",
+    "numberOfShares": 129701.00000000001,
+    "exerciseOptionPrice": 59.89,
+    "sharePrice": 45.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LVS-US",
+    "companyName": "Las Vegas Sands Corp.",
+    "numberOfShares": 132625,
+    "exerciseOptionPrice": 65.31,
+    "sharePrice": 45.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LVS-US",
+    "companyName": "Las Vegas Sands Corp.",
+    "numberOfShares": 386608204,
+    "sharePrice": 45.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LVS-US",
+    "companyName": "Las Vegas Sands Corp.",
+    "numberOfShares": 1500000,
+    "exerciseOptionPrice": 34.28,
+    "sharePrice": 45.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LVS-US",
+    "companyName": "Las Vegas Sands Corp.",
+    "numberOfShares": 102412,
+    "exerciseOptionPrice": 55.47,
+    "sharePrice": 45.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LVS-US",
+    "companyName": "Las Vegas Sands Corp.",
+    "numberOfShares": 115606,
+    "exerciseOptionPrice": 63.26,
+    "sharePrice": 45.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

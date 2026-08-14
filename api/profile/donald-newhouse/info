@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "New York",
-    "city": "New York",
-    "zipCode": "10021",
-    "_geo": {
-      "longitude": -73.969924,
-      "latitude": 40.771403
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "media-entertainment"
@@ -22,9 +17,9 @@
     "Media"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/5f4e9fd63fe2632db7de396e/416x416.jpg?background=000000&cropX1=421&cropX2=2796&cropY1=63&cropY2=2436",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Syracuse University",

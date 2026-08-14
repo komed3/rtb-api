@@ -3,7 +3,11 @@
     "exchange": "TORONTO",
     "ticker": "CFP-CA",
     "companyName": "Canfor Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 63728722,
+=======
     "numberOfShares": 63728722.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 11.046469869999282,
     "currencyCode": "CAD",
     "exchangeRate": 1.3923,
@@ -13,7 +17,11 @@
     "exchange": "TORONTO",
     "ticker": "WFG-CA",
     "companyName": "West Fraser Timber",
+<<<<<<< HEAD
+    "numberOfShares": 8926000,
+=======
     "numberOfShares": 8926000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 70.17165840695252,
     "currencyCode": "CAD",
     "exchangeRate": 1.3923,
@@ -23,10 +31,14 @@
     "exchange": "US OTC",
     "ticker": "WTSHF-US",
     "companyName": "Westshore Terminals",
+<<<<<<< HEAD
+    "numberOfShares": 29251000,
+=======
     "numberOfShares": 29251000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 30.7,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,7 +3,11 @@
     "exchange": "XETRA",
     "ticker": "DEQ-DE",
     "companyName": "Deutsche Euroshop",
+<<<<<<< HEAD
+    "numberOfShares": 4999000,
+=======
     "numberOfShares": 4999000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 21.21421975992613,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
@@ -13,10 +17,10 @@
     "exchange": "NYSE",
     "ticker": "PGRE-US",
     "companyName": "Paramount Group",
-    "numberOfShares": 7139000.0,
+    "numberOfShares": 7139000,
     "sharePrice": 6.6,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

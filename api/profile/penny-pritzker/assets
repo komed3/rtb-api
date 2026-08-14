@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
+<<<<<<< HEAD
+    "numberOfShares": 6526000,
+=======
     "numberOfShares": 6526000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 178.37,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
+<<<<<<< HEAD
+    "numberOfShares": 35000,
+=======
     "numberOfShares": 35000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 492.43,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

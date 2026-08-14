@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Victoria",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Victoria"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Monash University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

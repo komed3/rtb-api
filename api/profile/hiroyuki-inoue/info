@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "jp",
   "residence": {
-    "city": "Himeji",
-    "state": null
+    "country": "jp",
+    "state": null,
+    "city": "Himeji"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Steel products"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

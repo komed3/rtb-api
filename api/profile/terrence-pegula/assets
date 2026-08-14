@@ -3,20 +3,24 @@
     "exchange": "NASDAQ",
     "ticker": "ABL-US",
     "companyName": "Abacus Life",
-    "numberOfShares": 12140778.0,
+    "numberOfShares": 12140778,
     "sharePrice": 8.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "RAND-US",
     "companyName": "RAND",
+<<<<<<< HEAD
+    "numberOfShares": 1906672,
+=======
     "numberOfShares": 1906672.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 10.055,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

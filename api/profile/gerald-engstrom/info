@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "se",
   "residence": {
-    "city": "Skinnskatteberg",
-    "state": null
+    "country": "se",
+    "state": null,
+    "city": "Skinnskatteberg"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Ventilation"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Lake Mary",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Lake Mary"
   },
   "industry": [
     "service"
   ],
   "source": [
     "personal injury law"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "Bachelor of Arts"
+    },
+    {
+      "school": "University of Florida",
+      "degree": "JD"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "uri": "li-xiaoming",
+  "name": "Li Xiaoming",
+  "birthDate": "1974-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Wuhan"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "AI",
+    "Landscape Design"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

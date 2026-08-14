@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "NKE-US",
     "companyName": "Nike",
+<<<<<<< HEAD
+    "numberOfShares": 304797000,
+=======
     "numberOfShares": 304797000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 40.51,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": true,
     "currentPrice": 41.23
   }

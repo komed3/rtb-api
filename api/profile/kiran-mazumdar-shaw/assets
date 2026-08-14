@@ -6,14 +6,18 @@
     "numberOfShares": 8108000.000000001,
     "sharePrice": 24.63,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "BSE INDIA",
     "ticker": "532523-IN",
     "companyName": "Biocon",
+<<<<<<< HEAD
+    "numberOfShares": 728024000,
+=======
     "numberOfShares": 728024000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.496835851330642,
     "currencyCode": "INR",
     "exchangeRate": 95.3337,
@@ -23,7 +27,11 @@
     "exchange": "BSE INDIA",
     "ticker": "539551-IN",
     "companyName": "Narayana Hrudayalaya",
+<<<<<<< HEAD
+    "numberOfShares": 4706000,
+=======
     "numberOfShares": 4706000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 19.205170889202876,
     "currencyCode": "INR",
     "exchangeRate": 95.3337,

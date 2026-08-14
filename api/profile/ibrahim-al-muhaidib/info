@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "sa",
   "residence": {
-    "city": "Riyadh",
-    "state": null
+    "country": "sa",
+    "state": null,
+    "city": "Riyadh"
   },
   "industry": [
     "real-estate"
@@ -15,5 +16,15 @@
   "source": [
     "Real estate",
     "investments"
-  ]
+  ],
+  "deceased": false,
+  "children": 6,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

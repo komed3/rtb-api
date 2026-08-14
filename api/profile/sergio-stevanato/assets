@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "STVN-US",
     "companyName": "Stevanato Group S.p.A.",
+<<<<<<< HEAD
+    "numberOfShares": 230596000,
+=======
     "numberOfShares": 230596000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 21.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

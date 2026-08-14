@@ -3,7 +3,11 @@
     "exchange": "ATHENS",
     "ticker": "AEM-GR",
     "companyName": "Alter Ego Media",
+<<<<<<< HEAD
+    "numberOfShares": 42747000,
+=======
     "numberOfShares": 42747000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 7.375346260387811,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
@@ -13,10 +17,14 @@
     "exchange": "NASDAQ",
     "ticker": "CCEC-US",
     "companyName": "Capital Clean Energy Carriers",
+<<<<<<< HEAD
+    "numberOfShares": 34462727,
+=======
     "numberOfShares": 34462727.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 22.59,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

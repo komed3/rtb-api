@@ -3,7 +3,11 @@
     "exchange": "OSLO",
     "ticker": "AKVA-NO",
     "companyName": "AKVA Group",
+<<<<<<< HEAD
+    "numberOfShares": 3150272,
+=======
     "numberOfShares": 3150272.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 14.56848772763262,
     "currencyCode": "NOK",
     "exchangeRate": 9.4725,
@@ -13,7 +17,11 @@
     "exchange": "TEL AVIV",
     "ticker": "ICL-IL",
     "companyName": "ICL Group",
+<<<<<<< HEAD
+    "numberOfShares": 270637972,
+=======
     "numberOfShares": 270637972.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.470900181244546,
     "currencyCode": "ILS",
     "exchangeRate": 2.9794,
@@ -23,7 +31,11 @@
     "exchange": "TEL AVIV",
     "ticker": "OPCE-IL",
     "companyName": "OPC Energy",
+<<<<<<< HEAD
+    "numberOfShares": 88537855,
+=======
     "numberOfShares": 88537855.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 33.372491105591735,
     "currencyCode": "ILS",
     "exchangeRate": 2.9794,
@@ -33,10 +45,14 @@
     "exchange": "NYSE",
     "ticker": "ZIM-US",
     "companyName": "ZIM Integrated Shipping Services",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 25.27,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

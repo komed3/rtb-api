@@ -3,6 +3,11 @@
     "exchange": "NYSE",
     "ticker": "STZ-US",
     "companyName": "Constellation Brands, Class A",
+<<<<<<< HEAD
+    "numberOfShares": 28000,
+    "exerciseOptionPrice": 153.02,
+    "sharePrice": 133.96,
+=======
     "numberOfShares": 28000.0,
     "exerciseOptionPrice": 153.02,
     "sharePrice": 133.96,
@@ -59,18 +64,72 @@
     "numberOfShares": 18000.0,
     "exerciseOptionPrice": 207.48,
     "sharePrice": 133.96,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "STZ-US",
+    "companyName": "Constellation Brands, Class A",
+    "numberOfShares": 0,
+    "sharePrice": 133.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "STZ-US",
+    "companyName": "Constellation Brands, Class A",
+    "numberOfShares": 4581000,
+    "sharePrice": 133.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "STZ-US",
+    "companyName": "Constellation Brands, Class A",
+    "numberOfShares": 14212,
+    "exerciseOptionPrice": 238.31,
+    "sharePrice": 133.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "STZ-US",
+    "companyName": "Constellation Brands, Class A",
+    "numberOfShares": 66896,
+    "exerciseOptionPrice": 228.26,
+    "sharePrice": 133.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "STZ-US",
+    "companyName": "Constellation Brands, Class A",
+    "numberOfShares": 18000,
+    "exerciseOptionPrice": 207.48,
+    "sharePrice": 133.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "STZ.B-US",
     "companyName": "Constellation Brands, Class B",
-    "numberOfShares": 0.0,
-    "sharePrice": 310.0,
+    "numberOfShares": 0,
+    "sharePrice": 310,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

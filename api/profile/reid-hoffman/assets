@@ -3,35 +3,67 @@
     "exchange": "NASDAQ",
     "ticker": "AUR-US",
     "companyName": "Aurora Innovation",
+<<<<<<< HEAD
+    "numberOfShares": 4160000,
+=======
     "numberOfShares": 4160000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 6.87,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FIG-US",
     "companyName": "Figma",
+<<<<<<< HEAD
+    "numberOfShares": 1460000,
+    "sharePrice": 23.75,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 1460000.0,
     "sharePrice": 23.75,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 70400,
+=======
     "numberOfShares": 70400.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 287.5,
     "sharePrice": 32.91,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
+    "ticker": "HIPO-US",
+    "companyName": "Hippo Holdings",
+    "numberOfShares": 0,
+    "sharePrice": 32.91,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+<<<<<<< HEAD
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 4613000,
+    "exerciseOptionPrice": 11.5,
+    "sharePrice": 7.96,
+=======
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
     "numberOfShares": 0.0,
@@ -57,28 +89,47 @@
     "companyName": "Joby Aviation",
     "numberOfShares": 7580000.0,
     "sharePrice": 7.96,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 7580000,
+    "sharePrice": 7.96,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
+<<<<<<< HEAD
+    "numberOfShares": 16000,
+=======
     "numberOfShares": 16000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 492.43,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "VOR-US",
     "companyName": "Vor Biopharma",
+<<<<<<< HEAD
+    "numberOfShares": 1167000,
+=======
     "numberOfShares": 1167000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 22.34,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

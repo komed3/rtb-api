@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "VIK-US",
     "companyName": "Viking Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 236238000,
+=======
     "numberOfShares": 236238000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 104.19,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

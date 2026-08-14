@@ -3,50 +3,70 @@
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
+<<<<<<< HEAD
+    "numberOfShares": 700000,
+=======
     "numberOfShares": 700000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 343.54,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
+<<<<<<< HEAD
+    "numberOfShares": 6488889,
+=======
     "numberOfShares": 6488889.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 302.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
+<<<<<<< HEAD
+    "numberOfShares": 700000,
+=======
     "numberOfShares": 700000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 342.37,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "IBTA-US",
     "companyName": "Ibotta",
+<<<<<<< HEAD
+    "numberOfShares": 3852673,
+=======
     "numberOfShares": 3852673.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 35.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PLTR-US",
     "companyName": "Palantir",
+<<<<<<< HEAD
+    "numberOfShares": 19653161,
+=======
     "numberOfShares": 19653161.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 171.04,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,10 +3,17 @@
     "exchange": "NYSE",
     "ticker": "JMKE-US",
     "companyName": "Jersey Mike's",
+<<<<<<< HEAD
+    "numberOfShares": 30347000,
+    "sharePrice": 22.66,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 30347000.0,
     "sharePrice": 22.66,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

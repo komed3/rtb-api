@@ -7,8 +7,8 @@
   "citizenship": "us",
   "residence": {
     "country": "us",
-    "state": "Illinois",
-    "city": "Chicago"
+    "state": "Florida",
+    "city": "Miami"
   },
   "industry": [
     "finance-investments"
@@ -29,7 +29,10 @@
       "degree": "JD"
     }
   ],
-  "organization": null,
+  "organization": {
+    "name": "Valor Equity Partners",
+    "title": "Founder, CEO and CIO"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

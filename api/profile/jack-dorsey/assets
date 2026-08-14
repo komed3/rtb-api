@@ -3,16 +3,24 @@
     "exchange": "NYSE",
     "ticker": "XYZ-US",
     "companyName": "Block Inc Class A",
+<<<<<<< HEAD
+    "numberOfShares": 36764000,
+=======
     "numberOfShares": 36764000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 78.28,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "XYZ-US",
     "companyName": "Block Inc Class A",
+<<<<<<< HEAD
+    "numberOfShares": 12080000,
+    "sharePrice": 78.28,
+=======
     "numberOfShares": 12080000.0,
     "sharePrice": 78.28,
     "currencyCode": "USD",
@@ -25,18 +33,33 @@
     "companyName": "Space Exploration Technologies Corp.",
     "numberOfShares": 19501030.0,
     "sharePrice": 146.15,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SPCX-US",
+    "companyName": "Space Exploration Technologies Corp.",
+    "numberOfShares": 19501030,
+    "sharePrice": 146.15,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 103.22,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

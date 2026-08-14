@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Las Vegas",
-    "state": "Nevada"
+    "country": "us",
+    "state": "Nevada",
+    "city": "Las Vegas"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Investing"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Florida",
+      "degree": "JD"
+    },
+    {
+      "school": "University of Florida",
+      "degree": "LLM"
+    },
+    {
+      "school": "University of North Florida",
+      "degree": "Bachelor of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "XP-US",
     "companyName": "XP, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 68197000,
+=======
     "numberOfShares": 68197000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 15.44,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "FCFS-US",
     "companyName": "FIRSTCASH INC CMN",
+<<<<<<< HEAD
+    "numberOfShares": 3940000,
+=======
     "numberOfShares": 3940000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 213.965,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

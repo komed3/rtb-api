@@ -1,0 +1,42 @@
+{
+  "uri": "cao-kanyu",
+  "name": "Cao Kanyu",
+  "birthDate": "1971-01-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Hefei"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Ohio University",
+      "degree": "Master of Arts/Science"
+    },
+    {
+      "school": "Tsinghua Univeristy",
+      "degree": "Bachelor of Arts/Science"
+    },
+    {
+      "school": "University of California at Berkeley",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

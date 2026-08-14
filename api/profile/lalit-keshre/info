@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Mumbai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Mumbai"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Financial Services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Indian Institute of Technology Bombay",
+      "degree": "Bachelor of Technology"
+    },
+    {
+      "school": "Indian Institute of Technology Bombay",
+      "degree": "Masters of Science in Technology"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

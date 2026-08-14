@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Barnaul",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Barnaul"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "retail"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Altai State Pedagogical University",
+      "degree": "Master"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -3,20 +3,26 @@
     "exchange": "NASDAQ",
     "ticker": "CRVL-US",
     "companyName": "Corvel Corporation",
+<<<<<<< HEAD
+    "numberOfShares": 9000,
+=======
     "numberOfShares": 9000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 19.12,
     "sharePrice": 62.75,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CRVL-US",
     "companyName": "Corvel Corporation",
-    "numberOfShares": 9000.0,
+    "numberOfShares": 9000,
     "exerciseOptionPrice": 29.16,
     "sharePrice": 62.75,
+<<<<<<< HEAD
+=======
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -60,8 +66,52 @@
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 16.12,
     "sharePrice": 62.75,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRVL-US",
+    "companyName": "Corvel Corporation",
+    "numberOfShares": 9000,
+    "exerciseOptionPrice": 26.5,
+    "sharePrice": 62.75,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRVL-US",
+    "companyName": "Corvel Corporation",
+    "numberOfShares": 19301000,
+    "sharePrice": 62.75,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRVL-US",
+    "companyName": "Corvel Corporation",
+    "numberOfShares": 9000,
+    "exerciseOptionPrice": 14.44,
+    "sharePrice": 62.75,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "CRVL-US",
+    "companyName": "Corvel Corporation",
+    "numberOfShares": 9000,
+    "exerciseOptionPrice": 16.12,
+    "sharePrice": 62.75,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

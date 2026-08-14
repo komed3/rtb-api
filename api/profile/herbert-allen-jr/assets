@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
+<<<<<<< HEAD
+    "numberOfShares": 13262000,
+=======
     "numberOfShares": 13262000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 86.71,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

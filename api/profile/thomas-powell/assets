@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "POWL-US",
     "companyName": "Powell Industries, Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 6837000,
+=======
     "numberOfShares": 6837000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 207.98,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

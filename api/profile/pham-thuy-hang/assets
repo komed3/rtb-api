@@ -3,20 +3,31 @@
     "exchange": "NASDAQ",
     "ticker": "VFS-US",
     "companyName": "VinFast",
+<<<<<<< HEAD
+    "numberOfShares": 19778000,
+=======
     "numberOfShares": 19778000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 3.12,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "HO CHI MINH CITY",
     "ticker": "VIC-VN",
     "companyName": "Vingroup Joint Stock Company",
+<<<<<<< HEAD
+    "numberOfShares": 315398000,
+    "sharePrice": 8.248803827751196,
+    "currencyCode": "VND",
+    "exchangeRate": 26125,
+=======
     "numberOfShares": 315398000.0,
     "sharePrice": 8.248803827751196,
     "currencyCode": "VND",
     "exchangeRate": 26125.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

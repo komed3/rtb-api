@@ -3,20 +3,26 @@
     "exchange": "US OTC",
     "ticker": "ATZAF-US",
     "companyName": "Aritzia",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 30.98,
     "sharePrice": 100.58,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "ATZAF-US",
     "companyName": "Aritzia",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "exerciseOptionPrice": 18.29,
     "sharePrice": 100.58,
+<<<<<<< HEAD
+=======
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -49,8 +55,41 @@
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 35.98,
     "sharePrice": 100.58,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "ATZAF-US",
+    "companyName": "Aritzia",
+    "numberOfShares": 18327000,
+    "sharePrice": 100.58,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "ATZAF-US",
+    "companyName": "Aritzia",
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 25.58,
+    "sharePrice": 100.58,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "US OTC",
+    "ticker": "ATZAF-US",
+    "companyName": "Aritzia",
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 35.98,
+    "sharePrice": 100.58,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

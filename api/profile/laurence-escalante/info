@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "au",
   "residence": {
-    "city": "Perth",
-    "state": null
+    "country": "au",
+    "state": null,
+    "city": "Perth"
   },
   "industry": [
     "gambling-casinos"
   ],
   "source": [
     "gaming"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Macquarie University",
+      "degree": "Bachelor of Arts/Economics"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

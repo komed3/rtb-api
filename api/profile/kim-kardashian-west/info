@@ -8,7 +8,7 @@
   "residence": {
     "country": "us",
     "state": "California",
-    "city": "Hidden Hills"
+    "city": "Los Angeles"
   },
   "industry": [
     "fashion-retail"
@@ -17,12 +17,15 @@
     "cosmetics",
     "reality TV"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/646e6879fd33ccb3915f411d/416x416.jpg?background=000000&cropX1=571&cropX2=2926&cropY1=0&cropY2=2354",
+  "image": "https://specials-images.forbesimg.com/imageserve/69374c8b4e808d6dd33577cf/416x416.jpg?background=000000&cropX1=198&cropX2=939&cropY1=65&cropY2=807",
   "deceased": false,
   "children": 4,
   "maritalStatus": "Divorced",
   "education": [],
-  "organization": null,
+  "organization": {
+    "name": "Skims",
+    "title": "Cofounder"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

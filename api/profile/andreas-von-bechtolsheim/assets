@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "ANET-US",
     "companyName": "Arista Networks",
+<<<<<<< HEAD
+    "numberOfShares": 183800000,
+=======
     "numberOfShares": 183800000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 210.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
+<<<<<<< HEAD
+    "numberOfShares": 3600000,
+=======
     "numberOfShares": 3600000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 342.37,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

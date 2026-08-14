@@ -3,20 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "BGC-US",
     "companyName": "BGC Group, Inc. Class A",
+<<<<<<< HEAD
+    "numberOfShares": 84330719,
+=======
     "numberOfShares": 84330719.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 10.76,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NMRK-US",
     "companyName": "Newmark Grubb Knight Frank (Commericial Real Estate Company)",
+<<<<<<< HEAD
+    "numberOfShares": 35746988,
+=======
     "numberOfShares": 35746988.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 14.82,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

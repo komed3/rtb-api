@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "no",
   "residence": {
-    "city": "Lugano",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Lugano"
   },
   "industry": [
     "construction-engineering"
   ],
   "source": [
     "Drilling"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

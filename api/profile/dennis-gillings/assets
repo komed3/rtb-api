@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "IQV-US",
     "companyName": "IQVIA Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 2020000,
+=======
     "numberOfShares": 2020000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 241.71,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

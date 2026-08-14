@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "JPM-US",
     "companyName": "JPMorgan Chase & Co.",
+<<<<<<< HEAD
+    "numberOfShares": 6229000,
+=======
     "numberOfShares": 6229000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 365.18,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

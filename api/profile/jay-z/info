@@ -7,13 +7,8 @@
   "citizenship": "us",
   "residence": {
     "country": "us",
-    "state": "New York",
-    "city": "New York",
-    "zipCode": "10075",
-    "_geo": {
-      "longitude": -73.956672,
-      "latitude": 40.773126
-    }
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "media-entertainment"
@@ -21,7 +16,7 @@
   "source": [
     "Music"
   ],
-  "image": "https://specials-images.forbesimg.com/imageserve/6760612c48c0b7384dff12ec/416x416.jpg?background=000000&cropX1=1039&cropX2=1823&cropY1=6&cropY2=790",
+  "image": "https://specials-images.forbesimg.com/imageserve/69961b66414861328ea2d274/416x416.jpg?background=000000&cropX1=314&cropX2=1353&cropY1=101&cropY2=1140",
   "deceased": false,
   "children": 3,
   "maritalStatus": "Married",
@@ -30,6 +25,6 @@
   "selfMade": {
     "_is": true,
     "type": "self-made",
-    "rank": null
+    "rank": 10
   }
 }

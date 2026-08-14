@@ -3,31 +3,37 @@
     "exchange": "NYSE",
     "ticker": "ICE-US",
     "companyName": "Intercontinental Exchange",
+<<<<<<< HEAD
+    "numberOfShares": 46000,
+=======
     "numberOfShares": 46000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 76.16,
     "sharePrice": 151.33,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ICE-US",
     "companyName": "Intercontinental Exchange",
-    "numberOfShares": 193455.0,
+    "numberOfShares": 193455,
     "exerciseOptionPrice": 41.37,
     "sharePrice": 151.33,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ICE-US",
     "companyName": "Intercontinental Exchange",
-    "numberOfShares": 213725.0,
+    "numberOfShares": 213725,
     "exerciseOptionPrice": 41.59,
     "sharePrice": 151.33,
+<<<<<<< HEAD
+=======
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -93,8 +99,74 @@
     "numberOfShares": 157745.0,
     "exerciseOptionPrice": 25.87,
     "sharePrice": 151.33,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE-US",
+    "companyName": "Intercontinental Exchange",
+    "numberOfShares": 177160,
+    "exerciseOptionPrice": 50.01,
+    "sharePrice": 151.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE-US",
+    "companyName": "Intercontinental Exchange",
+    "numberOfShares": 4303000,
+    "sharePrice": 151.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE-US",
+    "companyName": "Intercontinental Exchange",
+    "numberOfShares": 205000,
+    "exerciseOptionPrice": 57.31,
+    "sharePrice": 151.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE-US",
+    "companyName": "Intercontinental Exchange",
+    "numberOfShares": 110865,
+    "exerciseOptionPrice": 22.43,
+    "sharePrice": 151.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE-US",
+    "companyName": "Intercontinental Exchange",
+    "numberOfShares": 103000,
+    "exerciseOptionPrice": 67,
+    "sharePrice": 151.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE-US",
+    "companyName": "Intercontinental Exchange",
+    "numberOfShares": 157745,
+    "exerciseOptionPrice": 25.87,
+    "sharePrice": 151.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

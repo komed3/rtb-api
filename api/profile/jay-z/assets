@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "XYZ-US",
     "companyName": "Block Inc Class A",
+<<<<<<< HEAD
+    "numberOfShares": 41000,
+=======
     "numberOfShares": 41000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 78.28,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "UBER-US",
     "companyName": "Uber Technologies",
+<<<<<<< HEAD
+    "numberOfShares": 1200000,
+=======
     "numberOfShares": 1200000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 75.36,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,30 +3,34 @@
     "exchange": "NYSE",
     "ticker": "ARES-US",
     "companyName": "Ares Management LP",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 142.35,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "LRN-US",
     "companyName": "K12",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 27.95,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "LF-US",
     "companyName": "Leap Frog",
-    "numberOfShares": 4378000.0,
-    "sharePrice": 0.0,
+    "numberOfShares": 4378000,
+    "sharePrice": 0,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

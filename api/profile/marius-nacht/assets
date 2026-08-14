@@ -3,20 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "CHKP-US",
     "companyName": "Check Point Software Technologies Lt",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 129.29,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SCNI-US",
     "companyName": "Scinai Immunotherapeutics",
+<<<<<<< HEAD
+    "numberOfShares": 427400,
+=======
     "numberOfShares": 427400.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.247,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

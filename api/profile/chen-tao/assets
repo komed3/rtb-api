@@ -3,17 +3,25 @@
     "exchange": "NASDAQ & OPEN-END FUNDS",
     "ticker": "VDSIX-US",
     "companyName": "Victory Diversified Stock Fund (VDSIX)",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 27.75,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "300476-CN",
     "companyName": "Victory Giant Technology (HuiZhou)",
+<<<<<<< HEAD
+    "numberOfShares": 230000000,
+=======
     "numberOfShares": 230000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 41.42056573563423,
     "currencyCode": "CNY",
     "exchangeRate": 6.7452,

@@ -3,20 +3,34 @@
     "exchange": "NASDAQ",
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
+<<<<<<< HEAD
+    "numberOfShares": 2000000,
+    "sharePrice": 224.09,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 2000000.0,
     "sharePrice": 224.09,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
+<<<<<<< HEAD
+    "numberOfShares": 6920000,
+    "sharePrice": 327.51,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 6920000.0,
     "sharePrice": 327.51,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

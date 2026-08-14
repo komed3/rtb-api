@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Hergiswil",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Hergiswil"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "San Francisco",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "San Francisco"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Artificial intelligence"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Single",
+  "education": [
+    {
+      "school": "Indian Institute of Technology Madras",
+      "degree": "Bachelor of Technology"
+    },
+    {
+      "school": "Indian Institute of Technology Madras",
+      "degree": "Masters of Science in Technology"
+    },
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Ph.D"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

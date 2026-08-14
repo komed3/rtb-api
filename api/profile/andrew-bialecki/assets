@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "KVYO-US",
     "companyName": "Klaviyo",
+<<<<<<< HEAD
+    "numberOfShares": 77545000,
+=======
     "numberOfShares": 77545000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 17.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

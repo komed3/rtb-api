@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "NBIS-US",
     "companyName": "Nebius Group",
+<<<<<<< HEAD
+    "numberOfShares": 10173340,
+=======
     "numberOfShares": 10173340.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 259.2,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

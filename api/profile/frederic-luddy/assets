@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "NOW-US",
     "companyName": "ServiceNow",
+<<<<<<< HEAD
+    "numberOfShares": 805000,
+=======
     "numberOfShares": 805000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 124.94,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

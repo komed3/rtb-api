@@ -3,17 +3,22 @@
     "exchange": "NYSE",
     "ticker": "CLS-US",
     "companyName": "Celestica, Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 121000,
+=======
     "numberOfShares": 121000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 339.46,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "IDG-CA",
     "companyName": "Indigo Books and Music, Inc.",
-    "numberOfShares": 16200000.0,
+<<<<<<< HEAD
+    "numberOfShares": 16200000,
     "sharePrice": 1.788407670760612,
     "currencyCode": "CAD",
     "exchangeRate": 1.3923,
@@ -23,7 +28,7 @@
     "exchange": "TORONTO",
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "exerciseOptionPrice": 41.262658909717736,
     "sharePrice": 82.6115061409179,
     "currencyCode": "CAD",
@@ -34,6 +39,45 @@
     "exchange": "TORONTO",
     "ticker": "ONEX-CA",
     "companyName": "Onex Corp. (Canada)",
+    "numberOfShares": 327000,
+    "exerciseOptionPrice": 58.96717661423543,
+    "sharePrice": 82.6115061409179,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3923,
+=======
+    "numberOfShares": 16200000.0,
+    "sharePrice": 1.788407670760612,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3923,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+<<<<<<< HEAD
+    "numberOfShares": 230000,
+    "exerciseOptionPrice": 51.871004812181276,
+=======
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 41.262658909717736,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 82.6115061409179,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3923,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ONEX-CA",
+    "companyName": "Onex Corp. (Canada)",
+<<<<<<< HEAD
+    "numberOfShares": 8800000,
+    "sharePrice": 82.6115061409179,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.3923,
+=======
     "numberOfShares": 327000.0,
     "exerciseOptionPrice": 58.96717661423543,
     "sharePrice": 82.6115061409179,
@@ -60,6 +104,7 @@
     "sharePrice": 82.6115061409179,
     "currencyCode": "CAD",
     "exchangeRate": 1.3923,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

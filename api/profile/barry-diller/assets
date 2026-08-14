@@ -3,40 +3,59 @@
     "exchange": "NASDAQ",
     "ticker": "ANGI-US",
     "companyName": "Angie's List",
+<<<<<<< HEAD
+    "numberOfShares": 3357000,
+=======
     "numberOfShares": 3357000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.33,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "KO-US",
     "companyName": "Coca-Cola Co.",
+<<<<<<< HEAD
+    "numberOfShares": 4000000,
+=======
     "numberOfShares": 4000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 86.71,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "EXPE-US",
     "companyName": "Expedia",
+<<<<<<< HEAD
+    "numberOfShares": 5238000,
+=======
     "numberOfShares": 5238000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 325.57,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PPLI-US",
     "companyName": "People Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 6591000,
+    "sharePrice": 40.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 6591000.0,
     "sharePrice": 40.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

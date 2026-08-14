@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "BNTX-US",
     "companyName": "BioNTech Sponsored ADR",
+<<<<<<< HEAD
+    "numberOfShares": 39990000,
+=======
     "numberOfShares": 39990000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 92.74,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

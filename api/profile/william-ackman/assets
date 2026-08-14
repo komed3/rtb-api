@@ -3,20 +3,28 @@
     "exchange": "US OTC",
     "ticker": "PSHZF-US",
     "companyName": "Pershing Square",
+<<<<<<< HEAD
+    "numberOfShares": 45000000,
+=======
     "numberOfShares": 45000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 52.167,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "QSR-US",
     "companyName": "Restaurant Brands International Inc",
+<<<<<<< HEAD
+    "numberOfShares": 3561548,
+=======
     "numberOfShares": 3561548.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 74.9,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

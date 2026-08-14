@@ -3,20 +3,25 @@
     "exchange": "NYSE",
     "ticker": "EB-US",
     "companyName": "Eventbrite",
-    "numberOfShares": 227187.0,
+    "numberOfShares": 227187,
     "sharePrice": 4.51,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "EL-US",
+<<<<<<< HEAD
+    "companyName": "The Estée Lauder Companies",
+    "numberOfShares": 19950000,
+=======
     "companyName": "The Est\u00e9e Lauder Companies",
     "numberOfShares": 19950000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 87.68,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

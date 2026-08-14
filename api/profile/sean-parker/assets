@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
+<<<<<<< HEAD
+    "numberOfShares": 20000,
+=======
     "numberOfShares": 20000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 578.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

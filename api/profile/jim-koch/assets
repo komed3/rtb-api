@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "SAM-US",
     "companyName": "Boston Beer",
+<<<<<<< HEAD
+    "numberOfShares": 2144000,
+=======
     "numberOfShares": 2144000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 183.78,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

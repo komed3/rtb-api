@@ -3,31 +3,39 @@
     "exchange": "NASDAQ",
     "ticker": "BJRI-US",
     "companyName": "BJ's Restaurants",
+<<<<<<< HEAD
+    "numberOfShares": 525200,
+=======
     "numberOfShares": 525200.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 69.7,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "BJRI-US",
     "companyName": "BJ's Restaurants",
-    "numberOfShares": 877000.0,
+    "numberOfShares": 877000,
     "exerciseOptionPrice": 26.94,
     "sharePrice": 69.7,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CAVA-US",
     "companyName": "CAVA Group",
+<<<<<<< HEAD
+    "numberOfShares": 4529000,
+=======
     "numberOfShares": 4529000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 69.47,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,6 +3,11 @@
     "exchange": "NYSE",
     "ticker": "RSI-US",
     "companyName": "Rush Street Interactive",
+<<<<<<< HEAD
+    "numberOfShares": 4975,
+    "exerciseOptionPrice": 10.7,
+    "sharePrice": 24.28,
+=======
     "numberOfShares": 4975.0,
     "exerciseOptionPrice": 10.7,
     "sharePrice": 24.28,
@@ -38,8 +43,41 @@
     "numberOfShares": 30841.0,
     "exerciseOptionPrice": 2.14,
     "sharePrice": 24.28,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
+    "numberOfShares": 110506883,
+    "sharePrice": 24.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
+    "numberOfShares": 29174,
+    "exerciseOptionPrice": 3.99,
+    "sharePrice": 24.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
+    "numberOfShares": 30841,
+    "exerciseOptionPrice": 2.14,
+    "sharePrice": 24.28,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

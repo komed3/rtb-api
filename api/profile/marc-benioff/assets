@@ -3,20 +3,26 @@
     "exchange": "NYSE",
     "ticker": "CRM-US",
     "companyName": "Salesforce.com",
+<<<<<<< HEAD
+    "numberOfShares": 202000,
+=======
     "numberOfShares": 202000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 154.14,
     "sharePrice": 193.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CRM-US",
     "companyName": "Salesforce.com",
-    "numberOfShares": 151666.0,
+    "numberOfShares": 151666,
     "exerciseOptionPrice": 215.17,
     "sharePrice": 193.32,
+<<<<<<< HEAD
+=======
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -71,8 +77,63 @@
     "numberOfShares": 45000.0,
     "exerciseOptionPrice": 186.51,
     "sharePrice": 193.32,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 123000,
+    "exerciseOptionPrice": 167.45,
+    "sharePrice": 193.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 22019000,
+    "sharePrice": 193.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 22508,
+    "exerciseOptionPrice": 287.86,
+    "sharePrice": 193.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 196000,
+    "exerciseOptionPrice": 161.5,
+    "sharePrice": 193.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CRM-US",
+    "companyName": "Salesforce.com",
+    "numberOfShares": 45000,
+    "exerciseOptionPrice": 186.51,
+    "sharePrice": 193.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

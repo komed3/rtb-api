@@ -3,7 +3,11 @@
     "exchange": "TEL AVIV",
     "ticker": "POLI-IL",
     "companyName": "Bank Hapoalim B.M.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 25.756863798080147,
     "currencyCode": "ILS",
     "exchangeRate": 2.9794,
@@ -13,10 +17,14 @@
     "exchange": "NYSE",
     "ticker": "CCL-US",
     "companyName": "Carnival Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 27.67,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "ch",
   "residence": {
-    "city": "Rheinfelden",
-    "state": null
+    "country": "ch",
+    "state": null,
+    "city": "Rheinfelden"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Pharmaceuticals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

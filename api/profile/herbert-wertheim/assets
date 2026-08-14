@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
+<<<<<<< HEAD
+    "numberOfShares": 1187000,
+=======
     "numberOfShares": 1187000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 343.54,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -16,37 +20,49 @@
     "numberOfShares": 4086999.9999999995,
     "sharePrice": 302.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GEV-US",
     "companyName": "GE Vernova",
+<<<<<<< HEAD
+    "numberOfShares": 266259,
+=======
     "numberOfShares": 266259.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1039.9,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GE-US",
     "companyName": "General Electric",
+<<<<<<< HEAD
+    "numberOfShares": 1054191,
+=======
     "numberOfShares": 1054191.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 365.33,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
+<<<<<<< HEAD
+    "numberOfShares": 651460,
+=======
     "numberOfShares": 651460.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 342.37,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -56,37 +72,49 @@
     "numberOfShares": 4075471.0000000005,
     "sharePrice": 373.1,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "HEI.A-US",
     "companyName": "Heico Corporation Class A",
+<<<<<<< HEAD
+    "numberOfShares": 2542268,
+=======
     "numberOfShares": 2542268.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 272.21,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
+<<<<<<< HEAD
+    "numberOfShares": 165100,
+=======
     "numberOfShares": 165100.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 578.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
+<<<<<<< HEAD
+    "numberOfShares": 1325416,
+=======
     "numberOfShares": 1325416.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 492.43,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

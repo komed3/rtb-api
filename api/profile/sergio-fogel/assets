@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "DLO-US",
     "companyName": "dLocal",
+<<<<<<< HEAD
+    "numberOfShares": 50894000,
+=======
     "numberOfShares": 50894000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 14.28,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

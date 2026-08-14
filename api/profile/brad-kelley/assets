@@ -3,21 +3,25 @@
     "exchange": "NASDAQ",
     "ticker": "AGEN-US",
     "companyName": "Agenus Inc. - Common Stock (Health Services)",
+<<<<<<< HEAD
+    "numberOfShares": 79551,
+=======
     "numberOfShares": 79551.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 6.9,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AGEN-US",
     "companyName": "Agenus Inc. - Common Stock (Health Services)",
-    "numberOfShares": 16667.0,
+    "numberOfShares": 16667,
     "exerciseOptionPrice": 1897.1999999999998,
     "sharePrice": 6.9,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

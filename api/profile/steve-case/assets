@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "T-US",
     "companyName": "AT&T Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 24.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MLP-US",
     "companyName": "Maui Land & Pineapple Co. Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 6030985,
+=======
     "numberOfShares": 6030985.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 15.95,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

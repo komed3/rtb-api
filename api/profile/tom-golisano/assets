@@ -3,20 +3,24 @@
     "exchange": "NASDAQ",
     "ticker": "PAYX-US",
     "companyName": "Paychex",
+<<<<<<< HEAD
+    "numberOfShares": 35064000,
+=======
     "numberOfShares": 35064000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 120.37,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "TLCC-US",
     "companyName": "Twinlab Consolidated Holdings",
-    "numberOfShares": 90090000.0,
+    "numberOfShares": 90090000,
     "sharePrice": 0.001,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

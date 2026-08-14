@@ -3,20 +3,34 @@
     "exchange": "INDONESIA",
     "ticker": "DCII-ID",
     "companyName": "DCI Indonesia",
+<<<<<<< HEAD
+    "numberOfShares": 336352000,
+    "sharePrice": 11.594851706771125,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 336352000.0,
     "sharePrice": 11.594851706771125,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "EDGE-ID",
     "companyName": "IndoInternet",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+    "sharePrice": 0.268047006155568,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 0.0,
     "sharePrice": 0.268047006155568,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

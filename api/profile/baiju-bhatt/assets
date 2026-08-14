@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "HOOD-US",
     "companyName": "Robinhood",
+<<<<<<< HEAD
+    "numberOfShares": 51994752,
+=======
     "numberOfShares": 51994752.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 94.91,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

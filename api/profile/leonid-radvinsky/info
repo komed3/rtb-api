@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Florida",
-    "city": "Miami"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "technology"
@@ -16,9 +16,9 @@
   "source": [
     "OnlyFans"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 0,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Northwestern University",

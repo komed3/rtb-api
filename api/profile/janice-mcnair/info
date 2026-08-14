@@ -6,14 +6,9 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Texas",
-    "city": "Houston",
-    "zipCode": "77019",
-    "_geo": {
-      "longitude": -95.402289,
-      "latitude": 29.75386
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "sports"
@@ -22,9 +17,9 @@
     "Energy",
     "sports"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [
     {
       "school": "Columbia College",

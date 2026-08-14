@@ -3,30 +3,42 @@
     "exchange": "NYSE",
     "ticker": "ASAN-US",
     "companyName": "Asana, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 122575956,
+=======
     "numberOfShares": 122575956.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 8.99,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "KOD-US",
     "companyName": "Kodiak Sciences",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 43.41,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
+<<<<<<< HEAD
+    "numberOfShares": 8961573,
+=======
     "numberOfShares": 8961573.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 578.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

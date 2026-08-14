@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Munsing",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Munsing"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Motels"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

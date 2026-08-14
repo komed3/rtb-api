@@ -20,7 +20,10 @@
   "children": 0,
   "maritalStatus": null,
   "education": [],
-  "organization": null,
+  "organization": {
+    "name": "ElevenLabs",
+    "title": "Founder"
+  },
   "selfMade": {
     "_is": true,
     "type": "self-made",

@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "WDAY-US",
     "companyName": "Workday, Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 42024180,
+=======
     "numberOfShares": 42024180.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 175.29,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,7 +3,11 @@
     "exchange": "NYSE",
     "ticker": "ESTC-US",
     "companyName": "Elastic N.V.",
+<<<<<<< HEAD
+    "numberOfShares": 36000,
+=======
     "numberOfShares": 36000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 145.82,
     "sharePrice": 77.16,
     "currencyCode": "USD",
@@ -17,6 +21,41 @@
     "numberOfShares": 17453.0,
     "exerciseOptionPrice": 128.31,
     "sharePrice": 77.16,
+<<<<<<< HEAD
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 6414000,
+    "sharePrice": 77.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 108000,
+    "exerciseOptionPrice": 13.07,
+    "sharePrice": 77.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 18000,
+    "exerciseOptionPrice": 10.15,
+    "sharePrice": 77.16,
+=======
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

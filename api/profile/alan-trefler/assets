@@ -3,20 +3,26 @@
     "exchange": "NASDAQ",
     "ticker": "PEGA-US",
     "companyName": "Pegasystems Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 120818,
+=======
     "numberOfShares": 120818.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 23.64,
     "sharePrice": 31.35,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PEGA-US",
     "companyName": "Pegasystems Inc.",
-    "numberOfShares": 264032.0,
+    "numberOfShares": 264032,
     "exerciseOptionPrice": 42.7,
     "sharePrice": 31.35,
+<<<<<<< HEAD
+=======
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -60,8 +66,52 @@
     "numberOfShares": 128000.0,
     "exerciseOptionPrice": 65.23,
     "sharePrice": 31.35,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PEGA-US",
+    "companyName": "Pegasystems Inc.",
+    "numberOfShares": 265818,
+    "exerciseOptionPrice": 32.18,
+    "sharePrice": 31.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PEGA-US",
+    "companyName": "Pegasystems Inc.",
+    "numberOfShares": 76880273,
+    "sharePrice": 31.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PEGA-US",
+    "companyName": "Pegasystems Inc.",
+    "numberOfShares": 209808,
+    "exerciseOptionPrice": 45.03,
+    "sharePrice": 31.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PEGA-US",
+    "companyName": "Pegasystems Inc.",
+    "numberOfShares": 128000,
+    "exerciseOptionPrice": 65.23,
+    "sharePrice": 31.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

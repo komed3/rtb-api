@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Charlotte",
-    "state": "North Carolina"
+    "country": "us",
+    "state": "North Carolina",
+    "city": "Charlotte"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Coca-Cola bottling"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

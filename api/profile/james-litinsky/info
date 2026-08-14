@@ -6,13 +6,37 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Las Vegas",
-    "state": "Nevada"
+    "country": "us",
+    "state": "Nevada",
+    "city": "Las Vegas"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "Minerals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Northwestern University Pritzker School of Law",
+      "degree": "JD"
+    },
+    {
+      "school": "Northwestern University's Kellogg School of Management",
+      "degree": "Master of Business Administration"
+    },
+    {
+      "school": "Yale College",
+      "degree": "Master of Arts/Science"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

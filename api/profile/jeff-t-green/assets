@@ -3,6 +3,11 @@
     "exchange": "NASDAQ",
     "ticker": "TTD-US",
     "companyName": "Trade Desk",
+<<<<<<< HEAD
+    "numberOfShares": 36200,
+    "exerciseOptionPrice": 74.9,
+    "sharePrice": 13.49,
+=======
     "numberOfShares": 36200.0,
     "exerciseOptionPrice": 74.9,
     "sharePrice": 13.49,
@@ -38,8 +43,41 @@
     "numberOfShares": 2400000.0,
     "exerciseOptionPrice": 68.29,
     "sharePrice": 13.49,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TTD-US",
+    "companyName": "Trade Desk",
+    "numberOfShares": 42402000,
+    "sharePrice": 13.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TTD-US",
+    "companyName": "Trade Desk",
+    "numberOfShares": 235000,
+    "exerciseOptionPrice": 14.24,
+    "sharePrice": 13.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TTD-US",
+    "companyName": "Trade Desk",
+    "numberOfShares": 2400000,
+    "exerciseOptionPrice": 68.29,
+    "sharePrice": 13.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

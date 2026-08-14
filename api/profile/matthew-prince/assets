@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "NET-US",
     "companyName": "Cloudflare, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 26668000,
+=======
     "numberOfShares": 26668000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 311.45,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,27 +3,35 @@
     "exchange": "NASDAQ",
     "ticker": "CDMO-US",
     "companyName": "Avid Bioservices",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 12.49,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "BGMS-US",
     "companyName": "Bio Green Med Solution",
+<<<<<<< HEAD
+    "numberOfShares": 216,
+=======
     "numberOfShares": 216.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.923,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "BATS-GB",
     "companyName": "British Amer Tobacco",
+<<<<<<< HEAD
+    "numberOfShares": 61410000,
+=======
     "numberOfShares": 61410000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 56.05835472105903,
     "currencyCode": "GBP",
     "exchangeRate": 0.7403,
@@ -33,17 +41,25 @@
     "exchange": "NASDAQ",
     "ticker": "CYTK-US",
     "companyName": "Cytokinetics",
+<<<<<<< HEAD
+    "numberOfShares": 2143000,
+=======
     "numberOfShares": 2143000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 75.64,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "EVO-SE",
     "companyName": "Evolution Gaming",
+<<<<<<< HEAD
+    "numberOfShares": 31790000,
+=======
     "numberOfShares": 31790000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 77.27544313881698,
     "currencyCode": "SEK",
     "exchangeRate": 9.5399,
@@ -53,7 +69,11 @@
     "exchange": "LONDON",
     "ticker": "FLTR-GB",
     "companyName": "Flutter Entertainment",
+<<<<<<< HEAD
+    "numberOfShares": 32667000,
+=======
     "numberOfShares": 32667000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 102.49898689720384,
     "currencyCode": "GBP",
     "exchangeRate": 0.7403,
@@ -63,27 +83,39 @@
     "exchange": "NASDAQ",
     "ticker": "IBIO-US",
     "companyName": "iBio",
+<<<<<<< HEAD
+    "numberOfShares": 4600000,
+=======
     "numberOfShares": 4600000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.47,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "IMBBY-US",
     "companyName": "Imperial Brands PLC Spon ADR",
+<<<<<<< HEAD
+    "numberOfShares": 181000,
+=======
     "numberOfShares": 181000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 35.095,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "IMB-GB",
     "companyName": "Imperial Tobacco Group",
+<<<<<<< HEAD
+    "numberOfShares": 48261000,
+=======
     "numberOfShares": 48261000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 35.093880859111174,
     "currencyCode": "GBP",
     "exchangeRate": 0.7403,
@@ -93,10 +125,14 @@
     "exchange": "NASDAQ",
     "ticker": "MRKR-US",
     "companyName": "Marker Therapeutics",
+<<<<<<< HEAD
+    "numberOfShares": 1917000,
+=======
     "numberOfShares": 1917000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.16,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

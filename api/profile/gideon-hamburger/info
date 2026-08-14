@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "il",
   "residence": {
-    "city": "Kfar Shmaryahu",
-    "state": null
+    "country": "il",
+    "state": null,
+    "city": "Kfar Shmaryahu"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Financial Services"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -3,20 +3,28 @@
     "exchange": "US OTC",
     "ticker": "GLFE-US",
     "companyName": "Golf Entertainment Group",
+<<<<<<< HEAD
+    "numberOfShares": 864000,
+=======
     "numberOfShares": 864000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 7.7,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NFE-US",
     "companyName": "New Fortress Energy",
+<<<<<<< HEAD
+    "numberOfShares": 78722000,
+=======
     "numberOfShares": 78722000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.329,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

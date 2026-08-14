@@ -1,0 +1,38 @@
+{
+  "uri": "luke-nosek",
+  "name": "Luke Nosek",
+  "birthDate": "1975-06-29",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "Texas",
+    "city": "Austin"
+  },
+  "industry": [
+    "finance-investments"
+  ],
+  "source": [
+    "Venture capital"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6a0f537c80c894e2d6a03b28/416x416.jpg?background=000000&cropX1=40&cropX2=870&cropY1=55&cropY2=885",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "University of Illinois, Urbana-Champaign",
+      "degree": "Bachelor of Arts/Science"
+    }
+  ],
+  "organization": {
+    "name": "Gigafund",
+    "title": "Managing Partner"
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

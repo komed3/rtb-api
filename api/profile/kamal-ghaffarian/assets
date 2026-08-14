@@ -3,20 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "LUNR-US",
     "companyName": "Intuitive Machines",
+<<<<<<< HEAD
+    "numberOfShares": 39706217,
+=======
     "numberOfShares": 39706217.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 16.95,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "XE-US",
     "companyName": "X-Energy",
+<<<<<<< HEAD
+    "numberOfShares": 90561753,
+=======
     "numberOfShares": 90561753.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 20.35,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

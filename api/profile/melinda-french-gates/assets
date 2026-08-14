@@ -3,47 +3,67 @@
     "exchange": "NYSE",
     "ticker": "AN-US",
     "companyName": "AutoNation Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 208.62,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CNI-US",
     "companyName": "Canadian National Railway Co.",
+<<<<<<< HEAD
+    "numberOfShares": 16145000,
+=======
     "numberOfShares": 16145000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 126.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "KOF-US",
     "companyName": "Coca-Cola FEMSA S.A.B de C.V.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 109.87,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DE-US",
     "companyName": "Deere & Co",
+<<<<<<< HEAD
+    "numberOfShares": 5065000,
+=======
     "numberOfShares": 5065000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 619.77,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "GIVN-CH",
     "companyName": "Givaudan S.A.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4041.897720271103,
     "currencyCode": "CHF",
     "exchangeRate": 0.8115,
@@ -53,27 +73,39 @@
     "exchange": "NYSE",
     "ticker": "TV-US",
     "companyName": "Grupo Televisa, S.A.B.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 2.83,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
+<<<<<<< HEAD
+    "numberOfShares": 381600,
+=======
     "numberOfShares": 381600.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 492.43,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "EURONEXT AMSTERDAM",
     "ticker": "OCI-NL",
     "companyName": "OCI NV",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.674515235457064,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
@@ -83,20 +115,24 @@
     "exchange": "NASDAQ DUBAI",
     "ticker": "OC-AE",
     "companyName": "Orascom Construction Ltd",
-    "numberOfShares": 0.0,
-    "sharePrice": 8.0,
+    "numberOfShares": 0,
+    "sharePrice": 8,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "WM-US",
     "companyName": "Waste Management",
+<<<<<<< HEAD
+    "numberOfShares": 3000,
+=======
     "numberOfShares": 3000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 226.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

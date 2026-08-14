@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "MORN-US",
     "companyName": "Morningstar Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 14879000,
+=======
     "numberOfShares": 14879000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 197.51,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

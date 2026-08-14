@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Los Angeles",
-    "state": "California"
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "media-entertainment"
@@ -15,5 +16,16 @@
   "source": [
     "Music",
     "headphones"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/67605dd120fa0252ca5ae6b7/416x416.jpg?background=000000&cropX1=41&cropX2=1552&cropY1=257&cropY2=1769",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 10
+  }
 }

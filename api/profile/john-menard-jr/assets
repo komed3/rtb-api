@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "PII-US",
     "companyName": "Polaris Industries Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 20000,
+=======
     "numberOfShares": 20000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 68.52,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Fort Lauderdale",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Fort Lauderdale"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Automobile accessories"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

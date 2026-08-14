@@ -3,37 +3,56 @@
     "exchange": "NYSE",
     "ticker": "GRND-US",
     "companyName": "Grindr",
+<<<<<<< HEAD
+    "numberOfShares": 95425000,
+=======
     "numberOfShares": 95425000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 15.87,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GRND-US",
     "companyName": "Grindr",
+<<<<<<< HEAD
+    "numberOfShares": -23856000,
+=======
     "numberOfShares": -23856000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 15.87,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "LPKR-ID",
     "companyName": "Lippo Karawaci",
+<<<<<<< HEAD
+    "numberOfShares": 3339000000,
+    "sharePrice": 0.0035254616675993284,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 3339000000.0,
     "sharePrice": 0.0035254616675993284,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "TOKYO",
     "ticker": "6502-JP",
     "companyName": "Toshiba",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 28.827131417804996,
     "currencyCode": "JPY",
     "exchangeRate": 159.225,
@@ -43,7 +62,11 @@
     "exchange": "ASX",
     "ticker": "WHC-AU",
     "companyName": "Whitehaven Coal",
+<<<<<<< HEAD
+    "numberOfShares": 11065000,
+=======
     "numberOfShares": 11065000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.444774430773583,
     "currencyCode": "AUD",
     "exchangeRate": 1.4142,

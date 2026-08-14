@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "WLK-US",
     "companyName": "Westlake Chemical",
+<<<<<<< HEAD
+    "numberOfShares": 31574000,
+=======
     "numberOfShares": 31574000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 79.17,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "WLKP-US",
     "companyName": "Westlake Chemical Partners",
+<<<<<<< HEAD
+    "numberOfShares": 1591000,
+=======
     "numberOfShares": 1591000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 22.06,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

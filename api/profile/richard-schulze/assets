@@ -3,10 +3,15 @@
     "exchange": "NYSE",
     "ticker": "BBY-US",
     "companyName": "Best Buy Co. Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 15088000,
+    "sharePrice": 83,
+=======
     "numberOfShares": 15088000.0,
     "sharePrice": 83.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

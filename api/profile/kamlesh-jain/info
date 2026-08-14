@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Chennai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Chennai"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "Recycling"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "University of Madras",
+      "degree": "Bachelor of Commerce"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

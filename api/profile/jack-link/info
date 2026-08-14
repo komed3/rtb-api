@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Minong",
-    "state": "Wisconsin"
+    "country": "us",
+    "state": "Wisconsin",
+    "city": "Minong"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Jack Link's meat snacks"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

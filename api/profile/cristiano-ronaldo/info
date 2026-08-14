@@ -1,0 +1,31 @@
+{
+  "uri": "cristiano-ronaldo",
+  "name": "Cristiano Ronaldo",
+  "birthDate": "1985-02-05",
+  "family": false,
+  "gender": "m",
+  "citizenship": "pt",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [],
+  "source": [
+    "Soccer"
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/645ea1c4fce09061884bd21c/416x416.jpg?background=000000&cropX1=925&cropX2=3699&cropY1=0&cropY2=2772",
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Soccer",
+    "title": "Athlete"
+  },
+  "selfMade": {
+    "_is": false,
+    "type": null,
+    "rank": null
+  }
+}

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Rajkot",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Rajkot"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Snacks"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

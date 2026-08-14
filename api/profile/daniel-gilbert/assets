@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "RKT-US",
     "companyName": "Rocket Companies",
+<<<<<<< HEAD
+    "numberOfShares": 1137137415,
+=======
     "numberOfShares": 1137137415.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 14.05,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

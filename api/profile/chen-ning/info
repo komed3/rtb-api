@@ -1,0 +1,42 @@
+{
+  "uri": "chen-ning",
+  "name": "Chen Ning",
+  "birthDate": "1975-06-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "cn",
+  "residence": {
+    "country": "cn",
+    "state": null,
+    "city": "Shenzhen"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Georgia Institute of Technology",
+      "degree": "Ph.D"
+    },
+    {
+      "school": "New Mexico State University",
+      "degree": "Master"
+    },
+    {
+      "school": "Shanghai Jiaotong University",
+      "degree": "Bachelor of Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

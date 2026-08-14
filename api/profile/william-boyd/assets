@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "BYD-US",
     "companyName": "Boyd Gaming Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 23616000,
+=======
     "numberOfShares": 23616000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 82.98,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "WAL-US",
     "companyName": "Western Alliance Bancorp.",
+<<<<<<< HEAD
+    "numberOfShares": 4939000,
+=======
     "numberOfShares": 4939000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 82.62,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

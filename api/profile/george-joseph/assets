@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "MCY-US",
     "companyName": "Mercury General Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 19568000,
+=======
     "numberOfShares": 19568000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 105.52,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

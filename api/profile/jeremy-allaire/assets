@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "CRCL-US",
     "companyName": "Circle",
+<<<<<<< HEAD
+    "numberOfShares": 18577000,
+=======
     "numberOfShares": 18577000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 71.28,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

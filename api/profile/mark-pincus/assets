@@ -3,50 +3,71 @@
     "exchange": "NASDAQ",
     "ticker": "AUR-US",
     "companyName": "Aurora Innovation",
+<<<<<<< HEAD
+    "numberOfShares": 4200000,
+=======
     "numberOfShares": 4200000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 6.87,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 38000,
+=======
     "numberOfShares": 38000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 32.91,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "JOBY-US",
     "companyName": "Joby Aviation",
+<<<<<<< HEAD
+    "numberOfShares": 2940000,
+=======
     "numberOfShares": 2940000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 7.96,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 578.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TTWO-US",
     "companyName": "TAKE-TWO INTERACTIVE SOFTWARE",
+<<<<<<< HEAD
+    "numberOfShares": 417000,
+    "sharePrice": 243,
+=======
     "numberOfShares": 417000.0,
     "sharePrice": 243.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

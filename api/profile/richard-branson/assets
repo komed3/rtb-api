@@ -3,27 +3,35 @@
     "exchange": "US OTC",
     "ticker": "MEHCQ-US",
     "companyName": "23andMe Holding",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 3.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SPCE-US",
     "companyName": "Virgin Galactic",
+<<<<<<< HEAD
+    "numberOfShares": 1537000,
+=======
     "numberOfShares": 1537000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 3.3,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "VMUK-GB",
     "companyName": "Virgin Money UK Plc",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 2.9393489126029992,
     "currencyCode": "GBP",
     "exchangeRate": 0.7403,
@@ -33,10 +41,10 @@
     "exchange": "US OTC",
     "ticker": "VORBQ-US",
     "companyName": "Virgin Orbit",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 0.003,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

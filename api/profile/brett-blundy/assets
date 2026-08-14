@@ -3,7 +3,11 @@
     "exchange": "ASX",
     "ticker": "AX1-AU",
     "companyName": "Accent Group Ltd",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.4808372224579268,
     "currencyCode": "AUD",
     "exchangeRate": 1.4142,
@@ -13,7 +17,11 @@
     "exchange": "ASX",
     "ticker": "LOV-AU",
     "companyName": "Lovisa Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 43207000,
+=======
     "numberOfShares": 43207000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 17.684910196577572,
     "currencyCode": "AUD",
     "exchangeRate": 1.4142,
@@ -23,7 +31,11 @@
     "exchange": "TORONTO",
     "ticker": "QRC-CA",
     "companyName": "Queens Road Capital",
+<<<<<<< HEAD
+    "numberOfShares": 7797000,
+=======
     "numberOfShares": 7797000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 10.486245780363426,
     "currencyCode": "CAD",
     "exchangeRate": 1.3923,
@@ -33,10 +45,14 @@
     "exchange": "NYSE",
     "ticker": "VSXY-US",
     "companyName": "Victoria's Secret & Company",
+<<<<<<< HEAD
+    "numberOfShares": 10310000,
+=======
     "numberOfShares": 10310000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 93.02,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

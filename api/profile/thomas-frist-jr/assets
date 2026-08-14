@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "HCA-US",
     "companyName": "HCA Holdings Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 69318000,
+=======
     "numberOfShares": 69318000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 414.59,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

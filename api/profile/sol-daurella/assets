@@ -3,7 +3,11 @@
     "exchange": "MADRID",
     "ticker": "ANA-ES",
     "companyName": "Acciona S.A.",
+<<<<<<< HEAD
+    "numberOfShares": 14000,
+=======
     "numberOfShares": 14000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 248.1532779316713,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
@@ -13,7 +17,11 @@
     "exchange": "MADRID",
     "ticker": "SAN-ES",
     "companyName": "Banco Santander",
+<<<<<<< HEAD
+    "numberOfShares": 626000,
+=======
     "numberOfShares": 626000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 14.903047091412745,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
@@ -23,10 +31,14 @@
     "exchange": "NASDAQ",
     "ticker": "CCEP-US",
     "companyName": "Coca-Cola European Partners",
+<<<<<<< HEAD
+    "numberOfShares": 31615000,
+=======
     "numberOfShares": 31615000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 107.08,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,32 +3,36 @@
     "exchange": "NYSE",
     "ticker": "IOT-US",
     "companyName": "Samsara Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 100684000,
+=======
     "numberOfShares": 100684000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 39.34,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "IOT-US",
     "companyName": "Samsara Inc.",
-    "numberOfShares": 3051000.0,
+    "numberOfShares": 3051000,
     "exerciseOptionPrice": 7.59,
     "sharePrice": 39.34,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "IOT-US",
     "companyName": "Samsara Inc.",
-    "numberOfShares": 1140000.0,
+    "numberOfShares": 1140000,
     "exerciseOptionPrice": 3.51,
     "sharePrice": 39.34,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

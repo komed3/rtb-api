@@ -6,10 +6,9 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "California",
-    "city": "El Cerrito",
-    "zipCode": "94530"
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "healthcare"
@@ -17,9 +16,9 @@
   "source": [
     "Medical devices"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 2,
-  "maritalStatus": "Widowed",
+  "maritalStatus": null,
   "education": [
     {
       "school": "University of California, Berkeley",

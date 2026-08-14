@@ -6,24 +6,32 @@
     "numberOfShares": 16315999.999999998,
     "sharePrice": 2.62,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "BNTX-US",
     "companyName": "BioNTech Sponsored ADR",
+<<<<<<< HEAD
+    "numberOfShares": 4498000,
+=======
     "numberOfShares": 4498000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 92.74,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "HPHA-DE",
     "companyName": "Heidelberg Pharma",
+<<<<<<< HEAD
+    "numberOfShares": 20585000,
+=======
     "numberOfShares": 20585000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 2.9432132963988917,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
@@ -33,17 +41,25 @@
     "exchange": "NASDAQ",
     "ticker": "IMTX-US",
     "companyName": "Immatics",
+<<<<<<< HEAD
+    "numberOfShares": 17202000,
+=======
     "numberOfShares": 17202000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 9.71,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "SAP-DE",
     "companyName": "SAP AG",
+<<<<<<< HEAD
+    "numberOfShares": 3404000,
+=======
     "numberOfShares": 3404000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 203.09325946445063,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,

@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Ketchum",
-    "state": "Idaho"
+    "country": "us",
+    "state": "Idaho",
+    "city": "Ketchum"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Medical supplies"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

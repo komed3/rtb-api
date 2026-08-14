@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "cn",
   "residence": {
-    "city": "Linyi",
-    "state": "Shandong"
+    "country": "cn",
+    "state": null,
+    "city": "Linyi"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Chemicals"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

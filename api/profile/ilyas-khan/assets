@@ -3,10 +3,17 @@
     "exchange": "NASDAQ",
     "ticker": "QNT-US",
     "companyName": "Quantinuum",
+<<<<<<< HEAD
+    "numberOfShares": 38893000,
+    "sharePrice": 71.74,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 38893000.0,
     "sharePrice": 71.74,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

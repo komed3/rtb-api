@@ -3,16 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "COIN-US",
     "companyName": "Coinbase Global",
+<<<<<<< HEAD
+    "numberOfShares": 220000,
+    "sharePrice": 149.04,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 220000.0,
     "sharePrice": 149.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SHOP-US",
     "companyName": "Shopify",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 69.56,
+    "sharePrice": 150.41,
+=======
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 69.56,
     "sharePrice": 150.41,
@@ -37,8 +49,30 @@
     "numberOfShares": 373000.0,
     "exerciseOptionPrice": 128.03,
     "sharePrice": 150.41,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SHOP-US",
+    "companyName": "Shopify",
+    "numberOfShares": 79550132,
+    "sharePrice": 150.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SHOP-US",
+    "companyName": "Shopify",
+    "numberOfShares": 373000,
+    "exerciseOptionPrice": 128.03,
+    "sharePrice": 150.41,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

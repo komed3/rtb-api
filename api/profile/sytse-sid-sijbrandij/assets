@@ -3,10 +3,17 @@
     "exchange": "NASDAQ",
     "ticker": "GTLB-US",
     "companyName": "GitLab, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 15304000,
+    "sharePrice": 40.81,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 15304000.0,
     "sharePrice": 40.81,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

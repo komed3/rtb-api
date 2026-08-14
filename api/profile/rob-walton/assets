@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "WMT-US",
     "companyName": "Walmart",
+<<<<<<< HEAD
+    "numberOfShares": 903636925,
+=======
     "numberOfShares": 903636925.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 116.01,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": true,
     "currentPrice": 115.72
   }

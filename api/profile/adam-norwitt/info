@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Ridgefield",
-    "state": "Connecticut"
+    "country": "us",
+    "state": "Connecticut",
+    "city": "Ridgefield"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Electronic components"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

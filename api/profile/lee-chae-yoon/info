@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "kr",
   "residence": {
-    "city": "Busan",
-    "state": null
+    "country": "kr",
+    "state": null,
+    "city": "Busan"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Semiconductors"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

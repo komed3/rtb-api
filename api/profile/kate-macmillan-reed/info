@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Hobe Sound",
-    "state": "Florida"
+    "country": "us",
+    "state": "Florida",
+    "city": "Hobe Sound"
   },
   "industry": [
     "food-beverage"
   ],
   "source": [
     "Cargill"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

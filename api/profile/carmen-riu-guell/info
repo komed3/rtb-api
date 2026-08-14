@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "es",
   "residence": {
-    "city": "Palma de Mallorca",
-    "state": null
+    "country": "es",
+    "state": null,
+    "city": "Palma de Mallorca"
   },
   "industry": [
     "service"
   ],
   "source": [
     "Hotels"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

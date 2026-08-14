@@ -3,38 +3,46 @@
     "exchange": "NYSE",
     "ticker": "ANDV-US",
     "companyName": "Andeavor",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 153.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "companyName": "Coterra Energy",
-    "numberOfShares": 14377000.0,
+    "numberOfShares": 14377000,
     "sharePrice": 23.86,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MPC-US",
     "companyName": "Marathon Petroleum",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 348.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MPC-US",
     "companyName": "Marathon Petroleum",
+<<<<<<< HEAD
+    "numberOfShares": 4306000,
+=======
     "numberOfShares": 4306000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 348.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

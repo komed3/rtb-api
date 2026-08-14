@@ -1,0 +1,29 @@
+{
+  "uri": "brian-schimpf",
+  "name": "Brian Schimpf",
+  "birthDate": "1984-04-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": "us",
+    "state": "California",
+    "city": "Costa Mesa"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "defense technology"
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

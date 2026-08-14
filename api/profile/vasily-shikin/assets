@@ -3,21 +3,25 @@
     "exchange": "NASDAQ",
     "ticker": "APP-US",
     "companyName": "AppLovin Corp",
+<<<<<<< HEAD
+    "numberOfShares": 3714529,
+=======
     "numberOfShares": 3714529.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 303.76,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "APP-US",
     "companyName": "AppLovin Corp",
-    "numberOfShares": 560400.0,
+    "numberOfShares": 560400,
     "exerciseOptionPrice": 5.05,
     "sharePrice": 303.76,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

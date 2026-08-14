@@ -6,13 +6,32 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "us",
+    "state": "California",
+    "city": "Los Angeles"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Music"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": {
+    "name": "Musician",
+    "title": null
+  },
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": 8
+  }
 }

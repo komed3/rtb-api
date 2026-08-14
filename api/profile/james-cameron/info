@@ -6,13 +6,29 @@
   "gender": "m",
   "citizenship": "ca",
   "residence": {
-    "city": null,
-    "state": null
+    "country": "nz",
+    "state": null,
+    "city": "Wellington"
   },
   "industry": [
     "media-entertainment"
   ],
   "source": [
     "Movies"
-  ]
+  ],
+  "deceased": false,
+  "children": 4,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Fullerton College",
+      "degree": "Drop Out"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

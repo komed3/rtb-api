@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Chennai",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Chennai"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "Jewellery"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

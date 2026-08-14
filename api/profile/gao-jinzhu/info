@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "cn",
   "residence": {
-    "city": "Yichun",
-    "state": "Jiangxi"
+    "country": "cn",
+    "state": null,
+    "city": "Yichun"
   },
   "industry": [
     "metals-mining"
   ],
   "source": [
     "Mining"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

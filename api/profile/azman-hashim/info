@@ -6,13 +6,30 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Banking"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/629fba2d0d396690886e2169/416x416.jpg?background=000000&cropX1=100&cropX2=910&cropY1=75&cropY2=886",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "High School",
+      "degree": "High School Graduate"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

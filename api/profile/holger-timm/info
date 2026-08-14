@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "de",
   "residence": {
-    "city": "Berlin",
-    "state": null
+    "country": "de",
+    "state": null,
+    "city": "Berlin"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "Finance"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

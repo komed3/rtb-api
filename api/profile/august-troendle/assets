@@ -3,17 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "MEDP-US",
     "companyName": "Medpace",
+<<<<<<< HEAD
+    "numberOfShares": 50000,
+    "exerciseOptionPrice": 377,
+    "sharePrice": 596.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 50000.0,
     "exerciseOptionPrice": 377.0,
     "sharePrice": 596.98,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MEDP-US",
     "companyName": "Medpace",
+<<<<<<< HEAD
+    "numberOfShares": 73443,
+    "exerciseOptionPrice": 325.73,
+    "sharePrice": 596.98,
+=======
     "numberOfShares": 73443.0,
     "exerciseOptionPrice": 325.73,
     "sharePrice": 596.98,
@@ -49,8 +62,41 @@
     "numberOfShares": 93174.0,
     "exerciseOptionPrice": 138.87,
     "sharePrice": 596.98,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MEDP-US",
+    "companyName": "Medpace",
+    "numberOfShares": 5392144,
+    "sharePrice": 596.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MEDP-US",
+    "companyName": "Medpace",
+    "numberOfShares": 58000,
+    "exerciseOptionPrice": 166.73,
+    "sharePrice": 596.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MEDP-US",
+    "companyName": "Medpace",
+    "numberOfShares": 93174,
+    "exerciseOptionPrice": 138.87,
+    "sharePrice": 596.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

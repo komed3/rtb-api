@@ -3,10 +3,14 @@
     "exchange": "US OTC",
     "ticker": "KBCSF-US",
     "companyName": "KBC GROEP NV",
+<<<<<<< HEAD
+    "numberOfShares": 4380000,
+=======
     "numberOfShares": 4380000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 149.1,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

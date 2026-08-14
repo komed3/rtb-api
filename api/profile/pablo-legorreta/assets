@@ -3,20 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "PROK-US",
     "companyName": "ProKidney Corp",
+<<<<<<< HEAD
+    "numberOfShares": 106826000,
+=======
     "numberOfShares": 106826000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.48,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "RPRX-US",
     "companyName": "Royalty Pharma",
+<<<<<<< HEAD
+    "numberOfShares": 74620000,
+=======
     "numberOfShares": 74620000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 59.22,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

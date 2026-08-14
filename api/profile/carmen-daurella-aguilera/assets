@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "CCEP-US",
     "companyName": "Coca-Cola European Partners",
+<<<<<<< HEAD
+    "numberOfShares": 17461000,
+=======
     "numberOfShares": 17461000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 107.08,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

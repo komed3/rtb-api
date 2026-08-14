@@ -3,20 +3,28 @@
     "exchange": "NASDAQ",
     "ticker": "AMZN-US",
     "companyName": "Amazon",
+<<<<<<< HEAD
+    "numberOfShares": 48000,
+=======
     "numberOfShares": 48000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 267.28,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "INTU-US",
     "companyName": "Intuit",
+<<<<<<< HEAD
+    "numberOfShares": 6163000,
+=======
     "numberOfShares": 6163000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 334.71,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
@@ -26,37 +34,49 @@
     "numberOfShares": 1023400.0000000001,
     "sharePrice": 578.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 125000,
+=======
     "numberOfShares": 125000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 59.2,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PG-US",
     "companyName": "Procter & Gamble Co.",
+<<<<<<< HEAD
+    "numberOfShares": 51000,
+=======
     "numberOfShares": 51000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 144.08,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNAP-US",
     "companyName": "Snap, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 57000,
+=======
     "numberOfShares": 57000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.2,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,7 +3,11 @@
     "exchange": "SIX SWISS",
     "ticker": "HBMN-CH",
     "companyName": "HBM Healthcare Investments AG",
+<<<<<<< HEAD
+    "numberOfShares": 550306,
+=======
     "numberOfShares": 550306.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 308.07147258163894,
     "currencyCode": "CHF",
     "exchangeRate": 0.8115,
@@ -13,10 +17,14 @@
     "exchange": "NASDAQ",
     "ticker": "RPRX-US",
     "companyName": "Royalty Pharma",
+<<<<<<< HEAD
+    "numberOfShares": 10100000,
+=======
     "numberOfShares": 10100000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 59.22,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

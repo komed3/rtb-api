@@ -7,8 +7,13 @@
   "citizenship": "us",
   "residence": {
     "country": "us",
-    "state": "Florida",
-    "city": "Lake Mary"
+    "state": "Texas",
+    "city": "San Antonio",
+    "zipCode": "78215",
+    "_geo": {
+      "longitude": -98.47724,
+      "latitude": 29.4428393
+    }
   },
   "industry": [
     "service"
@@ -17,22 +22,16 @@
     "personal injury law"
   ],
   "deceased": false,
-  "children": 3,
-  "maritalStatus": "Married",
-  "education": [
-    {
-      "school": "University of Florida",
-      "degree": "Bachelor of Arts"
-    },
-    {
-      "school": "University of Florida",
-      "degree": "JD"
-    }
-  ],
-  "organization": null,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": {
+    "name": "Merrill Wealth Management",
+    "title": "Wealth Advisor"
+  },
   "selfMade": {
-    "_is": true,
-    "type": "self-made",
+    "_is": false,
+    "type": null,
     "rank": null
   }
 }

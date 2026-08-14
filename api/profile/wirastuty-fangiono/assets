@@ -3,17 +3,28 @@
     "exchange": "INDONESIA",
     "ticker": "FAPA-ID",
     "companyName": "FAP Agri",
+<<<<<<< HEAD
+    "numberOfShares": 2682874000,
+    "sharePrice": 0.41130386121992163,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 2682874000.0,
     "sharePrice": 0.41130386121992163,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "SINGAPORE",
     "ticker": "EB5-SG",
     "companyName": "First Resources",
+<<<<<<< HEAD
+    "numberOfShares": 173661000,
+=======
     "numberOfShares": 173661000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 2.892206675525678,
     "currencyCode": "SGD",
     "exchangeRate": 1.2793,

@@ -3,6 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "WBA-US",
     "companyName": "Walgreens Boots Alliance",
+<<<<<<< HEAD
+    "numberOfShares": 411000,
+=======
     "numberOfShares": 411000.0,
     "exerciseOptionPrice": 82.46,
     "sharePrice": 11.98,
@@ -47,21 +50,73 @@
     "ticker": "WBA-US",
     "companyName": "Walgreens Boots Alliance",
     "numberOfShares": 263000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 82.46,
     "sharePrice": 11.98,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WBA-US",
     "companyName": "Walgreens Boots Alliance",
+<<<<<<< HEAD
+    "numberOfShares": 395000,
+    "exerciseOptionPrice": 79.9,
+    "sharePrice": 11.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBA-US",
+    "companyName": "Walgreens Boots Alliance",
+    "numberOfShares": 280000,
+    "exerciseOptionPrice": 57.38,
+    "sharePrice": 11.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBA-US",
+    "companyName": "Walgreens Boots Alliance",
+    "numberOfShares": 0,
+    "sharePrice": 11.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBA-US",
+    "companyName": "Walgreens Boots Alliance",
+    "numberOfShares": 263000,
+    "exerciseOptionPrice": 82.46,
+    "sharePrice": 11.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "WBA-US",
+    "companyName": "Walgreens Boots Alliance",
+    "numberOfShares": 505000,
+    "exerciseOptionPrice": 67.01,
+    "sharePrice": 11.98,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 505000.0,
     "exerciseOptionPrice": 67.01,
     "sharePrice": 11.98,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

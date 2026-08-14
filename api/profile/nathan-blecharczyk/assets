@@ -3,17 +3,25 @@
     "exchange": "NASDAQ",
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 38000,
+=======
     "numberOfShares": 38000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 194.39,
     "sharePrice": 180.095,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 45000,
+    "exerciseOptionPrice": 167,
+=======
     "numberOfShares": 45000.0,
     "exerciseOptionPrice": 167.0,
     "sharePrice": 180.095,
@@ -81,9 +89,75 @@
     "companyName": "Airbnb, Inc",
     "numberOfShares": 178000.0,
     "exerciseOptionPrice": 40.18,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 180.095,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ABNB-US",
+    "companyName": "Airbnb, Inc",
+    "numberOfShares": 52000,
+    "exerciseOptionPrice": 122.41,
+    "sharePrice": 180.095,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ABNB-US",
+    "companyName": "Airbnb, Inc",
+    "numberOfShares": 60814000,
+    "sharePrice": 180.095,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ABNB-US",
+    "companyName": "Airbnb, Inc",
+    "numberOfShares": 19500,
+    "exerciseOptionPrice": 168.18,
+    "sharePrice": 180.095,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ABNB-US",
+    "companyName": "Airbnb, Inc",
+    "numberOfShares": 26000,
+    "exerciseOptionPrice": 40.18,
+    "sharePrice": 180.095,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ABNB-US",
+    "companyName": "Airbnb, Inc",
+    "numberOfShares": 3500,
+    "exerciseOptionPrice": 141.87,
+    "sharePrice": 180.095,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ABNB-US",
+    "companyName": "Airbnb, Inc",
+    "numberOfShares": 178000,
+    "exerciseOptionPrice": 40.18,
+    "sharePrice": 180.095,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

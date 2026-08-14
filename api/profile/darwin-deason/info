@@ -6,14 +6,9 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "country": "us",
-    "state": "Texas",
-    "city": "Dallas",
-    "zipCode": "75225",
-    "_geo": {
-      "longitude": -96.788167,
-      "latitude": 32.865472
-    }
+    "country": null,
+    "state": null,
+    "city": null
   },
   "industry": [
     "service"
@@ -22,9 +17,9 @@
     "Software"
   ],
   "image": "https://specials-images.forbesimg.com/imageserve/5c6d108aa0562eb2d1cc12c2f9b4a345/416x416.jpg?background=000000&cropX1=191&cropX2=1035&cropY1=0&cropY2=845",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Divorced",
+  "maritalStatus": null,
   "education": [
     {
       "school": "High School",

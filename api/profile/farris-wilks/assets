@@ -13,16 +13,28 @@
     "exchange": "NASDAQ",
     "ticker": "DWSN-US",
     "companyName": "Dawson Geophysical",
+<<<<<<< HEAD
+    "numberOfShares": 12329548,
+    "sharePrice": 4.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 12329548.0,
     "sharePrice": 4.38,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FTK-US",
     "companyName": "FTK Flotek Industries Inc",
+<<<<<<< HEAD
+    "numberOfShares": 1092037,
+    "exerciseOptionPrice": 0.33,
+    "sharePrice": 37.17,
+=======
     "numberOfShares": 1092037.0,
     "exerciseOptionPrice": 0.33,
     "sharePrice": 37.17,
@@ -36,18 +48,33 @@
     "companyName": "FTK Flotek Industries Inc",
     "numberOfShares": 9897839.0,
     "sharePrice": 37.17,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "FTK-US",
+    "companyName": "FTK Flotek Industries Inc",
+    "numberOfShares": 9897839,
+    "sharePrice": 37.17,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ACDC-US",
     "companyName": "ProFrac Holding Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 61045598,
+=======
     "numberOfShares": 61045598.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.14,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

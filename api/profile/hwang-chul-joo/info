@@ -1,0 +1,34 @@
+{
+  "uri": "hwang-chul-joo",
+  "name": "Hwang Chul-joo",
+  "birthDate": "1959-12-01",
+  "family": false,
+  "gender": "m",
+  "citizenship": "kr",
+  "residence": {
+    "country": "kr",
+    "state": null,
+    "city": "Gwangju"
+  },
+  "industry": [
+    "technology"
+  ],
+  "source": [
+    "Semiconductors"
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Inha University",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

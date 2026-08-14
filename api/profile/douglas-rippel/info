@@ -6,13 +6,33 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Maize",
-    "state": "Kansas"
+    "country": "us",
+    "state": "Kansas",
+    "city": "Maize"
   },
   "industry": [
     "finance-investments"
   ],
   "source": [
     "retail finance"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [
+    {
+      "school": "Kansas State University",
+      "degree": "Bachelor of Arts"
+    },
+    {
+      "school": "Wichita State University",
+      "degree": "Master of Business Administration"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

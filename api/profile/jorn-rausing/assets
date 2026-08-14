@@ -3,7 +3,11 @@
     "exchange": "OMX NORDIC STOCKHOLM",
     "ticker": "ALFA-SE",
     "companyName": "Alfa Laval",
+<<<<<<< HEAD
+    "numberOfShares": 40680000,
+=======
     "numberOfShares": 40680000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 59.245904045115786,
     "currencyCode": "SEK",
     "exchangeRate": 9.5399,
@@ -13,7 +17,11 @@
     "exchange": "SIX SWISS",
     "ticker": "COTN-CH",
     "companyName": "Comet Holding AG",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 454.7134935304991,
     "currencyCode": "CHF",
     "exchangeRate": 0.8115,
@@ -23,7 +31,11 @@
     "exchange": "SIX SWISS",
     "ticker": "GIVN-CH",
     "companyName": "Givaudan S.A.",
+<<<<<<< HEAD
+    "numberOfShares": 153000,
+=======
     "numberOfShares": 153000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4041.897720271103,
     "currencyCode": "CHF",
     "exchangeRate": 0.8115,
@@ -33,27 +45,39 @@
     "exchange": "NYSE",
     "ticker": "IFF-US",
     "companyName": "International Flavors & Fragrances",
+<<<<<<< HEAD
+    "numberOfShares": 8452000,
+=======
     "numberOfShares": 8452000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 83.85,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LIN-US",
     "companyName": "Linde PLC",
+<<<<<<< HEAD
+    "numberOfShares": 1694000,
+=======
     "numberOfShares": 1694000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 479.43,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "LONDON",
     "ticker": "OCDO-GB",
     "companyName": "Ocado Group PLC",
+<<<<<<< HEAD
+    "numberOfShares": 27960000,
+=======
     "numberOfShares": 27960000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 3.444549506956639,
     "currencyCode": "GBP",
     "exchangeRate": 0.7403,
@@ -63,17 +87,25 @@
     "exchange": "NYSE",
     "ticker": "SXT-US",
     "companyName": "Sensient Technologies",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 130.33,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "SIGN-CH",
     "companyName": "SIG Combibloc Group",
+<<<<<<< HEAD
+    "numberOfShares": 12678652,
+=======
     "numberOfShares": 12678652.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 18.91558841651263,
     "currencyCode": "CHF",
     "exchangeRate": 0.8115,

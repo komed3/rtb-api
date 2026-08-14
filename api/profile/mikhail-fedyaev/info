@@ -6,8 +6,9 @@
   "gender": "m",
   "citizenship": "ru",
   "residence": {
-    "city": "Kemerovo",
-    "state": null
+    "country": "ru",
+    "state": null,
+    "city": "Kemerovo"
   },
   "industry": [
     "diversified"
@@ -16,5 +17,20 @@
     "coal",
     "railway transport",
     "machinery"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [
+    {
+      "school": "Kuzbass Polytechnic Institute",
+      "degree": "Bachelor of Science in Engineering"
+    }
+  ],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

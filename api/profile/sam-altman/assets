@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "OKLO-US",
     "companyName": "Oklo",
+<<<<<<< HEAD
+    "numberOfShares": 6244000,
+=======
     "numberOfShares": 6244000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 45.13,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RDDT-US",
     "companyName": "Reddit Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 1658701,
+=======
     "numberOfShares": 1658701.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 153.45,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,31 +3,39 @@
     "exchange": "NASDAQ",
     "ticker": "AXON-US",
     "companyName": "Axon ENTERPRISE INC AAXN",
+<<<<<<< HEAD
+    "numberOfShares": 2879952,
+=======
     "numberOfShares": 2879952.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 599.78,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AXON-US",
     "companyName": "Axon ENTERPRISE INC AAXN",
-    "numberOfShares": 21000.0,
+    "numberOfShares": 21000,
     "exerciseOptionPrice": 28.58,
     "sharePrice": 599.78,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "IMDX-US",
     "companyName": "Insight Molecular Diagnostics",
+<<<<<<< HEAD
+    "numberOfShares": 3258485,
+=======
     "numberOfShares": 3258485.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

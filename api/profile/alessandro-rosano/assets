@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "CROX-US",
     "companyName": "Crocs, Inc. Common Shares (CROX)",
+<<<<<<< HEAD
+    "numberOfShares": 2852000,
+=======
     "numberOfShares": 2852000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 130.61,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "in",
   "residence": {
-    "city": "Hyderabad",
-    "state": null
+    "country": "in",
+    "state": null,
+    "city": "Hyderabad"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Batteries"
-  ]
+  ],
+  "deceased": false,
+  "children": 1,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

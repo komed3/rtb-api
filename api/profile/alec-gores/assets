@@ -3,90 +3,123 @@
     "exchange": "NYSE",
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
+<<<<<<< HEAD
+    "numberOfShares": 6250000,
+=======
     "numberOfShares": 6250000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 11.5,
     "sharePrice": 5.06,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "AMBP-US",
     "companyName": "Ardagh Metal Packaging",
+<<<<<<< HEAD
+    "numberOfShares": 9768750,
+=======
     "numberOfShares": 9768750.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.06,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CSGP-US",
     "companyName": "CoStar Group Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 310000,
+=======
     "numberOfShares": 310000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 30.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TWNK-US",
     "companyName": "Hostess Brands, Inc",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "exerciseOptionPrice": 11.5,
     "sharePrice": 33.3,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SJM-US",
     "companyName": "J.M. Smucker Co.",
+<<<<<<< HEAD
+    "numberOfShares": 145800,
+=======
     "numberOfShares": 145800.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 118.79,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "LAZRQ-US",
     "companyName": "Luminar Technologies",
-    "numberOfShares": 92884.0,
+    "numberOfShares": 92884,
     "exerciseOptionPrice": 171.6417910447761,
     "sharePrice": 0.018,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "LAZRQ-US",
     "companyName": "Luminar Technologies",
-    "numberOfShares": 349472.0,
+    "numberOfShares": 349472,
     "sharePrice": 0.018,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MTTR-US",
     "companyName": "Matterport",
-    "numberOfShares": 1708000.0,
+    "numberOfShares": 1708000,
     "exerciseOptionPrice": 11.5,
     "sharePrice": 5.38,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PSNY-US",
     "companyName": "Polestar Automotive Holding UK",
+<<<<<<< HEAD
+    "numberOfShares": 293436,
+    "sharePrice": 13.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PSNY-US",
+    "companyName": "Polestar Automotive Holding UK",
+    "numberOfShares": 148500,
+    "exerciseOptionPrice": 348.48484848484844,
+    "sharePrice": 13.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 293436.0,
     "sharePrice": 13.72,
     "currencyCode": "USD",
@@ -102,58 +135,67 @@
     "sharePrice": 13.72,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "SONDQ-US",
     "companyName": "Sonder Holdings",
-    "numberOfShares": 7809000.0,
+    "numberOfShares": 7809000,
     "sharePrice": 0.001,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "SONDQ-US",
     "companyName": "Sonder Holdings",
-    "numberOfShares": 137500.0,
-    "exerciseOptionPrice": 230.0,
+    "numberOfShares": 137500,
+    "exerciseOptionPrice": 230,
     "sharePrice": 0.001,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
+<<<<<<< HEAD
+    "numberOfShares": 5667000,
+=======
     "numberOfShares": 5667000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.51,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "UWMC-US",
     "companyName": "United Wholesale Mortgage",
-    "numberOfShares": 2310000.0,
+    "numberOfShares": 2310000,
     "exerciseOptionPrice": 11.5,
     "sharePrice": 1.51,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "VRRM-US",
     "companyName": "Verra Mobility",
+<<<<<<< HEAD
+    "numberOfShares": 3416000,
+=======
     "numberOfShares": 3416000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.7,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

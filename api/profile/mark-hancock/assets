@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "PACS-US",
     "companyName": "PACS Group",
+<<<<<<< HEAD
+    "numberOfShares": 54626199,
+=======
     "numberOfShares": 54626199.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 45.47,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "JOYY-US",
     "companyName": "JOYY Inc. Sponsored ADR",
+<<<<<<< HEAD
+    "numberOfShares": 18214000,
+=======
     "numberOfShares": 18214000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 74.16,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

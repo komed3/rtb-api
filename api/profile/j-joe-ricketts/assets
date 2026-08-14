@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "SCHW-US",
     "companyName": "Charles Schwab Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 29795000,
+=======
     "numberOfShares": 29795000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 109.34,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "AMTD-US",
     "companyName": "TD Ameritrade Holding Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.75,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

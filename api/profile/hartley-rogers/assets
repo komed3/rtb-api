@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "HLNE-US",
     "companyName": "HAMILTON LANE",
+<<<<<<< HEAD
+    "numberOfShares": 6901000,
+=======
     "numberOfShares": 6901000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 103.29,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

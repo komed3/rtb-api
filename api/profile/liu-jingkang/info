@@ -8,7 +8,7 @@
   "residence": {
     "country": "cn",
     "state": null,
-    "city": null
+    "city": "Shenzhen"
   },
   "industry": [
     "manufacturing"
@@ -18,15 +18,15 @@
   ],
   "deceased": false,
   "children": 0,
-  "maritalStatus": null,
+  "maritalStatus": "Married",
   "education": [],
   "organization": {
     "name": "Shenzhen Arashi Vision",
     "title": "CEO"
   },
   "selfMade": {
-    "_is": false,
-    "type": null,
+    "_is": true,
+    "type": "self-made",
     "rank": null
   }
 }

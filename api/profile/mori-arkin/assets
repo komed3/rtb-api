@@ -3,17 +3,21 @@
     "exchange": "NYSE",
     "ticker": "ARGO-US",
     "companyName": "Argo Group International Holdings",
-    "numberOfShares": 372000.0,
+    "numberOfShares": 372000,
     "sharePrice": 29.99,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "TEL AVIV",
     "ticker": "CLIS-IL",
     "companyName": "Clal Insurance Enterprises Holdings",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 74.67946566422769,
     "currencyCode": "ILS",
     "exchangeRate": 2.9794,
@@ -23,27 +27,39 @@
     "exchange": "NYSE",
     "ticker": "DOCN-US",
     "companyName": "DigitalOcean",
+<<<<<<< HEAD
+    "numberOfShares": 762000,
+=======
     "numberOfShares": 762000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 133.37,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "KROS-US",
     "companyName": "Keros Therapeutics",
+<<<<<<< HEAD
+    "numberOfShares": 1602000,
+=======
     "numberOfShares": 1602000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 11.2,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "TEL AVIV",
     "ticker": "NVLG-IL",
     "companyName": "Novolog",
+<<<<<<< HEAD
+    "numberOfShares": 42308000,
+=======
     "numberOfShares": 42308000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.2567631066657716,
     "currencyCode": "ILS",
     "exchangeRate": 2.9794,
@@ -53,50 +69,67 @@
     "exchange": "NASDAQ",
     "ticker": "ODYS-US",
     "companyName": "Odysight.ai Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 372000,
+=======
     "numberOfShares": 372000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 4.2,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "ONCR-US",
     "companyName": "Oncorus",
-    "numberOfShares": 1067000.0,
+    "numberOfShares": 1067000,
     "sharePrice": 0.126,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SLGL-US",
     "companyName": "Sol-Gel Technologies",
+<<<<<<< HEAD
+    "numberOfShares": 1415500,
+=======
     "numberOfShares": 1415500.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 71.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SG-US",
     "companyName": "Sweetgreen",
+<<<<<<< HEAD
+    "numberOfShares": 372000,
+=======
     "numberOfShares": 372000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 5.82,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "URGN-US",
     "companyName": "UroGen Pharma",
+<<<<<<< HEAD
+    "numberOfShares": 1369000,
+    "sharePrice": 49,
+=======
     "numberOfShares": 1369000.0,
     "sharePrice": 49.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

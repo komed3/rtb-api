@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "KKR-US",
     "companyName": "KKR & Co.",
+<<<<<<< HEAD
+    "numberOfShares": 76852000,
+=======
     "numberOfShares": 76852000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 110.9,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

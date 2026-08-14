@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Winnetka",
-    "state": "Illinois"
+    "country": "us",
+    "state": "Illinois",
+    "city": "Winnetka"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Medical supplies"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited and growing",
+    "rank": null
+  }
 }

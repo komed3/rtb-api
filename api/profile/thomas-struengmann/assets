@@ -3,17 +3,25 @@
     "exchange": "NASDAQ",
     "ticker": "BNTX-US",
     "companyName": "BioNTech Sponsored ADR",
+<<<<<<< HEAD
+    "numberOfShares": 50640000,
+=======
     "numberOfShares": 50640000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 92.74,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "FYB-DE",
     "companyName": "Formycon AG",
+<<<<<<< HEAD
+    "numberOfShares": 2124000,
+=======
     "numberOfShares": 2124000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 21.352723915050785,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,

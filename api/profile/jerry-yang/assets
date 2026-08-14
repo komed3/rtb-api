@@ -3,50 +3,66 @@
     "exchange": "NYSE",
     "ticker": "BABA-US",
     "companyName": "Alibaba Group (ADR)",
+<<<<<<< HEAD
+    "numberOfShares": 56634,
+=======
     "numberOfShares": 56634.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 125.22,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LBTA-US",
     "companyName": "Altaba",
-    "numberOfShares": 12766000.0,
-    "sharePrice": 0.0,
+    "numberOfShares": 12766000,
+    "sharePrice": 0,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CSCO-US",
     "companyName": "Cisco Systems Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 123.88,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WDAY-US",
     "companyName": "Workday, Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 94000,
+=======
     "numberOfShares": 94000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 175.29,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
+<<<<<<< HEAD
+    "numberOfShares": 2186647,
+=======
     "numberOfShares": 2186647.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 105.13,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

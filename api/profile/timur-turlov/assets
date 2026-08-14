@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "FRHC-US",
     "companyName": "Freedom Holding Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 42405000,
+=======
     "numberOfShares": 42405000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 151.33,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

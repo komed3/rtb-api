@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "gb",
   "residence": {
-    "country": "gb",
+    "country": null,
     "state": null,
-    "city": "Aberdeen"
+    "city": null
   },
   "industry": [
     "energy"
@@ -17,9 +17,9 @@
     "Energy services"
   ],
   "image": "https:////specials-images.forbesimg.com/imageserve/5e77f25dd8e1ae0007b738e5/416x416.jpg?background=000000&cropX1=79&cropX2=978&cropY1=83&cropY2=982",
-  "deceased": false,
+  "deceased": true,
   "children": 3,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "kz",
   "residence": {
-    "city": "Astana",
-    "state": null
+    "country": "kz",
+    "state": null,
+    "city": "Astana"
   },
   "industry": [
     "real-estate"
   ],
   "source": [
     "Real estate and construction"
-  ]
+  ],
+  "deceased": false,
+  "children": 7,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

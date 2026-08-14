@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "LI-US",
     "companyName": "Li Auto Sponsored ADR",
+<<<<<<< HEAD
+    "numberOfShares": 232190000,
+=======
     "numberOfShares": 232190000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 12.47,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

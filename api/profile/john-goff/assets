@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "CRGY-US",
     "companyName": "Crescent Energy",
+<<<<<<< HEAD
+    "numberOfShares": 9800000,
+=======
     "numberOfShares": 9800000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 12.06,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

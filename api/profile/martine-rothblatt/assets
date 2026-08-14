@@ -3,42 +3,53 @@
     "exchange": "NASDAQ",
     "ticker": "UTHR-US",
     "companyName": "United Therapeutics",
+<<<<<<< HEAD
+    "numberOfShares": 500000,
+=======
     "numberOfShares": 500000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 117.76,
     "sharePrice": 511.72,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "UTHR-US",
     "companyName": "United Therapeutics",
+<<<<<<< HEAD
+    "numberOfShares": 285000,
+    "exerciseOptionPrice": 111,
+=======
     "numberOfShares": 285000.0,
     "exerciseOptionPrice": 111.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 511.72,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "UTHR-US",
     "companyName": "United Therapeutics",
-    "numberOfShares": 500000.0,
+    "numberOfShares": 500000,
     "exerciseOptionPrice": 135.42,
     "sharePrice": 511.72,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "UTHR-US",
     "companyName": "United Therapeutics",
-    "numberOfShares": 100000.0,
+    "numberOfShares": 100000,
     "exerciseOptionPrice": 146.03,
     "sharePrice": 511.72,
+<<<<<<< HEAD
+=======
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -104,8 +115,74 @@
     "numberOfShares": 240000.0,
     "exerciseOptionPrice": 146.03,
     "sharePrice": 511.72,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UTHR-US",
+    "companyName": "United Therapeutics",
+    "numberOfShares": 150000,
+    "exerciseOptionPrice": 146.03,
+    "sharePrice": 511.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UTHR-US",
+    "companyName": "United Therapeutics",
+    "numberOfShares": 639489,
+    "sharePrice": 511.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UTHR-US",
+    "companyName": "United Therapeutics",
+    "numberOfShares": 244000,
+    "exerciseOptionPrice": 146.03,
+    "sharePrice": 511.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UTHR-US",
+    "companyName": "United Therapeutics",
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 120.26,
+    "sharePrice": 511.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UTHR-US",
+    "companyName": "United Therapeutics",
+    "numberOfShares": 214000,
+    "exerciseOptionPrice": 111,
+    "sharePrice": 511.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "UTHR-US",
+    "companyName": "United Therapeutics",
+    "numberOfShares": 240000,
+    "exerciseOptionPrice": 146.03,
+    "sharePrice": 511.72,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

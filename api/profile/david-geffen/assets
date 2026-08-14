@@ -3,20 +3,28 @@
     "exchange": "NYSE",
     "ticker": "T-US",
     "companyName": "AT&T Inc.",
+<<<<<<< HEAD
+    "numberOfShares": 20000000,
+=======
     "numberOfShares": 20000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 24.25,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WBD-US",
     "companyName": "Warner Bros. Discovery Series A",
+<<<<<<< HEAD
+    "numberOfShares": 30000000,
+=======
     "numberOfShares": 30000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 27.65,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

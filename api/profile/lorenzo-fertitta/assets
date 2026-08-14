@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "RRR-US",
     "companyName": "Red Rock Resorts",
+<<<<<<< HEAD
+    "numberOfShares": 27006799,
+=======
     "numberOfShares": 27006799.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 63.09,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

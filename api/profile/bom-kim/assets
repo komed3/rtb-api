@@ -3,21 +3,25 @@
     "exchange": "NYSE",
     "ticker": "CPNG-US",
     "companyName": "Coupang Inc",
+<<<<<<< HEAD
+    "numberOfShares": 157803000,
+=======
     "numberOfShares": 157803000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 16.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CPNG-US",
     "companyName": "Coupang Inc",
-    "numberOfShares": 6608000.0,
+    "numberOfShares": 6608000,
     "exerciseOptionPrice": 16.46,
     "sharePrice": 16.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

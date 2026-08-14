@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "tw",
   "residence": {
-    "city": "Hsinchu",
-    "state": null
+    "country": "tw",
+    "state": null,
+    "city": "Hsinchu"
   },
   "industry": [
     "manufacturing"
   ],
   "source": [
     "Semiconductor"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

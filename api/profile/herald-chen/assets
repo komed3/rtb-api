@@ -3,31 +3,39 @@
     "exchange": "NASDAQ",
     "ticker": "APP-US",
     "companyName": "AppLovin Corp",
+<<<<<<< HEAD
+    "numberOfShares": 813676,
+=======
     "numberOfShares": 813676.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 428.69,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "APP-US",
     "companyName": "AppLovin Corp",
-    "numberOfShares": 330201.0,
+    "numberOfShares": 330201,
     "exerciseOptionPrice": 5.05,
     "sharePrice": 428.69,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GDDY-US",
     "companyName": "GoDaddy",
+<<<<<<< HEAD
+    "numberOfShares": 15315,
+=======
     "numberOfShares": 15315.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 92.32,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

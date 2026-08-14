@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "EXE-US",
     "companyName": "Expand Energy",
+<<<<<<< HEAD
+    "numberOfShares": 6041000,
+=======
     "numberOfShares": 6041000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 96.28,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

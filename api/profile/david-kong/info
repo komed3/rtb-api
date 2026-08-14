@@ -6,13 +6,25 @@
   "gender": "m",
   "citizenship": "my",
   "residence": {
-    "city": "Kuala Lumpur",
-    "state": null
+    "country": "my",
+    "state": null,
+    "city": "Kuala Lumpur"
   },
   "industry": [
     "service"
   ],
   "source": [
     "Funeral services"
-  ]
+  ],
+  "image": "https://specials-images.forbesimg.com/imageserve/6470d84bf3e7ccee779d86b2/416x416.jpg?background=000000&cropX1=220&cropX2=1207&cropY1=31&cropY2=1018",
+  "deceased": false,
+  "children": 5,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

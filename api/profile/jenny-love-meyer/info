@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Nichols Hills",
-    "state": "Oklahoma"
+    "country": "us",
+    "state": "Oklahoma",
+    "city": "Nichols Hills"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "gas stations"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

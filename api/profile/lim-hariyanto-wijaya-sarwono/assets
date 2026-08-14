@@ -3,7 +3,11 @@
     "exchange": "SINGAPORE",
     "ticker": "P8Z-SG",
     "companyName": "Bumitama Agri Ltd.",
+<<<<<<< HEAD
+    "numberOfShares": 815902000,
+=======
     "numberOfShares": 815902000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.4226530133666848,
     "currencyCode": "SGD",
     "exchangeRate": 1.2793,
@@ -13,30 +17,51 @@
     "exchange": "INDONESIA",
     "ticker": "CITA-ID",
     "companyName": "Cita Mineral Investindo",
+<<<<<<< HEAD
+    "numberOfShares": 1923297000,
+    "sharePrice": 0.18186905428091774,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 1923297000.0,
     "sharePrice": 0.18186905428091774,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "TIRT-ID",
     "companyName": "Tirta Mahakam Resources",
+<<<<<<< HEAD
+    "numberOfShares": 744030000,
+    "sharePrice": 0.03301622831561276,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 744030000.0,
     "sharePrice": 0.03301622831561276,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "INDONESIA",
     "ticker": "NCKL-ID",
     "companyName": "Trimegah Bangun Persada",
+<<<<<<< HEAD
+    "numberOfShares": 46686098000,
+    "sharePrice": 0.052322327923894796,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 46686098000.0,
     "sharePrice": 0.052322327923894796,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

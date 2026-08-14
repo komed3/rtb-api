@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "West Newton",
-    "state": "Massachusetts"
+    "country": "us",
+    "state": "Massachusetts",
+    "city": "West Newton"
   },
   "industry": [
     "healthcare"
   ],
   "source": [
     "Health technology"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

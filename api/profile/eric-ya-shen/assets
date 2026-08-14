@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "VIPS-US",
     "companyName": "Vipshop Holdings Limited",
+<<<<<<< HEAD
+    "numberOfShares": 86500000,
+=======
     "numberOfShares": 86500000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 14.45,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

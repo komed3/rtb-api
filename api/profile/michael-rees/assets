@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "OWL-US",
     "companyName": "Blue Owl Capital",
+<<<<<<< HEAD
+    "numberOfShares": 82211001,
+=======
     "numberOfShares": 82211001.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 12.22,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

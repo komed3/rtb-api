@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "HD-US",
     "companyName": "Home Depot",
+<<<<<<< HEAD
+    "numberOfShares": 13000000,
+=======
     "numberOfShares": 13000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 343.43,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

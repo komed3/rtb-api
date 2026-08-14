@@ -13,6 +13,12 @@
     "exchange": "TAIWAN",
     "ticker": "2373-TW",
     "companyName": "Aurora Corp",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+    "sharePrice": 1.6539696823943772,
+    "currencyCode": "TWD",
+    "exchangeRate": 32.2255,
+=======
     "numberOfShares": 0.0,
     "sharePrice": 1.6539696823943772,
     "currencyCode": "TWD",
@@ -27,16 +33,34 @@
     "sharePrice": 1.2986609982777615,
     "currencyCode": "TWD",
     "exchangeRate": 32.2255,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "2433-TW",
     "companyName": "Aurora Systems Corp",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+    "sharePrice": 1.2986609982777615,
+    "currencyCode": "TWD",
+    "exchangeRate": 32.2255,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "2433-TW",
+    "companyName": "Aurora Systems Corp",
+    "numberOfShares": 34490000,
+    "sharePrice": 1.2986609982777615,
+    "currencyCode": "TWD",
+    "exchangeRate": 32.2255,
+=======
     "numberOfShares": 34490000.0,
     "sharePrice": 1.2986609982777615,
     "currencyCode": "TWD",
     "exchangeRate": 32.2255,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

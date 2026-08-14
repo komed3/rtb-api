@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Yarrow Point",
-    "state": "Washington"
+    "country": "us",
+    "state": "Washington",
+    "city": "Yarrow Point"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Semiconductors"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

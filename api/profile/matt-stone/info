@@ -1,0 +1,29 @@
+{
+  "uri": "matt-stone",
+  "name": "Matt Stone",
+  "birthDate": "1971-05-26",
+  "family": false,
+  "gender": "m",
+  "citizenship": "us",
+  "residence": {
+    "country": null,
+    "state": null,
+    "city": null
+  },
+  "industry": [
+    "media-entertainment"
+  ],
+  "source": [
+    "Television"
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Married",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
+}

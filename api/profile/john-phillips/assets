@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "SHOP-US",
     "companyName": "Shopify",
+<<<<<<< HEAD
+    "numberOfShares": 14000000,
+=======
     "numberOfShares": 14000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 150.41,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

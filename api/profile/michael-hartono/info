@@ -6,9 +6,9 @@
   "gender": "m",
   "citizenship": "id",
   "residence": {
-    "country": "id",
+    "country": null,
     "state": null,
-    "city": "Kudus"
+    "city": null
   },
   "industry": [
     "manufacturing"
@@ -17,9 +17,9 @@
     "Banking",
     "tobacco"
   ],
-  "deceased": false,
+  "deceased": true,
   "children": 4,
-  "maritalStatus": "Married",
+  "maritalStatus": null,
   "education": [],
   "organization": null,
   "selfMade": {

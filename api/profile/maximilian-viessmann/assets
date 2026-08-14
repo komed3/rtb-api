@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "CARR-US",
     "companyName": "Carrier Global",
+<<<<<<< HEAD
+    "numberOfShares": 29593000,
+=======
     "numberOfShares": 29593000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 63.08,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

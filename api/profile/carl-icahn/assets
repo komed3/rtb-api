@@ -3,10 +3,14 @@
     "exchange": "NASDAQ",
     "ticker": "IEP-US",
     "companyName": "Icahn Enterprises L.P.",
+<<<<<<< HEAD
+    "numberOfShares": 494784000,
+=======
     "numberOfShares": 494784000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 7.5,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": true,
     "currentPrice": 7.5
   }

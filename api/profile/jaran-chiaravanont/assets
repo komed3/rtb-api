@@ -3,17 +3,28 @@
     "exchange": "INDONESIA",
     "ticker": "BISI-ID",
     "companyName": "Bisi International",
+<<<<<<< HEAD
+    "numberOfShares": 229500000,
+    "sharePrice": 0.03889199776161164,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 229500000.0,
     "sharePrice": 0.03889199776161164,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "121-HK",
     "companyName": "C.P. Lotus Corp.",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.013890304822102151,
     "currencyCode": "HKD",
     "exchangeRate": 7.8472,
@@ -23,17 +34,28 @@
     "exchange": "INDONESIA",
     "ticker": "CPRO-ID",
     "companyName": "Central Proteina Prima",
+<<<<<<< HEAD
+    "numberOfShares": 6742000000,
+    "sharePrice": 0.002965864577504197,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 6742000000.0,
     "sharePrice": 0.002965864577504197,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "1215-TW",
     "companyName": "Charoen Pokphand Enterprise (Taiwan)",
+<<<<<<< HEAD
+    "numberOfShares": 10450000,
+=======
     "numberOfShares": 10450000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 3.366898884423826,
     "currencyCode": "TWD",
     "exchangeRate": 32.2255,
@@ -43,7 +65,11 @@
     "exchange": "THAILAND",
     "ticker": "CPF-TH",
     "companyName": "Charoen Pokphand Foods",
+<<<<<<< HEAD
+    "numberOfShares": 531087000,
+=======
     "numberOfShares": 531087000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.6603346901854364,
     "currencyCode": "THB",
     "exchangeRate": 33.165,
@@ -53,17 +79,28 @@
     "exchange": "INDONESIA",
     "ticker": "CPIN-ID",
     "companyName": "Charoen Pokphand Indonesia",
+<<<<<<< HEAD
+    "numberOfShares": 1162000000,
+    "sharePrice": 0.17627308337996642,
+    "currencyCode": "IDR",
+    "exchangeRate": 17870,
+=======
     "numberOfShares": 1162000000.0,
     "sharePrice": 0.17627308337996642,
     "currencyCode": "IDR",
     "exchangeRate": 17870.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "267-HK",
     "companyName": "Citic Pacific Limited",
+<<<<<<< HEAD
+    "numberOfShares": 742000000,
+=======
     "numberOfShares": 742000000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.515190131511877,
     "currencyCode": "HKD",
     "exchangeRate": 7.8472,
@@ -73,7 +110,11 @@
     "exchange": "THAILAND",
     "ticker": "CPALL-TH",
     "companyName": "CP ALL PCL",
+<<<<<<< HEAD
+    "numberOfShares": 414928000,
+=======
     "numberOfShares": 414928000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.4473089099954772,
     "currencyCode": "THB",
     "exchangeRate": 33.165,
@@ -83,7 +124,11 @@
     "exchange": "THAILAND",
     "ticker": "CPAXT-TH",
     "companyName": "CP Axtra Public Company Limited",
+<<<<<<< HEAD
+    "numberOfShares": 332770000,
+=======
     "numberOfShares": 332770000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.44323835368611486,
     "currencyCode": "THB",
     "exchangeRate": 33.165,
@@ -93,7 +138,8 @@
     "exchange": "TOKYO",
     "ticker": "8001-JP",
     "companyName": "Itochu",
-    "numberOfShares": 49765000.0,
+<<<<<<< HEAD
+    "numberOfShares": 49765000,
     "sharePrice": 13.163761972052129,
     "currencyCode": "JPY",
     "exchangeRate": 159.225,
@@ -103,6 +149,28 @@
     "exchange": "HONG KONG",
     "ticker": "2318-HK",
     "companyName": "Ping An Insurance Group Class H",
+    "numberOfShares": 123060000,
+    "sharePrice": 7.078958099704352,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8472,
+=======
+    "numberOfShares": 49765000.0,
+    "sharePrice": 13.163761972052129,
+    "currencyCode": "JPY",
+    "exchangeRate": 159.225,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "2318-HK",
+    "companyName": "Ping An Insurance Group Class H",
+<<<<<<< HEAD
+    "numberOfShares": -7000000,
+    "sharePrice": 7.078958099704352,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8472,
+=======
     "numberOfShares": 123060000.0,
     "sharePrice": 7.078958099704352,
     "currencyCode": "HKD",
@@ -117,13 +185,18 @@
     "sharePrice": 7.078958099704352,
     "currencyCode": "HKD",
     "exchangeRate": 7.8472,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "1177-HK",
     "companyName": "Sino Biopharmaceutical",
+<<<<<<< HEAD
+    "numberOfShares": 122230000,
+=======
     "numberOfShares": 122230000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.6276123967784687,
     "currencyCode": "HKD",
     "exchangeRate": 7.8472,
@@ -133,7 +206,11 @@
     "exchange": "THAILAND",
     "ticker": "TRUE-TH",
     "companyName": "True Corp. PCL",
+<<<<<<< HEAD
+    "numberOfShares": 1310372000,
+=======
     "numberOfShares": 1310372000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 0.4040404040404041,
     "currencyCode": "THB",
     "exchangeRate": 33.165,
@@ -143,7 +220,11 @@
     "exchange": "THAILAND",
     "ticker": "VNT-TH",
     "companyName": "Vinythai PCL",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 1.0327152118196894,
     "currencyCode": "THB",
     "exchangeRate": 33.165,

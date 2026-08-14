@@ -6,13 +6,24 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
-    "city": "Oklahoma City",
-    "state": "Oklahoma"
+    "country": "us",
+    "state": "Oklahoma",
+    "city": "Oklahoma City"
   },
   "industry": [
     "fashion-retail"
   ],
   "source": [
     "gas stations"
-  ]
+  ],
+  "deceased": false,
+  "children": 3,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

@@ -3,10 +3,14 @@
     "exchange": "NYSE",
     "ticker": "MHK-US",
     "companyName": "Mohawk Industries, Inc",
+<<<<<<< HEAD
+    "numberOfShares": 9492000,
+=======
     "numberOfShares": 9492000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 136.86,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

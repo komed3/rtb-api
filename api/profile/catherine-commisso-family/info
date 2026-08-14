@@ -6,13 +6,29 @@
   "gender": "f",
   "citizenship": "us",
   "residence": {
+    "country": "us",
+    "state": "New Jersey",
     "city": "Saddle River",
-    "state": "New Jersey"
+    "zipCode": "07458",
+    "_geo": {
+      "longitude": -74.0946311,
+      "latitude": 41.0419694
+    }
   },
   "industry": [
     "telecom"
   ],
   "source": [
     "Telecom"
-  ]
+  ],
+  "deceased": false,
+  "children": 2,
+  "maritalStatus": "Widowed",
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": false,
+    "type": "inherited",
+    "rank": null
+  }
 }

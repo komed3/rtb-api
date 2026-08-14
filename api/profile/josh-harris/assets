@@ -3,30 +3,38 @@
     "exchange": "NYSE",
     "ticker": "APO-US",
     "companyName": "Apollo Global Management",
+<<<<<<< HEAD
+    "numberOfShares": 34313000,
+=======
     "numberOfShares": 34313000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 138.61,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "BERY-US",
     "companyName": "Berry Plastics",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 67.58,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "LYB-US",
     "companyName": "LyondellBasell",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+=======
     "numberOfShares": 0.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 62.8,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

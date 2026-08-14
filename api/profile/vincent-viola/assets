@@ -3,41 +3,54 @@
     "exchange": "NASDAQ",
     "ticker": "IBTX-US",
     "companyName": "Independent Bank Group",
-    "numberOfShares": 0.0,
+    "numberOfShares": 0,
     "sharePrice": 60.67,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SSB-US",
     "companyName": "SouthState Corporation",
+<<<<<<< HEAD
+    "numberOfShares": 2456000,
+=======
     "numberOfShares": 2456000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 110.36,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "VIRT-US",
     "companyName": "Virtu Financial",
+<<<<<<< HEAD
+    "numberOfShares": 64116000,
+=======
     "numberOfShares": 64116000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 57.09,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "VIRT-US",
     "companyName": "Virtu Financial",
+<<<<<<< HEAD
+    "numberOfShares": 0,
+    "exerciseOptionPrice": 19,
+=======
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 19.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 57.09,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   }
 ]

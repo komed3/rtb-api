@@ -6,13 +6,24 @@
   "gender": "m",
   "citizenship": "us",
   "residence": {
-    "city": "Coatesville",
-    "state": "Pennsylvania"
+    "country": "us",
+    "state": "Pennsylvania",
+    "city": "Coatesville"
   },
   "industry": [
     "technology"
   ],
   "source": [
     "Software"
-  ]
+  ],
+  "deceased": false,
+  "children": 0,
+  "maritalStatus": null,
+  "education": [],
+  "organization": null,
+  "selfMade": {
+    "_is": true,
+    "type": "self-made",
+    "rank": null
+  }
 }

@@ -3,16 +3,24 @@
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
+<<<<<<< HEAD
+    "numberOfShares": 560000,
+=======
     "numberOfShares": 560000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 343.54,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CYH-US",
     "companyName": "Community Health Sys",
+<<<<<<< HEAD
+    "numberOfShares": 27484000,
+    "sharePrice": 2.91,
+=======
     "numberOfShares": 27484000.0,
     "sharePrice": 2.91,
     "currencyCode": "USD",
@@ -25,28 +33,50 @@
     "companyName": "Happen, Inc.",
     "numberOfShares": 19563000.0,
     "sharePrice": 19.49,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "HAPN-US",
+    "companyName": "Happen, Inc.",
+    "numberOfShares": 19563000,
+    "sharePrice": 19.49,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "HTGC-US",
     "companyName": "HERCULES CAPITAL INC",
+<<<<<<< HEAD
+    "numberOfShares": 3506000,
+=======
     "numberOfShares": 3506000.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 16.6,
     "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 1,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "KKR-US",
     "companyName": "KKR & Co.",
+<<<<<<< HEAD
+    "numberOfShares": 800000,
+    "sharePrice": 110.9,
+    "currencyCode": "USD",
+    "exchangeRate": 1,
+=======
     "numberOfShares": 800000.0,
     "sharePrice": 110.9,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+>>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]
