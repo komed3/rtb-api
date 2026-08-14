@@ -13,8 +13,9 @@
     "exchange": "NASDAQ",
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
-    "numberOfShares": 33127707.0,
-    "sharePrice": 7.21,
+    "numberOfShares": 2367200.0,
+    "exerciseOptionPrice": 17.0,
+    "sharePrice": 7.23,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -23,9 +24,8 @@
     "exchange": "NASDAQ",
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
-    "numberOfShares": 2367200.0,
-    "exerciseOptionPrice": 17.0,
-    "sharePrice": 7.21,
+    "numberOfShares": 33127707.0,
+    "sharePrice": 7.23,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -56,7 +56,7 @@
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
     "numberOfShares": 2349271.0,
-    "sharePrice": 7.969759926131118,
+    "sharePrice": 7.2137580794090495,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
     "interactive": false
@@ -64,7 +64,7 @@
   {
     "companyName": "SQD",
     "numberOfShares": 69000000.0,
-    "sharePrice": 0.050277,
+    "sharePrice": 0.046734,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "IPOK-DE",
     "companyName": "SQD Strategies AG",
     "numberOfShares": 194440.0,
-    "sharePrice": 156.97137580794092,
+    "sharePrice": 154.66297322253,
     "currencyCode": "EUR",
     "exchangeRate": 0.8664,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "CUPR-US",
     "companyName": "Super Copper",
     "numberOfShares": 500000.0,
-    "sharePrice": 2.985,
+    "sharePrice": 3.0,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
