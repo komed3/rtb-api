@@ -3,57 +3,41 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
-    "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "exerciseOptionPrice": 10.39,
-    "sharePrice": 578.85,
+    "numberOfShares": 1269903.0,
+    "sharePrice": 594.97,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-<<<<<<< HEAD
-    "numberOfShares": 1269903,
-=======
-    "numberOfShares": 1269903.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 578.85,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 10.39,
+    "sharePrice": 594.97,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SBUX-US",
     "companyName": "Starbucks Corp.",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
     "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 108.49,
+    "sharePrice": 108.55,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DIS-US",
     "companyName": "Walt Disney",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
     "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 103.22,
+    "sharePrice": 104.8,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

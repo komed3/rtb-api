@@ -3,14 +3,10 @@
     "exchange": "NYSE",
     "ticker": "JOBY-US",
     "companyName": "Joby Aviation",
-<<<<<<< HEAD
-    "numberOfShares": 56469000,
-=======
     "numberOfShares": 56469000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 7.96,
+    "sharePrice": 8.26,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -18,9 +14,9 @@
     "ticker": "PINS-US",
     "companyName": "Pinterest, Inc",
     "numberOfShares": 32884999.999999996,
-    "sharePrice": 22.9,
+    "sharePrice": 23.32,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

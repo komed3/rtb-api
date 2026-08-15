@@ -3,28 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "TEAM-US",
     "companyName": "Atlassian Corp",
-<<<<<<< HEAD
-    "numberOfShares": 47427000,
-=======
     "numberOfShares": 47427000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 155.24,
+    "sharePrice": 165.98,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "ASX",
     "ticker": "GNX-AU",
     "companyName": "Genex Power",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
     "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 0.19445622967048512,
+    "sharePrice": 0.19430509432629126,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4142,
+    "exchangeRate": 1.4153,
     "interactive": false
   }
 ]

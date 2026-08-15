@@ -3,24 +3,20 @@
     "exchange": "TORONTO",
     "ticker": "PJC.A-CA",
     "companyName": "Jean Coutu Group (PJC) Inc. (Cl A)",
-    "numberOfShares": 104080000,
-    "sharePrice": 0,
+    "numberOfShares": 104080000.0,
+    "sharePrice": 0.0,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3923,
+    "exchangeRate": 1.3943,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "MRU-CA",
     "companyName": "Metro Inc",
-<<<<<<< HEAD
-    "numberOfShares": 26045000,
-=======
     "numberOfShares": 26045000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 64.62687639158227,
+    "sharePrice": 64.18274402926198,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3923,
+    "exchangeRate": 1.3943,
     "interactive": false
   }
 ]

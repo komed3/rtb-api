@@ -3,40 +3,19 @@
     "exchange": "XETRA",
     "ticker": "Z29-DE",
     "companyName": "029 Group",
-<<<<<<< HEAD
-    "numberOfShares": 1800000,
-    "sharePrice": 48.93813481071099,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ATAI-US",
-    "companyName": "ATAI Life Sciences",
-    "numberOfShares": 2367200,
-    "exerciseOptionPrice": 17,
-    "sharePrice": 7.23,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
     "numberOfShares": 1800000.0,
-    "sharePrice": 48.93813481071099,
+    "sharePrice": 48.94943431078273,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
-<<<<<<< HEAD
-    "numberOfShares": 33127707,
-=======
     "numberOfShares": 2367200.0,
     "exerciseOptionPrice": 17.0,
-    "sharePrice": 7.23,
+    "sharePrice": 7.25,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,24 +25,19 @@
     "ticker": "ATAI-US",
     "companyName": "ATAI Life Sciences",
     "numberOfShares": 33127707.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 7.23,
+    "sharePrice": 7.25,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "SRAG-DE",
     "companyName": "Cryptology Asset Group PLC",
-<<<<<<< HEAD
-    "numberOfShares": 70960825,
-=======
     "numberOfShares": 70960825.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 2.4930747922437675,
+    "sharePrice": 2.5282844608635417,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
@@ -72,64 +46,47 @@
     "companyName": "Neuphoria Therapeutics",
     "numberOfShares": 65477.99999999999,
     "exerciseOptionPrice": 37.95180722891566,
-    "sharePrice": 3.81,
+    "sharePrice": 3.83,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "MUNICH",
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
-<<<<<<< HEAD
-    "numberOfShares": 2349271,
-=======
     "numberOfShares": 2349271.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 7.2137580794090495,
+    "sharePrice": 7.619487416301085,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "companyName": "SQD",
-<<<<<<< HEAD
-    "numberOfShares": 69000000,
-=======
     "numberOfShares": 69000000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 0.046734,
+    "sharePrice": 0.044962,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "IPOK-DE",
     "companyName": "SQD Strategies AG",
-<<<<<<< HEAD
-    "numberOfShares": 194440,
-=======
     "numberOfShares": 194440.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 154.66297322253,
+    "sharePrice": 152.3897483260217,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CUPR-US",
     "companyName": "Super Copper",
-<<<<<<< HEAD
-    "numberOfShares": 500000,
-    "sharePrice": 3,
-=======
     "numberOfShares": 500000.0,
-    "sharePrice": 3.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 3.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

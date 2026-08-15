@@ -3,24 +3,20 @@
     "exchange": "NYSE",
     "ticker": "P-US",
     "companyName": "Pure Storage",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 67.8,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
-<<<<<<< HEAD
-    "numberOfShares": 2440000,
-=======
     "numberOfShares": 2440000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 332.26,
+    "sharePrice": 337.38,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

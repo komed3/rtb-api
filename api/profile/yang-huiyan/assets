@@ -3,51 +3,18 @@
     "exchange": "NYSE",
     "ticker": "BEDU-US",
     "companyName": "Bright Scholar Education Holdings (ADR)",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 2.25,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "HONG KONG",
     "ticker": "2007-HK",
     "companyName": "Country Garden Holdings",
-<<<<<<< HEAD
-    "numberOfShares": 29408668000,
-    "sharePrice": 0.02446732592517076,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "6098-HK",
-    "companyName": "Country Garden Services Holdings Company",
-    "numberOfShares": -271848000,
-    "sharePrice": 0.6887807115913956,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
-=======
     "numberOfShares": 29408668000.0,
-    "sharePrice": 0.02446732592517076,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "6098-HK",
-    "companyName": "Country Garden Services Holdings Company",
-<<<<<<< HEAD
-    "numberOfShares": 543695000,
-    "sharePrice": 0.6887807115913956,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8472,
-=======
-    "numberOfShares": -271848000.0,
-    "sharePrice": 0.6887807115913956,
+    "sharePrice": 0.02332042002242838,
     "currencyCode": "HKD",
     "exchangeRate": 7.8472,
     "interactive": false
@@ -57,10 +24,19 @@
     "ticker": "6098-HK",
     "companyName": "Country Garden Services Holdings Company",
     "numberOfShares": 543695000.0,
-    "sharePrice": 0.6887807115913956,
+    "sharePrice": 0.6760373126720358,
     "currencyCode": "HKD",
     "exchangeRate": 7.8472,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "6098-HK",
+    "companyName": "Country Garden Services Holdings Company",
+    "numberOfShares": -271848000.0,
+    "sharePrice": 0.6760373126720358,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8472,
     "interactive": false
   }
 ]

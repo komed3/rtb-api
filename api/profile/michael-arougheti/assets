@@ -3,28 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "ARCC-US",
     "companyName": "Ares Capital Corporation",
-<<<<<<< HEAD
-    "numberOfShares": 2017000,
-=======
     "numberOfShares": 2017000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 19.87,
+    "sharePrice": 20.19,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ARES-US",
     "companyName": "Ares Management LP",
-<<<<<<< HEAD
-    "numberOfShares": 6826596,
-=======
     "numberOfShares": 6826596.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 142.35,
+    "sharePrice": 149.45,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

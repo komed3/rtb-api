@@ -3,26 +3,31 @@
     "exchange": "NASDAQ",
     "ticker": "FTNT-US",
     "companyName": "Fortinet Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
     "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "exerciseOptionPrice": 23.83,
-    "sharePrice": 160.84,
+    "exerciseOptionPrice": 7.448,
+    "sharePrice": 165.44,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "FTNT-US",
     "companyName": "Fortinet Inc.",
-    "numberOfShares": 324285,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 23.83,
+    "sharePrice": 165.44,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "FTNT-US",
+    "companyName": "Fortinet Inc.",
+    "numberOfShares": 324285.0,
     "exerciseOptionPrice": 16.9,
-    "sharePrice": 160.84,
-<<<<<<< HEAD
-=======
+    "sharePrice": 165.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -33,7 +38,7 @@
     "companyName": "Fortinet Inc.",
     "numberOfShares": 244410.0,
     "exerciseOptionPrice": 22.9,
-    "sharePrice": 160.84,
+    "sharePrice": 165.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -43,7 +48,7 @@
     "ticker": "FTNT-US",
     "companyName": "Fortinet Inc.",
     "numberOfShares": 56526518.0,
-    "sharePrice": 160.84,
+    "sharePrice": 165.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +59,7 @@
     "companyName": "Fortinet Inc.",
     "numberOfShares": 209445.0,
     "exerciseOptionPrice": 34.39,
-    "sharePrice": 160.84,
+    "sharePrice": 165.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +70,7 @@
     "companyName": "Fortinet Inc.",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 9.81,
-    "sharePrice": 160.84,
+    "sharePrice": 165.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,86 +81,9 @@
     "companyName": "Fortinet Inc.",
     "numberOfShares": 69020.0,
     "exerciseOptionPrice": 62.11,
-    "sharePrice": 160.84,
+    "sharePrice": 165.44,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 7.448,
-    "sharePrice": 160.84,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 244410,
-    "exerciseOptionPrice": 22.9,
-    "sharePrice": 160.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 56526518,
-    "sharePrice": 160.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 209445,
-    "exerciseOptionPrice": 34.39,
-    "sharePrice": 160.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 9.81,
-    "sharePrice": 160.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 69020,
-    "exerciseOptionPrice": 62.11,
-    "sharePrice": 160.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "FTNT-US",
-    "companyName": "Fortinet Inc.",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 7.448,
-    "sharePrice": 160.84,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

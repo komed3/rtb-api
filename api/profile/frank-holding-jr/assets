@@ -3,28 +3,20 @@
     "exchange": "US OTC",
     "ticker": "FCNCB-US",
     "companyName": "First Citizens Bancshares Class B",
-<<<<<<< HEAD
-    "numberOfShares": 98000,
-=======
     "numberOfShares": 98000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 1878.93,
+    "sharePrice": 1857.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "FCNCA-US",
     "companyName": "First Citizens Bcshs",
-<<<<<<< HEAD
-    "numberOfShares": 570000,
-=======
     "numberOfShares": 570000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 2271.31,
+    "sharePrice": 2268.09,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

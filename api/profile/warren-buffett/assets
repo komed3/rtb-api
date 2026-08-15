@@ -3,36 +3,22 @@
     "exchange": "NYSE",
     "ticker": "BRK.A-US",
     "companyName": "Berkshire Hathaway Inc. (Cl A)",
-<<<<<<< HEAD
-    "numberOfShares": 188290,
-    "sharePrice": 764000,
-=======
     "numberOfShares": 188290.0,
-    "sharePrice": 764000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 762000.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": true,
-<<<<<<< HEAD
-    "currentPrice": 762000
-=======
-    "currentPrice": 762000.0
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "currentPrice": 755570.01
   },
   {
     "exchange": "NYSE",
     "ticker": "BRK.B-US",
     "companyName": "Berkshire Hathaway Inc. (Cl B)",
-<<<<<<< HEAD
-    "numberOfShares": 1162,
-    "sharePrice": 510,
-=======
     "numberOfShares": 1162.0,
-    "sharePrice": 510.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 506.93,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 506.93
+    "currentPrice": 504.03
   }
 ]

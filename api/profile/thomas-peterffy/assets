@@ -3,28 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "IBKR-US",
     "companyName": "Interactive Broker Group, Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 1087310000,
-=======
     "numberOfShares": 1087310000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 91.66,
+    "sharePrice": 91.42,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "NMAX-US",
     "companyName": "Newsmax",
-<<<<<<< HEAD
-    "numberOfShares": 23045000,
-=======
     "numberOfShares": 23045000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 8.86,
+    "sharePrice": 9.49,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

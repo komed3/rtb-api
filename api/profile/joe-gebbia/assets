@@ -3,28 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
-<<<<<<< HEAD
-    "numberOfShares": 33213000,
-=======
     "numberOfShares": 33213000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 180.095,
+    "sharePrice": 185.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-<<<<<<< HEAD
-    "numberOfShares": 4000,
-=======
     "numberOfShares": 4000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 327.51,
+    "sharePrice": 339.96,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

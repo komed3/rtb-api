@@ -3,63 +3,50 @@
     "exchange": "NYSE",
     "ticker": "BRK.A-US",
     "companyName": "Berkshire Hathaway Inc. (Cl A)",
-<<<<<<< HEAD
-    "numberOfShares": 100,
-    "sharePrice": 764000,
-=======
     "numberOfShares": 100.0,
-    "sharePrice": 764000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 762000.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "COST-US",
     "companyName": "Costco Wholesale",
-<<<<<<< HEAD
-    "numberOfShares": 57400,
-=======
     "numberOfShares": 57400.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 949.575,
+    "sharePrice": 961.85,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FAF-US",
     "companyName": "First American Corp.",
-<<<<<<< HEAD
-    "numberOfShares": 28000,
-=======
     "numberOfShares": 28000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 72.3,
+    "sharePrice": 74.06,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "KSU-US",
     "companyName": "Kansas City Southern",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 293.59,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PMBC-US",
     "companyName": "Pacific Mercantile Bancorp",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 9.4,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

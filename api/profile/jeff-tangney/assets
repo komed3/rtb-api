@@ -3,33 +3,31 @@
     "exchange": "NYSE",
     "ticker": "DOCS-US",
     "companyName": "Doximity",
-<<<<<<< HEAD
-    "numberOfShares": 100000,
+    "numberOfShares": 8000.0,
     "exerciseOptionPrice": 0.6,
-    "sharePrice": 24.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
-    "numberOfShares": 100000.0,
-    "exerciseOptionPrice": 0.6,
-    "sharePrice": 24.99,
+    "sharePrice": 26.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "DOCS-US",
     "companyName": "Doximity",
-<<<<<<< HEAD
-    "numberOfShares": 2375000,
-    "exerciseOptionPrice": 8.26,
-    "sharePrice": 24.99,
-=======
+    "numberOfShares": 100000.0,
+    "exerciseOptionPrice": 0.6,
+    "sharePrice": 26.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "DOCS-US",
+    "companyName": "Doximity",
     "numberOfShares": 2375000.0,
     "exerciseOptionPrice": 8.26,
-    "sharePrice": 24.99,
+    "sharePrice": 26.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -40,7 +38,7 @@
     "companyName": "Doximity",
     "numberOfShares": 1792000.0,
     "exerciseOptionPrice": 0.97,
-    "sharePrice": 24.99,
+    "sharePrice": 26.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -50,7 +48,7 @@
     "ticker": "DOCS-US",
     "companyName": "Doximity",
     "numberOfShares": 49790000.0,
-    "sharePrice": 24.99,
+    "sharePrice": 26.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -61,64 +59,9 @@
     "companyName": "Doximity",
     "numberOfShares": 776000.0,
     "exerciseOptionPrice": 0.97,
-    "sharePrice": 24.99,
+    "sharePrice": 26.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "DOCS-US",
-    "companyName": "Doximity",
-    "numberOfShares": 8000.0,
-    "exerciseOptionPrice": 0.6,
-    "sharePrice": 24.99,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "DOCS-US",
-    "companyName": "Doximity",
-    "numberOfShares": 1792000,
-    "exerciseOptionPrice": 0.97,
-    "sharePrice": 24.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "DOCS-US",
-    "companyName": "Doximity",
-    "numberOfShares": 49790000,
-    "sharePrice": 24.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "DOCS-US",
-    "companyName": "Doximity",
-    "numberOfShares": 776000,
-    "exerciseOptionPrice": 0.97,
-    "sharePrice": 24.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "DOCS-US",
-    "companyName": "Doximity",
-    "numberOfShares": 8000,
-    "exerciseOptionPrice": 0.6,
-    "sharePrice": 24.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

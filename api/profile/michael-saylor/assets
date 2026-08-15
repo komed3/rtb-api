@@ -1,29 +1,20 @@
 [
   {
     "companyName": "Bitcoin",
-<<<<<<< HEAD
-    "numberOfShares": 17732,
-    "sharePrice": 63292,
-=======
     "numberOfShares": 17732.0,
-    "sharePrice": 63292.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 63366.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "MSTR-US",
     "companyName": "MicroStrategy Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 19620000,
-=======
     "numberOfShares": 19620000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 94.83,
+    "sharePrice": 97.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

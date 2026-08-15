@@ -3,26 +3,31 @@
     "exchange": "NASDAQ",
     "ticker": "REGN-US",
     "companyName": "Regeneron Pharmaceuticals",
-<<<<<<< HEAD
-    "numberOfShares": 139000,
-=======
-    "numberOfShares": 139000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "exerciseOptionPrice": 378.98,
-    "sharePrice": 797.99,
+    "numberOfShares": 147000.0,
+    "exerciseOptionPrice": 381.92,
+    "sharePrice": 805.97,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "REGN-US",
     "companyName": "Regeneron Pharmaceuticals",
-    "numberOfShares": 129000,
+    "numberOfShares": 139000.0,
+    "exerciseOptionPrice": 378.98,
+    "sharePrice": 805.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "REGN-US",
+    "companyName": "Regeneron Pharmaceuticals",
+    "numberOfShares": 129000.0,
     "exerciseOptionPrice": 381.4,
-    "sharePrice": 797.99,
-<<<<<<< HEAD
-=======
+    "sharePrice": 805.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -33,7 +38,7 @@
     "companyName": "Regeneron Pharmaceuticals",
     "numberOfShares": 81278.0,
     "exerciseOptionPrice": 372.46,
-    "sharePrice": 797.99,
+    "sharePrice": 805.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -43,7 +48,7 @@
     "ticker": "REGN-US",
     "companyName": "Regeneron Pharmaceuticals",
     "numberOfShares": 1110945.0,
-    "sharePrice": 797.99,
+    "sharePrice": 805.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,64 +59,9 @@
     "companyName": "Regeneron Pharmaceuticals",
     "numberOfShares": 147000.0,
     "exerciseOptionPrice": 555.67,
-    "sharePrice": 797.99,
+    "sharePrice": 805.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "REGN-US",
-    "companyName": "Regeneron Pharmaceuticals",
-    "numberOfShares": 147000.0,
-    "exerciseOptionPrice": 381.92,
-    "sharePrice": 797.99,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "REGN-US",
-    "companyName": "Regeneron Pharmaceuticals",
-    "numberOfShares": 81278,
-    "exerciseOptionPrice": 372.46,
-    "sharePrice": 797.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "REGN-US",
-    "companyName": "Regeneron Pharmaceuticals",
-    "numberOfShares": 1110945,
-    "sharePrice": 797.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "REGN-US",
-    "companyName": "Regeneron Pharmaceuticals",
-    "numberOfShares": 147000,
-    "exerciseOptionPrice": 555.67,
-    "sharePrice": 797.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "REGN-US",
-    "companyName": "Regeneron Pharmaceuticals",
-    "numberOfShares": 147000,
-    "exerciseOptionPrice": 381.92,
-    "sharePrice": 797.99,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

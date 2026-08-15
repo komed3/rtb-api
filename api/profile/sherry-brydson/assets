@@ -3,28 +3,20 @@
     "exchange": "TORONTO",
     "ticker": "BCE-CA",
     "companyName": "BCE Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 1150000,
-=======
     "numberOfShares": 1150000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 23.14874667815844,
+    "sharePrice": 23.280499175213368,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3923,
+    "exchangeRate": 1.3943,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TRI-US",
     "companyName": "Thomson Reuters Corporation (USA)",
-<<<<<<< HEAD
-    "numberOfShares": 70915075,
-=======
     "numberOfShares": 70915075.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 102.61,
+    "sharePrice": 106.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

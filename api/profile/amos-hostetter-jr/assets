@@ -3,28 +3,20 @@
     "exchange": "NYSE",
     "ticker": "T-US",
     "companyName": "AT&T Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 1119963,
-=======
     "numberOfShares": 1119963.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 24.25,
+    "sharePrice": 24.58,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "CMCSA-US",
     "companyName": "Comcast",
-<<<<<<< HEAD
-    "numberOfShares": 5904900,
-=======
     "numberOfShares": 5904900.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 25.47,
+    "sharePrice": 26.18,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,28 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "CAKE-US",
     "companyName": "Cheesecake Factory",
-<<<<<<< HEAD
-    "numberOfShares": 175500,
-=======
     "numberOfShares": 175500.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 117.29,
+    "sharePrice": 111.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SPG-US",
     "companyName": "Simon Property Group",
-<<<<<<< HEAD
-    "numberOfShares": 9215000,
-=======
     "numberOfShares": 9215000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 220.56,
+    "sharePrice": 221.47,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

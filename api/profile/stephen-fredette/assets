@@ -3,14 +3,20 @@
     "exchange": "NYSE",
     "ticker": "TOST-US",
     "companyName": "Toast",
-<<<<<<< HEAD
-    "numberOfShares": 102708,
-    "exerciseOptionPrice": 17.33,
-    "sharePrice": 34.06,
-=======
+    "numberOfShares": 210621.0,
+    "exerciseOptionPrice": 17.38,
+    "sharePrice": 35.22,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TOST-US",
+    "companyName": "Toast",
     "numberOfShares": 102708.0,
     "exerciseOptionPrice": 17.33,
-    "sharePrice": 34.06,
+    "sharePrice": 35.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -21,7 +27,7 @@
     "companyName": "Toast",
     "numberOfShares": 20768.0,
     "exerciseOptionPrice": 24.65,
-    "sharePrice": 34.06,
+    "sharePrice": 35.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -31,7 +37,7 @@
     "ticker": "TOST-US",
     "companyName": "Toast",
     "numberOfShares": 28645515.0,
-    "sharePrice": 34.06,
+    "sharePrice": 35.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -42,64 +48,9 @@
     "companyName": "Toast",
     "numberOfShares": 75000.0,
     "exerciseOptionPrice": 15.26,
-    "sharePrice": 34.06,
+    "sharePrice": 35.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TOST-US",
-    "companyName": "Toast",
-    "numberOfShares": 210621.0,
-    "exerciseOptionPrice": 17.38,
-    "sharePrice": 34.06,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TOST-US",
-    "companyName": "Toast",
-    "numberOfShares": 20768,
-    "exerciseOptionPrice": 24.65,
-    "sharePrice": 34.06,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TOST-US",
-    "companyName": "Toast",
-    "numberOfShares": 28645515,
-    "sharePrice": 34.06,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TOST-US",
-    "companyName": "Toast",
-    "numberOfShares": 75000,
-    "exerciseOptionPrice": 15.26,
-    "sharePrice": 34.06,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TOST-US",
-    "companyName": "Toast",
-    "numberOfShares": 210621,
-    "exerciseOptionPrice": 17.38,
-    "sharePrice": 34.06,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

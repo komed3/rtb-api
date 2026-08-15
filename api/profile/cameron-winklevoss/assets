@@ -1,41 +1,28 @@
 [
   {
     "companyName": "Bitcoin",
-<<<<<<< HEAD
-    "numberOfShares": 28273,
-    "sharePrice": 63292,
-=======
     "numberOfShares": 28273.0,
-    "sharePrice": 63292.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 63366.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "companyName": "Ethereum (ETH)",
-<<<<<<< HEAD
-    "numberOfShares": 169323,
-=======
     "numberOfShares": 169323.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 1879.7,
+    "sharePrice": 1884.81,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GEMI-US",
     "companyName": "Gemini Space Station Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 37563000,
-=======
     "numberOfShares": 37563000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 4.17,
+    "sharePrice": 4.3,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

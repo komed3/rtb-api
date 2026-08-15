@@ -1,39 +1,20 @@
 [
   {
     "companyName": "Healthcare Activos",
-    "numberOfShares": 16698000,
-    "sharePrice": 0,
+    "numberOfShares": 16698000.0,
+    "sharePrice": 0.0,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
-<<<<<<< HEAD
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "MRL-ES",
     "companyName": "Merlin Properties",
-    "numberOfShares": -11500000,
-    "sharePrice": 16.80517082179132,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
-=======
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "interactive": false
-  },
-  {
-    "exchange": "MADRID",
-    "ticker": "MRL-ES",
-    "companyName": "Merlin Properties",
-<<<<<<< HEAD
-    "numberOfShares": 46000000,
-    "sharePrice": 16.80517082179132,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
-=======
     "numberOfShares": -11500000.0,
-    "sharePrice": 16.80517082179132,
+    "sharePrice": 16.809051027476336,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
@@ -41,24 +22,19 @@
     "ticker": "MRL-ES",
     "companyName": "Merlin Properties",
     "numberOfShares": 46000000.0,
-    "sharePrice": 16.80517082179132,
+    "sharePrice": 16.809051027476336,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "SCYR-ES",
     "companyName": "Sacyr S.A.",
-<<<<<<< HEAD
-    "numberOfShares": 40240000,
-=======
     "numberOfShares": 40240000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 5.2331486611265,
+    "sharePrice": 5.236665897021473,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   }
 ]

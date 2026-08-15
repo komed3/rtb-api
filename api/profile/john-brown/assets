@@ -3,38 +3,30 @@
     "exchange": "NYSE",
     "ticker": "ABT-US",
     "companyName": "Abbott Laboratories",
-<<<<<<< HEAD
-    "numberOfShares": 126000,
-=======
     "numberOfShares": 126000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 110.91,
+    "sharePrice": 111.27,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "STJ-US",
     "companyName": "St. Jude Medical, Inc.",
-    "numberOfShares": 206000,
-    "sharePrice": 0,
+    "numberOfShares": 206000.0,
+    "sharePrice": 0.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SYK-US",
     "companyName": "Stryker",
-<<<<<<< HEAD
-    "numberOfShares": 20056000,
-=======
     "numberOfShares": 20056000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 347.21,
+    "sharePrice": 341.09,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

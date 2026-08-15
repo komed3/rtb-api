@@ -3,52 +3,40 @@
     "exchange": "NYSE",
     "ticker": "AN-US",
     "companyName": "AutoNation Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 3775000,
-=======
     "numberOfShares": 3775000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 208.62,
+    "sharePrice": 208.41,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LE-US",
     "companyName": "Lands' End",
-<<<<<<< HEAD
-    "numberOfShares": 17114000,
-=======
     "numberOfShares": 17114000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 12.73,
+    "sharePrice": 12.69,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "SHLDQ-US",
     "companyName": "Sears Holdings Corp.",
-    "numberOfShares": 33515786,
+    "numberOfShares": 33515786.0,
     "sharePrice": 0.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SRG-US",
     "companyName": "Seritage Growth Properties",
-<<<<<<< HEAD
-    "numberOfShares": 13420000,
-=======
     "numberOfShares": 13420000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 2.33,
+    "sharePrice": 2.27,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

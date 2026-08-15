@@ -3,66 +3,50 @@
     "exchange": "US OTC",
     "ticker": "ACGP-US",
     "companyName": "Associated Capital Group Inc",
-<<<<<<< HEAD
-    "numberOfShares": 13970000,
-=======
     "numberOfShares": 13970000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 33.45,
+    "sharePrice": 33.55,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "GAMI-US",
     "companyName": "GAMCO Investors Inc. (Cl A)",
-<<<<<<< HEAD
-    "numberOfShares": 14299000,
-=======
     "numberOfShares": 14299000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "sharePrice": 25.25,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE AMERICAN",
     "ticker": "MPTI-US",
     "companyName": "M-tron Industries",
-<<<<<<< HEAD
-    "numberOfShares": 189704,
-=======
     "numberOfShares": 189704.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 85.48,
+    "sharePrice": 84.47,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "TETAA-US",
     "companyName": "Teton Advisors",
-    "numberOfShares": 229000,
-    "sharePrice": 14.75,
+    "numberOfShares": 229000.0,
+    "sharePrice": 14.875,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE AMERICAN",
     "ticker": "LGL-US",
     "companyName": "The LGL Group, Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 1117600,
-=======
     "numberOfShares": 1117600.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 7.4,
+    "sharePrice": 7.55,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,38 +3,33 @@
     "exchange": "NYSE",
     "ticker": "BE-US",
     "companyName": "Bloom Energy Corp",
-<<<<<<< HEAD
-    "numberOfShares": 221043,
-    "exerciseOptionPrice": 11.31,
-    "sharePrice": 237.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
-    "numberOfShares": 221043.0,
-    "exerciseOptionPrice": 11.31,
-    "sharePrice": 237.16,
+    "numberOfShares": 400000.0,
+    "exerciseOptionPrice": 15.0,
+    "sharePrice": 236.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "BE-US",
     "companyName": "Bloom Energy Corp",
-<<<<<<< HEAD
-    "numberOfShares": 199118,
-    "exerciseOptionPrice": 8.92,
-    "sharePrice": 237.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
-    "numberOfShares": 199118.0,
-    "exerciseOptionPrice": 8.92,
-    "sharePrice": 237.16,
+    "numberOfShares": 221043.0,
+    "exerciseOptionPrice": 11.31,
+    "sharePrice": 236.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BE-US",
+    "companyName": "Bloom Energy Corp",
+    "numberOfShares": 199118.0,
+    "exerciseOptionPrice": 8.92,
+    "sharePrice": 236.22,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -42,51 +37,20 @@
     "ticker": "BE-US",
     "companyName": "Bloom Energy Corp",
     "numberOfShares": 4035141.0000000005,
-    "sharePrice": 237.16,
+    "sharePrice": 236.22,
     "currencyCode": "USD",
-<<<<<<< HEAD
-    "exchangeRate": 1,
-=======
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "BE-US",
     "companyName": "Bloom Energy Corp",
-<<<<<<< HEAD
-    "numberOfShares": 884509,
-    "exerciseOptionPrice": 30.96,
-    "sharePrice": 237.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
     "numberOfShares": 884509.0,
     "exerciseOptionPrice": 30.96,
-    "sharePrice": 237.16,
+    "sharePrice": 236.22,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "BE-US",
-    "companyName": "Bloom Energy Corp",
-<<<<<<< HEAD
-    "numberOfShares": 400000,
-    "exerciseOptionPrice": 15,
-    "sharePrice": 237.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
-    "numberOfShares": 400000.0,
-    "exerciseOptionPrice": 15.0,
-    "sharePrice": 237.16,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]

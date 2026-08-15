@@ -3,70 +3,50 @@
     "exchange": "US OTC",
     "ticker": "ARHVF-US",
     "companyName": "Archer Limited",
-<<<<<<< HEAD
-    "numberOfShares": 30452153,
-=======
     "numberOfShares": 30452153.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 2.625,
+    "sharePrice": 2.6,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "ACR-NO",
     "companyName": "Axactor",
-<<<<<<< HEAD
-    "numberOfShares": 163769743,
-=======
     "numberOfShares": 163769743.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 0.5595143837424122,
+    "sharePrice": 0.5544975326438063,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "DOFG-NO",
     "companyName": "DOF Group",
-<<<<<<< HEAD
-    "numberOfShares": 29870269,
-=======
     "numberOfShares": 29870269.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 13.58669833729216,
+    "sharePrice": 13.720394356119991,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "FLNG-US",
     "companyName": "Flex LNG",
-<<<<<<< HEAD
-    "numberOfShares": 23118636,
-=======
     "numberOfShares": 23118636.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 29.5,
+    "sharePrice": 30.31,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "FRO-NO",
     "companyName": "Frontline Ltd. - NOK",
-<<<<<<< HEAD
-    "numberOfShares": 79145703,
-=======
     "numberOfShares": 79145703.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 39.187120612298756,
+    "sharePrice": 40.99283467135237,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
@@ -74,149 +54,109 @@
     "ticker": "INSW-US",
     "companyName": "International Seaways",
     "numberOfShares": 8266856.000000001,
-    "sharePrice": 92.38,
+    "sharePrice": 95.15,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "KLXE-US",
     "companyName": "KLX Energy",
-<<<<<<< HEAD
-    "numberOfShares": 754273,
-=======
     "numberOfShares": 754273.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 1.65,
+    "sharePrice": 1.69,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "MOWI-NO",
     "companyName": "Marine Harvest ASA",
-<<<<<<< HEAD
-    "numberOfShares": 74290000,
-=======
     "numberOfShares": 74290000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 21.74716283979942,
+    "sharePrice": 21.42233351921802,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "MEDI-NO",
     "companyName": "Medistim",
-<<<<<<< HEAD
-    "numberOfShares": 1815978,
-=======
     "numberOfShares": 1815978.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 24.06967537608868,
+    "sharePrice": 23.88442882545428,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "NORAM-NO",
     "companyName": "NorAm Drilling",
-<<<<<<< HEAD
-    "numberOfShares": 20818658,
-=======
     "numberOfShares": 20818658.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 4.7294800738981255,
+    "sharePrice": 4.755842215464905,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "NOL-NO",
     "companyName": "Northern Ocean",
-<<<<<<< HEAD
-    "numberOfShares": 104066597,
-=======
     "numberOfShares": 104066597.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 0.7854315122723674,
+    "sharePrice": 0.7849244010479688,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "NAS-NO",
     "companyName": "Norwegian Air Shuttle ASA",
-<<<<<<< HEAD
-    "numberOfShares": 140063236,
-=======
     "numberOfShares": 140063236.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 1.3940353655318025,
+    "sharePrice": 1.400448227607033,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "PLSV-NO",
     "companyName": "Paratus Energy Services",
-<<<<<<< HEAD
-    "numberOfShares": 49341840,
-=======
     "numberOfShares": 49341840.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 5.162311955661124,
+    "sharePrice": 5.187234982796898,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SFL-US",
     "companyName": "Ship Finance International Ltd.",
-<<<<<<< HEAD
-    "numberOfShares": 25728687,
-=======
     "numberOfShares": 25728687.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 11.82,
+    "sharePrice": 12.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "VAL-US",
     "companyName": "Valaris",
-<<<<<<< HEAD
-    "numberOfShares": 7501913,
-=======
     "numberOfShares": 7501913.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 85.21,
+    "sharePrice": 85.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "OSLO",
     "ticker": "VAR-NO",
     "companyName": "Var Energi",
-<<<<<<< HEAD
-    "numberOfShares": 45000000,
-=======
     "numberOfShares": 45000000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 5.153866455529164,
+    "sharePrice": 5.008364810976316,
     "currencyCode": "NOK",
-    "exchangeRate": 9.4725,
+    "exchangeRate": 9.5041,
     "interactive": false
   }
 ]

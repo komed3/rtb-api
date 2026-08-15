@@ -3,53 +3,41 @@
     "exchange": "NYSE",
     "ticker": "ESS-US",
     "companyName": "Essex Property Trust",
-<<<<<<< HEAD
-    "numberOfShares": 1944000,
-=======
     "numberOfShares": 1944000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 281.27,
+    "sharePrice": 287.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "ESS-US",
     "companyName": "Essex Property Trust",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "exerciseOptionPrice": 229.9,
-    "sharePrice": 281.27,
+    "sharePrice": 287.39,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MMI-US",
     "companyName": "Marcus & Millichap, Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 13282000,
-=======
     "numberOfShares": 13282000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 31.14,
+    "sharePrice": 31.77,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "WFC-US",
     "companyName": "Wells Fargo",
-<<<<<<< HEAD
-    "numberOfShares": 142000,
-=======
     "numberOfShares": 142000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 88.93,
+    "sharePrice": 88.11,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,70 +3,50 @@
     "exchange": "NASDAQ",
     "ticker": "ABNB-US",
     "companyName": "Airbnb, Inc",
-<<<<<<< HEAD
-    "numberOfShares": 1624000,
-=======
     "numberOfShares": 1624000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 180.095,
+    "sharePrice": 185.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
-<<<<<<< HEAD
-    "numberOfShares": 8503000,
-=======
     "numberOfShares": 8503000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 343.54,
+    "sharePrice": 346.36,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AMZN-US",
     "companyName": "Amazon",
-<<<<<<< HEAD
-    "numberOfShares": 628000,
-=======
     "numberOfShares": 628000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 267.28,
+    "sharePrice": 265.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AMPL-US",
     "companyName": "Amplitude",
-<<<<<<< HEAD
-    "numberOfShares": 242000,
-=======
     "numberOfShares": 242000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 12.38,
+    "sharePrice": 13.3,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "BKNG-US",
     "companyName": "Booking Holdings",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
     "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 212.26,
+    "sharePrice": 213.34,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -74,155 +54,119 @@
     "ticker": "DASH-US",
     "companyName": "DoorDash, Inc",
     "numberOfShares": 1018999.9999999999,
-    "sharePrice": 212.49,
+    "sharePrice": 216.26,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "FRSH-US",
     "companyName": "Freshworks",
-<<<<<<< HEAD
-    "numberOfShares": 744000,
-=======
     "numberOfShares": 744000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 11.645,
+    "sharePrice": 12.68,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
-<<<<<<< HEAD
-    "numberOfShares": 8975000,
-=======
     "numberOfShares": 8975000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 342.37,
+    "sharePrice": 343.94,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "LNKD-US",
     "companyName": "LinkedIn Corp",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 195.96,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-<<<<<<< HEAD
-    "numberOfShares": 518000,
-=======
     "numberOfShares": 518000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 578.85,
+    "sharePrice": 594.97,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PANW-US",
     "companyName": "Palo Alto Networks Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 3571000,
-=======
     "numberOfShares": 3571000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 387.01,
+    "sharePrice": 396.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RAX-US",
     "companyName": "Rackspace Hosting Inc.",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 31.99,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "RNG-US",
     "companyName": "RingCentral",
-<<<<<<< HEAD
-    "numberOfShares": 294000,
-=======
     "numberOfShares": 294000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 62.88,
+    "sharePrice": 67.78,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "NOW-US",
     "companyName": "ServiceNow",
-<<<<<<< HEAD
-    "numberOfShares": 1750000,
-=======
     "numberOfShares": 1750000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 124.94,
+    "sharePrice": 127.25,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
-<<<<<<< HEAD
-    "numberOfShares": 406000,
-=======
     "numberOfShares": 406000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 332.26,
+    "sharePrice": 337.38,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "U-US",
     "companyName": "Unity Software",
-<<<<<<< HEAD
-    "numberOfShares": 1131000,
-=======
     "numberOfShares": 1131000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 44.53,
+    "sharePrice": 45.79,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
-<<<<<<< HEAD
-    "numberOfShares": 475000,
-=======
     "numberOfShares": 475000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 105.13,
+    "sharePrice": 109.84,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

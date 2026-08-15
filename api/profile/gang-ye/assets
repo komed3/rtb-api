@@ -3,13 +3,20 @@
     "exchange": "NYSE",
     "ticker": "SE-US",
     "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
-<<<<<<< HEAD
-    "numberOfShares": 1250000,
-    "exerciseOptionPrice": 120,
-=======
+    "numberOfShares": 1650000.0,
+    "exerciseOptionPrice": 15.0,
+    "sharePrice": 123.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SE-US",
+    "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
     "numberOfShares": 1250000.0,
     "exerciseOptionPrice": 120.0,
-    "sharePrice": 128.11,
+    "sharePrice": 123.32,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -19,50 +26,20 @@
     "ticker": "SE-US",
     "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
     "numberOfShares": 21636000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 128.11,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "SE-US",
-    "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
-    "numberOfShares": 21636000,
-    "sharePrice": 128.11,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "SE-US",
-    "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 4.5,
-    "sharePrice": 128.11,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "SE-US",
-    "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
-<<<<<<< HEAD
-    "numberOfShares": 1650000,
-    "exerciseOptionPrice": 15,
-    "sharePrice": 128.11,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
-    "numberOfShares": 1650000.0,
-    "exerciseOptionPrice": 15.0,
-    "sharePrice": 128.11,
+    "sharePrice": 123.32,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SE-US",
+    "companyName": "Sea Ltd. (Singapore) Sponsored ADR",
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 4.5,
+    "sharePrice": 123.32,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

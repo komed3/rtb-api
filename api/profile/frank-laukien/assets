@@ -3,26 +3,31 @@
     "exchange": "NASDAQ",
     "ticker": "BRKR-US",
     "companyName": "Bruker Corp.",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
-    "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "exerciseOptionPrice": 21.8,
-    "sharePrice": 59.27,
+    "numberOfShares": 29000.0,
+    "exerciseOptionPrice": 47.85,
+    "sharePrice": 57.93,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "BRKR-US",
     "companyName": "Bruker Corp.",
-    "numberOfShares": 45000,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 21.8,
+    "sharePrice": 57.93,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "BRKR-US",
+    "companyName": "Bruker Corp.",
+    "numberOfShares": 45000.0,
     "exerciseOptionPrice": 46.145,
-    "sharePrice": 59.27,
-<<<<<<< HEAD
-=======
+    "sharePrice": 57.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -32,7 +37,7 @@
     "ticker": "BRKR-US",
     "companyName": "Bruker Corp.",
     "numberOfShares": 35095000.0,
-    "sharePrice": 59.27,
+    "sharePrice": 57.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -43,53 +48,9 @@
     "companyName": "Bruker Corp.",
     "numberOfShares": 9000.0,
     "exerciseOptionPrice": 89.45,
-    "sharePrice": 59.27,
+    "sharePrice": 57.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "BRKR-US",
-    "companyName": "Bruker Corp.",
-    "numberOfShares": 29000.0,
-    "exerciseOptionPrice": 47.85,
-    "sharePrice": 59.27,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "BRKR-US",
-    "companyName": "Bruker Corp.",
-    "numberOfShares": 35095000,
-    "sharePrice": 59.27,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "BRKR-US",
-    "companyName": "Bruker Corp.",
-    "numberOfShares": 9000,
-    "exerciseOptionPrice": 89.45,
-    "sharePrice": 59.27,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "BRKR-US",
-    "companyName": "Bruker Corp.",
-    "numberOfShares": 29000,
-    "exerciseOptionPrice": 47.85,
-    "sharePrice": 59.27,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

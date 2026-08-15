@@ -3,70 +3,50 @@
     "exchange": "US OTC",
     "ticker": "FFXXF-US",
     "companyName": "Fairfax Africa Holdings Corp",
-<<<<<<< HEAD
-    "numberOfShares": 100000,
-=======
     "numberOfShares": 100000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 2.06,
+    "sharePrice": 2.095,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "FFH-CA",
     "companyName": "Fairfax Financial Holdings Ltd.",
-<<<<<<< HEAD
-    "numberOfShares": 1542000,
-=======
     "numberOfShares": 1542000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 1654.8301371830783,
+    "sharePrice": 1655.2607042960624,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3923,
+    "exchangeRate": 1.3943,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "FFXDF-US",
     "companyName": "Fairfax India Holdings Corporation",
-<<<<<<< HEAD
-    "numberOfShares": 320000,
-=======
     "numberOfShares": 320000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 18.91,
+    "sharePrice": 18.8,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "RECP-CA",
     "companyName": "Recipe Unlimited",
-<<<<<<< HEAD
-    "numberOfShares": 0,
-=======
     "numberOfShares": 0.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 14.896214896214895,
+    "sharePrice": 14.874847593774652,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3923,
+    "exchangeRate": 1.3943,
     "interactive": false
   },
   {
     "exchange": "TORONTO",
     "ticker": "BB-CA",
     "companyName": "Research In Motion Ltd.",
-<<<<<<< HEAD
-    "numberOfShares": 129000,
-=======
     "numberOfShares": 129000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 8.805573511455863,
+    "sharePrice": 8.979416194506204,
     "currencyCode": "CAD",
-    "exchangeRate": 1.3923,
+    "exchangeRate": 1.3943,
     "interactive": false
   }
 ]

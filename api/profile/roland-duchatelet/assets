@@ -3,28 +3,20 @@
     "exchange": "EURONEXT BRUSSELS",
     "ticker": "MELE-BE",
     "companyName": "Melexis",
-<<<<<<< HEAD
-    "numberOfShares": 10100000,
-=======
     "numberOfShares": 10100000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 83.67959372114497,
+    "sharePrice": 82.60217039944585,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "EURONEXT PARIS",
     "ticker": "XFAB-FR",
     "companyName": "X-Fab",
-<<<<<<< HEAD
-    "numberOfShares": 32695000,
-=======
     "numberOfShares": 32695000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 8.212142197599261,
+    "sharePrice": 8.006234126067882,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   }
 ]

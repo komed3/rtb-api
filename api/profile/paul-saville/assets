@@ -3,36 +3,32 @@
     "exchange": "NYSE",
     "ticker": "NVR-US",
     "companyName": "NVR",
-<<<<<<< HEAD
-    "numberOfShares": 114000,
-=======
-    "numberOfShares": 114000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 6293.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "NVR-US",
-    "companyName": "NVR",
-    "numberOfShares": 50000,
-    "exerciseOptionPrice": 3022.99,
-    "sharePrice": 6293.95,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "NVR-US",
-    "companyName": "NVR",
-    "numberOfShares": 6874,
+    "numberOfShares": 6874.0,
     "exerciseOptionPrice": 4475.53,
-    "sharePrice": 6293.95,
+    "sharePrice": 6375.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "NVR-US",
+    "companyName": "NVR",
+    "numberOfShares": 114000.0,
+    "sharePrice": 6375.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "NVR-US",
+    "companyName": "NVR",
+    "numberOfShares": 50000.0,
+    "exerciseOptionPrice": 3022.99,
+    "sharePrice": 6375.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

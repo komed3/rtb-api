@@ -3,26 +3,31 @@
     "exchange": "NYSE",
     "ticker": "TWLO-US",
     "companyName": "Twilio",
-<<<<<<< HEAD
-    "numberOfShares": 110000,
-=======
-    "numberOfShares": 110000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "exerciseOptionPrice": 111.32,
-    "sharePrice": 246.62,
+    "numberOfShares": 203000.0,
+    "exerciseOptionPrice": 33.01,
+    "sharePrice": 249.42,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "TWLO-US",
     "companyName": "Twilio",
-    "numberOfShares": 114000,
+    "numberOfShares": 110000.0,
+    "exerciseOptionPrice": 111.32,
+    "sharePrice": 249.42,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TWLO-US",
+    "companyName": "Twilio",
+    "numberOfShares": 114000.0,
     "exerciseOptionPrice": 117.94,
-    "sharePrice": 246.62,
-<<<<<<< HEAD
-=======
+    "sharePrice": 249.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -33,7 +38,7 @@
     "companyName": "Twilio",
     "numberOfShares": 34000.0,
     "exerciseOptionPrice": 377.59,
-    "sharePrice": 246.62,
+    "sharePrice": 249.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -43,7 +48,7 @@
     "ticker": "TWLO-US",
     "companyName": "Twilio",
     "numberOfShares": 5831477.0,
-    "sharePrice": 246.62,
+    "sharePrice": 249.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +59,7 @@
     "companyName": "Twilio",
     "numberOfShares": 316000.0,
     "exerciseOptionPrice": 10.09,
-    "sharePrice": 246.62,
+    "sharePrice": 249.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,75 +70,9 @@
     "companyName": "Twilio",
     "numberOfShares": 163000.0,
     "exerciseOptionPrice": 31.96,
-    "sharePrice": 246.62,
+    "sharePrice": 249.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TWLO-US",
-    "companyName": "Twilio",
-    "numberOfShares": 203000.0,
-    "exerciseOptionPrice": 33.01,
-    "sharePrice": 246.62,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TWLO-US",
-    "companyName": "Twilio",
-    "numberOfShares": 34000,
-    "exerciseOptionPrice": 377.59,
-    "sharePrice": 246.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TWLO-US",
-    "companyName": "Twilio",
-    "numberOfShares": 5831477,
-    "sharePrice": 246.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TWLO-US",
-    "companyName": "Twilio",
-    "numberOfShares": 316000,
-    "exerciseOptionPrice": 10.09,
-    "sharePrice": 246.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TWLO-US",
-    "companyName": "Twilio",
-    "numberOfShares": 163000,
-    "exerciseOptionPrice": 31.96,
-    "sharePrice": 246.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "TWLO-US",
-    "companyName": "Twilio",
-    "numberOfShares": 203000,
-    "exerciseOptionPrice": 33.01,
-    "sharePrice": 246.62,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

@@ -3,38 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "SIGA-US",
     "companyName": "SIGA Technologies",
-<<<<<<< HEAD
-    "numberOfShares": 24156000,
-=======
     "numberOfShares": 24156000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 2.87,
+    "sharePrice": 2.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "VTVT-US",
     "companyName": "VTV Therapeutics",
-<<<<<<< HEAD
-    "numberOfShares": 1490000,
-=======
     "numberOfShares": 1490000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 31.78,
+    "sharePrice": 30.85,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "FREE-US",
     "companyName": "Whole Earth Brands Inc",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 4.87,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

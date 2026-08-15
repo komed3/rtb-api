@@ -3,37 +3,42 @@
     "exchange": "NYSE",
     "ticker": "CVNA-US",
     "companyName": "Carvana",
-<<<<<<< HEAD
-    "numberOfShares": 75000,
-=======
+    "numberOfShares": 320000.0,
+    "exerciseOptionPrice": 7.6,
+    "sharePrice": 73.7,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CVNA-US",
+    "companyName": "Carvana",
     "numberOfShares": 75000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 8.8,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CVNA-US",
     "companyName": "Carvana",
-    "numberOfShares": 220000,
+    "numberOfShares": 220000.0,
     "exerciseOptionPrice": 8.4,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "CVNA-US",
     "companyName": "Carvana",
-    "numberOfShares": 85000,
+    "numberOfShares": 85000.0,
     "exerciseOptionPrice": 10.4,
-    "sharePrice": 72.48,
-<<<<<<< HEAD
-=======
+    "sharePrice": 73.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -44,7 +49,7 @@
     "companyName": "Carvana",
     "numberOfShares": 105000.0,
     "exerciseOptionPrice": 59.0,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +59,7 @@
     "ticker": "CVNA-US",
     "companyName": "Carvana",
     "numberOfShares": 146440000.0,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +70,7 @@
     "companyName": "Carvana",
     "numberOfShares": 145000.0,
     "exerciseOptionPrice": 17.6,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +81,7 @@
     "companyName": "Carvana",
     "numberOfShares": 1770000.0,
     "exerciseOptionPrice": 2.0,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -87,86 +92,9 @@
     "companyName": "Carvana",
     "numberOfShares": 145000.0,
     "exerciseOptionPrice": 17.72,
-    "sharePrice": 72.48,
+    "sharePrice": 73.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 320000.0,
-    "exerciseOptionPrice": 7.6,
-    "sharePrice": 72.48,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 105000,
-    "exerciseOptionPrice": 59,
-    "sharePrice": 72.48,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 146440000,
-    "sharePrice": 72.48,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 145000,
-    "exerciseOptionPrice": 17.6,
-    "sharePrice": 72.48,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 1770000,
-    "exerciseOptionPrice": 2,
-    "sharePrice": 72.48,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 145000,
-    "exerciseOptionPrice": 17.72,
-    "sharePrice": 72.48,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "CVNA-US",
-    "companyName": "Carvana",
-    "numberOfShares": 320000,
-    "exerciseOptionPrice": 7.6,
-    "sharePrice": 72.48,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

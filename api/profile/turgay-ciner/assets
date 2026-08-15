@@ -3,24 +3,20 @@
     "exchange": "ISTANBUL",
     "ticker": "PRKME.E-TR",
     "companyName": "Park Elektrik Uretim Madencilik ",
-<<<<<<< HEAD
-    "numberOfShares": 101234000,
-=======
     "numberOfShares": 101234000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 0.40915039522588076,
+    "sharePrice": 0.39686028257456835,
     "currencyCode": "TRY",
-    "exchangeRate": 47.7575,
+    "exchangeRate": 47.775,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "SIRE-US",
     "companyName": "Sisecam Resources",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 25.33,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -3,25 +3,21 @@
     "exchange": "NYSE",
     "ticker": "NP-US",
     "companyName": "Neptune Insurance Holdings Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 43435000,
-=======
     "numberOfShares": 43435000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 30.77,
+    "sharePrice": 32.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "NP-US",
     "companyName": "Neptune Insurance Holdings Inc.",
-    "numberOfShares": 6160000,
+    "numberOfShares": 6160000.0,
     "exerciseOptionPrice": 5.5,
-    "sharePrice": 30.77,
+    "sharePrice": 32.07,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

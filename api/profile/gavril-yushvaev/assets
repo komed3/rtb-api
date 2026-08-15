@@ -3,56 +3,40 @@
     "exchange": "XETRA",
     "ticker": "DHER-DE",
     "companyName": "Delivery Hero",
-<<<<<<< HEAD
-    "numberOfShares": 3770000,
-=======
     "numberOfShares": 3770000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 42.75161588180979,
+    "sharePrice": 42.83075502193489,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "HUMA-US",
     "companyName": "Humacyte",
-<<<<<<< HEAD
-    "numberOfShares": 8942000,
-=======
     "numberOfShares": 8942000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 0.665,
+    "sharePrice": 0.55,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LYFT-US",
     "companyName": "Lyft, Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 6015000,
-=======
     "numberOfShares": 6015000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 16.58,
+    "sharePrice": 17.13,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "ROIV-US",
     "companyName": "Roivant Sciences",
-<<<<<<< HEAD
-    "numberOfShares": 250000,
-=======
     "numberOfShares": 250000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 36.16,
+    "sharePrice": 36.28,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

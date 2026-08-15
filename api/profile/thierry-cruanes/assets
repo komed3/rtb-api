@@ -3,36 +3,32 @@
     "exchange": "NYSE",
     "ticker": "SNOW-US",
     "companyName": "Snowflake",
-<<<<<<< HEAD
-    "numberOfShares": 3130000,
-=======
-    "numberOfShares": 3130000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 332.26,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "SNOW-US",
-    "companyName": "Snowflake",
-    "numberOfShares": 240000,
-    "exerciseOptionPrice": 13.48,
-    "sharePrice": 332.26,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "SNOW-US",
-    "companyName": "Snowflake",
-    "numberOfShares": 696000,
+    "numberOfShares": 696000.0,
     "exerciseOptionPrice": 0.74,
-    "sharePrice": 332.26,
+    "sharePrice": 337.38,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SNOW-US",
+    "companyName": "Snowflake",
+    "numberOfShares": 3130000.0,
+    "sharePrice": 337.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SNOW-US",
+    "companyName": "Snowflake",
+    "numberOfShares": 240000.0,
+    "exerciseOptionPrice": 13.48,
+    "sharePrice": 337.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

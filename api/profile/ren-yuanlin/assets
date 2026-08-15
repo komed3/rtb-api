@@ -3,8 +3,8 @@
     "exchange": "SHENZHEN",
     "ticker": "000594-CN",
     "companyName": "Tianjin Good Hand Railway Holding Co",
-    "numberOfShares": 126329000,
-    "sharePrice": 0,
+    "numberOfShares": 126329000.0,
+    "sharePrice": 0.0,
     "currencyCode": "CNY",
     "exchangeRate": 6.7452,
     "interactive": false
@@ -13,14 +13,10 @@
     "exchange": "SINGAPORE",
     "ticker": "BS6-SG",
     "companyName": "Yangzijiang shipbuilding",
-<<<<<<< HEAD
-    "numberOfShares": 852000000,
-=======
     "numberOfShares": 852000000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 3.689517704994919,
+    "sharePrice": 3.6495779931228505,
     "currencyCode": "SGD",
-    "exchangeRate": 1.2793,
+    "exchangeRate": 1.2796,
     "interactive": false
   }
 ]

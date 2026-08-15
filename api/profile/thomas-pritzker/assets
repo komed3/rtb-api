@@ -3,48 +3,53 @@
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
-<<<<<<< HEAD
-    "numberOfShares": 45000,
-=======
+    "numberOfShares": 212967.0,
+    "exerciseOptionPrice": 80.02,
+    "sharePrice": 179.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "H-US",
+    "companyName": "Hyatt Hotels",
     "numberOfShares": 45000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 157.11,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
-    "numberOfShares": 292226,
+    "numberOfShares": 292226.0,
     "exerciseOptionPrice": 71.67,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
-    "numberOfShares": 29000,
+    "numberOfShares": 29000.0,
     "exerciseOptionPrice": 122.21,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
-    "numberOfShares": 563000,
+    "numberOfShares": 563000.0,
     "exerciseOptionPrice": 48.66,
-    "sharePrice": 178.37,
-<<<<<<< HEAD
-=======
+    "sharePrice": 179.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -55,7 +60,7 @@
     "companyName": "Hyatt Hotels",
     "numberOfShares": 174000.0,
     "exerciseOptionPrice": 80.02,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +70,7 @@
     "ticker": "H-US",
     "companyName": "Hyatt Hotels",
     "numberOfShares": 21630000.0,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +81,7 @@
     "companyName": "Hyatt Hotels",
     "numberOfShares": 145000.0,
     "exerciseOptionPrice": 95.06,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -87,90 +92,19 @@
     "companyName": "Hyatt Hotels",
     "numberOfShares": 92000.0,
     "exerciseOptionPrice": 111.71,
-    "sharePrice": 178.37,
+    "sharePrice": 179.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
-    "ticker": "H-US",
-    "companyName": "Hyatt Hotels",
-    "numberOfShares": 212967.0,
-    "exerciseOptionPrice": 80.02,
-    "sharePrice": 178.37,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "H-US",
-    "companyName": "Hyatt Hotels",
-    "numberOfShares": 174000,
-    "exerciseOptionPrice": 80.02,
-    "sharePrice": 178.37,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "H-US",
-    "companyName": "Hyatt Hotels",
-    "numberOfShares": 21630000,
-    "sharePrice": 178.37,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "H-US",
-    "companyName": "Hyatt Hotels",
-    "numberOfShares": 145000,
-    "exerciseOptionPrice": 95.06,
-    "sharePrice": 178.37,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "H-US",
-    "companyName": "Hyatt Hotels",
-    "numberOfShares": 92000,
-    "exerciseOptionPrice": 111.71,
-    "sharePrice": 178.37,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "H-US",
-    "companyName": "Hyatt Hotels",
-    "numberOfShares": 212967,
-    "exerciseOptionPrice": 80.02,
-    "sharePrice": 178.37,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
     "ticker": "RCL-US",
     "companyName": "Royal Caribbean Cruises Ltd",
-<<<<<<< HEAD
-    "numberOfShares": 516000,
-    "sharePrice": 308,
-=======
     "numberOfShares": 516000.0,
-    "sharePrice": 308.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
+    "sharePrice": 309.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

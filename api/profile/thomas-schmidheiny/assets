@@ -3,84 +3,60 @@
     "exchange": "NYSE",
     "ticker": "AMRZ-US",
     "companyName": "Amrize",
-<<<<<<< HEAD
-    "numberOfShares": 36926000,
-=======
     "numberOfShares": 36926000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 46.37,
+    "sharePrice": 46.75,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "COK-DE",
     "companyName": "Cancom SE",
-<<<<<<< HEAD
-    "numberOfShares": 1570000,
-=======
     "numberOfShares": 1570000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 24.757617728531855,
+    "sharePrice": 24.82105749249596,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8664,
+    "exchangeRate": 0.8662,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "DOKA-CH",
     "companyName": "Dormakaba Holding",
-<<<<<<< HEAD
-    "numberOfShares": 3360000,
-=======
     "numberOfShares": 3360000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 73.44423906346273,
+    "sharePrice": 72.56375508192681,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8115,
+    "exchangeRate": 0.8117,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "HOLN-CH",
     "companyName": "Holcim Ltd",
-<<<<<<< HEAD
-    "numberOfShares": 37140000,
-=======
     "numberOfShares": 37140000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 88.57670979667282,
+    "sharePrice": 88.11137119625477,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8115,
+    "exchangeRate": 0.8117,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "LAND-CH",
     "companyName": "Landis + Gyr AG",
-<<<<<<< HEAD
-    "numberOfShares": 1445000,
-=======
     "numberOfShares": 1445000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 60.07393715341959,
+    "sharePrice": 60.49032893926328,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8115,
+    "exchangeRate": 0.8117,
     "interactive": false
   },
   {
     "exchange": "SIX SWISS",
     "ticker": "UBXN-CH",
     "companyName": "U-blox Holding",
-<<<<<<< HEAD
-    "numberOfShares": 742000,
-=======
     "numberOfShares": 742000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 165.61922365988912,
+    "sharePrice": 165.57841567081437,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8115,
+    "exchangeRate": 0.8117,
     "interactive": false
   }
 ]

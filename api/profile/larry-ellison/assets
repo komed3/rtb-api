@@ -3,75 +3,56 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-<<<<<<< HEAD
-    "numberOfShares": 1071732000,
-=======
-    "numberOfShares": 1071732000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 153.28,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 156.22,
     "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": true,
-    "currentPrice": 156.22
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 150.52
   },
   {
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 0,
-    "exerciseOptionPrice": 51.13,
-    "sharePrice": 153.28,
+    "numberOfShares": 1071732000.0,
+    "sharePrice": 156.22,
     "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false,
-    "currentPrice": 156.22
+    "exchangeRate": 1.0,
+    "interactive": true,
+    "currentPrice": 150.52
   },
   {
     "exchange": "NASDAQ",
     "ticker": "PSKY-US",
     "companyName": "Paramount Skydance Corporation (B)",
-<<<<<<< HEAD
-    "numberOfShares": 542700000,
-=======
     "numberOfShares": 542700000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 9.5,
+    "sharePrice": 9.97,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 9.97
+    "currentPrice": 10.14
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
-<<<<<<< HEAD
-    "numberOfShares": 19939703,
-    "sharePrice": 146.15,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-=======
     "numberOfShares": 19939703.0,
-    "sharePrice": 146.15,
+    "sharePrice": 141.29,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false,
-    "currentPrice": 141.29
+    "currentPrice": 140.0
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-<<<<<<< HEAD
-    "numberOfShares": 36000000,
-=======
     "numberOfShares": 36000000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 327.51,
+    "sharePrice": 339.96,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 339.96
+    "currentPrice": 342.27
   }
 ]

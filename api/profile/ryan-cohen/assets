@@ -3,84 +3,60 @@
     "exchange": "NYSE",
     "ticker": "BABA-US",
     "companyName": "Alibaba Group (ADR)",
-<<<<<<< HEAD
-    "numberOfShares": 6300000,
-=======
     "numberOfShares": 6300000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 125.22,
+    "sharePrice": 122.16,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
-<<<<<<< HEAD
-    "numberOfShares": 4519000,
-=======
     "numberOfShares": 4519000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 302.25,
+    "sharePrice": 305.26,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "C-US",
     "companyName": "Citigroup",
-<<<<<<< HEAD
-    "numberOfShares": 4374000,
-=======
     "numberOfShares": 4374000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 137.58,
+    "sharePrice": 138.73,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GME-US",
     "companyName": "GameStop Corp. (Cl A)",
-<<<<<<< HEAD
-    "numberOfShares": 38348000,
-=======
     "numberOfShares": 38348000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 18.54,
+    "sharePrice": 18.57,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NFLX-US",
     "companyName": "Netflix",
-<<<<<<< HEAD
-    "numberOfShares": 3645000,
-=======
     "numberOfShares": 3645000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 74.21,
+    "sharePrice": 78.24,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "WFC-US",
     "companyName": "Wells Fargo",
-<<<<<<< HEAD
-    "numberOfShares": 5832000,
-=======
     "numberOfShares": 5832000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 88.93,
+    "sharePrice": 88.11,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

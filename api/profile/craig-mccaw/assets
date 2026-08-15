@@ -3,38 +3,30 @@
     "exchange": "NYSE",
     "ticker": "LUMN-US",
     "companyName": "CenturyLink",
-<<<<<<< HEAD
-    "numberOfShares": 484000,
-=======
     "numberOfShares": 484000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 6.29,
+    "sharePrice": 6.4,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "US OTC",
     "ticker": "PCOA-US",
     "companyName": "Pendrell",
-    "numberOfShares": 0,
-    "sharePrice": 150000,
+    "numberOfShares": 0.0,
+    "sharePrice": 150000.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TMUS-US",
     "companyName": "T-Mobile US Inc",
-<<<<<<< HEAD
-    "numberOfShares": 476000,
-=======
     "numberOfShares": 476000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 177.13,
+    "sharePrice": 183.38,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

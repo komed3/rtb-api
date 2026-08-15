@@ -3,48 +3,53 @@
     "exchange": "NYSE",
     "ticker": "GMED-US",
     "companyName": "Globus Medical, Inc.",
-<<<<<<< HEAD
-    "numberOfShares": 41000,
-=======
+    "numberOfShares": 100000.0,
+    "exerciseOptionPrice": 43.58,
+    "sharePrice": 85.94,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "GMED-US",
+    "companyName": "Globus Medical, Inc.",
     "numberOfShares": 41000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "exerciseOptionPrice": 75.18,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GMED-US",
     "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 34375,
+    "numberOfShares": 34375.0,
     "exerciseOptionPrice": 25.52,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GMED-US",
     "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 22000,
+    "numberOfShares": 22000.0,
     "exerciseOptionPrice": 53.75,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "GMED-US",
     "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 100000,
+    "numberOfShares": 100000.0,
     "exerciseOptionPrice": 43.77,
-    "sharePrice": 85.67,
-<<<<<<< HEAD
-=======
+    "sharePrice": 85.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -55,7 +60,7 @@
     "companyName": "Globus Medical, Inc.",
     "numberOfShares": 100000.0,
     "exerciseOptionPrice": 65.05,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +70,7 @@
     "ticker": "GMED-US",
     "companyName": "Globus Medical, Inc.",
     "numberOfShares": 22636000.0,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +81,7 @@
     "companyName": "Globus Medical, Inc.",
     "numberOfShares": 106000.0,
     "exerciseOptionPrice": 26.27,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -87,7 +92,7 @@
     "companyName": "Globus Medical, Inc.",
     "numberOfShares": 100000.0,
     "exerciseOptionPrice": 53.27,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -98,86 +103,9 @@
     "companyName": "Globus Medical, Inc.",
     "numberOfShares": 59000.0,
     "exerciseOptionPrice": 63.68,
-    "sharePrice": 85.67,
+    "sharePrice": 85.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 100000.0,
-    "exerciseOptionPrice": 43.58,
-    "sharePrice": 85.67,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 100000,
-    "exerciseOptionPrice": 65.05,
-    "sharePrice": 85.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 22636000,
-    "sharePrice": 85.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 106000,
-    "exerciseOptionPrice": 26.27,
-    "sharePrice": 85.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 100000,
-    "exerciseOptionPrice": 53.27,
-    "sharePrice": 85.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 59000,
-    "exerciseOptionPrice": 63.68,
-    "sharePrice": 85.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "GMED-US",
-    "companyName": "Globus Medical, Inc.",
-    "numberOfShares": 100000,
-    "exerciseOptionPrice": 43.58,
-    "sharePrice": 85.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

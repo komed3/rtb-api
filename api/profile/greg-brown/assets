@@ -3,26 +3,31 @@
     "exchange": "NYSE",
     "ticker": "MSI-US",
     "companyName": "Motorola Solutions",
-<<<<<<< HEAD
-    "numberOfShares": 182210,
-=======
-    "numberOfShares": 182210.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "exerciseOptionPrice": 108.47,
-    "sharePrice": 469.74,
+    "numberOfShares": 378435.0,
+    "exerciseOptionPrice": 81.37,
+    "sharePrice": 465.04,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MSI-US",
     "companyName": "Motorola Solutions",
-    "numberOfShares": 140460,
+    "numberOfShares": 182210.0,
+    "exerciseOptionPrice": 108.47,
+    "sharePrice": 465.04,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MSI-US",
+    "companyName": "Motorola Solutions",
+    "numberOfShares": 140460.0,
     "exerciseOptionPrice": 138.64,
-    "sharePrice": 469.74,
-<<<<<<< HEAD
-=======
+    "sharePrice": 465.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -33,7 +38,7 @@
     "companyName": "Motorola Solutions",
     "numberOfShares": 105691.0,
     "exerciseOptionPrice": 154.95,
-    "sharePrice": 469.74,
+    "sharePrice": 465.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -43,7 +48,7 @@
     "ticker": "MSI-US",
     "companyName": "Motorola Solutions",
     "numberOfShares": 433201.0,
-    "sharePrice": 469.74,
+    "sharePrice": 465.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +59,7 @@
     "companyName": "Motorola Solutions",
     "numberOfShares": 162748.0,
     "exerciseOptionPrice": 179.21,
-    "sharePrice": 469.74,
+    "sharePrice": 465.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -65,7 +70,7 @@
     "companyName": "Motorola Solutions",
     "numberOfShares": 307765.0,
     "exerciseOptionPrice": 71.22,
-    "sharePrice": 469.74,
+    "sharePrice": 465.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,86 +81,9 @@
     "companyName": "Motorola Solutions",
     "numberOfShares": 152320.0,
     "exerciseOptionPrice": 222.3,
-    "sharePrice": 469.74,
+    "sharePrice": 465.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 378435.0,
-    "exerciseOptionPrice": 81.37,
-    "sharePrice": 469.74,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 105691,
-    "exerciseOptionPrice": 154.95,
-    "sharePrice": 469.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 433201,
-    "sharePrice": 469.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 162748,
-    "exerciseOptionPrice": 179.21,
-    "sharePrice": 469.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 307765,
-    "exerciseOptionPrice": 71.22,
-    "sharePrice": 469.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 152320,
-    "exerciseOptionPrice": 222.3,
-    "sharePrice": 469.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "MSI-US",
-    "companyName": "Motorola Solutions",
-    "numberOfShares": 378435,
-    "exerciseOptionPrice": 81.37,
-    "sharePrice": 469.74,
-    "currencyCode": "USD",
-    "exchangeRate": 1,
     "interactive": false
   }
 ]

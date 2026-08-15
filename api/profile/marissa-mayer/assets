@@ -3,38 +3,30 @@
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
-<<<<<<< HEAD
-    "numberOfShares": 1989000,
-=======
     "numberOfShares": 1989000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 343.54,
+    "sharePrice": 346.36,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "LBTA-US",
     "companyName": "Altaba",
-    "numberOfShares": 1800000,
-    "sharePrice": 0,
+    "numberOfShares": 1800000.0,
+    "sharePrice": 0.0,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "WMT-US",
     "companyName": "Walmart",
-<<<<<<< HEAD
-    "numberOfShares": 130000,
-=======
     "numberOfShares": 130000.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
-    "sharePrice": 116.01,
+    "sharePrice": 115.72,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
