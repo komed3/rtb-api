@@ -3,16 +3,6 @@
     "exchange": "NYSE",
     "ticker": "ESTC-US",
     "companyName": "Elastic N.V.",
-    "numberOfShares": 6414000.0,
-    "sharePrice": 86.68,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ESTC-US",
-    "companyName": "Elastic N.V.",
     "numberOfShares": 108000.0,
     "exerciseOptionPrice": 13.07,
     "sharePrice": 86.68,
@@ -48,6 +38,16 @@
     "companyName": "Elastic N.V.",
     "numberOfShares": 17453.0,
     "exerciseOptionPrice": 128.31,
+    "sharePrice": 86.68,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ESTC-US",
+    "companyName": "Elastic N.V.",
+    "numberOfShares": 6414000.0,
     "sharePrice": 86.68,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
