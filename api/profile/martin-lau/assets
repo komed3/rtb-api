@@ -4,7 +4,7 @@
     "ticker": "JD-US",
     "companyName": "JD.com Inc.",
     "numberOfShares": 775000.0,
-    "sharePrice": 28.5,
+    "sharePrice": 28.82,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,20 +14,9 @@
     "ticker": "3690-HK",
     "companyName": "Meituan Dianping",
     "numberOfShares": 3257000.0,
-    "sharePrice": 11.172436649161272,
+    "sharePrice": 10.906564336618263,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "700-HK",
-    "companyName": "Tencent",
-    "numberOfShares": 5250000.0,
-    "exerciseOptionPrice": 23.664151328200685,
-    "sharePrice": 56.901035027787685,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
     "interactive": false
   },
   {
@@ -35,10 +24,10 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 3215000.0,
-    "exerciseOptionPrice": 45.63299852138887,
-    "sharePrice": 56.901035027787685,
+    "exerciseOptionPrice": 45.64056145539846,
+    "sharePrice": 56.4005150499114,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
     "interactive": false
   },
   {
@@ -46,10 +35,10 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 3507000.0,
-    "exerciseOptionPrice": 40.91673889766991,
-    "sharePrice": 56.901035027787685,
+    "exerciseOptionPrice": 40.92352018766175,
+    "sharePrice": 56.4005150499114,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
     "interactive": false
   },
   {
@@ -57,9 +46,9 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 36057000.0,
-    "sharePrice": 56.901035027787685,
+    "sharePrice": 56.4005150499114,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
     "interactive": false
   },
   {
@@ -67,10 +56,10 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 4400000.0,
-    "exerciseOptionPrice": 38.877275276602255,
-    "sharePrice": 56.901035027787685,
+    "exerciseOptionPrice": 38.8837185583702,
+    "sharePrice": 56.4005150499114,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
     "interactive": false
   },
   {
@@ -78,10 +67,10 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 0.0,
-    "exerciseOptionPrice": 67.81216540049967,
-    "sharePrice": 56.901035027787685,
+    "exerciseOptionPrice": 67.82340417394408,
+    "sharePrice": 56.4005150499114,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
     "interactive": false
   },
   {
@@ -89,10 +78,21 @@
     "ticker": "700-HK",
     "companyName": "Tencent",
     "numberOfShares": 0.0,
-    "exerciseOptionPrice": 18.444399123030642,
-    "sharePrice": 56.901035027787685,
+    "exerciseOptionPrice": 18.447455984905467,
+    "sharePrice": 56.4005150499114,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
+    "exchangeRate": 7.8439,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "700-HK",
+    "companyName": "Tencent",
+    "numberOfShares": 5250000.0,
+    "exerciseOptionPrice": 23.668073279873536,
+    "sharePrice": 56.4005150499114,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8439,
     "interactive": false
   }
 ]
