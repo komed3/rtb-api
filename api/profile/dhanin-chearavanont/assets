@@ -4,9 +4,9 @@
     "ticker": "BISI-ID",
     "companyName": "Bisi International",
     "numberOfShares": 229500000.0,
-    "sharePrice": 0.03808457014841781,
+    "sharePrice": 0.03813796971396523,
     "currencyCode": "IDR",
-    "exchangeRate": 17855.0,
+    "exchangeRate": 17830.0,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "121-HK",
     "companyName": "C.P. Lotus Corp.",
     "numberOfShares": 0.0,
-    "sharePrice": 0.013896148599548694,
+    "sharePrice": 0.013901819990562067,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8439,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "CPRO-ID",
     "companyName": "Central Proteina Prima",
     "numberOfShares": 6742000000.0,
-    "sharePrice": 0.002856342761131336,
+    "sharePrice": 0.0028042624789680315,
     "currencyCode": "IDR",
-    "exchangeRate": 17855.0,
+    "exchangeRate": 17830.0,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "1215-TW",
     "companyName": "Charoen Pokphand Enterprise (Taiwan)",
     "numberOfShares": 11800000.0,
-    "sharePrice": 3.442663995993991,
+    "sharePrice": 3.4063564486390203,
     "currencyCode": "TWD",
-    "exchangeRate": 31.952,
+    "exchangeRate": 31.999,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "CPF-TH",
     "companyName": "Charoen Pokphand Foods",
     "numberOfShares": 539328000.0,
-    "sharePrice": 0.6802721088435374,
+    "sharePrice": 0.680632231717462,
     "currencyCode": "THB",
-    "exchangeRate": 33.075,
+    "exchangeRate": 33.0575,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "CPIN-ID",
     "companyName": "Charoen Pokphand Indonesia",
     "numberOfShares": 1180110000.0,
-    "sharePrice": 0.1685802296275553,
+    "sharePrice": 0.16601233875490745,
     "currencyCode": "IDR",
-    "exchangeRate": 17855.0,
+    "exchangeRate": 17830.0,
     "interactive": false
   },
   {
@@ -64,9 +64,9 @@
     "ticker": "267-HK",
     "companyName": "Citic Pacific Limited",
     "numberOfShares": 2208500000.0,
-    "sharePrice": 1.555348742334808,
+    "sharePrice": 1.5763898631499738,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8439,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "CPALL-TH",
     "companyName": "CP ALL PCL",
     "numberOfShares": 512066000.00000006,
-    "sharePrice": 1.4134542705971276,
+    "sharePrice": 1.4066399455494216,
     "currencyCode": "THB",
-    "exchangeRate": 33.075,
+    "exchangeRate": 33.0575,
     "interactive": false
   },
   {
@@ -84,9 +84,9 @@
     "ticker": "CPAXT-TH",
     "companyName": "CP Axtra Public Company Limited",
     "numberOfShares": 337934000.0,
-    "sharePrice": 0.45049130763416473,
+    "sharePrice": 0.45072978900400823,
     "currencyCode": "THB",
-    "exchangeRate": 33.075,
+    "exchangeRate": 33.0575,
     "interactive": false
   },
   {
@@ -94,9 +94,9 @@
     "ticker": "8001-JP",
     "companyName": "Itochu",
     "numberOfShares": 50500000.0,
-    "sharePrice": 12.537603409375784,
+    "sharePrice": 12.483030781373323,
     "currencyCode": "JPY",
-    "exchangeRate": 159.56,
+    "exchangeRate": 158.375,
     "interactive": false
   },
   {
@@ -104,19 +104,9 @@
     "ticker": "601318-CN",
     "companyName": "Ping An Insurance Group (Class A)",
     "numberOfShares": 0.0,
-    "sharePrice": 7.611194328681389,
+    "sharePrice": 7.729525958027843,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7427,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "2318-HK",
-    "companyName": "Ping An Insurance Group Class H",
-    "numberOfShares": -96284000.0,
-    "sharePrice": 6.871581738675914,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8439,
+    "exchangeRate": 6.7378,
     "interactive": false
   },
   {
@@ -124,9 +114,19 @@
     "ticker": "2318-HK",
     "companyName": "Ping An Insurance Group Class H",
     "numberOfShares": 1114214000.0,
-    "sharePrice": 6.871581738675914,
+    "sharePrice": 6.925402068692846,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8439,
+    "exchangeRate": 7.8407,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "2318-HK",
+    "companyName": "Ping An Insurance Group Class H",
+    "numberOfShares": -96284000.0,
+    "sharePrice": 6.925402068692846,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -134,9 +134,9 @@
     "ticker": "1177-HK",
     "companyName": "Sino Biopharmaceutical",
     "numberOfShares": 263250000.0,
-    "sharePrice": 0.6113030507783118,
+    "sharePrice": 0.6109148417870853,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8439,
+    "exchangeRate": 7.8407,
     "interactive": false
   },
   {
@@ -144,9 +144,9 @@
     "ticker": "TRUE-TH",
     "companyName": "True Corp. PCL",
     "numberOfShares": 9562640000.0,
-    "sharePrice": 0.4051398337112623,
+    "sharePrice": 0.40535430688951074,
     "currencyCode": "THB",
-    "exchangeRate": 33.075,
+    "exchangeRate": 33.0575,
     "interactive": false
   }
 ]
