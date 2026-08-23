@@ -24,8 +24,8 @@ API_DIR = Path(__file__).parent.parent / "api"
 
 def fetch_all():
     all_data = []
-    for offset in [0, 2000]:
-        url = f"{FORBES_API}?limit=2000&start={offset}"
+    for offset in [0, 800]:
+        url = f"{FORBES_API}?limit=800&start={offset}"
         req = urllib.request.Request(url, headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
         })
