@@ -3,24 +3,24 @@
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
+    "numberOfShares": 4766475230.0,
+    "sharePrice": 136.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 135.0
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SPCX-US",
+    "companyName": "Space Exploration Technologies Corp.",
     "numberOfShares": 350000000.0,
     "exerciseOptionPrice": 8.4,
     "sharePrice": 136.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 136.97
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SPCX-US",
-    "companyName": "Space Exploration Technologies Corp.",
-    "numberOfShares": 4766475230.0,
-    "sharePrice": 136.97,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 136.97
+    "currentPrice": 135.0
   },
   {
     "exchange": "NASDAQ",
@@ -31,6 +31,6 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 362.86
+    "currentPrice": 348.95
   }
 ]
