@@ -3,6 +3,16 @@
     "exchange": "NYSE",
     "ticker": "ANET-US",
     "companyName": "Arista Networks",
+    "numberOfShares": 25889000.0,
+    "sharePrice": 195.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ANET-US",
+    "companyName": "Arista Networks",
     "numberOfShares": 5000.0,
     "exerciseOptionPrice": 15.2625,
     "sharePrice": 195.38,
@@ -16,16 +26,6 @@
     "companyName": "Arista Networks",
     "numberOfShares": 7000.0,
     "exerciseOptionPrice": 14.145,
-    "sharePrice": 195.38,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ANET-US",
-    "companyName": "Arista Networks",
-    "numberOfShares": 25889000.0,
     "sharePrice": 195.38,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
