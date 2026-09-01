@@ -3,27 +3,27 @@
     "exchange": "NYSE",
     "ticker": "NOMD-US",
     "companyName": "Nomad Foods",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 11.88,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "PAH-US",
     "companyName": "Platform Specialty Products",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 11.1,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "PRS-ES",
     "companyName": "Promotora de Informaciones S.A.",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 3.2887855897733873,
     "currencyCode": "EUR",
     "exchangeRate": 0.8605,
@@ -33,10 +33,10 @@
     "exchange": "NYSE",
     "ticker": "QSR-US",
     "companyName": "Restaurant Brands International Inc",
-    "numberOfShares": 0,
+    "numberOfShares": 0.0,
     "sharePrice": 78.26,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

@@ -6,7 +6,7 @@
     "numberOfShares": 32259999.999999996,
     "sharePrice": 105.62,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": true,
     "currentPrice": 103.56
   },
@@ -14,10 +14,10 @@
     "exchange": "NASDAQ",
     "ticker": "PYPL-US",
     "companyName": "PayPal Holdings",
-    "numberOfShares": 18640000,
+    "numberOfShares": 18640000.0,
     "sharePrice": 53.66,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false,
     "currentPrice": 52.665
   }

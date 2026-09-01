@@ -3,7 +3,7 @@
     "exchange": "MEXICO",
     "ticker": "GMXT-MX",
     "companyName": "GMexico Transportes",
-    "numberOfShares": 89583000,
+    "numberOfShares": 89583000.0,
     "sharePrice": 2.0035958964475835,
     "currencyCode": "MXN",
     "exchangeRate": 17.0194,
@@ -13,7 +13,7 @@
     "exchange": "MEXICO",
     "ticker": "GMEXICOB-MX",
     "companyName": "Grupo Mexico",
-    "numberOfShares": 4682480925,
+    "numberOfShares": 4682480925.0,
     "sharePrice": 13.466397170288023,
     "currencyCode": "MXN",
     "exchangeRate": 17.0194,
@@ -23,10 +23,10 @@
     "exchange": "NYSE",
     "ticker": "SCCO-US",
     "companyName": "Southern Copper Corp.",
-    "numberOfShares": 401518,
+    "numberOfShares": 401518.0,
     "sharePrice": 209.8,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

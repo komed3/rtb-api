@@ -3,20 +3,20 @@
     "exchange": "NYSE",
     "ticker": "CNA-US",
     "companyName": "CNA Financial Corp.",
-    "numberOfShares": 106000,
+    "numberOfShares": 106000.0,
     "sharePrice": 49.31,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "L-US",
     "companyName": "Loews Corp.",
-    "numberOfShares": 13260959,
+    "numberOfShares": 13260959.0,
     "sharePrice": 109.72,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
