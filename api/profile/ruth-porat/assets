@@ -3,17 +3,10 @@
     "exchange": "NYSE",
     "ticker": "BX-US",
     "companyName": "Blackstone Group",
-<<<<<<< HEAD
     "numberOfShares": 50000,
     "sharePrice": 133.45,
     "currencyCode": "USD",
     "exchangeRate": 1,
-=======
-    "numberOfShares": 50000.0,
-    "sharePrice": 133.45,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
@@ -23,47 +16,28 @@
     "numberOfShares": 2077999.9999999998,
     "sharePrice": 356.62,
     "currencyCode": "USD",
-<<<<<<< HEAD
     "exchangeRate": 1,
-=======
-    "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MS-US",
     "companyName": "Morgan Stanley",
-<<<<<<< HEAD
     "numberOfShares": 700000,
     "sharePrice": 213.75,
     "currencyCode": "USD",
     "exchangeRate": 1,
-=======
-    "numberOfShares": 700000.0,
-    "sharePrice": 213.75,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "MS-US",
     "companyName": "Morgan Stanley",
-<<<<<<< HEAD
     "numberOfShares": 0,
     "exerciseOptionPrice": 66.72,
     "sharePrice": 213.75,
     "currencyCode": "USD",
     "exchangeRate": 1,
-=======
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 66.72,
-    "sharePrice": 213.75,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
->>>>>>> 2b550085baac25c543016ca743053a87bf115d5d
     "interactive": false
   }
 ]
