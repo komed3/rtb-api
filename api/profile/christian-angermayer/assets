@@ -4,9 +4,19 @@
     "ticker": "Z29-DE",
     "companyName": "029 Group",
     "numberOfShares": 1800000.0,
-    "sharePrice": 48.32152398652573,
+    "sharePrice": 48.23747680890538,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8609,
+    "exchangeRate": 0.8624,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ATAI-US",
+    "companyName": "ATAI Life Sciences",
+    "numberOfShares": 33127707.0,
+    "sharePrice": 7.34,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -21,23 +31,13 @@
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
-    "ticker": "ATAI-US",
-    "companyName": "ATAI Life Sciences",
-    "numberOfShares": 33127707.0,
-    "sharePrice": 7.34,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
     "exchange": "XETRA",
     "ticker": "SRAG-DE",
     "companyName": "Cryptology Asset Group PLC",
     "numberOfShares": 70960825.0,
-    "sharePrice": 2.55546521082588,
+    "sharePrice": 2.585807050092764,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8609,
+    "exchangeRate": 0.8624,
     "interactive": false
   },
   {
@@ -46,7 +46,7 @@
     "companyName": "Neuphoria Therapeutics",
     "numberOfShares": 65477.99999999999,
     "exerciseOptionPrice": 37.95180722891566,
-    "sharePrice": 3.76,
+    "sharePrice": 3.79,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -56,9 +56,9 @@
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
     "numberOfShares": 2349271.0,
-    "sharePrice": 6.766174933209432,
+    "sharePrice": 6.667439703153988,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8609,
+    "exchangeRate": 0.8624,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "IPOK-DE",
     "companyName": "SQD Strategies AG",
     "numberOfShares": 194440.0,
-    "sharePrice": 146.3584620745731,
+    "sharePrice": 143.7847866419295,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8609,
+    "exchangeRate": 0.8624,
     "interactive": false
   },
   {
@@ -84,7 +84,7 @@
     "ticker": "CUPR-US",
     "companyName": "Super Copper",
     "numberOfShares": 500000.0,
-    "sharePrice": 2.91,
+    "sharePrice": 2.9,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

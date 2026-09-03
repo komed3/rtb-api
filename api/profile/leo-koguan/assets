@@ -1,12 +1,22 @@
 [
   {
     "exchange": "NASDAQ",
+    "ticker": "NVDA-US",
+    "companyName": "Nvidia",
+    "numberOfShares": 2000000.0,
+    "sharePrice": 217.44,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
-    "numberOfShares": 6920000,
-    "sharePrice": 407.76,
+    "numberOfShares": 6920000.0,
+    "sharePrice": 356.09,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]

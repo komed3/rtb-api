@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AAPL-US",
+    "companyName": "Apple",
+    "numberOfShares": 1473.0,
+    "sharePrice": 325.13,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BAC-US",
+    "companyName": "Bank of America Corp.",
+    "numberOfShares": 79100.0,
+    "sharePrice": 61.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SPCX-US",
+    "companyName": "Space Exploration Technologies Corp.",
+    "numberOfShares": 46933.0,
+    "sharePrice": 142.23,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  }
+]
