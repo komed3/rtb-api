@@ -3,7 +3,7 @@
     "exchange": "NASDAQ",
     "ticker": "FOX-US",
     "companyName": "Fox Corp. Class B",
-    "numberOfShares": 104505722.0,
+    "numberOfShares": 86473672.0,
     "sharePrice": 58.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
@@ -13,8 +13,18 @@
     "exchange": "NASDAQ",
     "ticker": "NWS-US",
     "companyName": "News Corp. (Cl B)",
-    "numberOfShares": 77652282.0,
+    "numberOfShares": 63306387.0,
     "sharePrice": 33.9,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TSLA-US",
+    "companyName": "Tesla",
+    "numberOfShares": 734306.0,
+    "sharePrice": 354.08,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
