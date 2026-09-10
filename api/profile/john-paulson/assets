@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "AAMI-US",
+    "companyName": "Acadian Asset Management",
+    "numberOfShares": 7743282.0,
+    "sharePrice": 92.15,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "TSX VENTURE",
+    "ticker": "ARTG-CA",
+    "companyName": "Artemis Gold",
+    "numberOfShares": 6100000.0,
+    "sharePrice": 29.63715529753266,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.378,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "BHC-CA",
+    "companyName": "Bausch Health Companies",
+    "numberOfShares": 75255869.0,
+    "sharePrice": 6.429608127721336,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.378,
+    "interactive": false
+  },
+  {
+    "exchange": "TORONTO",
+    "ticker": "ITH-CA",
+    "companyName": "International Tower Hill Mines",
+    "numberOfShares": 99573038.0,
+    "sharePrice": 2.5036284470246737,
+    "currencyCode": "CAD",
+    "exchangeRate": 1.378,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MDGL-US",
+    "companyName": "Madrigal Pharmaceuticals",
+    "numberOfShares": 1707522.0,
+    "sharePrice": 534.16,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE AMERICAN",
+    "ticker": "NG-US",
+    "companyName": "NovaGold Resources Inc.",
+    "numberOfShares": 271000000.0,
+    "sharePrice": 7.9,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "PPTA-US",
+    "companyName": "Perpetua Resources,",
+    "numberOfShares": 32347299.0,
+    "sharePrice": 24.76,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "ATHENS",
+    "ticker": "TPEIR-GR",
+    "companyName": "Piraeus Financial Holdings",
+    "numberOfShares": 175317912.0,
+    "sharePrice": 12.415678064666203,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8598,
+    "interactive": false
+  }
+]
