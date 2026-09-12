@@ -3,19 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
-    "numberOfShares": 851770000.0,
-    "sharePrice": 223.67,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "NVDA-US",
-    "companyName": "Nvidia",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 3.4725,
-    "sharePrice": 223.67,
+    "sharePrice": 218.36,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -26,7 +16,7 @@
     "companyName": "Nvidia",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 3.155,
-    "sharePrice": 223.67,
+    "sharePrice": 218.36,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,7 +27,17 @@
     "companyName": "Nvidia",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 4.0,
-    "sharePrice": 223.67,
+    "sharePrice": 218.36,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "NVDA-US",
+    "companyName": "Nvidia",
+    "numberOfShares": 851770000.0,
+    "sharePrice": 218.36,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

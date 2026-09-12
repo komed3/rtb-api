@@ -3,8 +3,9 @@
     "exchange": "NYSE",
     "ticker": "VEEV-US",
     "companyName": "Veeva Systems",
-    "numberOfShares": 12270000.0,
-    "sharePrice": 260.8,
+    "numberOfShares": 2839000.0,
+    "exerciseOptionPrice": 60.0,
+    "sharePrice": 260.98,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NYSE",
     "ticker": "VEEV-US",
     "companyName": "Veeva Systems",
-    "numberOfShares": 2839000.0,
-    "exerciseOptionPrice": 60.0,
-    "sharePrice": 260.8,
+    "numberOfShares": 12270000.0,
+    "sharePrice": 260.98,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "ZM-US",
     "companyName": "Zoom Video Communications",
     "numberOfShares": 1094000.0,
-    "sharePrice": 96.18,
+    "sharePrice": 95.46,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
