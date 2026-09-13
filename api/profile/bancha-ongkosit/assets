@@ -1,22 +1,182 @@
 [
   {
+    "exchange": "HONG KONG",
+    "ticker": "9988-HK",
+    "companyName": "Alibaba Group Holding",
+    "numberOfShares": 0.0,
+    "sharePrice": 13.707188942442558,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8426,
+    "interactive": false
+  },
+  {
     "exchange": "THAILAND",
-    "ticker": "JAS-TH",
-    "companyName": "Jasmine International PCL",
-    "numberOfShares": 30000000,
-    "sharePrice": 0.12134017506791425,
+    "ticker": "ANAN-TH",
+    "companyName": "Ananda Development",
+    "numberOfShares": 46980000.0,
+    "sharePrice": 0.009681567203691097,
     "currencyCode": "THB",
-    "exchangeRate": 33.13,
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "4927-TW",
+    "companyName": "Apex International",
+    "numberOfShares": 0.0,
+    "sharePrice": 1.3035793194874061,
+    "currencyCode": "TWD",
+    "exchangeRate": 31.682,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "AAV-TH",
+    "companyName": "Asia Aviation",
+    "numberOfShares": 211380000.0,
+    "sharePrice": 0.030557446486650024,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "BBL-TH",
+    "companyName": "Bangkok Bank PCL",
+    "numberOfShares": 0.0,
+    "sharePrice": 5.68792073216852,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "CPALL-TH",
+    "companyName": "CP ALL PCL",
+    "numberOfShares": 500000.0,
+    "sharePrice": 1.376597836774828,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "CTA-GB",
+    "companyName": "CT Automotive Group",
+    "numberOfShares": 5774000.0,
+    "sharePrice": 0.44648897307536195,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.7391,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "KBANK-TH",
+    "companyName": "Kasikornbank",
+    "numberOfShares": 0.0,
+    "sharePrice": 7.382194992814461,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
     "interactive": false
   },
   {
     "exchange": "THAILAND",
     "ticker": "KCE-TH",
     "companyName": "KCE Electronics",
-    "numberOfShares": 405300000,
-    "sharePrice": 2.407183821309991,
+    "numberOfShares": 433010000.0,
+    "sharePrice": 1.9968232357612887,
     "currencyCode": "THB",
-    "exchangeRate": 33.13,
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "MGC-TH",
+    "companyName": "Millennium Group Corp. (Asia)",
+    "numberOfShares": 6164000.0,
+    "sharePrice": 0.21783526208304968,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "MORE-TH",
+    "companyName": "More Return",
+    "numberOfShares": 6833000.0,
+    "sharePrice": 0.004235685651614855,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "ONEE-TH",
+    "companyName": "One Enterprise",
+    "numberOfShares": 355573000.0,
+    "sharePrice": 0.08834430073368126,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "PLANB-TH",
+    "companyName": "Plan B Media",
+    "numberOfShares": 35400000.0,
+    "sharePrice": 0.1830421299447848,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "PSH-TH",
+    "companyName": "Pruksa Holding",
+    "numberOfShares": 14282000.0,
+    "sharePrice": 0.11496861054383177,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "SCC-TH",
+    "companyName": "Siam Cement",
+    "numberOfShares": 0.0,
+    "sharePrice": 8.01754784055669,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "SKY-TH",
+    "companyName": "Sky ICT",
+    "numberOfShares": 4649000.0,
+    "sharePrice": 0.5294607064518568,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "III-TH",
+    "companyName": "Triple i Logistics",
+    "numberOfShares": 3460000.0,
+    "sharePrice": 0.1512744875576734,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
+    "interactive": false
+  },
+  {
+    "exchange": "THAILAND",
+    "ticker": "TRUE-TH",
+    "companyName": "True Corp. PCL",
+    "numberOfShares": 0.0,
+    "sharePrice": 0.3933136676499508,
+    "currencyCode": "THB",
+    "exchangeRate": 33.0525,
     "interactive": false
   }
 ]

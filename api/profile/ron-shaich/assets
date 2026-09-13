@@ -3,8 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "BJRI-US",
     "companyName": "BJ's Restaurants",
-    "numberOfShares": 525200.0,
-    "sharePrice": 60.11,
+    "numberOfShares": 877000.0,
+    "exerciseOptionPrice": 26.94,
+    "sharePrice": 60.78,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -13,9 +14,8 @@
     "exchange": "NASDAQ",
     "ticker": "BJRI-US",
     "companyName": "BJ's Restaurants",
-    "numberOfShares": 877000.0,
-    "exerciseOptionPrice": 26.94,
-    "sharePrice": 60.11,
+    "numberOfShares": 525200.0,
+    "sharePrice": 60.78,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "ticker": "CAVA-US",
     "companyName": "CAVA Group",
     "numberOfShares": 4529000.0,
-    "sharePrice": 54.0,
+    "sharePrice": 55.88,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

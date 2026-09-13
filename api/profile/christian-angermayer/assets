@@ -4,19 +4,9 @@
     "ticker": "Z29-DE",
     "companyName": "029 Group",
     "numberOfShares": 1800000.0,
-    "sharePrice": 48.372093023255815,
+    "sharePrice": 48.31591173054588,
     "currencyCode": "EUR",
-    "exchangeRate": 0.86,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ATAI-US",
-    "companyName": "ATAI Life Sciences",
-    "numberOfShares": 33127707.0,
-    "sharePrice": 7.35,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
+    "exchangeRate": 0.861,
     "interactive": false
   },
   {
@@ -31,13 +21,23 @@
     "interactive": false
   },
   {
+    "exchange": "NASDAQ",
+    "ticker": "ATAI-US",
+    "companyName": "ATAI Life Sciences",
+    "numberOfShares": 33127707.0,
+    "sharePrice": 7.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
     "exchange": "XETRA",
     "ticker": "SRAG-DE",
     "companyName": "Cryptology Asset Group PLC",
     "numberOfShares": 70960825.0,
-    "sharePrice": 2.558139534883721,
+    "sharePrice": 2.5551684088269457,
     "currencyCode": "EUR",
-    "exchangeRate": 0.86,
+    "exchangeRate": 0.861,
     "interactive": false
   },
   {
@@ -56,9 +56,9 @@
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
     "numberOfShares": 2349271.0,
-    "sharePrice": 6.86046511627907,
+    "sharePrice": 8.397212543554007,
     "currencyCode": "EUR",
-    "exchangeRate": 0.86,
+    "exchangeRate": 0.861,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "IPOK-DE",
     "companyName": "SQD Strategies AG",
     "numberOfShares": 194440.0,
-    "sharePrice": 145.34883720930233,
+    "sharePrice": 144.0185830429733,
     "currencyCode": "EUR",
-    "exchangeRate": 0.86,
+    "exchangeRate": 0.861,
     "interactive": false
   },
   {
@@ -84,7 +84,7 @@
     "ticker": "CUPR-US",
     "companyName": "Super Copper",
     "numberOfShares": 500000.0,
-    "sharePrice": 3.0,
+    "sharePrice": 3.15,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
