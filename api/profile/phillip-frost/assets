@@ -134,28 +134,6 @@
     "exchange": "NASDAQ",
     "ticker": "OPK-US",
     "companyName": "Opko Health",
-    "numberOfShares": 300000.0,
-    "exerciseOptionPrice": 8.37,
-    "sharePrice": 1.57,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "OPK-US",
-    "companyName": "Opko Health",
-    "numberOfShares": 500000.0,
-    "exerciseOptionPrice": 14.42,
-    "sharePrice": 1.57,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "OPK-US",
-    "companyName": "Opko Health",
     "numberOfShares": 500000.0,
     "exerciseOptionPrice": 4.46,
     "sharePrice": 1.57,
@@ -218,6 +196,28 @@
     "interactive": false
   },
   {
+    "exchange": "NASDAQ",
+    "ticker": "OPK-US",
+    "companyName": "Opko Health",
+    "numberOfShares": 300000.0,
+    "exerciseOptionPrice": 8.37,
+    "sharePrice": 1.57,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "OPK-US",
+    "companyName": "Opko Health",
+    "numberOfShares": 500000.0,
+    "exerciseOptionPrice": 14.42,
+    "sharePrice": 1.57,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
     "exchange": "US OTC",
     "ticker": "PKBO-US",
     "companyName": "Peak Bio, Inc.",
@@ -249,7 +249,7 @@
   },
   {
     "exchange": "NYSE",
-    "ticker": "TEVA-US",
+    "ticker": "TEVA.XX2-US",
     "companyName": "Teva Pharmaceutical Industries Ltd.",
     "numberOfShares": 9031500.0,
     "sharePrice": 37.09,
