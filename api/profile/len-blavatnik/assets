@@ -4,7 +4,7 @@
     "ticker": "ALMS-US",
     "companyName": "Alumis",
     "numberOfShares": 1453000.0,
-    "sharePrice": 9.22,
+    "sharePrice": 8.4,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "XYZ-US",
     "companyName": "Block Inc Class A",
     "numberOfShares": 0.0,
-    "sharePrice": 79.49,
+    "sharePrice": 78.31,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -24,7 +24,7 @@
     "ticker": "CHYM-US",
     "companyName": "Chime",
     "numberOfShares": 19601000.0,
-    "sharePrice": 33.97,
+    "sharePrice": 33.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "CLYM-US",
     "companyName": "Climb Bio",
     "numberOfShares": 0.0,
-    "sharePrice": 14.56,
+    "sharePrice": 13.91,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "CEG-US",
     "companyName": "Constellation Energy",
     "numberOfShares": 6500000.0,
-    "sharePrice": 264.57,
+    "sharePrice": 259.89,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +54,7 @@
     "ticker": "CRGY-US",
     "companyName": "Crescent Energy",
     "numberOfShares": 2160000.0,
-    "sharePrice": 14.59,
+    "sharePrice": 15.37,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "DMRA-US",
     "companyName": "Damora Therapeutics",
     "numberOfShares": 1261000.0,
-    "sharePrice": 28.39,
+    "sharePrice": 24.75,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -84,9 +84,9 @@
     "ticker": "DEEZR-FR",
     "companyName": "Deezer",
     "numberOfShares": 44753000.0,
-    "sharePrice": 1.4537902388369677,
+    "sharePrice": 1.4429181576820964,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8667,
+    "exchangeRate": 0.8663,
     "interactive": false
   },
   {
@@ -94,7 +94,7 @@
     "ticker": "DOCN-US",
     "companyName": "DigitalOcean",
     "numberOfShares": 18653000.0,
-    "sharePrice": 120.21,
+    "sharePrice": 117.85,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -104,7 +104,7 @@
     "ticker": "IRON-US",
     "companyName": "Disc Medicine",
     "numberOfShares": 3018000.0,
-    "sharePrice": 68.92,
+    "sharePrice": 67.3,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -124,17 +124,7 @@
     "ticker": "COAG-US",
     "companyName": "Hemab Therapeutics",
     "numberOfShares": 4870000.0,
-    "sharePrice": 40.47,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "LYB-US",
-    "companyName": "LyondellBasell",
-    "numberOfShares": 64435000.0,
-    "sharePrice": 62.75,
+    "sharePrice": 40.11,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -145,7 +135,17 @@
     "companyName": "LyondellBasell",
     "numberOfShares": 8122000.0,
     "exerciseOptionPrice": 79.9887,
-    "sharePrice": 62.75,
+    "sharePrice": 65.43,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LYB-US",
+    "companyName": "LyondellBasell",
+    "numberOfShares": 64435000.0,
+    "sharePrice": 65.43,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -155,7 +155,7 @@
     "ticker": "OKUR-US",
     "companyName": "OnKure Therapeutics",
     "numberOfShares": 3998000.0,
-    "sharePrice": 3.0,
+    "sharePrice": 2.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -165,17 +165,7 @@
     "ticker": "OPEN-US",
     "companyName": "Opendoor Technologies",
     "numberOfShares": 17381000.0,
-    "sharePrice": 2.79,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SRZN-US",
-    "companyName": "Surrozen",
-    "numberOfShares": 654000.0,
-    "sharePrice": 17.84,
+    "sharePrice": 2.65,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -185,7 +175,17 @@
     "ticker": "SRZN-US",
     "companyName": "Surrozen",
     "numberOfShares": 306000.0,
-    "sharePrice": 17.84,
+    "sharePrice": 17.77,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SRZN-US",
+    "companyName": "Surrozen",
+    "numberOfShares": 654000.0,
+    "sharePrice": 17.77,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -195,7 +195,7 @@
     "ticker": "SNDX-US",
     "companyName": "Syndax Pharmaceuticals",
     "numberOfShares": 1461000.0,
-    "sharePrice": 18.35,
+    "sharePrice": 18.09,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -205,7 +205,7 @@
     "ticker": "UPB-US",
     "companyName": "Upstream Bio",
     "numberOfShares": 5494000.0,
-    "sharePrice": 5.81,
+    "sharePrice": 5.48,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -215,7 +215,7 @@
     "ticker": "WMG-US",
     "companyName": "Warner Music Group",
     "numberOfShares": 374517000.0,
-    "sharePrice": 29.245,
+    "sharePrice": 29.05,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -225,7 +225,7 @@
     "ticker": "YARW-US",
     "companyName": "Yarrow Bioscience",
     "numberOfShares": 28168.0,
-    "sharePrice": 26.26,
+    "sharePrice": 25.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -235,7 +235,7 @@
     "ticker": "YARW-US",
     "companyName": "Yarrow Bioscience",
     "numberOfShares": 178000.0,
-    "sharePrice": 26.26,
+    "sharePrice": 25.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -245,9 +245,9 @@
     "ticker": "2390-HK",
     "companyName": "Zhihu",
     "numberOfShares": 9807000.0,
-    "sharePrice": 0.9332449385486257,
+    "sharePrice": 0.961195247565142,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8436,
+    "exchangeRate": 7.8444,
     "interactive": false
   },
   {
@@ -255,7 +255,7 @@
     "ticker": "ZURA-US",
     "companyName": "Zura Bio",
     "numberOfShares": 17599000.0,
-    "sharePrice": 5.21,
+    "sharePrice": 4.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
