@@ -4,7 +4,7 @@
     "ticker": "CAA-ZA",
     "companyName": "CA Sales Holdings",
     "numberOfShares": 45174000.0,
-    "sharePrice": 0.8427846934071002,
+    "sharePrice": 0.8606116489933918,
     "currencyCode": "ZAR",
     "exchangeRate": 16.2675,
     "interactive": false
@@ -14,7 +14,7 @@
     "ticker": "CPI-ZA",
     "companyName": "Capitec Bank Holdings Ltd",
     "numberOfShares": 6752000.0,
-    "sharePrice": 275.859228523129,
+    "sharePrice": 275.5844475180575,
     "currencyCode": "ZAR",
     "exchangeRate": 16.2675,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "KAL-ZA",
     "companyName": "KAL Group",
     "numberOfShares": 5321000.0,
-    "sharePrice": 2.936529890886738,
+    "sharePrice": 2.9488243430152146,
     "currencyCode": "ZAR",
     "exchangeRate": 16.2675,
     "interactive": false
@@ -44,7 +44,17 @@
     "ticker": "KST-ZA",
     "companyName": "PSG Financial Services",
     "numberOfShares": 196706000.0,
-    "sharePrice": 1.988627631781159,
+    "sharePrice": 1.980021515291225,
+    "currencyCode": "ZAR",
+    "exchangeRate": 16.2675,
+    "interactive": false
+  },
+  {
+    "exchange": "JSE",
+    "ticker": "PSG-ZA",
+    "companyName": "PSG Group Limited",
+    "numberOfShares": 41162000.0,
+    "sharePrice": 1.4107883817427387,
     "currencyCode": "ZAR",
     "exchangeRate": 16.2675,
     "interactive": false
@@ -62,20 +72,10 @@
   },
   {
     "exchange": "JSE",
-    "ticker": "PSG-ZA",
-    "companyName": "PSG Group Limited",
-    "numberOfShares": 41162000.0,
-    "sharePrice": 1.4107883817427387,
-    "currencyCode": "ZAR",
-    "exchangeRate": 16.2675,
-    "interactive": false
-  },
-  {
-    "exchange": "JSE",
     "ticker": "SDO-ZA",
     "companyName": "Stadio Holdings",
     "numberOfShares": 43346000.0,
-    "sharePrice": 0.8261871830336561,
+    "sharePrice": 0.8452435838327955,
     "currencyCode": "ZAR",
     "exchangeRate": 16.2675,
     "interactive": false
@@ -85,9 +85,9 @@
     "ticker": "SNH-DE",
     "companyName": "Steinhoff Intl Holdings",
     "numberOfShares": 7000000.0,
-    "sharePrice": 0.001154334526145677,
+    "sharePrice": 0.0011538017768547364,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8663,
+    "exchangeRate": 0.8667,
     "interactive": false
   },
   {
