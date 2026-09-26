@@ -4,7 +4,7 @@
     "ticker": "ABBV-US",
     "companyName": "AbbVie Inc.",
     "numberOfShares": 100.0,
-    "sharePrice": 265.08,
+    "sharePrice": 265.12,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,9 +14,9 @@
     "ticker": "9926-HK",
     "companyName": "Akeso Inc",
     "numberOfShares": 2890000.0,
-    "sharePrice": 12.430199648129733,
+    "sharePrice": 11.972917490150078,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8438,
+    "exchangeRate": 7.8427,
     "interactive": false
   },
   {
@@ -24,7 +24,7 @@
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
     "numberOfShares": 5000.0,
-    "sharePrice": 337.83,
+    "sharePrice": 342.36,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -34,7 +34,7 @@
     "ticker": "BSX-US",
     "companyName": "Boston Scientific",
     "numberOfShares": 100.0,
-    "sharePrice": 44.62,
+    "sharePrice": 44.68,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -44,7 +44,7 @@
     "ticker": "EW-US",
     "companyName": "Edwards Lifesciences",
     "numberOfShares": 100.0,
-    "sharePrice": 86.82,
+    "sharePrice": 85.73,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -54,7 +54,7 @@
     "ticker": "LLY-US",
     "companyName": "Eli Lilly & Co.",
     "numberOfShares": 200.0,
-    "sharePrice": 1150.99,
+    "sharePrice": 1181.89,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -64,7 +64,7 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 120600.0,
-    "sharePrice": 334.98,
+    "sharePrice": 339.01,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -74,7 +74,7 @@
     "ticker": "INTC-US",
     "companyName": "Intel Corp.",
     "numberOfShares": 900.0,
-    "sharePrice": 122.6,
+    "sharePrice": 127.39,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -84,7 +84,7 @@
     "ticker": "ISRG-US",
     "companyName": "Intuitive Surgical",
     "numberOfShares": 10400.0,
-    "sharePrice": 398.3,
+    "sharePrice": 399.52,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -94,7 +94,7 @@
     "ticker": "JNJ-US",
     "companyName": "Johnson & Johnson",
     "numberOfShares": 1000.0,
-    "sharePrice": 269.17,
+    "sharePrice": 270.68,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -104,7 +104,7 @@
     "ticker": "JPM-US",
     "companyName": "JPMorgan Chase & Co.",
     "numberOfShares": 100.0,
-    "sharePrice": 337.53,
+    "sharePrice": 338.56,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -114,7 +114,7 @@
     "ticker": "MREO-US",
     "companyName": "Mereo Biopharma",
     "numberOfShares": 842400.0,
-    "sharePrice": 0.34,
+    "sharePrice": 0.338,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -124,7 +124,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 200.0,
-    "sharePrice": 500.59,
+    "sharePrice": 497.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -134,7 +134,7 @@
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
     "numberOfShares": 230.0,
-    "sharePrice": 225.51,
+    "sharePrice": 224.58,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -144,7 +144,7 @@
     "ticker": "PLTR-US",
     "companyName": "Palantir",
     "numberOfShares": 100.0,
-    "sharePrice": 191.79,
+    "sharePrice": 192.59,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -154,7 +154,7 @@
     "ticker": "PTGX-US",
     "companyName": "Protagonist Therapeutics",
     "numberOfShares": 100.0,
-    "sharePrice": 138.7,
+    "sharePrice": 137.34,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -164,7 +164,7 @@
     "ticker": "PLSE-US",
     "companyName": "Pulse BioSciences",
     "numberOfShares": 49450000.0,
-    "sharePrice": 51.98,
+    "sharePrice": 51.83,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -175,29 +175,7 @@
     "companyName": "Pulse BioSciences",
     "numberOfShares": 33000.0,
     "exerciseOptionPrice": 26.89,
-    "sharePrice": 51.98,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SMMT-US",
-    "companyName": "Summit Therapeutics",
-    "numberOfShares": 10700.0,
-    "exerciseOptionPrice": 18.25,
-    "sharePrice": 16.45,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SMMT-US",
-    "companyName": "Summit Therapeutics",
-    "numberOfShares": 6000.0,
-    "exerciseOptionPrice": 17.32,
-    "sharePrice": 16.45,
+    "sharePrice": 51.83,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -207,7 +185,7 @@
     "ticker": "SMMT-US",
     "companyName": "Summit Therapeutics",
     "numberOfShares": 573883000.0,
-    "sharePrice": 16.45,
+    "sharePrice": 16.38,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -218,7 +196,29 @@
     "companyName": "Summit Therapeutics",
     "numberOfShares": 4795000.0,
     "exerciseOptionPrice": 1.68,
-    "sharePrice": 16.45,
+    "sharePrice": 16.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 10700.0,
+    "exerciseOptionPrice": 18.25,
+    "sharePrice": 16.38,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SMMT-US",
+    "companyName": "Summit Therapeutics",
+    "numberOfShares": 6000.0,
+    "exerciseOptionPrice": 17.32,
+    "sharePrice": 16.38,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -228,7 +228,7 @@
     "ticker": "XE-US",
     "companyName": "X-Energy",
     "numberOfShares": 924500.0,
-    "sharePrice": 16.38,
+    "sharePrice": 15.72,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

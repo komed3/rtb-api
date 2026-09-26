@@ -4,9 +4,9 @@
     "ticker": "600297-CN",
     "companyName": "China Grand Automotive",
     "numberOfShares": 0.0,
-    "sharePrice": 0.1163033429755763,
+    "sharePrice": 0.1161941932696748,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "600256-CN",
     "companyName": "GUANGHUI ENERGY CO",
     "numberOfShares": 652297000.0,
-    "sharePrice": 1.0228729907851968,
+    "sharePrice": 1.015954356537413,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -24,19 +24,9 @@
     "ticker": "600256-CN",
     "companyName": "GUANGHUI ENERGY CO",
     "numberOfShares": -228120000.0,
-    "sharePrice": 1.0228729907851968,
+    "sharePrice": 1.015954356537413,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600603-CN",
-    "companyName": "Guanghui Logistics",
-    "numberOfShares": -12515000.0,
-    "sharePrice": 0.694837920854084,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -44,9 +34,9 @@
     "ticker": "600603-CN",
     "companyName": "Guanghui Logistics",
     "numberOfShares": 301000000.0,
-    "sharePrice": 0.694837920854084,
+    "sharePrice": 0.6882271447511508,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -54,10 +44,20 @@
     "ticker": "600603-CN",
     "companyName": "Guanghui Logistics",
     "numberOfShares": -84750000.0,
-    "exerciseOptionPrice": -1.2584618137357229,
-    "sharePrice": 0.694837920854084,
+    "exerciseOptionPrice": -1.2572807579436607,
+    "sharePrice": 0.6882271447511508,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600603-CN",
+    "companyName": "Guanghui Logistics",
+    "numberOfShares": -12515000.0,
+    "sharePrice": 0.6882271447511508,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7129,
     "interactive": false
   }
 ]

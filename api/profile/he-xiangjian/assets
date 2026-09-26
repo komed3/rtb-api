@@ -3,20 +3,20 @@
     "exchange": "SHENZHEN",
     "ticker": "300291-CN",
     "companyName": "Beijing HualuBaina Film & TV",
-    "numberOfShares": 293000000.0,
-    "sharePrice": 0.8901678943130648,
+    "numberOfShares": 0.0,
+    "sharePrice": 0.86102876551118,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
     "exchange": "SHENZHEN",
     "ticker": "300291-CN",
     "companyName": "Beijing HualuBaina Film & TV",
-    "numberOfShares": 0.0,
-    "sharePrice": 0.8901678943130648,
+    "numberOfShares": 293000000.0,
+    "sharePrice": 0.86102876551118,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "000967-CN",
     "companyName": "Infore Environment Technology Group",
     "numberOfShares": 863350000.0,
-    "sharePrice": 1.2077654847463692,
+    "sharePrice": 1.2140803527536534,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "000967-CN",
     "companyName": "Infore Environment Technology Group",
     "numberOfShares": 0.0,
-    "sharePrice": 1.2077654847463692,
+    "sharePrice": 1.2140803527536534,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -44,9 +44,19 @@
     "ticker": "000967-CN",
     "companyName": "Infore Environment Technology Group",
     "numberOfShares": 0.0,
-    "sharePrice": 1.2077654847463692,
+    "sharePrice": 1.2140803527536534,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000333-CN",
+    "companyName": "Midea Group Co. Ltd.",
+    "numberOfShares": 0.0,
+    "sharePrice": 12.31211547915208,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -54,19 +64,9 @@
     "ticker": "000333-CN",
     "companyName": "Midea Group Co. Ltd.",
     "numberOfShares": 2201088000.0,
-    "sharePrice": 12.296841916917662,
+    "sharePrice": 12.31211547915208,
     "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000333-CN",
-    "companyName": "Midea Group Co. Ltd.",
-    "numberOfShares": 0.0,
-    "sharePrice": 12.296841916917662,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7066,
+    "exchangeRate": 6.7129,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "3990-HK",
     "companyName": "Midea Real Estate Holding Limited",
     "numberOfShares": 1164606000.0,
-    "sharePrice": 0.3040618067773273,
+    "sharePrice": 0.29390388514159665,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8438,
+    "exchangeRate": 7.8427,
     "interactive": false
   },
   {
@@ -86,7 +86,7 @@
     "numberOfShares": 0.0,
     "sharePrice": 0.0,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8438,
+    "exchangeRate": 7.8427,
     "interactive": false
   }
 ]
