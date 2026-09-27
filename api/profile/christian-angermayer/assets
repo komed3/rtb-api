@@ -4,9 +4,19 @@
     "ticker": "Z29-DE",
     "companyName": "029 Group",
     "numberOfShares": 1800000.0,
-    "sharePrice": 47.31574158325751,
+    "sharePrice": 47.42902747691255,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ATAI-US",
+    "companyName": "ATAI Life Sciences",
+    "numberOfShares": 33127707.0,
+    "sharePrice": 7.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -21,23 +31,13 @@
     "interactive": false
   },
   {
-    "exchange": "NASDAQ",
-    "ticker": "ATAI-US",
-    "companyName": "ATAI Life Sciences",
-    "numberOfShares": 33127707.0,
-    "sharePrice": 7.35,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
     "exchange": "XETRA",
     "ticker": "SRAG-DE",
     "companyName": "Cryptology Asset Group PLC",
     "numberOfShares": 70960825.0,
-    "sharePrice": 2.616014558689718,
+    "sharePrice": 2.6108767529358112,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -56,9 +56,9 @@
     "ticker": "NB2-DE",
     "companyName": "Northern Data AG",
     "numberOfShares": 2349271.0,
-    "sharePrice": 10.009099181073704,
+    "sharePrice": 10.152776194276592,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -74,9 +74,9 @@
     "ticker": "IPOK-DE",
     "companyName": "SQD Strategies AG",
     "numberOfShares": 194440.0,
-    "sharePrice": 136.4877161055505,
+    "sharePrice": 136.81450233724775,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -84,7 +84,7 @@
     "ticker": "CUPR-US",
     "companyName": "Super Copper",
     "numberOfShares": 500000.0,
-    "sharePrice": 1.9,
+    "sharePrice": 1.87,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

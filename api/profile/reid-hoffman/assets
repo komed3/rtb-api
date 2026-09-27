@@ -4,7 +4,7 @@
     "ticker": "AUR-US",
     "companyName": "Aurora Innovation",
     "numberOfShares": 4160000.0,
-    "sharePrice": 6.06,
+    "sharePrice": 6.04,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,7 +14,17 @@
     "ticker": "FIG-US",
     "companyName": "Figma",
     "numberOfShares": 1460000.0,
-    "sharePrice": 21.34,
+    "sharePrice": 20.85,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "HIPO-US",
+    "companyName": "Hippo Holdings",
+    "numberOfShares": 0.0,
+    "sharePrice": 30.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,17 +35,17 @@
     "companyName": "Hippo Holdings",
     "numberOfShares": 70400.0,
     "exerciseOptionPrice": 287.5,
-    "sharePrice": 30.24,
+    "sharePrice": 30.61,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
-    "ticker": "HIPO-US",
-    "companyName": "Hippo Holdings",
-    "numberOfShares": 0.0,
-    "sharePrice": 30.24,
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 7580000.0,
+    "sharePrice": 6.32,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,17 +56,7 @@
     "companyName": "Joby Aviation",
     "numberOfShares": 4613000.0,
     "exerciseOptionPrice": 11.5,
-    "sharePrice": 6.3,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "JOBY-US",
-    "companyName": "Joby Aviation",
-    "numberOfShares": 7580000.0,
-    "sharePrice": 6.3,
+    "sharePrice": 6.32,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -66,7 +66,7 @@
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 16000.0,
-    "sharePrice": 497.93,
+    "sharePrice": 516.17,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +76,7 @@
     "ticker": "VOR-US",
     "companyName": "Vor Biopharma",
     "numberOfShares": 1167000.0,
-    "sharePrice": 18.44,
+    "sharePrice": 18.52,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false

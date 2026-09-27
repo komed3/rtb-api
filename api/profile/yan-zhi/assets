@@ -4,19 +4,9 @@
     "ticker": "1719-HK",
     "companyName": "China Infrastructure & Logistics Group",
     "numberOfShares": 86428000.0,
-    "sharePrice": 0.029326634959899015,
+    "sharePrice": 0.029321774604793474,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8427,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600774-CN",
-    "companyName": "Wuhan Hanshang Group Co., Ltd.",
-    "numberOfShares": -22300000.0,
-    "sharePrice": 1.1470452412519179,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7129,
+    "exchangeRate": 7.844,
     "interactive": false
   },
   {
@@ -30,13 +20,23 @@
     "interactive": false
   },
   {
+    "exchange": "SHANGHAI",
+    "ticker": "600774-CN",
+    "companyName": "Wuhan Hanshang Group Co., Ltd.",
+    "numberOfShares": -22300000.0,
+    "sharePrice": 1.1470452412519179,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7129,
+    "interactive": false
+  },
+  {
     "exchange": "HONG KONG",
     "ticker": "2098-HK",
     "companyName": "Zall Development (Cayman) Holding Co., Ltd.",
     "numberOfShares": 8707000000.0,
-    "sharePrice": 0.009308018922054904,
+    "sharePrice": 0.009306476287608362,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8427,
+    "exchangeRate": 7.844,
     "interactive": false
   }
 ]

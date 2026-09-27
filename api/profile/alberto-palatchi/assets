@@ -3,8 +3,8 @@
     "exchange": "NASDAQ",
     "ticker": "AMD-US",
     "companyName": "Advanced Micro Devices",
-    "numberOfShares": 19500.0,
-    "sharePrice": 629.26,
+    "numberOfShares": 16000.0,
+    "sharePrice": 630.63,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -14,27 +14,27 @@
     "ticker": "AF-FR",
     "companyName": "Air France-KLM",
     "numberOfShares": 900.0,
-    "sharePrice": 13.045950864422203,
+    "sharePrice": 13.345114582145708,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "EURONEXT PARIS",
     "ticker": "AIR-FR",
     "companyName": "Airbus SE",
-    "numberOfShares": 327600.0,
-    "sharePrice": 221.08735213830755,
+    "numberOfShares": 63000.0,
+    "sharePrice": 219.35925208072055,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "GOOGL-US",
     "companyName": "Alphabet",
-    "numberOfShares": 360000.0,
-    "sharePrice": 342.36,
+    "numberOfShares": 131000.0,
+    "sharePrice": 343.92,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -43,8 +43,8 @@
     "exchange": "NASDAQ",
     "ticker": "AMZN-US",
     "companyName": "Amazon",
-    "numberOfShares": 26700.0,
-    "sharePrice": 249.38,
+    "numberOfShares": 68000.0,
+    "sharePrice": 249.67,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -53,10 +53,28 @@
     "exchange": "NASDAQ",
     "ticker": "AAPL-US",
     "companyName": "Apple",
-    "numberOfShares": 0.0,
-    "sharePrice": 335.92,
+    "numberOfShares": 46000.0,
+    "sharePrice": 341.07,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "AMAT-US",
+    "companyName": "Applied Materials",
+    "numberOfShares": 14000.0,
+    "sharePrice": 485.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "companyName": "ASML Holding",
+    "numberOfShares": 5000.0,
+    "sharePrice": 0.0,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -64,7 +82,7 @@
     "ticker": "T-US",
     "companyName": "AT&T Inc.",
     "numberOfShares": 0.0,
-    "sharePrice": 25.45,
+    "sharePrice": 25.38,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -74,27 +92,27 @@
     "ticker": "CS-FR",
     "companyName": "AXA S.A.",
     "numberOfShares": 1163000.0,
-    "sharePrice": 50.01137397634213,
+    "sharePrice": 50.16531752365751,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "MADRID",
     "ticker": "SAN-ES",
     "companyName": "Banco Santander",
-    "numberOfShares": 595000.0,
-    "sharePrice": 14.249317561419472,
+    "numberOfShares": 2088000.0,
+    "sharePrice": 14.333599361532322,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "BAC-US",
     "companyName": "Bank of America Corp.",
-    "numberOfShares": 29000.0,
-    "sharePrice": 56.03,
+    "numberOfShares": 184000.0,
+    "sharePrice": 56.7,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -103,7 +121,7 @@
     "exchange": "NYSE",
     "ticker": "BBL-US",
     "companyName": "Bhp Billiton PLC ADR (Edward Jones)",
-    "numberOfShares": 527000.0,
+    "numberOfShares": 31000.0,
     "sharePrice": 64.18,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
@@ -114,7 +132,7 @@
     "ticker": "BX-US",
     "companyName": "Blackstone Group",
     "numberOfShares": 15699.999999999998,
-    "sharePrice": 117.21,
+    "sharePrice": 118.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -124,19 +142,9 @@
     "ticker": "BMW-DE",
     "companyName": "BMW AG",
     "numberOfShares": 13000.0,
-    "sharePrice": 64.21747042766151,
+    "sharePrice": 63.527533918595374,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
-    "interactive": false
-  },
-  {
-    "exchange": "EURONEXT PARIS",
-    "ticker": "BNP-FR",
-    "companyName": "BNP Paribas S.A.",
-    "numberOfShares": 579800.0,
-    "sharePrice": 111.9540491355778,
-    "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -144,9 +152,19 @@
     "ticker": "BNP-FR",
     "companyName": "BNP Paribas S.A.",
     "numberOfShares": 161900.0,
-    "sharePrice": 111.9540491355778,
+    "sharePrice": 113.21400068407252,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
+    "interactive": false
+  },
+  {
+    "exchange": "EURONEXT PARIS",
+    "ticker": "BNP-FR",
+    "companyName": "BNP Paribas S.A.",
+    "numberOfShares": 62000.0,
+    "sharePrice": 113.21400068407252,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -154,9 +172,9 @@
     "ticker": "BATS-GB",
     "companyName": "British Amer Tobacco",
     "numberOfShares": 0.0,
-    "sharePrice": 56.087243886318575,
+    "sharePrice": 55.36423841059602,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7565,
+    "exchangeRate": 0.755,
     "interactive": false
   },
   {
@@ -164,7 +182,17 @@
     "ticker": "CG-US",
     "companyName": "Carlyle Group",
     "numberOfShares": 59000.0,
-    "sharePrice": 39.42,
+    "sharePrice": 40.03,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "C-US",
+    "companyName": "Citigroup",
+    "numberOfShares": 66000.0,
+    "sharePrice": 134.28,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -174,9 +202,9 @@
     "ticker": "MBG-DE",
     "companyName": "Daimler",
     "numberOfShares": 0.0,
-    "sharePrice": 46.911965423111916,
+    "sharePrice": 47.06988940827728,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -184,7 +212,7 @@
     "ticker": "DAL-US",
     "companyName": "Delta Air Lines",
     "numberOfShares": 44500.0,
-    "sharePrice": 82.76,
+    "sharePrice": 84.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -194,7 +222,27 @@
     "ticker": "XOM-US",
     "companyName": "Exxon Mobil Corp.",
     "numberOfShares": 0.0,
-    "sharePrice": 162.14,
+    "sharePrice": 160.59,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "LONDON",
+    "ticker": "GLEN-GB",
+    "companyName": "Glencore International Plc",
+    "numberOfShares": 1997000.0,
+    "sharePrice": 7.4317880794701985,
+    "currencyCode": "GBP",
+    "exchangeRate": 0.755,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "GS-US",
+    "companyName": "Goldman Sachs Group Inc.",
+    "numberOfShares": 9000.0,
+    "sharePrice": 935.45,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -204,7 +252,7 @@
     "ticker": "GOOG-US",
     "companyName": "Google Inc. (Cl C)",
     "numberOfShares": 0.0,
-    "sharePrice": 339.01,
+    "sharePrice": 341.08,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -220,21 +268,41 @@
     "interactive": false
   },
   {
+    "exchange": "XETRA",
+    "ticker": "IFX-DE",
+    "companyName": "Infineon Technologies",
+    "numberOfShares": 75000.0,
+    "sharePrice": 64.65625356287767,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8771,
+    "interactive": false
+  },
+  {
     "exchange": "EURONEXT AMSTERDAM",
     "ticker": "INGA-NL",
     "companyName": "ING Group",
-    "numberOfShares": 53000.0,
-    "sharePrice": 35.8450864422202,
+    "numberOfShares": 152000.0,
+    "sharePrice": 36.2501425151066,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "INTC-US",
+    "companyName": "Intel Corp.",
+    "numberOfShares": 90000.0,
+    "sharePrice": 123.0,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "JPM-US",
     "companyName": "JPMorgan Chase & Co.",
-    "numberOfShares": 8000.0,
-    "sharePrice": 338.56,
+    "numberOfShares": 39000.0,
+    "sharePrice": 343.06,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -244,7 +312,7 @@
     "ticker": "KKR-US",
     "companyName": "KKR & Co.",
     "numberOfShares": 20100.0,
-    "sharePrice": 95.64,
+    "sharePrice": 96.67,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -253,8 +321,8 @@
     "exchange": "NASDAQ",
     "ticker": "LRCX-US",
     "companyName": "Lam Research",
-    "numberOfShares": 4000.0,
-    "sharePrice": 307.16,
+    "numberOfShares": 27000.0,
+    "sharePrice": 315.21,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -264,9 +332,19 @@
     "ticker": "MC-FR",
     "companyName": "LVMH Moet Hennessy Louis Vuitton",
     "numberOfShares": 240.0,
-    "sharePrice": 451.6606005459509,
+    "sharePrice": 452.45696043780646,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "MRVL-US",
+    "companyName": "Marvell Technology Group Ltd.",
+    "numberOfShares": 41000.0,
+    "sharePrice": 261.935,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
@@ -274,7 +352,7 @@
     "ticker": "MBGAF-US",
     "companyName": "Mercedes-Benz Group AG",
     "numberOfShares": 46800.0,
-    "sharePrice": 47.28,
+    "sharePrice": 47.3,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -283,8 +361,8 @@
     "exchange": "NASDAQ",
     "ticker": "META-US",
     "companyName": "Meta Platforms",
-    "numberOfShares": 115000.0,
-    "sharePrice": 777.59,
+    "numberOfShares": 29000.0,
+    "sharePrice": 751.66,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -293,8 +371,8 @@
     "exchange": "NASDAQ",
     "ticker": "MU-US",
     "companyName": "Micron Technology Inc.",
-    "numberOfShares": 3700.0,
-    "sharePrice": 1080.53,
+    "numberOfShares": 36000.0,
+    "sharePrice": 1082.28,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -303,8 +381,18 @@
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
-    "numberOfShares": 148000.0,
-    "sharePrice": 497.93,
+    "numberOfShares": 23000.0,
+    "sharePrice": 516.17,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MS-US",
+    "companyName": "Morgan Stanley",
+    "numberOfShares": 46000.0,
+    "sharePrice": 196.31,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -314,17 +402,17 @@
     "ticker": "NESN-CH",
     "companyName": "Nestle S.A.",
     "numberOfShares": 0.0,
-    "sharePrice": 94.02823018458197,
+    "sharePrice": 93.15548044422984,
     "currencyCode": "CHF",
-    "exchangeRate": 0.8289,
+    "exchangeRate": 0.8284,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
     "ticker": "NVDA-US",
     "companyName": "Nvidia",
-    "numberOfShares": 61000.0,
-    "sharePrice": 224.58,
+    "numberOfShares": 159000.0,
+    "sharePrice": 225.07,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -334,9 +422,9 @@
     "ticker": "PAH3-DE",
     "companyName": "Porsche Automobil Holding SE",
     "numberOfShares": 20000.0,
-    "sharePrice": 29.106005459508644,
+    "sharePrice": 29.380914376923954,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -344,7 +432,7 @@
     "ticker": "QCOM-US",
     "companyName": "QUALCOMM Inc.",
     "numberOfShares": 7000.0,
-    "sharePrice": 194.26,
+    "sharePrice": 201.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -354,9 +442,9 @@
     "ticker": "REP-ES",
     "companyName": "Repsol YPF S.A.",
     "numberOfShares": 2857000.0,
-    "sharePrice": 35.87352138307552,
+    "sharePrice": 35.05871622391974,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -364,9 +452,9 @@
     "ticker": "RIO-GB",
     "companyName": "Rio Tinto",
     "numberOfShares": 520599.99999999994,
-    "sharePrice": 93.45670852610708,
+    "sharePrice": 93.88079470198674,
     "currencyCode": "GBP",
-    "exchangeRate": 0.7565,
+    "exchangeRate": 0.755,
     "interactive": false
   },
   {
@@ -374,9 +462,9 @@
     "ticker": "005930-KR",
     "companyName": "Samsung Electronics",
     "numberOfShares": 1000.0,
-    "sharePrice": 208.9282238246964,
+    "sharePrice": 210.0423027404819,
     "currencyCode": "KRW",
-    "exchangeRate": 1366.498,
+    "exchangeRate": 1359.25,
     "interactive": false
   },
   {
@@ -384,7 +472,7 @@
     "ticker": "SLB-US",
     "companyName": "Schlumberger Ltd.",
     "numberOfShares": 13000.0,
-    "sharePrice": 51.43,
+    "sharePrice": 51.54,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -394,19 +482,19 @@
     "ticker": "SHELL-NL",
     "companyName": "Shell PLC",
     "numberOfShares": 38000.0,
-    "sharePrice": 48.259781619654234,
+    "sharePrice": 47.95348306920534,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "XETRA",
     "ticker": "SIE-DE",
     "companyName": "Siemens AG",
-    "numberOfShares": 6100.0,
-    "sharePrice": 312.55686988171067,
+    "numberOfShares": 32000.0,
+    "sharePrice": 317.2956333371338,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -414,9 +502,9 @@
     "ticker": "GLE-FR",
     "companyName": "Societe Generale S.A. (France)",
     "numberOfShares": 0.0,
-    "sharePrice": 79.46997270245679,
+    "sharePrice": 82.44213886671987,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -424,16 +512,16 @@
     "ticker": "GLE-FR",
     "companyName": "Societe Generale S.A. (France)",
     "numberOfShares": 688500.0,
-    "sharePrice": 79.46997270245679,
+    "sharePrice": 82.44213886671987,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "TAIWAN",
     "ticker": "2330-TW",
     "companyName": "Taiwan Semiconductor Manufacturing",
-    "numberOfShares": 52000.0,
+    "numberOfShares": 89000.0,
     "sharePrice": 77.75805463485132,
     "currencyCode": "TWD",
     "exchangeRate": 31.8295,
@@ -444,19 +532,19 @@
     "ticker": "TTE-FR",
     "companyName": "Total",
     "numberOfShares": 699000.0,
-    "sharePrice": 92.18607825295723,
+    "sharePrice": 91.19826701630372,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
     "exchange": "MILAN",
     "ticker": "UCG-IT",
     "companyName": "UniCredit S.p.A.",
-    "numberOfShares": 161000.0,
-    "sharePrice": 93.47133757961784,
+    "numberOfShares": 0.0,
+    "sharePrice": 95.71314559343291,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -464,9 +552,9 @@
     "ticker": "VOW-DE",
     "companyName": "Volkswagen Group",
     "numberOfShares": 136000.0,
-    "sharePrice": 80.5277525022748,
+    "sharePrice": 81.80367118914604,
     "currencyCode": "EUR",
-    "exchangeRate": 0.8792,
+    "exchangeRate": 0.8771,
     "interactive": false
   },
   {
@@ -474,9 +562,9 @@
     "ticker": "WDS-AU",
     "companyName": "Woodside Energy Group",
     "numberOfShares": 213000.0,
-    "sharePrice": 22.19491644431962,
+    "sharePrice": 22.281539758359088,
     "currencyCode": "AUD",
-    "exchangeRate": 1.4242,
+    "exchangeRate": 1.4236,
     "interactive": false
   }
 ]
