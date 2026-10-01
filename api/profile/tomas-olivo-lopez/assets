@@ -1,12 +1,32 @@
 [
   {
+    "exchange": "MADRID",
+    "ticker": "SAB-ES",
+    "companyName": "Banco de Sabadell S.A.",
+    "numberOfShares": 16900000.0,
+    "sharePrice": 4.158539351326831,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8818,
+    "interactive": false
+  },
+  {
     "exchange": "LIMA",
     "ticker": "BBVAC1-PE",
     "companyName": "BBVA Banco Continental",
     "numberOfShares": 395000.0,
-    "sharePrice": 0.6292872921753285,
+    "sharePrice": 0.6384274158476124,
     "currencyCode": "PEN",
-    "exchangeRate": 3.4404,
+    "exchangeRate": 3.4491,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
+    "ticker": "CABK-ES",
+    "companyName": "CaixaBank SA",
+    "numberOfShares": 570000.0,
+    "sharePrice": 14.328645951462915,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8818,
     "interactive": false
   },
   {
@@ -14,9 +34,9 @@
     "ticker": "UNI-ES",
     "companyName": "Unicaja Banco",
     "numberOfShares": 241476000.0,
-    "sharePrice": 4.0227272727272725,
+    "sharePrice": 4.02358811521887,
     "currencyCode": "EUR",
-    "exchangeRate": 0.88,
+    "exchangeRate": 0.8818,
     "interactive": false
   }
 ]

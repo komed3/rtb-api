@@ -3,10 +3,20 @@
     "exchange": "NASDAQ",
     "ticker": "CCEP-US",
     "companyName": "Coca-Cola European Partners",
-    "numberOfShares": 7855000.0,
-    "sharePrice": 102.87,
+    "numberOfShares": 7920000.0,
+    "sharePrice": 102.29,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "MADRID",
+    "ticker": "FAE-ES",
+    "companyName": "Faes Farma",
+    "numberOfShares": 16000000.0,
+    "sharePrice": 5.358357904286685,
+    "currencyCode": "EUR",
+    "exchangeRate": 0.8818,
     "interactive": false
   }
 ]
