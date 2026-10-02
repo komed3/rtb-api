@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "exchange": "NYSE",
+    "ticker": "BETA-US",
+    "companyName": "BETA Technologies",
+    "numberOfShares": 17426710.0,
+    "sharePrice": 22.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BETA-US",
+    "companyName": "BETA Technologies",
+    "numberOfShares": 30342.0,
+    "exerciseOptionPrice": 6.92,
+    "sharePrice": 22.1,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  }
+]
