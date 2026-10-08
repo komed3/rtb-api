@@ -14,7 +14,7 @@
     "ticker": "FIG-US",
     "companyName": "Figma",
     "numberOfShares": 1460000.0,
-    "sharePrice": 22.01,
+    "sharePrice": 21.93,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -25,7 +25,7 @@
     "companyName": "Hippo Holdings",
     "numberOfShares": 70400.0,
     "exerciseOptionPrice": 287.5,
-    "sharePrice": 32.2,
+    "sharePrice": 32.48,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,17 +35,7 @@
     "ticker": "HIPO-US",
     "companyName": "Hippo Holdings",
     "numberOfShares": 0.0,
-    "sharePrice": 32.2,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "JOBY-US",
-    "companyName": "Joby Aviation",
-    "numberOfShares": 7580000.0,
-    "sharePrice": 5.78,
+    "sharePrice": 32.48,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -62,11 +52,21 @@
     "interactive": false
   },
   {
+    "exchange": "NYSE",
+    "ticker": "JOBY-US",
+    "companyName": "Joby Aviation",
+    "numberOfShares": 7580000.0,
+    "sharePrice": 5.78,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
     "exchange": "NASDAQ",
     "ticker": "MSFT-US",
     "companyName": "Microsoft",
     "numberOfShares": 16000.0,
-    "sharePrice": 525.18,
+    "sharePrice": 529.3,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -76,7 +76,7 @@
     "ticker": "VOR-US",
     "companyName": "Vor Biopharma",
     "numberOfShares": 1167000.0,
-    "sharePrice": 18.58,
+    "sharePrice": 18.31,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
