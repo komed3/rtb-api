@@ -3,7 +3,7 @@
     "exchange": "SHANGHAI",
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
-    "numberOfShares": -1650000000.0,
+    "numberOfShares": 1803000000.0,
     "sharePrice": 0.5234587049243893,
     "currencyCode": "CNY",
     "exchangeRate": 6.7054,
@@ -13,7 +13,7 @@
     "exchange": "SHANGHAI",
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
-    "numberOfShares": 1803000000.0,
+    "numberOfShares": -1650000000.0,
     "sharePrice": 0.5234587049243893,
     "currencyCode": "CNY",
     "exchangeRate": 6.7054,
@@ -24,9 +24,9 @@
     "ticker": "1988-HK",
     "companyName": "China Minsheng Banking (HK-listed)",
     "numberOfShares": 0.0,
-    "sharePrice": 0.4377078634504377,
+    "sharePrice": 0.43321483633398317,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8477,
+    "exchangeRate": 7.8483,
     "interactive": false
   },
   {
@@ -54,19 +54,9 @@
     "ticker": "3396-HK",
     "companyName": "Legend Holdings Corporation",
     "numberOfShares": 400000000.0,
-    "sharePrice": 3.065866432203066,
+    "sharePrice": 3.1140501764713377,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8477,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "000416-CN",
-    "companyName": "Minsheng Investment Management Co Ltd",
-    "numberOfShares": -59990000.0,
-    "sharePrice": 0.0671100903749217,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.7054,
+    "exchangeRate": 7.8483,
     "interactive": false
   },
   {
@@ -81,10 +71,10 @@
   },
   {
     "exchange": "SHENZHEN",
-    "ticker": "000046-CN",
-    "companyName": "Oceanwide Real Estate Group Co. Ltd.",
-    "numberOfShares": -3301000000.0,
-    "sharePrice": 0.05667074298326722,
+    "ticker": "000416-CN",
+    "companyName": "Minsheng Investment Management Co Ltd",
+    "numberOfShares": -59990000.0,
+    "sharePrice": 0.0671100903749217,
     "currencyCode": "CNY",
     "exchangeRate": 6.7054,
     "interactive": false
@@ -94,6 +84,16 @@
     "ticker": "000046-CN",
     "companyName": "Oceanwide Real Estate Group Co. Ltd.",
     "numberOfShares": 3301000000.0,
+    "sharePrice": 0.05667074298326722,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.7054,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "000046-CN",
+    "companyName": "Oceanwide Real Estate Group Co. Ltd.",
+    "numberOfShares": -3301000000.0,
     "sharePrice": 0.05667074298326722,
     "currencyCode": "CNY",
     "exchangeRate": 6.7054,
