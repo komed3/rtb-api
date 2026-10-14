@@ -14,19 +14,9 @@
     "ticker": "2007-HK",
     "companyName": "Country Garden Holdings",
     "numberOfShares": 29408668000.0,
-    "sharePrice": 0.023318339938072606,
+    "sharePrice": 0.022300095571838163,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8479,
-    "interactive": false
-  },
-  {
-    "exchange": "HONG KONG",
-    "ticker": "6098-HK",
-    "companyName": "Country Garden Services Holdings Company",
-    "numberOfShares": 543695000.0,
-    "sharePrice": 0.6664203162629494,
-    "currencyCode": "HKD",
-    "exchangeRate": 7.8479,
+    "exchangeRate": 7.8475,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "6098-HK",
     "companyName": "Country Garden Services Holdings Company",
     "numberOfShares": -271848000.0,
-    "sharePrice": 0.6664203162629494,
+    "sharePrice": 0.6568971009875757,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8479,
+    "exchangeRate": 7.8475,
+    "interactive": false
+  },
+  {
+    "exchange": "HONG KONG",
+    "ticker": "6098-HK",
+    "companyName": "Country Garden Services Holdings Company",
+    "numberOfShares": 543695000.0,
+    "sharePrice": 0.6568971009875757,
+    "currencyCode": "HKD",
+    "exchangeRate": 7.8475,
     "interactive": false
   }
 ]

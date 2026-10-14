@@ -3,36 +3,36 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 51.13,
-    "sharePrice": 141.4,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 137.39
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
     "numberOfShares": 142821.0,
     "exerciseOptionPrice": 280.07,
-    "sharePrice": 141.4,
+    "sharePrice": 137.39,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 137.39
+    "currentPrice": 143.2
   },
   {
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
     "numberOfShares": 1054982353.0000001,
-    "sharePrice": 141.4,
+    "sharePrice": 137.39,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 137.39
+    "currentPrice": 143.2
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 137.39,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 143.2
   },
   {
     "exchange": "NYSE",
@@ -43,28 +43,28 @@
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 9.16
+    "currentPrice": 9.27
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
     "numberOfShares": 19939703.0,
-    "sharePrice": 162.57,
+    "sharePrice": 163.42,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 163.42
+    "currentPrice": 156.54
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 32413500.0,
-    "sharePrice": 382.7,
+    "sharePrice": 378.03,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 378.03
+    "currentPrice": 375.23
   }
 ]

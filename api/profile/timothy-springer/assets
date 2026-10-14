@@ -3,19 +3,9 @@
     "exchange": "NASDAQ",
     "ticker": "RNAC-US",
     "companyName": "Cartesian Therapeutics",
-    "numberOfShares": 9630893.0,
-    "sharePrice": 7.055,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "RNAC-US",
-    "companyName": "Cartesian Therapeutics",
     "numberOfShares": 170628.0,
     "exerciseOptionPrice": 46.5,
-    "sharePrice": 7.055,
+    "sharePrice": 6.99,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -26,7 +16,17 @@
     "companyName": "Cartesian Therapeutics",
     "numberOfShares": 7600.0,
     "exerciseOptionPrice": 19.66,
-    "sharePrice": 7.055,
+    "sharePrice": 6.99,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "RNAC-US",
+    "companyName": "Cartesian Therapeutics",
+    "numberOfShares": 9630893.0,
+    "sharePrice": 6.99,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -36,17 +36,7 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11608781.0,
-    "sharePrice": 225.0,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "MORF-US",
-    "companyName": "Morphic Holding",
-    "numberOfShares": 0.0,
-    "sharePrice": 56.99,
+    "sharePrice": 213.74,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -64,20 +54,20 @@
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "SRRK-US",
-    "companyName": "Scholar Rock Holding Corp",
-    "numberOfShares": 312951.0,
-    "sharePrice": 42.19,
+    "ticker": "MORF-US",
+    "companyName": "Morphic Holding",
+    "numberOfShares": 0.0,
+    "sharePrice": 56.99,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NASDAQ",
-    "ticker": "TECX-US",
-    "companyName": "Tectonic Therapeutic",
-    "numberOfShares": 6024338.0,
-    "sharePrice": 23.33,
+    "ticker": "SRRK-US",
+    "companyName": "Scholar Rock Holding Corp",
+    "numberOfShares": 312951.0,
+    "sharePrice": 41.94,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -88,7 +78,17 @@
     "companyName": "Tectonic Therapeutic",
     "numberOfShares": 6536.0,
     "exerciseOptionPrice": 16.8,
-    "sharePrice": 23.33,
+    "sharePrice": 22.35,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "TECX-US",
+    "companyName": "Tectonic Therapeutic",
+    "numberOfShares": 6024338.0,
+    "sharePrice": 22.35,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
