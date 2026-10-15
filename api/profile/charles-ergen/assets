@@ -24,9 +24,19 @@
     "exchange": "NASDAQ",
     "ticker": "ECHO-US",
     "companyName": "EchoStar Corporation Class A",
+    "numberOfShares": 145180000.0,
+    "sharePrice": 91.56,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ECHO-US",
+    "companyName": "EchoStar Corporation Class A",
     "numberOfShares": 100000.0,
     "exerciseOptionPrice": 60.37,
-    "sharePrice": 95.1,
+    "sharePrice": 91.56,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -37,17 +47,7 @@
     "companyName": "EchoStar Corporation Class A",
     "numberOfShares": 60000.0,
     "exerciseOptionPrice": 57.93,
-    "sharePrice": 95.1,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "ECHO-US",
-    "companyName": "EchoStar Corporation Class A",
-    "numberOfShares": 145180000.0,
-    "sharePrice": 95.1,
+    "sharePrice": 91.56,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
