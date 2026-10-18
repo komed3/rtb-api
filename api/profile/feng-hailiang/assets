@@ -4,19 +4,9 @@
     "ticker": "2336-HK",
     "companyName": "Hailiang International Holdings",
     "numberOfShares": 1013000000.0,
-    "sharePrice": 0.02217436184990251,
+    "sharePrice": 0.022171536334560836,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8469,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002203-CN",
-    "companyName": "Zhejiang Hailiang Co Ltd",
-    "numberOfShares": 551000000.0,
-    "sharePrice": 2.1040991078500233,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.6917,
+    "exchangeRate": 7.8479,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "002203-CN",
     "companyName": "Zhejiang Hailiang Co Ltd",
     "numberOfShares": -28000000.0,
-    "sharePrice": 2.1040991078500233,
+    "sharePrice": 2.096699418248164,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6917,
+    "exchangeRate": 6.6867,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002203-CN",
+    "companyName": "Zhejiang Hailiang Co Ltd",
+    "numberOfShares": 551000000.0,
+    "sharePrice": 2.096699418248164,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.6867,
     "interactive": false
   }
 ]
