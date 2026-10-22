@@ -4,9 +4,9 @@
     "ticker": "2912-TW",
     "companyName": "President Chain",
     "numberOfShares": 7253000.0,
-    "sharePrice": 7.02072419461386,
+    "sharePrice": 6.951462256928495,
     "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
+    "exchangeRate": 32.655,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "2855-TW",
     "companyName": "President Securities Corp.",
     "numberOfShares": 40700000.0,
-    "sharePrice": 1.720615119905366,
+    "sharePrice": 1.656714132598377,
     "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
+    "exchangeRate": 32.655,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "2511-TW",
     "companyName": "Prince Housing Development",
     "numberOfShares": 69908000.0,
-    "sharePrice": 0.2497964450862612,
+    "sharePrice": 0.24804777216352777,
     "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
+    "exchangeRate": 32.655,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "1789-TW",
     "companyName": "ScinoPharm Taiwan Ltd",
     "numberOfShares": 15275000.0,
-    "sharePrice": 0.5929977109673851,
+    "sharePrice": 0.5879650895728066,
     "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
+    "exchangeRate": 32.655,
     "interactive": false
   },
   {
@@ -44,19 +44,9 @@
     "ticker": "9907-TW",
     "companyName": "Ton Yi",
     "numberOfShares": 31017000.0,
-    "sharePrice": 0.46395157697448264,
+    "sharePrice": 0.45781656714132596,
     "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
-    "interactive": false
-  },
-  {
-    "exchange": "TAIWAN",
-    "ticker": "1216-TW",
-    "companyName": "Uni-President",
-    "numberOfShares": 0.0,
-    "sharePrice": 2.4457314918654847,
-    "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
+    "exchangeRate": 32.655,
     "interactive": false
   },
   {
@@ -64,9 +54,19 @@
     "ticker": "1216-TW",
     "companyName": "Uni-President",
     "numberOfShares": 353035000.0,
-    "sharePrice": 2.4457314918654847,
+    "sharePrice": 2.4008574490889605,
     "currencyCode": "TWD",
-    "exchangeRate": 32.5465,
+    "exchangeRate": 32.655,
+    "interactive": false
+  },
+  {
+    "exchange": "TAIWAN",
+    "ticker": "1216-TW",
+    "companyName": "Uni-President",
+    "numberOfShares": 0.0,
+    "sharePrice": 2.4008574490889605,
+    "currencyCode": "TWD",
+    "exchangeRate": 32.655,
     "interactive": false
   }
 ]
