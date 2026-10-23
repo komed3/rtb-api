@@ -4,9 +4,9 @@
     "ticker": "090435-KR",
     "companyName": "Amorepacific Corp Prf",
     "numberOfShares": 0.0,
-    "sharePrice": 30.41825095057034,
+    "sharePrice": 30.220713073005093,
     "currencyCode": "KRW",
-    "exchangeRate": 1328.15,
+    "exchangeRate": 1325.25,
     "interactive": false
   },
   {
@@ -14,9 +14,19 @@
     "ticker": "090430-KR",
     "companyName": "Amorepacific Corp. (New)",
     "numberOfShares": 5811000.0,
-    "sharePrice": 103.82863381395173,
+    "sharePrice": 102.3203169213356,
     "currencyCode": "KRW",
-    "exchangeRate": 1328.15,
+    "exchangeRate": 1325.25,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "002795-KR",
+    "companyName": "Pacific Corp Prf",
+    "numberOfShares": 0.0,
+    "sharePrice": 8.172043010752688,
+    "currencyCode": "KRW",
+    "exchangeRate": 1325.25,
     "interactive": false
   },
   {
@@ -24,19 +34,9 @@
     "ticker": "002795-KR",
     "companyName": "Pacific Corp Prf",
     "numberOfShares": 1369000.0,
-    "sharePrice": 8.109023830139668,
+    "sharePrice": 8.172043010752688,
     "currencyCode": "KRW",
-    "exchangeRate": 1328.15,
-    "interactive": false
-  },
-  {
-    "exchange": "KOREA",
-    "ticker": "002795-KR",
-    "companyName": "Pacific Corp Prf",
-    "numberOfShares": 0.0,
-    "sharePrice": 8.109023830139668,
-    "currencyCode": "KRW",
-    "exchangeRate": 1328.15,
+    "exchangeRate": 1325.25,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "002790-KR",
     "companyName": "Pacific Corp.",
     "numberOfShares": 0.0,
-    "sharePrice": 19.23728494522456,
+    "sharePrice": 19.203923787964534,
     "currencyCode": "KRW",
-    "exchangeRate": 1328.15,
+    "exchangeRate": 1325.25,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "002790-KR",
     "companyName": "Pacific Corp.",
     "numberOfShares": 45044000.0,
-    "sharePrice": 19.23728494522456,
+    "sharePrice": 19.203923787964534,
     "currencyCode": "KRW",
-    "exchangeRate": 1328.15,
+    "exchangeRate": 1325.25,
     "interactive": false
   }
 ]
