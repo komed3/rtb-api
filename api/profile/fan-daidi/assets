@@ -4,9 +4,9 @@
     "ticker": "2373-HK",
     "companyName": "Beauty Farm Medical and Health Industry",
     "numberOfShares": 4000000.0,
-    "sharePrice": 2.158841820869654,
+    "sharePrice": 2.1169895107572163,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8468,
+    "exchangeRate": 7.8366,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "2367-HK",
     "companyName": "Giant Biogene Holding",
     "numberOfShares": 585330000.0,
-    "sharePrice": 2.847020441453841,
+    "sharePrice": 2.6771814307225075,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8468,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "300775-CN",
-    "companyName": "Xian Triangle Defense",
-    "numberOfShares": 21220000.0,
-    "sharePrice": 2.890216691375773,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.6777,
+    "exchangeRate": 7.8366,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "300775-CN",
     "companyName": "Xian Triangle Defense",
     "numberOfShares": 0.0,
-    "sharePrice": 2.890216691375773,
+    "sharePrice": 2.8174502075621564,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6777,
+    "exchangeRate": 6.6727,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "300775-CN",
+    "companyName": "Xian Triangle Defense",
+    "numberOfShares": 21220000.0,
+    "sharePrice": 2.8174502075621564,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.6727,
     "interactive": false
   }
 ]
