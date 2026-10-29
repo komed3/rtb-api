@@ -4,19 +4,9 @@
     "ticker": "2016-HK",
     "companyName": "China Zheshang Bank",
     "numberOfShares": 313841000.0,
-    "sharePrice": 0.29635955743639425,
+    "sharePrice": 0.2982829609045367,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8452,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002602-CN",
-    "companyName": "ZHEJIANG CENTURY HUATONG AUTOM PART",
-    "numberOfShares": -423457000.0,
-    "sharePrice": 1.7531230785381142,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.6681,
+    "exchangeRate": 7.8449,
     "interactive": false
   },
   {
@@ -24,9 +14,19 @@
     "ticker": "002602-CN",
     "companyName": "ZHEJIANG CENTURY HUATONG AUTOM PART",
     "numberOfShares": 1503713000.0,
-    "sharePrice": 1.7531230785381142,
+    "sharePrice": 1.6961607678464308,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6681,
+    "exchangeRate": 6.668,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002602-CN",
+    "companyName": "ZHEJIANG CENTURY HUATONG AUTOM PART",
+    "numberOfShares": -423457000.0,
+    "sharePrice": 1.6961607678464308,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.668,
     "interactive": false
   }
 ]

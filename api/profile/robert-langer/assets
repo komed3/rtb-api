@@ -4,7 +4,7 @@
     "ticker": "KRRO-US",
     "companyName": "Korro Bio",
     "numberOfShares": 0.0,
-    "sharePrice": 12.02,
+    "sharePrice": 13.3,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -24,7 +24,17 @@
     "ticker": "MRNA-US",
     "companyName": "Moderna, Inc.",
     "numberOfShares": 11509357.0,
-    "sharePrice": 198.85,
+    "sharePrice": 207.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "SEER-US",
+    "companyName": "Seer",
+    "numberOfShares": 725847.0,
+    "sharePrice": 1.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -35,7 +45,7 @@
     "companyName": "Seer",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 0.05,
-    "sharePrice": 1.93,
+    "sharePrice": 1.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -46,7 +56,7 @@
     "companyName": "Seer",
     "numberOfShares": 36085.0,
     "exerciseOptionPrice": 2.7,
-    "sharePrice": 1.93,
+    "sharePrice": 1.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -57,7 +67,7 @@
     "companyName": "Seer",
     "numberOfShares": 278580.0,
     "exerciseOptionPrice": 3.47,
-    "sharePrice": 1.93,
+    "sharePrice": 1.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -68,17 +78,7 @@
     "companyName": "Seer",
     "numberOfShares": 18691.0,
     "exerciseOptionPrice": 19.0,
-    "sharePrice": 1.93,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NASDAQ",
-    "ticker": "SEER-US",
-    "companyName": "Seer",
-    "numberOfShares": 725847.0,
-    "sharePrice": 1.93,
+    "sharePrice": 1.96,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
