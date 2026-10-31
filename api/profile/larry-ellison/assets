@@ -3,68 +3,68 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
-    "numberOfShares": 142821.0,
-    "exerciseOptionPrice": 280.07,
-    "sharePrice": 144.54,
+    "numberOfShares": 0.0,
+    "exerciseOptionPrice": 51.13,
+    "sharePrice": 139.56,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 139.56
+    "currentPrice": 130.67
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
+    "numberOfShares": 142821.0,
+    "exerciseOptionPrice": 280.07,
+    "sharePrice": 139.56,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 130.67
   },
   {
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
     "numberOfShares": 1054982353.0000001,
-    "sharePrice": 144.54,
+    "sharePrice": 139.56,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 139.56
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 0.0,
-    "exerciseOptionPrice": 51.13,
-    "sharePrice": 144.54,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 139.56
+    "currentPrice": 130.67
   },
   {
     "exchange": "NYSE",
     "ticker": "SKYD-US",
     "companyName": "Skydance Corporation Class B",
     "numberOfShares": 529558408.0,
-    "sharePrice": 7.77,
+    "sharePrice": 7.9,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 7.9
+    "currentPrice": 7.95
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
     "numberOfShares": 19939703.0,
-    "sharePrice": 145.23,
+    "sharePrice": 143.89,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 143.89
+    "currentPrice": 134.72
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 32413500.0,
-    "sharePrice": 404.22,
+    "sharePrice": 403.3,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 404.22
+    "currentPrice": 399.81
   }
 ]
