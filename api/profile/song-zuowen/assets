@@ -4,19 +4,9 @@
     "ticker": "1563-HK",
     "companyName": "International Alliance Financial Leasing",
     "numberOfShares": 768475000.0,
-    "sharePrice": 0.015296367112810707,
+    "sharePrice": 0.013509896636545544,
     "currencyCode": "HKD",
-    "exchangeRate": 7.845,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600219-CN",
-    "companyName": "Shandong Nanshan Auminum Co Ltd",
-    "numberOfShares": -160066000.0,
-    "sharePrice": 0.641555358564839,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.6557,
+    "exchangeRate": 7.8461,
     "interactive": false
   },
   {
@@ -24,9 +14,9 @@
     "ticker": "600219-CN",
     "companyName": "Shandong Nanshan Auminum Co Ltd",
     "numberOfShares": 2442870000.0,
-    "sharePrice": 0.641555358564839,
+    "sharePrice": 0.6409870598856455,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6557,
+    "exchangeRate": 6.646,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "600219-CN",
     "companyName": "Shandong Nanshan Auminum Co Ltd",
     "numberOfShares": 0.0,
-    "sharePrice": 0.641555358564839,
+    "sharePrice": 0.6409870598856455,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6557,
+    "exchangeRate": 6.646,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600219-CN",
+    "companyName": "Shandong Nanshan Auminum Co Ltd",
+    "numberOfShares": -160066000.0,
+    "sharePrice": 0.6409870598856455,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.646,
     "interactive": false
   }
 ]
