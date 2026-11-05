@@ -1,10 +1,20 @@
 [
   {
+    "exchange": "NYSE",
+    "ticker": "GPRK-US",
+    "companyName": "Geopark Ltd. common shares (GPRK)",
+    "numberOfShares": 60251663.0,
+    "sharePrice": 10.33,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
     "exchange": "LONDON",
     "ticker": "MTRO-GB",
     "companyName": "Metro Bank",
     "numberOfShares": 356371914.0,
-    "sharePrice": 2.063321706466327,
+    "sharePrice": 2.04722296753421,
     "currencyCode": "GBP",
     "exchangeRate": 0.7454,
     "interactive": false

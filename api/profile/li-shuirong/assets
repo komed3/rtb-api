@@ -3,20 +3,30 @@
     "exchange": "SHANGHAI",
     "ticker": "600051-CN",
     "companyName": "Ningbo United Group Co Ltd ",
-    "numberOfShares": 87600000.0,
-    "sharePrice": 0.842612097502257,
+    "numberOfShares": 0.0,
+    "sharePrice": 0.8358173184943305,
     "currencyCode": "CNY",
-    "exchangeRate": 6.646,
+    "exchangeRate": 6.6761,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "600051-CN",
     "companyName": "Ningbo United Group Co Ltd ",
-    "numberOfShares": 0.0,
-    "sharePrice": 0.842612097502257,
+    "numberOfShares": 87600000.0,
+    "sharePrice": 0.8358173184943305,
     "currencyCode": "CNY",
-    "exchangeRate": 6.646,
+    "exchangeRate": 6.6761,
+    "interactive": false
+  },
+  {
+    "exchange": "SHENZHEN",
+    "ticker": "002493-CN",
+    "companyName": "Rongsheng Petro Chemical Co Ltd ",
+    "numberOfShares": 0.0,
+    "sharePrice": 1.816929045400758,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.6761,
     "interactive": false
   },
   {
@@ -24,19 +34,9 @@
     "ticker": "002493-CN",
     "companyName": "Rongsheng Petro Chemical Co Ltd ",
     "numberOfShares": 6309620000.0,
-    "sharePrice": 1.7845320493529941,
+    "sharePrice": 1.816929045400758,
     "currencyCode": "CNY",
-    "exchangeRate": 6.646,
-    "interactive": false
-  },
-  {
-    "exchange": "SHENZHEN",
-    "ticker": "002493-CN",
-    "companyName": "Rongsheng Petro Chemical Co Ltd ",
-    "numberOfShares": 0.0,
-    "sharePrice": 1.7845320493529941,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.646,
+    "exchangeRate": 6.6761,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "002386-CN",
     "companyName": "Yibin Tianyuan Group Co Ltd",
     "numberOfShares": 22970000.0,
-    "sharePrice": 0.7523322299127295,
+    "sharePrice": 0.7594254130405477,
     "currencyCode": "CNY",
-    "exchangeRate": 6.646,
+    "exchangeRate": 6.6761,
     "interactive": false
   }
 ]

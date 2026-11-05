@@ -3,12 +3,24 @@
     "exchange": "NYSE",
     "ticker": "ORCL-US",
     "companyName": "Oracle",
+    "numberOfShares": 142821.0,
+    "exerciseOptionPrice": 280.07,
+    "sharePrice": 126.19,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false,
+    "currentPrice": 123.73
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ORCL-US",
+    "companyName": "Oracle",
     "numberOfShares": 1054982353.0000001,
-    "sharePrice": 119.22,
+    "sharePrice": 126.19,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": true,
-    "currentPrice": 126.19
+    "currentPrice": 123.73
   },
   {
     "exchange": "NYSE",
@@ -16,55 +28,43 @@
     "companyName": "Oracle",
     "numberOfShares": 0.0,
     "exerciseOptionPrice": 51.13,
-    "sharePrice": 119.22,
+    "sharePrice": 126.19,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 126.19
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "ORCL-US",
-    "companyName": "Oracle",
-    "numberOfShares": 142821.0,
-    "exerciseOptionPrice": 280.07,
-    "sharePrice": 119.22,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false,
-    "currentPrice": 126.19
+    "currentPrice": 123.73
   },
   {
     "exchange": "NYSE",
     "ticker": "SKYD-US",
     "companyName": "Skydance Corporation Class B",
     "numberOfShares": 529558408.0,
-    "sharePrice": 8.07,
+    "sharePrice": 8.08,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 8.08
+    "currentPrice": 8.39
   },
   {
     "exchange": "NASDAQ",
     "ticker": "SPCX-US",
     "companyName": "Space Exploration Technologies Corp.",
     "numberOfShares": 19939703.0,
-    "sharePrice": 136.37,
+    "sharePrice": 141.31,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 141.31
+    "currentPrice": 135.92
   },
   {
     "exchange": "NASDAQ",
     "ticker": "TSLA-US",
     "companyName": "Tesla",
     "numberOfShares": 32413500.0,
-    "sharePrice": 403.82,
+    "sharePrice": 398.5,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false,
-    "currentPrice": 398.5
+    "currentPrice": 385.19
   }
 ]
