@@ -3,31 +3,31 @@
     "exchange": "NYSE",
     "ticker": "YOU-US",
     "companyName": "Clear Secure",
-    "numberOfShares": 18448000,
-    "sharePrice": 51.29,
+    "numberOfShares": 18448000.0,
+    "sharePrice": 59.08,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "HD-US",
     "companyName": "Home Depot",
-    "numberOfShares": 1500,
-    "sharePrice": 355.62,
+    "numberOfShares": 1500.0,
+    "sharePrice": 355.44,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   },
   {
     "exchange": "NYSE",
     "ticker": "LMND-US",
     "companyName": "Lemonade",
-    "numberOfShares": 100000,
+    "numberOfShares": 100000.0,
     "exerciseOptionPrice": 5.26,
-    "sharePrice": 52.94,
+    "sharePrice": 45.9,
     "currencyCode": "USD",
-    "exchangeRate": 1,
+    "exchangeRate": 1.0,
     "interactive": false
   }
 ]
