@@ -4,9 +4,9 @@
     "ticker": "086980-KR",
     "companyName": "Mediaplex Inc.",
     "numberOfShares": 2000.0,
-    "sharePrice": 1.1437299754116683,
+    "sharePrice": 1.1052573407508381,
     "currencyCode": "KRW",
-    "exchangeRate": 1342.1,
+    "exchangeRate": 1357.15,
     "interactive": false
   },
   {
@@ -14,19 +14,9 @@
     "ticker": "271560-KR",
     "companyName": "Orion Corporation",
     "numberOfShares": 1701000.0,
-    "sharePrice": 90.15721630280903,
+    "sharePrice": 87.24164609659948,
     "currencyCode": "KRW",
-    "exchangeRate": 1342.1,
-    "interactive": false
-  },
-  {
-    "exchange": "KOREA",
-    "ticker": "001800-KR",
-    "companyName": "Orion Holdings",
-    "numberOfShares": 36364000.0,
-    "sharePrice": 18.590268981446986,
-    "currencyCode": "KRW",
-    "exchangeRate": 1342.1,
+    "exchangeRate": 1357.15,
     "interactive": false
   },
   {
@@ -34,9 +24,19 @@
     "ticker": "001800-KR",
     "companyName": "Orion Holdings",
     "numberOfShares": 0.0,
-    "sharePrice": 18.590268981446986,
+    "sharePrice": 18.31042994510555,
     "currencyCode": "KRW",
-    "exchangeRate": 1342.1,
+    "exchangeRate": 1357.15,
+    "interactive": false
+  },
+  {
+    "exchange": "KOREA",
+    "ticker": "001800-KR",
+    "companyName": "Orion Holdings",
+    "numberOfShares": 36364000.0,
+    "sharePrice": 18.31042994510555,
+    "currencyCode": "KRW",
+    "exchangeRate": 1357.15,
     "interactive": false
   }
 ]
