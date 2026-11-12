@@ -3,9 +3,30 @@
     "exchange": "NYSE",
     "ticker": "RSI-US",
     "companyName": "Rush Street Interactive",
+    "numberOfShares": 14926.0,
+    "exerciseOptionPrice": 10.7,
+    "sharePrice": 11.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
+    "numberOfShares": 99652451.0,
+    "sharePrice": 11.97,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RSI-US",
+    "companyName": "Rush Street Interactive",
     "numberOfShares": 29174.0,
     "exerciseOptionPrice": 3.99,
-    "sharePrice": 12.11,
+    "sharePrice": 11.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -16,7 +37,7 @@
     "companyName": "Rush Street Interactive",
     "numberOfShares": 31153.0,
     "exerciseOptionPrice": 3.28,
-    "sharePrice": 12.11,
+    "sharePrice": 11.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -27,7 +48,7 @@
     "companyName": "Rush Street Interactive",
     "numberOfShares": 44203.0,
     "exerciseOptionPrice": 3.99,
-    "sharePrice": 12.11,
+    "sharePrice": 11.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -38,28 +59,7 @@
     "companyName": "Rush Street Interactive",
     "numberOfShares": 13495.0,
     "exerciseOptionPrice": 15.4,
-    "sharePrice": 12.11,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "RSI-US",
-    "companyName": "Rush Street Interactive",
-    "numberOfShares": 14926.0,
-    "exerciseOptionPrice": 10.7,
-    "sharePrice": 12.11,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
-    "exchange": "NYSE",
-    "ticker": "RSI-US",
-    "companyName": "Rush Street Interactive",
-    "numberOfShares": 99652451.0,
-    "sharePrice": 12.11,
+    "sharePrice": 11.97,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
