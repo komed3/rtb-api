@@ -1,12 +1,22 @@
 [
   {
     "exchange": "INDONESIA",
+    "ticker": "AADI-ID",
+    "companyName": "Adaro Andalan Indonesia",
+    "numberOfShares": 246560000.0,
+    "sharePrice": 0.5580049600440893,
+    "currencyCode": "IDR",
+    "exchangeRate": 18145.0,
+    "interactive": false
+  },
+  {
+    "exchange": "INDONESIA",
     "ticker": "ADRO-ID",
     "companyName": "Adaro Energy",
     "numberOfShares": 1051739000.0,
-    "sharePrice": 0.1296398891966759,
+    "sharePrice": 0.12730779829154037,
     "currencyCode": "IDR",
-    "exchangeRate": 18050.0,
+    "exchangeRate": 18145.0,
     "interactive": false
   },
   {
@@ -14,9 +24,9 @@
     "ticker": "MBMA-ID",
     "companyName": "Merdeka Battery Materials",
     "numberOfShares": 1836504000.0,
-    "sharePrice": 0.01739612188365651,
+    "sharePrice": 0.016423257095618628,
     "currencyCode": "IDR",
-    "exchangeRate": 18050.0,
+    "exchangeRate": 18145.0,
     "interactive": false
   },
   {
@@ -24,9 +34,9 @@
     "ticker": "SRTG-ID",
     "companyName": "PT Saratoga Investama Sedaya Tbk",
     "numberOfShares": 5927988000.0,
-    "sharePrice": 0.09556786703601108,
+    "sharePrice": 0.09341416368145494,
     "currencyCode": "IDR",
-    "exchangeRate": 18050.0,
+    "exchangeRate": 18145.0,
     "interactive": false
   },
   {
@@ -34,9 +44,9 @@
     "ticker": "IW5-SG",
     "companyName": "Seroja Investments Limited",
     "numberOfShares": 0.0,
-    "sharePrice": 0.06162246489859594,
+    "sharePrice": 0.0614881693648817,
     "currencyCode": "SGD",
-    "exchangeRate": 1.282,
+    "exchangeRate": 1.2848,
     "interactive": false
   },
   {
@@ -44,9 +54,9 @@
     "ticker": "TBIG-ID",
     "companyName": "Tower Bersama Infrastructure",
     "numberOfShares": 64427000.00000001,
-    "sharePrice": 0.055401662049861494,
+    "sharePrice": 0.060347203086249655,
     "currencyCode": "IDR",
-    "exchangeRate": 18050.0,
+    "exchangeRate": 18145.0,
     "interactive": false
   }
 ]
