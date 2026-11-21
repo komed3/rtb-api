@@ -1,29 +1,32 @@
 [
   {
-    "ticker": "ANT-US",
-    "companyName": "Anthropic",
-    "numberOfShares": 237969762.0,
-    "sharePrice": 83.0,
-    "currencyCode": "USD",
-    "exchangeRate": 1.0,
-    "interactive": false
-  },
-  {
+    "exchange": "NASDAQ",
     "ticker": "ANT-US",
     "companyName": "Anthropic",
     "numberOfShares": 992500.0,
     "exerciseOptionPrice": 2.38,
-    "sharePrice": 83.0,
+    "sharePrice": 97.17,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
   },
   {
+    "exchange": "NASDAQ",
     "ticker": "ANT-US",
     "companyName": "Anthropic",
     "numberOfShares": 1192900.0,
     "exerciseOptionPrice": 17.66,
-    "sharePrice": 83.0,
+    "sharePrice": 97.17,
+    "currencyCode": "USD",
+    "exchangeRate": 1.0,
+    "interactive": false
+  },
+  {
+    "exchange": "NASDAQ",
+    "ticker": "ANT-US",
+    "companyName": "Anthropic",
+    "numberOfShares": 237969762.0,
+    "sharePrice": 97.17,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
