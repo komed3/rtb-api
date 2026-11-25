@@ -4,9 +4,9 @@
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
     "numberOfShares": 1221700000.0,
-    "sharePrice": 0.5199358695815042,
+    "sharePrice": 0.5266869738757258,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -14,9 +14,9 @@
     "ticker": "600016-CN",
     "companyName": "China Minsheng Banking",
     "numberOfShares": -610853000.0,
-    "sharePrice": 0.5199358695815042,
+    "sharePrice": 0.5266869738757258,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -24,9 +24,9 @@
     "ticker": "1988-HK",
     "companyName": "China Minsheng Banking (HK-listed)",
     "numberOfShares": 293537000.0,
-    "sharePrice": 0.3885117893232622,
+    "sharePrice": 0.3869742059697306,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8376,
+    "exchangeRate": 7.8429,
     "interactive": false
   },
   {
@@ -34,9 +34,9 @@
     "ticker": "600055-CN",
     "companyName": "China Resources Wandong Medial Equipment",
     "numberOfShares": 755000.0,
-    "sharePrice": 1.3859961941293697,
+    "sharePrice": 1.407499662380145,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -44,9 +44,9 @@
     "ticker": "002558-CN",
     "companyName": "Giant Network Group",
     "numberOfShares": 725319000.0,
-    "sharePrice": 2.6131647162828333,
+    "sharePrice": 2.781987605599988,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -54,9 +54,9 @@
     "ticker": "002558-CN",
     "companyName": "Giant Network Group",
     "numberOfShares": -228000000.0,
-    "sharePrice": 2.6131647162828333,
+    "sharePrice": 2.781987605599988,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -64,19 +64,9 @@
     "ticker": "6837-HK",
     "companyName": "Haitong Securities Co., Ltd. ",
     "numberOfShares": 228000000.0,
-    "sharePrice": 0.8229560069409003,
+    "sharePrice": 0.8223998775962973,
     "currencyCode": "HKD",
-    "exchangeRate": 7.8376,
-    "interactive": false
-  },
-  {
-    "exchange": "SHANGHAI",
-    "ticker": "600015-CN",
-    "companyName": "Huaxia Bank ",
-    "numberOfShares": 41600000.0,
-    "sharePrice": 1.011402628148459,
-    "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 7.8429,
     "interactive": false
   },
   {
@@ -84,9 +74,19 @@
     "ticker": "600015-CN",
     "companyName": "Huaxia Bank ",
     "numberOfShares": -20800000.0,
-    "sharePrice": 1.011402628148459,
+    "sharePrice": 1.0098584997674176,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
+    "interactive": false
+  },
+  {
+    "exchange": "SHANGHAI",
+    "ticker": "600015-CN",
+    "companyName": "Huaxia Bank ",
+    "numberOfShares": 41600000.0,
+    "sharePrice": 1.0098584997674176,
+    "currencyCode": "CNY",
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -94,9 +94,9 @@
     "ticker": "600739-CN",
     "companyName": "Liaoning Cheng Da Co., Ltd.",
     "numberOfShares": -31800000.0,
-    "sharePrice": 1.4234555507274607,
+    "sharePrice": 1.440511381540447,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
@@ -104,7 +104,7 @@
     "ticker": "PLTK-US",
     "companyName": "Playtika",
     "numberOfShares": 107500000.0,
-    "sharePrice": 2.31,
+    "sharePrice": 2.4,
     "currencyCode": "USD",
     "exchangeRate": 1.0,
     "interactive": false
@@ -113,20 +113,20 @@
     "exchange": "SHANGHAI",
     "ticker": "600233-CN",
     "companyName": "YTO Express Group Co., Class A",
-    "numberOfShares": -4530000.0,
-    "sharePrice": 2.7645005169391212,
+    "numberOfShares": 10560000.0,
+    "sharePrice": 2.7039599057665473,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   },
   {
     "exchange": "SHANGHAI",
     "ticker": "600233-CN",
     "companyName": "YTO Express Group Co., Class A",
-    "numberOfShares": 10560000.0,
-    "sharePrice": 2.7645005169391212,
+    "numberOfShares": -4530000.0,
+    "sharePrice": 2.7039599057665473,
     "currencyCode": "CNY",
-    "exchangeRate": 6.6739,
+    "exchangeRate": 6.6643,
     "interactive": false
   }
 ]
